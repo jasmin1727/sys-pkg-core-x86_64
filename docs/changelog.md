@@ -5,3 +5,4 @@ All notable changes and milestones are documented in this file.
 - 2021-05-29 18:07: feat: initialize project layout and structure
 - 2021-05-30 20:32: feat(validator): add schema validation for incoming events
 - 2021-05-30 22:40: feat(events): implement publish-subscribe message bus
+- 2021-06-01 10:34: test(parser): add test cases for malformed inputs
