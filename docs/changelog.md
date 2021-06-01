@@ -7,3 +7,4 @@ All notable changes and milestones are documented in this file.
 - 2021-05-30 22:40: feat(events): implement publish-subscribe message bus
 - 2021-06-01 10:34: test(parser): add test cases for malformed inputs
 - 2021-06-01 15:30: feat(stream): add chunked data stream reader
+- 2021-06-01 19:37: fix(parser): resolve unexpected EOF when reading stream
