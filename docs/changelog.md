@@ -10,3 +10,4 @@ All notable changes and milestones are documented in this file.
 - 2021-06-01 19:37: fix(parser): resolve unexpected EOF when reading stream
 - 2021-06-01 23:14: chore: update dependency versions in package lock
 - 2021-06-02 10:45: test(core): add coverage for worker crash recovery
+- 2021-06-02 20:55: fix(schema): resolve null value parsing in payload
