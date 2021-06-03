@@ -21,3 +21,4 @@ All notable changes and milestones are documented in this file.
 - 2021-06-03 16:45: feat(parser): add support for nested json payloads
 - 2021-06-03 18:58: refactor(cache): unify cache interface across backends
 - 2021-06-03 19:07: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2021-06-03 19:13: feat(scheduler): support cron-like job scheduling intervals
