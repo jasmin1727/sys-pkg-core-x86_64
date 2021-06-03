@@ -20,3 +20,4 @@ All notable changes and milestones are documented in this file.
 - 2021-06-03 16:29: fix(logger): prevent sensitive token leakage in debug logs
 - 2021-06-03 16:45: feat(parser): add support for nested json payloads
 - 2021-06-03 18:58: refactor(cache): unify cache interface across backends
+- 2021-06-03 19:07: feat(cache): implement adaptive LRU cache with TTL expiry
