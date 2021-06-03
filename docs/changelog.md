@@ -18,3 +18,4 @@ All notable changes and milestones are documented in this file.
 - 2021-06-03 14:28: feat(config): add dynamic environment variable resolver
 - 2021-06-03 14:48: docs: document configuration parameters and overrides
 - 2021-06-03 16:29: fix(logger): prevent sensitive token leakage in debug logs
+- 2021-06-03 16:45: feat(parser): add support for nested json payloads
