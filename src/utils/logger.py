@@ -6,3 +6,7 @@ def log_info(msg: str):
 def sanitize_log_message(msg: str) -> str:
     '''Mask potential tokens and passwords in log string.'''
     return re.sub(r'(Bearer\s+)[A-Za-z0-9_.-]+', r'\1[REDACTED]', msg)
+
+def sanitize_log_message(msg: str) -> str:
+    '''Mask potential tokens and passwords in log string.'''
+    return re.sub(r'(Bearer\s+)[A-Za-z0-9_.-]+', r'\1[REDACTED]', msg)
