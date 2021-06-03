@@ -13,3 +13,4 @@ All notable changes and milestones are documented in this file.
 - 2021-06-02 20:55: fix(schema): resolve null value parsing in payload
 - 2021-06-03 10:26: refactor(utils): decompose monolithic string processing utility
 - 2021-06-03 10:33: test(storage): verify concurrency safety with thread pool
+- 2021-06-03 11:04: fix(cache): resolve cache key collision for compound queries
