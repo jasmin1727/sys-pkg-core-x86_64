@@ -14,3 +14,4 @@ All notable changes and milestones are documented in this file.
 - 2021-06-03 10:26: refactor(utils): decompose monolithic string processing utility
 - 2021-06-03 10:33: test(storage): verify concurrency safety with thread pool
 - 2021-06-03 11:04: fix(cache): resolve cache key collision for compound queries
+- 2021-06-03 12:06: fix(core): handle race condition during worker shutdown
