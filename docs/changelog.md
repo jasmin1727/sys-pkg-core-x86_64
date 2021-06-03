@@ -11,3 +11,4 @@ All notable changes and milestones are documented in this file.
 - 2021-06-01 23:14: chore: update dependency versions in package lock
 - 2021-06-02 10:45: test(core): add coverage for worker crash recovery
 - 2021-06-02 20:55: fix(schema): resolve null value parsing in payload
+- 2021-06-03 10:26: refactor(utils): decompose monolithic string processing utility
