@@ -26,3 +26,4 @@ All notable changes and milestones are documented in this file.
 - 2021-06-03 21:57: feat(events): implement publish-subscribe message bus
 - 2021-06-04 12:00: feat(auth): add bearer token header validation helper
 - 2021-06-04 12:32: feat(config): add dynamic environment variable resolver
+- 2021-06-04 16:43: fix(cache): resolve cache key collision for compound queries
