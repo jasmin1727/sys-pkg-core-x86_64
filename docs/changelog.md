@@ -30,3 +30,4 @@ All notable changes and milestones are documented in this file.
 - 2021-06-04 17:21: feat(context): propagate request trace id across coroutines
 - 2021-06-04 17:52: refactor(utils): decompose monolithic string processing utility
 - 2021-06-04 17:54: refactor: optimize module imports and remove unused dependencies
+- 2021-06-07 10:13: test(storage): verify concurrency safety with thread pool
