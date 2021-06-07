@@ -34,3 +34,4 @@ All notable changes and milestones are documented in this file.
 - 2021-06-07 10:56: feat(logger): introduce structured json formatting
 - 2021-06-07 12:17: fix(logger): prevent sensitive token leakage in debug logs
 - 2021-06-07 12:22: refactor: optimize module imports and remove unused dependencies
+- 2021-06-07 14:01: feat(logger): introduce structured json formatting
