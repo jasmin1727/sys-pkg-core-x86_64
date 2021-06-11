@@ -37,3 +37,4 @@ All notable changes and milestones are documented in this file.
 - 2021-06-07 14:01: feat(logger): introduce structured json formatting
 - 2021-06-07 22:58: feat(validator): add schema validation for incoming events
 - 2021-06-07 23:15: refactor(utils): decompose monolithic string processing utility
+- 2021-06-11 13:02: feat(validator): add schema validation for incoming events
