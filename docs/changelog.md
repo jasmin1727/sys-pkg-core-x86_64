@@ -39,3 +39,4 @@ All notable changes and milestones are documented in this file.
 - 2021-06-07 23:15: refactor(utils): decompose monolithic string processing utility
 - 2021-06-11 13:02: feat(validator): add schema validation for incoming events
 - 2021-06-11 13:17: feat(context): propagate request trace id across coroutines
+- 2021-06-11 18:15: fix(logger): prevent sensitive token leakage in debug logs
