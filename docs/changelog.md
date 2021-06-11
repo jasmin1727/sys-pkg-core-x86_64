@@ -41,3 +41,4 @@ All notable changes and milestones are documented in this file.
 - 2021-06-11 13:17: feat(context): propagate request trace id across coroutines
 - 2021-06-11 18:15: fix(logger): prevent sensitive token leakage in debug logs
 - 2021-06-11 19:08: feat(api): add retry policy with exponential backoff
+- 2021-06-11 19:30: test(storage): verify concurrency safety with thread pool
