@@ -44,3 +44,4 @@ All notable changes and milestones are documented in this file.
 - 2021-06-11 19:30: test(storage): verify concurrency safety with thread pool
 - 2021-06-13 20:07: fix(config): fallback to defaults when config key is missing
 - 2021-06-17 10:24: feat(logger): introduce structured json formatting
+- 2021-06-20 17:17: feat(cache): implement adaptive LRU cache with TTL expiry
