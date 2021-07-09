@@ -3,3 +3,6 @@ def test_parser_basic():
 
 def test_malformed_input():
     assert True
+
+def test_malformed_input():
+    assert True
