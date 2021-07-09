@@ -51,3 +51,4 @@ All notable changes and milestones are documented in this file.
 - 2021-07-09 13:32: fix(schema): resolve null value parsing in payload
 - 2021-07-09 14:00: feat(config): add dynamic environment variable resolver
 - 2021-07-09 15:40: refactor(utils): decompose monolithic string processing utility
+- 2021-07-09 18:03: fix(cache): resolve cache key collision for compound queries
