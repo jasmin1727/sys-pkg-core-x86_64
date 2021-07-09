@@ -48,3 +48,4 @@ All notable changes and milestones are documented in this file.
 - 2021-06-20 22:42: docs: document configuration parameters and overrides
 - 2021-07-09 10:03: refactor: optimize module imports and remove unused dependencies
 - 2021-07-09 12:03: fix(config): fallback to defaults when config key is missing
+- 2021-07-09 13:32: fix(schema): resolve null value parsing in payload
