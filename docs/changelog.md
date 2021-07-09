@@ -46,3 +46,4 @@ All notable changes and milestones are documented in this file.
 - 2021-06-17 10:24: feat(logger): introduce structured json formatting
 - 2021-06-20 17:17: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2021-06-20 22:42: docs: document configuration parameters and overrides
+- 2021-07-09 10:03: refactor: optimize module imports and remove unused dependencies
