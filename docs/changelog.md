@@ -54,3 +54,4 @@ All notable changes and milestones are documented in this file.
 - 2021-07-09 18:03: fix(cache): resolve cache key collision for compound queries
 - 2021-07-09 22:07: test(parser): add test cases for malformed inputs
 - 2021-07-09 22:51: fix(core): handle race condition during worker shutdown
+- 2021-07-10 13:33: feat(scheduler): support cron-like job scheduling intervals
