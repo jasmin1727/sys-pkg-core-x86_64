@@ -56,3 +56,4 @@ All notable changes and milestones are documented in this file.
 - 2021-07-09 22:51: fix(core): handle race condition during worker shutdown
 - 2021-07-10 13:33: feat(scheduler): support cron-like job scheduling intervals
 - 2021-07-10 15:28: docs: document configuration parameters and overrides
+- 2021-07-10 18:14: fix(storage): correct file descriptor leak on close
