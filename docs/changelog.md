@@ -61,3 +61,4 @@ All notable changes and milestones are documented in this file.
 - 2021-07-10 21:17: test(cache): assert eviction behavior under memory pressure
 - 2021-07-11 14:27: test(parser): add test cases for malformed inputs
 - 2021-07-11 18:02: feat(validator): add schema validation for incoming events
+- 2021-07-11 18:53: fix(schema): resolve null value parsing in payload
