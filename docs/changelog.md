@@ -62,3 +62,4 @@ All notable changes and milestones are documented in this file.
 - 2021-07-11 14:27: test(parser): add test cases for malformed inputs
 - 2021-07-11 18:02: feat(validator): add schema validation for incoming events
 - 2021-07-11 18:53: fix(schema): resolve null value parsing in payload
+- 2021-07-11 19:24: feat(scheduler): support cron-like job scheduling intervals
