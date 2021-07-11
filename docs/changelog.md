@@ -60,3 +60,4 @@ All notable changes and milestones are documented in this file.
 - 2021-07-10 20:57: refactor(utils): decompose monolithic string processing utility
 - 2021-07-10 21:17: test(cache): assert eviction behavior under memory pressure
 - 2021-07-11 14:27: test(parser): add test cases for malformed inputs
+- 2021-07-11 18:02: feat(validator): add schema validation for incoming events
