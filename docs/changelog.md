@@ -64,3 +64,4 @@ All notable changes and milestones are documented in this file.
 - 2021-07-11 18:53: fix(schema): resolve null value parsing in payload
 - 2021-07-11 19:24: feat(scheduler): support cron-like job scheduling intervals
 - 2021-07-11 21:21: docs: update API endpoints reference and sample requests
+- 2021-07-15 14:56: fix(parser): resolve unexpected EOF when reading stream
