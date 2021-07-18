@@ -66,3 +66,4 @@ All notable changes and milestones are documented in this file.
 - 2021-07-11 21:21: docs: update API endpoints reference and sample requests
 - 2021-07-15 14:56: fix(parser): resolve unexpected EOF when reading stream
 - 2021-07-18 11:43: test(parser): add test cases for malformed inputs
+- 2021-07-18 12:42: fix(queue): acknowledge message after successful processing
