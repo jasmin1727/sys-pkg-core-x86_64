@@ -68,3 +68,4 @@ All notable changes and milestones are documented in this file.
 - 2021-07-18 11:43: test(parser): add test cases for malformed inputs
 - 2021-07-18 12:42: fix(queue): acknowledge message after successful processing
 - 2021-07-18 19:41: test(cache): assert eviction behavior under memory pressure
+- 2021-07-20 14:12: feat(validator): add schema validation for incoming events
