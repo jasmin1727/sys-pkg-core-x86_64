@@ -71,3 +71,4 @@ All notable changes and milestones are documented in this file.
 - 2021-07-20 14:12: feat(validator): add schema validation for incoming events
 - 2021-07-20 18:07: fix(queue): acknowledge message after successful processing
 - 2021-07-23 18:58: feat(config): add dynamic environment variable resolver
+- 2021-07-23 20:00: test(storage): verify concurrency safety with thread pool
