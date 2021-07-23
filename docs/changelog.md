@@ -73,3 +73,4 @@ All notable changes and milestones are documented in this file.
 - 2021-07-23 18:58: feat(config): add dynamic environment variable resolver
 - 2021-07-23 20:00: test(storage): verify concurrency safety with thread pool
 - 2021-07-23 20:33: docs: update setup instructions and prerequisites
+- 2021-07-23 22:11: perf: reduce allocations in serialization hot path
