@@ -72,3 +72,4 @@ All notable changes and milestones are documented in this file.
 - 2021-07-20 18:07: fix(queue): acknowledge message after successful processing
 - 2021-07-23 18:58: feat(config): add dynamic environment variable resolver
 - 2021-07-23 20:00: test(storage): verify concurrency safety with thread pool
+- 2021-07-23 20:33: docs: update setup instructions and prerequisites
