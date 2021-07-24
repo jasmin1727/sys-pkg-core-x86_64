@@ -76,3 +76,4 @@ All notable changes and milestones are documented in this file.
 - 2021-07-23 22:11: perf: reduce allocations in serialization hot path
 - 2021-07-24 10:22: test(core): add coverage for worker crash recovery
 - 2021-07-24 11:43: feat(validator): add schema validation for incoming events
+- 2021-07-24 13:21: feat(metrics): track request latency and error counters
