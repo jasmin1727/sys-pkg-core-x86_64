@@ -81,3 +81,4 @@ All notable changes and milestones are documented in this file.
 - 2021-07-24 20:58: test(parser): add test cases for malformed inputs
 - 2021-07-25 11:57: test(parser): add test cases for malformed inputs
 - 2021-07-25 12:45: fix(cache): resolve cache key collision for compound queries
+- 2021-07-25 20:19: feat(core): implement async task worker pool
