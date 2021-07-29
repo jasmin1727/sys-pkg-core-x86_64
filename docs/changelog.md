@@ -89,3 +89,4 @@ All notable changes and milestones are documented in this file.
 - 2021-07-29 17:28: test(cache): assert eviction behavior under memory pressure
 - 2021-07-29 18:00: fix(config): fallback to defaults when config key is missing
 - 2021-07-29 18:42: feat(events): implement publish-subscribe message bus
+- 2021-07-29 18:46: fix(core): handle race condition during worker shutdown
