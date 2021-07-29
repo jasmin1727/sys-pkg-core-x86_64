@@ -84,3 +84,4 @@ All notable changes and milestones are documented in this file.
 - 2021-07-25 20:19: feat(core): implement async task worker pool
 - 2021-07-29 10:03: test(storage): verify concurrency safety with thread pool
 - 2021-07-29 12:04: feat(scheduler): support cron-like job scheduling intervals
+- 2021-07-29 13:03: test(cache): assert eviction behavior under memory pressure
