@@ -92,3 +92,4 @@ All notable changes and milestones are documented in this file.
 - 2021-07-29 18:46: fix(core): handle race condition during worker shutdown
 - 2021-07-29 19:59: refactor: optimize module imports and remove unused dependencies
 - 2021-07-29 21:10: fix(config): fallback to defaults when config key is missing
+- 2021-07-29 21:54: feat(scheduler): support cron-like job scheduling intervals
