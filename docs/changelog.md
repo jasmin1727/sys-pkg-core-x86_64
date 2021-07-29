@@ -93,3 +93,4 @@ All notable changes and milestones are documented in this file.
 - 2021-07-29 19:59: refactor: optimize module imports and remove unused dependencies
 - 2021-07-29 21:10: fix(config): fallback to defaults when config key is missing
 - 2021-07-29 21:54: feat(scheduler): support cron-like job scheduling intervals
+- 2021-07-29 22:01: feat(cache): implement adaptive LRU cache with TTL expiry
