@@ -98,3 +98,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-02 13:45: fix(schema): resolve null value parsing in payload
 - 2021-08-02 18:34: docs: update API endpoints reference and sample requests
 - 2021-08-02 21:48: feat(metrics): track request latency and error counters
+- 2021-08-02 22:57: feat(auth): add bearer token header validation helper
