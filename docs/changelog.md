@@ -95,3 +95,4 @@ All notable changes and milestones are documented in this file.
 - 2021-07-29 21:54: feat(scheduler): support cron-like job scheduling intervals
 - 2021-07-29 22:01: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2021-08-01 22:04: docs: update API endpoints reference and sample requests
+- 2021-08-02 13:45: fix(schema): resolve null value parsing in payload
