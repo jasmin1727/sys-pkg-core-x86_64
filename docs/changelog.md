@@ -106,3 +106,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-03 15:00: feat(api): add retry policy with exponential backoff
 - 2021-08-03 15:21: feat(context): propagate request trace id across coroutines
 - 2021-08-03 17:51: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2021-08-03 19:08: refactor: optimize module imports and remove unused dependencies
