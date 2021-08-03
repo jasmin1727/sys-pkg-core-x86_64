@@ -105,3 +105,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-03 13:37: fix(schema): resolve null value parsing in payload
 - 2021-08-03 15:00: feat(api): add retry policy with exponential backoff
 - 2021-08-03 15:21: feat(context): propagate request trace id across coroutines
+- 2021-08-03 17:51: feat(rate-limit): implement token bucket rate limiting algorithm
