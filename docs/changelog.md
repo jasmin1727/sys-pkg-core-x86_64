@@ -101,3 +101,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-02 22:57: feat(auth): add bearer token header validation helper
 - 2021-08-03 10:12: test(cache): assert eviction behavior under memory pressure
 - 2021-08-03 12:04: fix(parser): resolve unexpected EOF when reading stream
+- 2021-08-03 12:37: fix(parser): resolve unexpected EOF when reading stream
