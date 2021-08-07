@@ -111,3 +111,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-07 12:13: test(storage): verify concurrency safety with thread pool
 - 2021-08-07 17:53: feat(api): add retry policy with exponential backoff
 - 2021-08-07 18:29: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2021-08-07 18:52: fix(config): fallback to defaults when config key is missing
