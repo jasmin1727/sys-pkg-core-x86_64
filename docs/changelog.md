@@ -109,3 +109,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-03 19:08: refactor: optimize module imports and remove unused dependencies
 - 2021-08-03 21:39: feat(logger): introduce structured json formatting
 - 2021-08-07 12:13: test(storage): verify concurrency safety with thread pool
+- 2021-08-07 17:53: feat(api): add retry policy with exponential backoff
