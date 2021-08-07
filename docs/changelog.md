@@ -108,3 +108,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-03 17:51: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2021-08-03 19:08: refactor: optimize module imports and remove unused dependencies
 - 2021-08-03 21:39: feat(logger): introduce structured json formatting
+- 2021-08-07 12:13: test(storage): verify concurrency safety with thread pool
