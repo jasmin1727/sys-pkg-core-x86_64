@@ -114,3 +114,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-07 18:52: fix(config): fallback to defaults when config key is missing
 - 2021-08-07 21:24: test(core): add coverage for worker crash recovery
 - 2021-08-07 21:28: refactor(core): streamline worker initialization sequence
+- 2021-08-07 22:32: refactor: optimize module imports and remove unused dependencies
