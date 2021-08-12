@@ -117,3 +117,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-07 22:32: refactor: optimize module imports and remove unused dependencies
 - 2021-08-10 21:22: docs: add architecture overview and system flow diagram
 - 2021-08-12 12:32: fix(schema): resolve null value parsing in payload
+- 2021-08-12 14:23: refactor(storage): separate in-memory cache from persistence layer
