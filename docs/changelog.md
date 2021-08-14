@@ -124,3 +124,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-14 13:44: fix(queue): acknowledge message after successful processing
 - 2021-08-14 14:22: fix(storage): correct file descriptor leak on close
 - 2021-08-14 14:22: refactor(storage): separate in-memory cache from persistence layer
+- 2021-08-14 14:40: fix(core): handle race condition during worker shutdown
