@@ -126,3 +126,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-14 14:22: refactor(storage): separate in-memory cache from persistence layer
 - 2021-08-14 14:40: fix(core): handle race condition during worker shutdown
 - 2021-08-14 18:03: fix(config): fallback to defaults when config key is missing
+- 2021-08-14 21:37: test(parser): add test cases for malformed inputs
