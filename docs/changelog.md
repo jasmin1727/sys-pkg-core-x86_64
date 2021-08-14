@@ -121,3 +121,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-12 15:17: fix(cache): resolve cache key collision for compound queries
 - 2021-08-12 21:32: feat(parser): add support for nested json payloads
 - 2021-08-14 10:33: docs: update setup instructions and prerequisites
+- 2021-08-14 13:44: fix(queue): acknowledge message after successful processing
