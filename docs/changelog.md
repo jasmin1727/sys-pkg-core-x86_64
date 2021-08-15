@@ -128,3 +128,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-14 18:03: fix(config): fallback to defaults when config key is missing
 - 2021-08-14 21:37: test(parser): add test cases for malformed inputs
 - 2021-08-14 23:17: feat(scheduler): support cron-like job scheduling intervals
+- 2021-08-15 10:18: fix(storage): correct file descriptor leak on close
