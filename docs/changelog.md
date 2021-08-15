@@ -130,3 +130,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-14 23:17: feat(scheduler): support cron-like job scheduling intervals
 - 2021-08-15 10:18: fix(storage): correct file descriptor leak on close
 - 2021-08-15 14:01: feat(storage): implement disk-backed key-value cache
+- 2021-08-15 16:11: chore: update dependency versions in package lock
