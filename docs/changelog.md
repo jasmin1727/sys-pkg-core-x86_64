@@ -132,3 +132,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-15 14:01: feat(storage): implement disk-backed key-value cache
 - 2021-08-15 16:11: chore: update dependency versions in package lock
 - 2021-08-15 17:54: feat(metrics): track request latency and error counters
+- 2021-08-15 20:35: fix(parser): resolve unexpected EOF when reading stream
