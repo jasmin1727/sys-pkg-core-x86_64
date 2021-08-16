@@ -134,3 +134,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-15 17:54: feat(metrics): track request latency and error counters
 - 2021-08-15 20:35: fix(parser): resolve unexpected EOF when reading stream
 - 2021-08-16 14:53: fix(queue): acknowledge message after successful processing
+- 2021-08-16 18:26: refactor: optimize module imports and remove unused dependencies
