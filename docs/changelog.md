@@ -136,3 +136,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-16 14:53: fix(queue): acknowledge message after successful processing
 - 2021-08-16 18:26: refactor: optimize module imports and remove unused dependencies
 - 2021-08-21 11:44: test(parser): add test cases for malformed inputs
+- 2021-08-21 14:47: test(core): add coverage for worker crash recovery
