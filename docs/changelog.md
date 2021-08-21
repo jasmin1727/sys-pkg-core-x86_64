@@ -138,3 +138,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-21 11:44: test(parser): add test cases for malformed inputs
 - 2021-08-21 14:47: test(core): add coverage for worker crash recovery
 - 2021-08-21 14:50: docs: document configuration parameters and overrides
+- 2021-08-21 14:51: fix(parser): resolve unexpected EOF when reading stream
