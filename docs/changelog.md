@@ -141,3 +141,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-21 14:51: fix(parser): resolve unexpected EOF when reading stream
 - 2021-08-21 15:49: refactor(utils): decompose monolithic string processing utility
 - 2021-08-23 15:44: test(cache): assert eviction behavior under memory pressure
+- 2021-08-23 19:59: docs: update API endpoints reference and sample requests
