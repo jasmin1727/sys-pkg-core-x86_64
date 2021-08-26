@@ -145,3 +145,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-23 20:27: docs: document configuration parameters and overrides
 - 2021-08-26 12:06: refactor(cache): unify cache interface across backends
 - 2021-08-26 18:38: feat(config): add dynamic environment variable resolver
+- 2021-08-26 18:55: docs: document configuration parameters and overrides
