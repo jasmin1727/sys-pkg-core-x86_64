@@ -147,3 +147,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-26 18:38: feat(config): add dynamic environment variable resolver
 - 2021-08-26 18:55: docs: document configuration parameters and overrides
 - 2021-08-26 20:21: refactor: optimize module imports and remove unused dependencies
+- 2021-08-26 21:50: refactor(core): streamline worker initialization sequence
