@@ -143,3 +143,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-23 15:44: test(cache): assert eviction behavior under memory pressure
 - 2021-08-23 19:59: docs: update API endpoints reference and sample requests
 - 2021-08-23 20:27: docs: document configuration parameters and overrides
+- 2021-08-26 12:06: refactor(cache): unify cache interface across backends
