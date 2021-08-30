@@ -150,3 +150,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-26 21:50: refactor(core): streamline worker initialization sequence
 - 2021-08-30 13:29: docs: document configuration parameters and overrides
 - 2021-08-30 16:31: test(storage): verify concurrency safety with thread pool
+- 2021-08-30 20:28: docs: update setup instructions and prerequisites
