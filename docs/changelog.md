@@ -152,3 +152,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-30 16:31: test(storage): verify concurrency safety with thread pool
 - 2021-08-30 20:28: docs: update setup instructions and prerequisites
 - 2021-08-31 10:17: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2021-08-31 10:51: fix(logger): prevent sensitive token leakage in debug logs
