@@ -161,3 +161,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-31 19:44: refactor(storage): separate in-memory cache from persistence layer
 - 2021-08-31 19:55: feat(core): implement async task worker pool
 - 2021-08-31 20:15: chore: configure pre-commit hooks and linter rules
+- 2021-08-31 20:26: test(core): add coverage for worker crash recovery
