@@ -154,3 +154,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-31 10:17: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2021-08-31 10:51: fix(logger): prevent sensitive token leakage in debug logs
 - 2021-08-31 15:56: docs: add architecture overview and system flow diagram
+- 2021-08-31 16:29: docs: document configuration parameters and overrides
