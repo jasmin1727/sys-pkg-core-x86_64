@@ -155,3 +155,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-31 10:51: fix(logger): prevent sensitive token leakage in debug logs
 - 2021-08-31 15:56: docs: add architecture overview and system flow diagram
 - 2021-08-31 16:29: docs: document configuration parameters and overrides
+- 2021-08-31 16:53: fix(schema): resolve null value parsing in payload
