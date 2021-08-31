@@ -162,3 +162,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-31 19:55: feat(core): implement async task worker pool
 - 2021-08-31 20:15: chore: configure pre-commit hooks and linter rules
 - 2021-08-31 20:26: test(core): add coverage for worker crash recovery
+- 2021-08-31 21:49: fix(storage): correct file descriptor leak on close
