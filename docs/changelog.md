@@ -159,3 +159,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-31 17:05: feat(scheduler): support cron-like job scheduling intervals
 - 2021-08-31 17:12: refactor: optimize module imports and remove unused dependencies
 - 2021-08-31 19:44: refactor(storage): separate in-memory cache from persistence layer
+- 2021-08-31 19:55: feat(core): implement async task worker pool
