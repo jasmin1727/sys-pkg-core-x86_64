@@ -166,3 +166,4 @@ All notable changes and milestones are documented in this file.
 - 2021-08-31 22:05: feat(parser): add support for nested json payloads
 - 2021-08-31 22:57: test(core): add coverage for worker crash recovery
 - 2021-09-04 15:04: test(core): add coverage for worker crash recovery
+- 2021-09-04 17:26: feat(validator): add schema validation for incoming events
