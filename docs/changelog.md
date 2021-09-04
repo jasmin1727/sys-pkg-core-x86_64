@@ -168,3 +168,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-04 15:04: test(core): add coverage for worker crash recovery
 - 2021-09-04 17:26: feat(validator): add schema validation for incoming events
 - 2021-09-04 17:42: fix(parser): resolve unexpected EOF when reading stream
+- 2021-09-04 18:19: chore: update dependency versions in package lock
