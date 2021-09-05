@@ -174,3 +174,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-05 15:20: chore: update dependency versions in package lock
 - 2021-09-05 15:44: perf: reduce allocations in serialization hot path
 - 2021-09-05 16:55: docs: update setup instructions and prerequisites
+- 2021-09-05 20:34: docs: document configuration parameters and overrides
