@@ -182,3 +182,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-08 16:01: fix(core): handle race condition during worker shutdown
 - 2021-09-08 16:15: fix(parser): resolve unexpected EOF when reading stream
 - 2021-09-08 17:14: test(cache): assert eviction behavior under memory pressure
+- 2021-09-08 19:04: fix(core): handle race condition during worker shutdown
