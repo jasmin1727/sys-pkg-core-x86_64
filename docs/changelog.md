@@ -187,3 +187,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-08 22:06: feat(storage): implement disk-backed key-value cache
 - 2021-09-08 22:43: test(storage): verify concurrency safety with thread pool
 - 2021-09-08 22:47: fix(queue): acknowledge message after successful processing
+- 2021-09-08 22:53: refactor(utils): decompose monolithic string processing utility
