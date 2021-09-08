@@ -185,3 +185,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-08 19:04: fix(core): handle race condition during worker shutdown
 - 2021-09-08 19:55: test(parser): add test cases for malformed inputs
 - 2021-09-08 22:06: feat(storage): implement disk-backed key-value cache
+- 2021-09-08 22:43: test(storage): verify concurrency safety with thread pool
