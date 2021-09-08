@@ -180,3 +180,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-08 13:41: fix(queue): acknowledge message after successful processing
 - 2021-09-08 14:32: feat(validator): add schema validation for incoming events
 - 2021-09-08 16:01: fix(core): handle race condition during worker shutdown
+- 2021-09-08 16:15: fix(parser): resolve unexpected EOF when reading stream
