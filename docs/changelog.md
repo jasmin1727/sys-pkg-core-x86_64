@@ -179,3 +179,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-08 13:05: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2021-09-08 13:41: fix(queue): acknowledge message after successful processing
 - 2021-09-08 14:32: feat(validator): add schema validation for incoming events
+- 2021-09-08 16:01: fix(core): handle race condition during worker shutdown
