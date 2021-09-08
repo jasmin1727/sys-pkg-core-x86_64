@@ -177,3 +177,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-05 20:34: docs: document configuration parameters and overrides
 - 2021-09-08 11:24: feat(scheduler): support cron-like job scheduling intervals
 - 2021-09-08 13:05: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2021-09-08 13:41: fix(queue): acknowledge message after successful processing
