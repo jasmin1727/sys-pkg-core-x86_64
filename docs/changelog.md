@@ -189,3 +189,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-08 22:47: fix(queue): acknowledge message after successful processing
 - 2021-09-08 22:53: refactor(utils): decompose monolithic string processing utility
 - 2021-09-09 15:04: fix(queue): acknowledge message after successful processing
+- 2021-09-09 17:27: chore: configure pre-commit hooks and linter rules
