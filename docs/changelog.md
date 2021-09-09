@@ -191,3 +191,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-09 15:04: fix(queue): acknowledge message after successful processing
 - 2021-09-09 17:27: chore: configure pre-commit hooks and linter rules
 - 2021-09-09 19:19: feat(context): propagate request trace id across coroutines
+- 2021-09-09 21:00: test(core): add coverage for worker crash recovery
