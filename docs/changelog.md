@@ -201,3 +201,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-15 14:55: test(storage): verify concurrency safety with thread pool
 - 2021-09-15 15:12: test(cache): assert eviction behavior under memory pressure
 - 2021-09-15 16:33: docs: document configuration parameters and overrides
+- 2021-09-15 17:40: fix(storage): correct file descriptor leak on close
