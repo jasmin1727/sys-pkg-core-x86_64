@@ -194,3 +194,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-09 21:00: test(core): add coverage for worker crash recovery
 - 2021-09-12 12:36: docs: update setup instructions and prerequisites
 - 2021-09-12 18:35: feat(stream): add chunked data stream reader
+- 2021-09-15 10:18: feat(validator): add schema validation for incoming events
