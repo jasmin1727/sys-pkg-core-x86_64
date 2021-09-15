@@ -195,3 +195,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-12 12:36: docs: update setup instructions and prerequisites
 - 2021-09-12 18:35: feat(stream): add chunked data stream reader
 - 2021-09-15 10:18: feat(validator): add schema validation for incoming events
+- 2021-09-15 10:27: feat(context): propagate request trace id across coroutines
