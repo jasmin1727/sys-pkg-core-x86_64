@@ -198,3 +198,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-15 10:27: feat(context): propagate request trace id across coroutines
 - 2021-09-15 11:31: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2021-09-15 11:58: refactor(utils): decompose monolithic string processing utility
+- 2021-09-15 14:55: test(storage): verify concurrency safety with thread pool
