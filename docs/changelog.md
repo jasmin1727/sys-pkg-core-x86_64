@@ -203,3 +203,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-15 16:33: docs: document configuration parameters and overrides
 - 2021-09-15 17:40: fix(storage): correct file descriptor leak on close
 - 2021-09-15 21:55: refactor(utils): decompose monolithic string processing utility
+- 2021-09-20 10:25: docs: update setup instructions and prerequisites
