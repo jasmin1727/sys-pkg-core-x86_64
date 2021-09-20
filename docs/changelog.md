@@ -206,3 +206,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-20 10:25: docs: update setup instructions and prerequisites
 - 2021-09-20 11:29: chore: configure pre-commit hooks and linter rules
 - 2021-09-20 12:50: feat(validator): add schema validation for incoming events
+- 2021-09-20 13:43: fix(config): fallback to defaults when config key is missing
