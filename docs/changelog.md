@@ -209,3 +209,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-20 13:43: fix(config): fallback to defaults when config key is missing
 - 2021-09-20 16:26: feat(parser): add support for nested json payloads
 - 2021-09-20 16:58: feat(api): add retry policy with exponential backoff
+- 2021-09-20 17:55: refactor(utils): decompose monolithic string processing utility
