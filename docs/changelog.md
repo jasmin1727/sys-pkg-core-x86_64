@@ -210,3 +210,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-20 16:26: feat(parser): add support for nested json payloads
 - 2021-09-20 16:58: feat(api): add retry policy with exponential backoff
 - 2021-09-20 17:55: refactor(utils): decompose monolithic string processing utility
+- 2021-09-20 21:51: refactor(storage): separate in-memory cache from persistence layer
