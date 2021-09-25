@@ -212,3 +212,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-20 17:55: refactor(utils): decompose monolithic string processing utility
 - 2021-09-20 21:51: refactor(storage): separate in-memory cache from persistence layer
 - 2021-09-25 12:07: chore: configure pre-commit hooks and linter rules
+- 2021-09-25 18:52: fix(parser): resolve unexpected EOF when reading stream
