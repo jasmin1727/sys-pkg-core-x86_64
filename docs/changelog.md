@@ -217,3 +217,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-25 19:39: fix(storage): correct file descriptor leak on close
 - 2021-09-25 19:59: test(cache): assert eviction behavior under memory pressure
 - 2021-09-25 20:11: feat(config): add dynamic environment variable resolver
+- 2021-09-25 20:26: feat(core): implement async task worker pool
