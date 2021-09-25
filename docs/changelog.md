@@ -214,3 +214,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-25 12:07: chore: configure pre-commit hooks and linter rules
 - 2021-09-25 18:52: fix(parser): resolve unexpected EOF when reading stream
 - 2021-09-25 18:58: fix(storage): correct file descriptor leak on close
+- 2021-09-25 19:39: fix(storage): correct file descriptor leak on close
