@@ -221,3 +221,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-27 18:04: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2021-09-27 18:08: test(parser): add test cases for malformed inputs
 - 2021-09-27 18:56: feat(logger): introduce structured json formatting
+- 2021-09-27 19:03: docs: update setup instructions and prerequisites
