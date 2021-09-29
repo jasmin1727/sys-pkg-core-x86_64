@@ -224,3 +224,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-27 19:03: docs: update setup instructions and prerequisites
 - 2021-09-27 20:04: feat(parser): add support for nested json payloads
 - 2021-09-29 10:41: refactor(core): streamline worker initialization sequence
+- 2021-09-29 10:51: feat(api): add retry policy with exponential backoff
