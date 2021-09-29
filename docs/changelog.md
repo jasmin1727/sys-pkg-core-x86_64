@@ -229,3 +229,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-29 15:37: fix(parser): resolve unexpected EOF when reading stream
 - 2021-09-29 17:17: fix(logger): prevent sensitive token leakage in debug logs
 - 2021-09-29 19:55: chore: update dependency versions in package lock
+- 2021-09-29 23:10: feat(validator): add schema validation for incoming events
