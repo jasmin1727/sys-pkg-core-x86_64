@@ -228,3 +228,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-29 13:50: feat(parser): add support for nested json payloads
 - 2021-09-29 15:37: fix(parser): resolve unexpected EOF when reading stream
 - 2021-09-29 17:17: fix(logger): prevent sensitive token leakage in debug logs
+- 2021-09-29 19:55: chore: update dependency versions in package lock
