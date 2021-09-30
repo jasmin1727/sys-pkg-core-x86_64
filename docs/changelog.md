@@ -233,3 +233,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-30 10:40: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2021-09-30 15:24: docs: update API endpoints reference and sample requests
 - 2021-09-30 16:20: fix(queue): acknowledge message after successful processing
+- 2021-09-30 19:05: test(core): add coverage for worker crash recovery
