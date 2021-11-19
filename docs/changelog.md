@@ -235,3 +235,4 @@ All notable changes and milestones are documented in this file.
 - 2021-09-30 16:20: fix(queue): acknowledge message after successful processing
 - 2021-09-30 19:05: test(core): add coverage for worker crash recovery
 - 2021-11-15 12:23: fix(parser): resolve unexpected EOF when reading stream
+- 2021-11-19 11:49: refactor(core): streamline worker initialization sequence
