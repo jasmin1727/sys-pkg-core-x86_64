@@ -239,3 +239,4 @@ All notable changes and milestones are documented in this file.
 - 2021-11-19 14:59: docs: update API endpoints reference and sample requests
 - 2021-11-19 20:13: docs: document configuration parameters and overrides
 - 2021-11-19 21:48: fix(schema): resolve null value parsing in payload
+- 2021-11-26 16:15: fix(cache): resolve cache key collision for compound queries
