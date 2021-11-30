@@ -244,3 +244,4 @@ All notable changes and milestones are documented in this file.
 - 2021-11-27 11:14: docs: update setup instructions and prerequisites
 - 2021-11-30 13:21: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2021-11-30 19:54: docs: update API endpoints reference and sample requests
+- 2021-11-30 20:37: feat(context): propagate request trace id across coroutines
