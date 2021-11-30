@@ -82,3 +82,6 @@ All parameters can be overridden via system environment variables.
 
 ### Setup & Prerequisites
 Install required runtime packages and configure environment.
+
+### API Reference
+Comprehensive reference for internal services and message formats.
