@@ -242,3 +242,4 @@ All notable changes and milestones are documented in this file.
 - 2021-11-26 16:15: fix(cache): resolve cache key collision for compound queries
 - 2021-11-26 16:49: fix(parser): resolve unexpected EOF when reading stream
 - 2021-11-27 11:14: docs: update setup instructions and prerequisites
+- 2021-11-30 13:21: feat(rate-limit): implement token bucket rate limiting algorithm
