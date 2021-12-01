@@ -247,3 +247,4 @@ All notable changes and milestones are documented in this file.
 - 2021-11-30 20:37: feat(context): propagate request trace id across coroutines
 - 2021-12-01 11:52: docs: add architecture overview and system flow diagram
 - 2021-12-01 12:40: docs: document configuration parameters and overrides
+- 2021-12-01 13:56: test(cache): assert eviction behavior under memory pressure
