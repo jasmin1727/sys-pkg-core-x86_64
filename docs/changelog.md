@@ -249,3 +249,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-01 12:40: docs: document configuration parameters and overrides
 - 2021-12-01 13:56: test(cache): assert eviction behavior under memory pressure
 - 2021-12-01 16:04: fix(cache): resolve cache key collision for compound queries
+- 2021-12-01 21:12: feat(api): add retry policy with exponential backoff
