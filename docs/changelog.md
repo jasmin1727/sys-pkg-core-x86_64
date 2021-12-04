@@ -252,3 +252,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-01 21:12: feat(api): add retry policy with exponential backoff
 - 2021-12-03 19:45: feat(storage): implement disk-backed key-value cache
 - 2021-12-03 22:08: fix(logger): prevent sensitive token leakage in debug logs
+- 2021-12-04 11:24: feat(context): propagate request trace id across coroutines
