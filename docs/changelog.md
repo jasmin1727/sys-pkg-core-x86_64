@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-04 16:00: refactor(storage): separate in-memory cache from persistence layer
 - 2021-12-04 16:38: test(cache): assert eviction behavior under memory pressure
 - 2021-12-04 18:32: refactor(utils): decompose monolithic string processing utility
+- 2021-12-04 23:06: docs: update API endpoints reference and sample requests
