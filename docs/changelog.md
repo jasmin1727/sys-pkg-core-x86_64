@@ -254,3 +254,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-03 22:08: fix(logger): prevent sensitive token leakage in debug logs
 - 2021-12-04 11:24: feat(context): propagate request trace id across coroutines
 - 2021-12-04 12:51: perf: reduce allocations in serialization hot path
+- 2021-12-04 13:04: fix(schema): resolve null value parsing in payload
