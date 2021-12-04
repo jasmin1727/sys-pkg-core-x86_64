@@ -256,3 +256,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-04 12:51: perf: reduce allocations in serialization hot path
 - 2021-12-04 13:04: fix(schema): resolve null value parsing in payload
 - 2021-12-04 15:30: feat(parser): add support for nested json payloads
+- 2021-12-04 16:00: refactor(storage): separate in-memory cache from persistence layer
