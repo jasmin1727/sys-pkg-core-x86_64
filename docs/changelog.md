@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-05 10:21: fix(storage): correct file descriptor leak on close
 - 2021-12-05 11:47: feat(core): implement async task worker pool
 - 2021-12-05 13:07: test(storage): verify concurrency safety with thread pool
+- 2021-12-05 14:31: refactor(storage): separate in-memory cache from persistence layer
