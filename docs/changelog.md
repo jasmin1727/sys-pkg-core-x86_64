@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-05 14:31: refactor(storage): separate in-memory cache from persistence layer
 - 2021-12-05 16:09: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2021-12-05 16:34: docs: document configuration parameters and overrides
+- 2021-12-05 16:45: fix(logger): prevent sensitive token leakage in debug logs
