@@ -269,3 +269,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-05 16:34: docs: document configuration parameters and overrides
 - 2021-12-05 16:45: fix(logger): prevent sensitive token leakage in debug logs
 - 2021-12-05 16:54: feat(stream): add chunked data stream reader
+- 2021-12-05 17:59: perf: reduce allocations in serialization hot path
