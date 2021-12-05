@@ -232,3 +232,10 @@ def parse_nested_payload(raw: str) -> dict:
 # Decomposed string processing helpers
 
 # Performance optimization: buffer reuse
+
+def parse_stream_safe(stream):
+    '''Parse stream with graceful EOF handling.'''
+    try:
+        return stream.read()
+    except EOFError:
+        return None

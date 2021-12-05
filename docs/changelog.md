@@ -272,3 +272,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-05 17:59: perf: reduce allocations in serialization hot path
 - 2021-12-05 19:02: test(cache): assert eviction behavior under memory pressure
 - 2021-12-05 19:20: fix(config): fallback to defaults when config key is missing
+- 2021-12-05 19:48: fix(parser): resolve unexpected EOF when reading stream
