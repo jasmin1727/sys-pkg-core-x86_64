@@ -262,3 +262,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-04 23:06: docs: update API endpoints reference and sample requests
 - 2021-12-04 23:23: fix(queue): acknowledge message after successful processing
 - 2021-12-05 10:21: fix(storage): correct file descriptor leak on close
+- 2021-12-05 11:47: feat(core): implement async task worker pool
