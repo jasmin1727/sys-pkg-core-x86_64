@@ -276,3 +276,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-05 20:11: style: enforce consistent docstring and code formatting
 - 2021-12-05 20:12: feat(events): implement publish-subscribe message bus
 - 2021-12-06 22:43: test(cache): assert eviction behavior under memory pressure
+- 2021-12-07 14:52: refactor(storage): separate in-memory cache from persistence layer
