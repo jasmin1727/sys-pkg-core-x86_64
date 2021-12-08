@@ -283,3 +283,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-08 13:58: refactor(cache): unify cache interface across backends
 - 2021-12-08 17:15: refactor(utils): decompose monolithic string processing utility
 - 2021-12-08 17:15: feat(context): propagate request trace id across coroutines
+- 2021-12-08 18:24: test(parser): add test cases for malformed inputs
