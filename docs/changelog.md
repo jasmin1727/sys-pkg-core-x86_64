@@ -281,3 +281,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-07 18:23: feat(auth): add bearer token header validation helper
 - 2021-12-08 13:35: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2021-12-08 13:58: refactor(cache): unify cache interface across backends
+- 2021-12-08 17:15: refactor(utils): decompose monolithic string processing utility
