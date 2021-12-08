@@ -280,3 +280,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-07 17:46: fix(queue): acknowledge message after successful processing
 - 2021-12-07 18:23: feat(auth): add bearer token header validation helper
 - 2021-12-08 13:35: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2021-12-08 13:58: refactor(cache): unify cache interface across backends
