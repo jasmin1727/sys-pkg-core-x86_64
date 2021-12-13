@@ -286,3 +286,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-08 18:24: test(parser): add test cases for malformed inputs
 - 2021-12-08 21:24: fix(config): fallback to defaults when config key is missing
 - 2021-12-12 14:56: feat(api): add retry policy with exponential backoff
+- 2021-12-13 10:05: test(cache): assert eviction behavior under memory pressure
