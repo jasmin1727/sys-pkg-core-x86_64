@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-13 10:28: feat(auth): add bearer token header validation helper
 - 2021-12-13 11:51: fix(core): handle race condition during worker shutdown
 - 2021-12-13 13:33: fix(cache): resolve cache key collision for compound queries
+- 2021-12-13 14:48: test(core): add coverage for worker crash recovery
