@@ -292,3 +292,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-13 13:33: fix(cache): resolve cache key collision for compound queries
 - 2021-12-13 14:48: test(core): add coverage for worker crash recovery
 - 2021-12-13 18:10: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2021-12-13 18:47: fix(core): handle race condition during worker shutdown
