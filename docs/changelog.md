@@ -294,3 +294,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-13 18:10: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2021-12-13 18:47: fix(core): handle race condition during worker shutdown
 - 2021-12-13 20:08: refactor(core): streamline worker initialization sequence
+- 2021-12-16 12:19: feat(context): propagate request trace id across coroutines
