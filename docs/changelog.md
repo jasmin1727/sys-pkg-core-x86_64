@@ -296,3 +296,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-13 20:08: refactor(core): streamline worker initialization sequence
 - 2021-12-16 12:19: feat(context): propagate request trace id across coroutines
 - 2021-12-16 12:36: fix(schema): resolve null value parsing in payload
+- 2021-12-16 12:57: feat(stream): add chunked data stream reader
