@@ -298,3 +298,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-16 12:36: fix(schema): resolve null value parsing in payload
 - 2021-12-16 12:57: feat(stream): add chunked data stream reader
 - 2021-12-16 19:08: feat(metrics): track request latency and error counters
+- 2021-12-16 19:24: refactor(cache): unify cache interface across backends
