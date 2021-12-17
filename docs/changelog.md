@@ -302,3 +302,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-16 21:29: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2021-12-17 12:40: refactor: optimize module imports and remove unused dependencies
 - 2021-12-17 12:52: feat(scheduler): support cron-like job scheduling intervals
+- 2021-12-17 19:55: fix(schema): resolve null value parsing in payload
