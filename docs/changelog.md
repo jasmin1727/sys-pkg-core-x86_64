@@ -307,3 +307,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-17 22:35: test(cache): assert eviction behavior under memory pressure
 - 2021-12-18 10:26: refactor(storage): separate in-memory cache from persistence layer
 - 2021-12-18 11:01: refactor: optimize module imports and remove unused dependencies
+- 2021-12-18 11:31: test(cache): assert eviction behavior under memory pressure
