@@ -309,3 +309,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-18 11:01: refactor: optimize module imports and remove unused dependencies
 - 2021-12-18 11:31: test(cache): assert eviction behavior under memory pressure
 - 2021-12-18 12:04: refactor(core): streamline worker initialization sequence
+- 2021-12-18 13:36: test(parser): add test cases for malformed inputs
