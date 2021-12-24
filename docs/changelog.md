@@ -316,3 +316,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-22 20:39: chore: update dependency versions in package lock
 - 2021-12-24 10:19: test(parser): add test cases for malformed inputs
 - 2021-12-24 10:44: fix(queue): acknowledge message after successful processing
+- 2021-12-24 15:54: refactor(utils): decompose monolithic string processing utility
