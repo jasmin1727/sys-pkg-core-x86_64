@@ -319,3 +319,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-24 15:54: refactor(utils): decompose monolithic string processing utility
 - 2021-12-24 16:54: fix(config): fallback to defaults when config key is missing
 - 2021-12-24 18:31: chore: update dependency versions in package lock
+- 2021-12-24 19:17: fix(config): fallback to defaults when config key is missing
