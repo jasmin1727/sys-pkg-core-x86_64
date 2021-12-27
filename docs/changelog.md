@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-24 18:31: chore: update dependency versions in package lock
 - 2021-12-24 19:17: fix(config): fallback to defaults when config key is missing
 - 2021-12-27 10:19: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2021-12-27 13:01: feat(events): implement publish-subscribe message bus
