@@ -325,3 +325,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-27 13:09: test(core): add coverage for worker crash recovery
 - 2021-12-27 13:33: fix(parser): resolve unexpected EOF when reading stream
 - 2021-12-27 13:39: feat(stream): add chunked data stream reader
+- 2021-12-27 13:40: chore: configure pre-commit hooks and linter rules
