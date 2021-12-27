@@ -329,3 +329,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-27 15:00: feat(core): implement async task worker pool
 - 2021-12-27 15:07: fix(schema): resolve null value parsing in payload
 - 2021-12-27 16:32: refactor(utils): decompose monolithic string processing utility
+- 2021-12-27 20:52: fix(cache): resolve cache key collision for compound queries
