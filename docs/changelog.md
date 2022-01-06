@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2021-12-27 20:52: fix(cache): resolve cache key collision for compound queries
 - 2021-12-27 23:23: docs: update API endpoints reference and sample requests
 - 2022-01-06 12:16: refactor(storage): separate in-memory cache from persistence layer
+- 2022-01-06 15:16: feat(scheduler): support cron-like job scheduling intervals
