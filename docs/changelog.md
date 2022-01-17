@@ -334,3 +334,4 @@ All notable changes and milestones are documented in this file.
 - 2022-01-06 12:16: refactor(storage): separate in-memory cache from persistence layer
 - 2022-01-06 15:16: feat(scheduler): support cron-like job scheduling intervals
 - 2022-01-12 18:38: docs: update setup instructions and prerequisites
+- 2022-01-17 13:07: fix(core): handle race condition during worker shutdown
