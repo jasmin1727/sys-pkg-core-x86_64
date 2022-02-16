@@ -336,3 +336,4 @@ All notable changes and milestones are documented in this file.
 - 2022-01-12 18:38: docs: update setup instructions and prerequisites
 - 2022-01-17 13:07: fix(core): handle race condition during worker shutdown
 - 2022-02-07 13:39: feat(validator): add schema validation for incoming events
+- 2022-02-16 13:53: fix(storage): correct file descriptor leak on close
