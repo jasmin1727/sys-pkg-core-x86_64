@@ -337,3 +337,4 @@ All notable changes and milestones are documented in this file.
 - 2022-01-17 13:07: fix(core): handle race condition during worker shutdown
 - 2022-02-07 13:39: feat(validator): add schema validation for incoming events
 - 2022-02-16 13:53: fix(storage): correct file descriptor leak on close
+- 2022-02-16 14:27: fix(logger): prevent sensitive token leakage in debug logs
