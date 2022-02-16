@@ -339,3 +339,4 @@ All notable changes and milestones are documented in this file.
 - 2022-02-16 13:53: fix(storage): correct file descriptor leak on close
 - 2022-02-16 14:27: fix(logger): prevent sensitive token leakage in debug logs
 - 2022-02-16 15:06: chore: update dependency versions in package lock
+- 2022-02-16 18:40: feat(metrics): track request latency and error counters
