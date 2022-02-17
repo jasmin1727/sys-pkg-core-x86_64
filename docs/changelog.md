@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2022-02-17 11:19: refactor(core): streamline worker initialization sequence
 - 2022-02-17 15:27: feat(auth): add bearer token header validation helper
 - 2022-02-17 16:12: fix(schema): resolve null value parsing in payload
+- 2022-02-17 17:24: refactor(core): streamline worker initialization sequence
