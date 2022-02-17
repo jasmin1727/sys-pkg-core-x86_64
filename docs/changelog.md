@@ -348,3 +348,4 @@ All notable changes and milestones are documented in this file.
 - 2022-02-17 17:34: feat(api): add retry policy with exponential backoff
 - 2022-02-17 18:20: fix(config): fallback to defaults when config key is missing
 - 2022-02-17 18:56: refactor(storage): separate in-memory cache from persistence layer
+- 2022-02-17 20:18: fix(config): fallback to defaults when config key is missing
