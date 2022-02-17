@@ -351,3 +351,4 @@ All notable changes and milestones are documented in this file.
 - 2022-02-17 20:18: fix(config): fallback to defaults when config key is missing
 - 2022-02-17 20:43: refactor(utils): decompose monolithic string processing utility
 - 2022-02-17 22:24: docs: update API endpoints reference and sample requests
+- 2022-02-17 22:52: perf: reduce allocations in serialization hot path
