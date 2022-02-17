@@ -342,3 +342,4 @@ All notable changes and milestones are documented in this file.
 - 2022-02-16 18:40: feat(metrics): track request latency and error counters
 - 2022-02-17 10:33: feat(parser): add support for nested json payloads
 - 2022-02-17 11:19: refactor(core): streamline worker initialization sequence
+- 2022-02-17 15:27: feat(auth): add bearer token header validation helper
