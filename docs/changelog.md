@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2022-02-17 16:12: fix(schema): resolve null value parsing in payload
 - 2022-02-17 17:24: refactor(core): streamline worker initialization sequence
 - 2022-02-17 17:34: feat(api): add retry policy with exponential backoff
+- 2022-02-17 18:20: fix(config): fallback to defaults when config key is missing
