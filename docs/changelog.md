@@ -352,3 +352,4 @@ All notable changes and milestones are documented in this file.
 - 2022-02-17 20:43: refactor(utils): decompose monolithic string processing utility
 - 2022-02-17 22:24: docs: update API endpoints reference and sample requests
 - 2022-02-17 22:52: perf: reduce allocations in serialization hot path
+- 2022-02-20 19:12: feat(core): implement async task worker pool
