@@ -355,3 +355,4 @@ All notable changes and milestones are documented in this file.
 - 2022-02-20 19:12: feat(core): implement async task worker pool
 - 2022-02-20 19:53: refactor: optimize module imports and remove unused dependencies
 - 2022-02-20 20:54: feat(core): implement async task worker pool
+- 2022-02-23 12:08: fix(cache): resolve cache key collision for compound queries
