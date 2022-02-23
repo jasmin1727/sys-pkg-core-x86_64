@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2022-02-20 20:54: feat(core): implement async task worker pool
 - 2022-02-23 12:08: fix(cache): resolve cache key collision for compound queries
 - 2022-02-23 14:47: test(storage): verify concurrency safety with thread pool
+- 2022-02-23 17:20: feat(logger): introduce structured json formatting
