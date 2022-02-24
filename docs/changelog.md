@@ -361,3 +361,4 @@ All notable changes and milestones are documented in this file.
 - 2022-02-23 21:26: fix(queue): acknowledge message after successful processing
 - 2022-02-23 22:45: fix(schema): resolve null value parsing in payload
 - 2022-02-24 14:14: feat(metrics): track request latency and error counters
+- 2022-02-24 19:03: refactor(cache): unify cache interface across backends
