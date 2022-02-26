@@ -365,3 +365,4 @@ All notable changes and milestones are documented in this file.
 - 2022-02-24 19:23: refactor: optimize module imports and remove unused dependencies
 - 2022-02-24 19:39: fix(core): handle race condition during worker shutdown
 - 2022-02-26 16:13: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2022-02-26 16:19: test(core): add coverage for worker crash recovery
