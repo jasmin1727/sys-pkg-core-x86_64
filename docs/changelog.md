@@ -367,3 +367,4 @@ All notable changes and milestones are documented in this file.
 - 2022-02-26 16:13: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2022-02-26 16:19: test(core): add coverage for worker crash recovery
 - 2022-02-26 21:54: feat(auth): add bearer token header validation helper
+- 2022-02-27 10:46: docs: update setup instructions and prerequisites
