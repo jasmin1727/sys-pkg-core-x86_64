@@ -373,3 +373,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-01 21:03: feat(auth): add bearer token header validation helper
 - 2022-03-03 10:04: fix(queue): acknowledge message after successful processing
 - 2022-03-03 14:43: test(core): add coverage for worker crash recovery
+- 2022-03-03 18:03: feat(core): implement async task worker pool
