@@ -374,3 +374,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-03 10:04: fix(queue): acknowledge message after successful processing
 - 2022-03-03 14:43: test(core): add coverage for worker crash recovery
 - 2022-03-03 18:03: feat(core): implement async task worker pool
+- 2022-03-03 19:01: feat(parser): add support for nested json payloads
