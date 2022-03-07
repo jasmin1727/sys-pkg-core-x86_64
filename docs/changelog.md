@@ -376,3 +376,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-03 18:03: feat(core): implement async task worker pool
 - 2022-03-03 19:01: feat(parser): add support for nested json payloads
 - 2022-03-05 22:06: docs: update API endpoints reference and sample requests
+- 2022-03-07 15:52: fix(parser): resolve unexpected EOF when reading stream
