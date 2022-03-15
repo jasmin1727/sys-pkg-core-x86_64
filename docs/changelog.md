@@ -380,3 +380,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-07 17:41: refactor(cache): unify cache interface across backends
 - 2022-03-15 10:39: fix(logger): prevent sensitive token leakage in debug logs
 - 2022-03-15 16:33: refactor(utils): decompose monolithic string processing utility
+- 2022-03-15 23:24: fix(queue): acknowledge message after successful processing
