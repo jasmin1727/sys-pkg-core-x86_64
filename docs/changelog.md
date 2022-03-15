@@ -379,3 +379,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-07 15:52: fix(parser): resolve unexpected EOF when reading stream
 - 2022-03-07 17:41: refactor(cache): unify cache interface across backends
 - 2022-03-15 10:39: fix(logger): prevent sensitive token leakage in debug logs
+- 2022-03-15 16:33: refactor(utils): decompose monolithic string processing utility
