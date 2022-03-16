@@ -383,3 +383,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-15 23:24: fix(queue): acknowledge message after successful processing
 - 2022-03-16 14:39: test(core): add coverage for worker crash recovery
 - 2022-03-16 18:47: feat(logger): introduce structured json formatting
+- 2022-03-16 19:01: feat(context): propagate request trace id across coroutines
