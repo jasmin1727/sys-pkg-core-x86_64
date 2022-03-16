@@ -386,3 +386,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-16 19:01: feat(context): propagate request trace id across coroutines
 - 2022-03-16 19:52: fix(parser): resolve unexpected EOF when reading stream
 - 2022-03-16 21:46: perf: reduce allocations in serialization hot path
+- 2022-03-16 22:31: fix(cache): resolve cache key collision for compound queries
