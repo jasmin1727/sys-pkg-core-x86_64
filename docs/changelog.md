@@ -382,3 +382,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-15 16:33: refactor(utils): decompose monolithic string processing utility
 - 2022-03-15 23:24: fix(queue): acknowledge message after successful processing
 - 2022-03-16 14:39: test(core): add coverage for worker crash recovery
+- 2022-03-16 18:47: feat(logger): introduce structured json formatting
