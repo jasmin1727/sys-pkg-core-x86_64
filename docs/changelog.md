@@ -387,3 +387,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-16 19:52: fix(parser): resolve unexpected EOF when reading stream
 - 2022-03-16 21:46: perf: reduce allocations in serialization hot path
 - 2022-03-16 22:31: fix(cache): resolve cache key collision for compound queries
+- 2022-03-17 10:09: feat(parser): add support for nested json payloads
