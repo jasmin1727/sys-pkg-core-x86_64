@@ -390,3 +390,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-17 10:09: feat(parser): add support for nested json payloads
 - 2022-03-17 10:44: feat(storage): implement disk-backed key-value cache
 - 2022-03-17 13:35: test(cache): assert eviction behavior under memory pressure
+- 2022-03-17 14:28: refactor(storage): separate in-memory cache from persistence layer
