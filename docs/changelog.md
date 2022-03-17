@@ -393,3 +393,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-17 14:28: refactor(storage): separate in-memory cache from persistence layer
 - 2022-03-17 15:21: feat(parser): add support for nested json payloads
 - 2022-03-17 19:59: feat(storage): implement disk-backed key-value cache
+- 2022-03-17 21:25: feat(core): implement async task worker pool
