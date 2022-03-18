@@ -396,3 +396,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-17 21:25: feat(core): implement async task worker pool
 - 2022-03-17 22:35: fix(cache): resolve cache key collision for compound queries
 - 2022-03-17 22:56: feat(validator): add schema validation for incoming events
+- 2022-03-18 16:50: fix(schema): resolve null value parsing in payload
