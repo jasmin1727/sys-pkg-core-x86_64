@@ -258,3 +258,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-18 16:50: fix(schema): resolve null value parsing in payload
 - 2022-03-21 11:46: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2022-03-21 13:22: test(cache): assert eviction behavior under memory pressure
+- 2022-03-21 13:34: feat(validator): add schema validation for incoming events
