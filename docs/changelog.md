@@ -265,3 +265,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-26 16:30: feat(scheduler): support cron-like job scheduling intervals
 - 2022-03-26 17:12: fix(config): fallback to defaults when config key is missing
 - 2022-03-26 19:10: feat(metrics): track request latency and error counters
+- 2022-03-26 19:10: feat(auth): add bearer token header validation helper
