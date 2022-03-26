@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-21 13:34: feat(validator): add schema validation for incoming events
 - 2022-03-21 15:06: feat(config): add dynamic environment variable resolver
 - 2022-03-21 22:02: feat(storage): implement disk-backed key-value cache
+- 2022-03-26 12:53: fix(parser): resolve unexpected EOF when reading stream
