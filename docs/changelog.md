@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-26 12:53: fix(parser): resolve unexpected EOF when reading stream
 - 2022-03-26 16:30: feat(scheduler): support cron-like job scheduling intervals
 - 2022-03-26 17:12: fix(config): fallback to defaults when config key is missing
+- 2022-03-26 19:10: feat(metrics): track request latency and error counters
