@@ -269,3 +269,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-26 20:18: fix(queue): acknowledge message after successful processing
 - 2022-03-26 20:18: feat(validator): add schema validation for incoming events
 - 2022-03-26 20:24: fix(storage): correct file descriptor leak on close
+- 2022-03-26 22:44: feat(logger): introduce structured json formatting
