@@ -280,3 +280,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-28 14:53: fix(cache): resolve cache key collision for compound queries
 - 2022-03-28 15:53: feat(config): add dynamic environment variable resolver
 - 2022-03-28 16:38: refactor: optimize module imports and remove unused dependencies
+- 2022-03-28 20:29: test(cache): assert eviction behavior under memory pressure
