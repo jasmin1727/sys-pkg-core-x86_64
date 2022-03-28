@@ -278,3 +278,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-28 14:16: feat(config): add dynamic environment variable resolver
 - 2022-03-28 14:46: fix(storage): correct file descriptor leak on close
 - 2022-03-28 14:53: fix(cache): resolve cache key collision for compound queries
+- 2022-03-28 15:53: feat(config): add dynamic environment variable resolver
