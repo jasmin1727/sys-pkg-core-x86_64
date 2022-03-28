@@ -271,3 +271,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-26 20:24: fix(storage): correct file descriptor leak on close
 - 2022-03-26 22:44: feat(logger): introduce structured json formatting
 - 2022-03-28 10:16: feat(context): propagate request trace id across coroutines
+- 2022-03-28 10:23: feat(logger): introduce structured json formatting
