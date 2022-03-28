@@ -276,3 +276,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-28 11:24: fix(queue): acknowledge message after successful processing
 - 2022-03-28 12:05: refactor(core): streamline worker initialization sequence
 - 2022-03-28 14:16: feat(config): add dynamic environment variable resolver
+- 2022-03-28 14:46: fix(storage): correct file descriptor leak on close
