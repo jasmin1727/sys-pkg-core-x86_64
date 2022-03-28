@@ -274,3 +274,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-28 10:23: feat(logger): introduce structured json formatting
 - 2022-03-28 10:59: docs: update setup instructions and prerequisites
 - 2022-03-28 11:24: fix(queue): acknowledge message after successful processing
+- 2022-03-28 12:05: refactor(core): streamline worker initialization sequence
