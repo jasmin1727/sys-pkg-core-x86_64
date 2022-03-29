@@ -284,3 +284,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-28 22:41: refactor(cache): unify cache interface across backends
 - 2022-03-29 10:17: feat(stream): add chunked data stream reader
 - 2022-03-29 10:42: style: enforce consistent docstring and code formatting
+- 2022-03-29 13:32: feat(api): add retry policy with exponential backoff
