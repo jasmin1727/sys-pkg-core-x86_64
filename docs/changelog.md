@@ -282,3 +282,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-28 16:38: refactor: optimize module imports and remove unused dependencies
 - 2022-03-28 20:29: test(cache): assert eviction behavior under memory pressure
 - 2022-03-28 22:41: refactor(cache): unify cache interface across backends
+- 2022-03-29 10:17: feat(stream): add chunked data stream reader
