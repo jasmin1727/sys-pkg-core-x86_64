@@ -288,3 +288,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-29 19:14: feat(scheduler): support cron-like job scheduling intervals
 - 2022-03-29 20:55: feat(parser): add support for nested json payloads
 - 2022-03-30 19:05: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2022-03-31 14:48: fix(queue): acknowledge message after successful processing
