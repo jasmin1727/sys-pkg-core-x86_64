@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-30 19:05: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2022-03-31 14:48: fix(queue): acknowledge message after successful processing
 - 2022-03-31 19:04: test(storage): verify concurrency safety with thread pool
+- 2022-03-31 19:23: fix(parser): resolve unexpected EOF when reading stream
