@@ -294,3 +294,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-01 10:03: refactor(cache): unify cache interface across backends
 - 2022-04-01 10:57: refactor(storage): separate in-memory cache from persistence layer
 - 2022-04-01 11:45: refactor(core): streamline worker initialization sequence
+- 2022-04-01 14:40: feat(validator): add schema validation for incoming events
