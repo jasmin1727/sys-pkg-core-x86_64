@@ -297,3 +297,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-01 14:40: feat(validator): add schema validation for incoming events
 - 2022-04-01 15:39: docs: document configuration parameters and overrides
 - 2022-04-01 21:49: fix(cache): resolve cache key collision for compound queries
+- 2022-04-01 22:23: docs: update setup instructions and prerequisites
