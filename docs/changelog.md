@@ -299,3 +299,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-01 21:49: fix(cache): resolve cache key collision for compound queries
 - 2022-04-01 22:23: docs: update setup instructions and prerequisites
 - 2022-04-01 23:15: test(core): add coverage for worker crash recovery
+- 2022-04-01 23:22: chore: configure pre-commit hooks and linter rules
