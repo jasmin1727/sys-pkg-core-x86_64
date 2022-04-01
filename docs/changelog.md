@@ -293,3 +293,4 @@ All notable changes and milestones are documented in this file.
 - 2022-03-31 19:23: fix(parser): resolve unexpected EOF when reading stream
 - 2022-04-01 10:03: refactor(cache): unify cache interface across backends
 - 2022-04-01 10:57: refactor(storage): separate in-memory cache from persistence layer
+- 2022-04-01 11:45: refactor(core): streamline worker initialization sequence
