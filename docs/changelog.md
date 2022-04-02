@@ -301,3 +301,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-01 23:15: test(core): add coverage for worker crash recovery
 - 2022-04-01 23:22: chore: configure pre-commit hooks and linter rules
 - 2022-04-02 12:10: refactor(core): streamline worker initialization sequence
+- 2022-04-02 22:47: feat(events): implement publish-subscribe message bus
