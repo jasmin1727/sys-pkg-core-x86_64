@@ -307,3 +307,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-04 11:54: docs: update API endpoints reference and sample requests
 - 2022-04-04 14:18: test(storage): verify concurrency safety with thread pool
 - 2022-04-04 15:17: feat(logger): introduce structured json formatting
+- 2022-04-04 17:10: feat(validator): add schema validation for incoming events
