@@ -303,3 +303,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-02 12:10: refactor(core): streamline worker initialization sequence
 - 2022-04-02 22:47: feat(events): implement publish-subscribe message bus
 - 2022-04-03 21:01: refactor(cache): unify cache interface across backends
+- 2022-04-04 11:46: refactor(core): streamline worker initialization sequence
