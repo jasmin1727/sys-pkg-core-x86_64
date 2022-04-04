@@ -312,3 +312,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-04 19:29: docs: add architecture overview and system flow diagram
 - 2022-04-04 20:20: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2022-04-04 20:44: refactor(utils): decompose monolithic string processing utility
+- 2022-04-04 21:14: fix(config): fallback to defaults when config key is missing
