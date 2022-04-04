@@ -309,3 +309,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-04 15:17: feat(logger): introduce structured json formatting
 - 2022-04-04 17:10: feat(validator): add schema validation for incoming events
 - 2022-04-04 19:02: refactor(utils): decompose monolithic string processing utility
+- 2022-04-04 19:29: docs: add architecture overview and system flow diagram
