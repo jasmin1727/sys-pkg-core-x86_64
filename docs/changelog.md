@@ -316,3 +316,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-04 21:53: refactor: optimize module imports and remove unused dependencies
 - 2022-04-05 12:52: feat(core): implement async task worker pool
 - 2022-04-05 13:39: refactor(cache): unify cache interface across backends
+- 2022-04-06 14:31: feat(metrics): track request latency and error counters
