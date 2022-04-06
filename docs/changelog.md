@@ -319,3 +319,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-06 14:31: feat(metrics): track request latency and error counters
 - 2022-04-06 21:31: feat(metrics): track request latency and error counters
 - 2022-04-06 21:47: feat(parser): add support for nested json payloads
+- 2022-04-06 23:29: feat(storage): implement disk-backed key-value cache
