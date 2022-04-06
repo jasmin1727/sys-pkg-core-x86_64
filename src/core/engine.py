@@ -202,3 +202,7 @@ def create_worker_pool(workers: int = 4):
 class MetricsCollector:
     '''Tracks latency and counter metrics.'''
     pass
+
+class MetricsCollector:
+    '''Tracks latency and counter metrics.'''
+    pass
