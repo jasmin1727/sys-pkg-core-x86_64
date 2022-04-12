@@ -325,3 +325,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-12 13:28: fix(queue): acknowledge message after successful processing
 - 2022-04-12 14:19: feat(storage): implement disk-backed key-value cache
 - 2022-04-12 20:13: fix(queue): acknowledge message after successful processing
+- 2022-04-12 21:39: fix(cache): resolve cache key collision for compound queries
