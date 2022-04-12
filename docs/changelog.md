@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-06 21:47: feat(parser): add support for nested json payloads
 - 2022-04-06 23:29: feat(storage): implement disk-backed key-value cache
 - 2022-04-12 13:21: docs: update setup instructions and prerequisites
+- 2022-04-12 13:24: perf: reduce allocations in serialization hot path
