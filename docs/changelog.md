@@ -327,3 +327,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-12 20:13: fix(queue): acknowledge message after successful processing
 - 2022-04-12 21:39: fix(cache): resolve cache key collision for compound queries
 - 2022-04-12 21:41: chore: configure pre-commit hooks and linter rules
+- 2022-04-12 21:48: refactor(cache): unify cache interface across backends
