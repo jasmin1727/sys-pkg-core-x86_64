@@ -331,3 +331,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-12 22:47: fix(cache): resolve cache key collision for compound queries
 - 2022-04-14 16:09: feat(stream): add chunked data stream reader
 - 2022-04-14 16:28: feat(api): add retry policy with exponential backoff
+- 2022-04-14 16:43: test(cache): assert eviction behavior under memory pressure
