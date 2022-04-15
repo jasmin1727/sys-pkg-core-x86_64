@@ -337,3 +337,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-15 11:55: feat(scheduler): support cron-like job scheduling intervals
 - 2022-04-15 12:40: test(core): add coverage for worker crash recovery
 - 2022-04-15 14:16: fix(logger): prevent sensitive token leakage in debug logs
+- 2022-04-15 22:34: refactor(storage): separate in-memory cache from persistence layer
