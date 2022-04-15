@@ -335,3 +335,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-14 16:45: fix(schema): resolve null value parsing in payload
 - 2022-04-14 20:18: refactor: optimize module imports and remove unused dependencies
 - 2022-04-15 11:55: feat(scheduler): support cron-like job scheduling intervals
+- 2022-04-15 12:40: test(core): add coverage for worker crash recovery
