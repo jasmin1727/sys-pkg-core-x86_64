@@ -339,3 +339,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-15 14:16: fix(logger): prevent sensitive token leakage in debug logs
 - 2022-04-15 22:34: refactor(storage): separate in-memory cache from persistence layer
 - 2022-04-16 16:14: fix(config): fallback to defaults when config key is missing
+- 2022-04-17 10:24: test(cache): assert eviction behavior under memory pressure
