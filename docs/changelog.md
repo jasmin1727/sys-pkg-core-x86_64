@@ -342,3 +342,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-17 10:24: test(cache): assert eviction behavior under memory pressure
 - 2022-04-17 13:22: test(parser): add test cases for malformed inputs
 - 2022-04-17 15:50: docs: update API endpoints reference and sample requests
+- 2022-04-17 15:52: feat(metrics): track request latency and error counters
