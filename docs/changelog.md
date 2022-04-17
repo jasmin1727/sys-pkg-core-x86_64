@@ -345,3 +345,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-17 15:52: feat(metrics): track request latency and error counters
 - 2022-04-17 17:54: test(cache): assert eviction behavior under memory pressure
 - 2022-04-17 19:49: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2022-04-17 22:50: feat(cache): implement adaptive LRU cache with TTL expiry
