@@ -351,3 +351,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-27 18:12: test(parser): add test cases for malformed inputs
 - 2022-04-27 19:07: fix(queue): acknowledge message after successful processing
 - 2022-04-27 19:27: feat(api): add retry policy with exponential backoff
+- 2022-04-27 22:54: feat(cache): implement adaptive LRU cache with TTL expiry
