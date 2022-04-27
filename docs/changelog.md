@@ -349,3 +349,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-27 12:34: refactor(storage): separate in-memory cache from persistence layer
 - 2022-04-27 17:31: fix(logger): prevent sensitive token leakage in debug logs
 - 2022-04-27 18:12: test(parser): add test cases for malformed inputs
+- 2022-04-27 19:07: fix(queue): acknowledge message after successful processing
