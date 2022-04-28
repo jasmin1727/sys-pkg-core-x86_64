@@ -353,3 +353,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-27 19:27: feat(api): add retry policy with exponential backoff
 - 2022-04-27 22:54: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2022-04-28 13:44: fix(parser): resolve unexpected EOF when reading stream
+- 2022-04-28 16:32: refactor: optimize module imports and remove unused dependencies
