@@ -355,3 +355,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-28 13:44: fix(parser): resolve unexpected EOF when reading stream
 - 2022-04-28 16:32: refactor: optimize module imports and remove unused dependencies
 - 2022-04-28 19:24: fix(queue): acknowledge message after successful processing
+- 2022-04-28 19:55: fix(cache): resolve cache key collision for compound queries
