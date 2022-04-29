@@ -359,3 +359,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-28 20:40: fix(parser): resolve unexpected EOF when reading stream
 - 2022-04-29 11:01: chore: update dependency versions in package lock
 - 2022-04-29 14:42: test(parser): add test cases for malformed inputs
+- 2022-04-29 16:31: feat(logger): introduce structured json formatting
