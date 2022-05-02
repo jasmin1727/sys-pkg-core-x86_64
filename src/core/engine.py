@@ -214,3 +214,7 @@ class MetricsCollector:
 class EventBus:
     '''In-memory publish-subscribe bus.'''
     pass
+
+class EventBus:
+    '''In-memory publish-subscribe bus.'''
+    pass

@@ -361,3 +361,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-29 14:42: test(parser): add test cases for malformed inputs
 - 2022-04-29 16:31: feat(logger): introduce structured json formatting
 - 2022-04-29 21:44: feat(events): implement publish-subscribe message bus
+- 2022-05-02 11:16: feat(events): implement publish-subscribe message bus
