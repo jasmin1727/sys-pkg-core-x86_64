@@ -367,3 +367,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-03 15:35: feat(api): add retry policy with exponential backoff
 - 2022-05-03 15:42: style: enforce consistent docstring and code formatting
 - 2022-05-03 18:44: feat(config): add dynamic environment variable resolver
+- 2022-05-03 18:48: feat(parser): add support for nested json payloads
