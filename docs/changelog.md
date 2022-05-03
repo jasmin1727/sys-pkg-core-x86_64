@@ -365,3 +365,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-03 10:31: chore: configure pre-commit hooks and linter rules
 - 2022-05-03 12:08: fix(parser): resolve unexpected EOF when reading stream
 - 2022-05-03 15:35: feat(api): add retry policy with exponential backoff
+- 2022-05-03 15:42: style: enforce consistent docstring and code formatting
