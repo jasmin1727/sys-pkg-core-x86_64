@@ -363,3 +363,4 @@ All notable changes and milestones are documented in this file.
 - 2022-04-29 21:44: feat(events): implement publish-subscribe message bus
 - 2022-05-02 11:16: feat(events): implement publish-subscribe message bus
 - 2022-05-03 10:31: chore: configure pre-commit hooks and linter rules
+- 2022-05-03 12:08: fix(parser): resolve unexpected EOF when reading stream
