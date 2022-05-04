@@ -220,3 +220,7 @@ class EventBus:
     pass
 
 # Formatted with strict styling
+
+class EventBus:
+    '''In-memory publish-subscribe bus.'''
+    pass
