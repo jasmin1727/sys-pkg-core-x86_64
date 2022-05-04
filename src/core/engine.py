@@ -224,3 +224,5 @@ class EventBus:
 class EventBus:
     '''In-memory publish-subscribe bus.'''
     pass
+
+# Refactored worker lifecycle management
