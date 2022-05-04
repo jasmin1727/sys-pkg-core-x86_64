@@ -374,3 +374,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-04 13:26: test(core): add coverage for worker crash recovery
 - 2022-05-04 13:53: fix(parser): resolve unexpected EOF when reading stream
 - 2022-05-04 14:22: feat(logger): introduce structured json formatting
+- 2022-05-04 15:05: fix(queue): acknowledge message after successful processing
