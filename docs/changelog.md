@@ -369,3 +369,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-03 18:44: feat(config): add dynamic environment variable resolver
 - 2022-05-03 18:48: feat(parser): add support for nested json payloads
 - 2022-05-03 19:58: feat(stream): add chunked data stream reader
+- 2022-05-04 11:45: feat(validator): add schema validation for incoming events
