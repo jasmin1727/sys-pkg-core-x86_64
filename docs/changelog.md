@@ -372,3 +372,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-04 11:45: feat(validator): add schema validation for incoming events
 - 2022-05-04 11:57: feat(events): implement publish-subscribe message bus
 - 2022-05-04 13:26: test(core): add coverage for worker crash recovery
+- 2022-05-04 13:53: fix(parser): resolve unexpected EOF when reading stream
