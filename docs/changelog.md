@@ -378,3 +378,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-04 15:34: refactor(core): streamline worker initialization sequence
 - 2022-05-04 16:18: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2022-05-05 12:20: refactor(storage): separate in-memory cache from persistence layer
+- 2022-05-05 12:20: feat(events): implement publish-subscribe message bus
