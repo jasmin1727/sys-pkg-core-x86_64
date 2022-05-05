@@ -380,3 +380,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-05 12:20: refactor(storage): separate in-memory cache from persistence layer
 - 2022-05-05 12:20: feat(events): implement publish-subscribe message bus
 - 2022-05-05 12:49: feat(stream): add chunked data stream reader
+- 2022-05-05 13:29: docs: update setup instructions and prerequisites
