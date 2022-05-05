@@ -382,3 +382,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-05 12:49: feat(stream): add chunked data stream reader
 - 2022-05-05 13:29: docs: update setup instructions and prerequisites
 - 2022-05-05 16:05: feat(scheduler): support cron-like job scheduling intervals
+- 2022-05-05 21:39: feat(core): implement async task worker pool
