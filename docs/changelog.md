@@ -390,3 +390,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-07 13:42: chore: configure pre-commit hooks and linter rules
 - 2022-05-07 15:50: feat(auth): add bearer token header validation helper
 - 2022-05-07 16:51: feat(api): add retry policy with exponential backoff
+- 2022-05-07 17:23: fix(cache): resolve cache key collision for compound queries
