@@ -392,3 +392,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-07 16:51: feat(api): add retry policy with exponential backoff
 - 2022-05-07 17:23: fix(cache): resolve cache key collision for compound queries
 - 2022-05-07 17:27: feat(stream): add chunked data stream reader
+- 2022-05-07 18:31: perf: reduce allocations in serialization hot path
