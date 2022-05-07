@@ -386,3 +386,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-05 21:55: fix(schema): resolve null value parsing in payload
 - 2022-05-07 12:14: refactor(storage): separate in-memory cache from persistence layer
 - 2022-05-07 12:59: fix(queue): acknowledge message after successful processing
+- 2022-05-07 13:10: test(parser): add test cases for malformed inputs
