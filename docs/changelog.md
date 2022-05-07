@@ -395,3 +395,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-07 18:31: perf: reduce allocations in serialization hot path
 - 2022-05-07 18:45: fix(queue): acknowledge message after successful processing
 - 2022-05-07 20:08: refactor(cache): unify cache interface across backends
+- 2022-05-07 22:05: test(cache): assert eviction behavior under memory pressure
