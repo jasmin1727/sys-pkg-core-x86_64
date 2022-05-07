@@ -394,3 +394,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-07 17:27: feat(stream): add chunked data stream reader
 - 2022-05-07 18:31: perf: reduce allocations in serialization hot path
 - 2022-05-07 18:45: fix(queue): acknowledge message after successful processing
+- 2022-05-07 20:08: refactor(cache): unify cache interface across backends
