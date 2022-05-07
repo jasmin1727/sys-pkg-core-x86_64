@@ -388,3 +388,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-07 12:59: fix(queue): acknowledge message after successful processing
 - 2022-05-07 13:10: test(parser): add test cases for malformed inputs
 - 2022-05-07 13:42: chore: configure pre-commit hooks and linter rules
+- 2022-05-07 15:50: feat(auth): add bearer token header validation helper
