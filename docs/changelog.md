@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-07 22:57: feat(validator): add schema validation for incoming events
 - 2022-05-09 10:38: fix(queue): acknowledge message after successful processing
 - 2022-05-09 11:08: perf: reduce allocations in serialization hot path
+- 2022-05-09 15:28: feat(api): add retry policy with exponential backoff
