@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-09 20:32: feat(storage): implement disk-backed key-value cache
 - 2022-05-10 11:38: fix(cache): resolve cache key collision for compound queries
 - 2022-05-10 20:12: refactor(cache): unify cache interface across backends
+- 2022-05-10 23:01: refactor(storage): separate in-memory cache from persistence layer
