@@ -262,3 +262,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-09 15:28: feat(api): add retry policy with exponential backoff
 - 2022-05-09 17:06: refactor(cache): unify cache interface across backends
 - 2022-05-09 20:32: feat(storage): implement disk-backed key-value cache
+- 2022-05-10 11:38: fix(cache): resolve cache key collision for compound queries
