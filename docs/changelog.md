@@ -272,3 +272,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-20 12:17: fix(core): handle race condition during worker shutdown
 - 2022-05-20 12:51: test(storage): verify concurrency safety with thread pool
 - 2022-05-20 15:02: fix(logger): prevent sensitive token leakage in debug logs
+- 2022-05-20 16:10: docs: update API endpoints reference and sample requests
