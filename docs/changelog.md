@@ -276,3 +276,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-20 17:07: test(storage): verify concurrency safety with thread pool
 - 2022-05-20 17:12: refactor(cache): unify cache interface across backends
 - 2022-05-20 20:46: test(core): add coverage for worker crash recovery
+- 2022-05-20 23:07: feat(auth): add bearer token header validation helper
