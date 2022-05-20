@@ -266,3 +266,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-10 20:12: refactor(cache): unify cache interface across backends
 - 2022-05-10 23:01: refactor(storage): separate in-memory cache from persistence layer
 - 2022-05-18 15:05: feat(config): add dynamic environment variable resolver
+- 2022-05-20 10:11: feat(rate-limit): implement token bucket rate limiting algorithm
