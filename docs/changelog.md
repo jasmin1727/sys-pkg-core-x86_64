@@ -280,3 +280,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-21 14:02: fix(storage): correct file descriptor leak on close
 - 2022-05-21 19:39: feat(parser): add support for nested json payloads
 - 2022-05-23 12:00: refactor(cache): unify cache interface across backends
+- 2022-05-23 14:52: docs: update API endpoints reference and sample requests
