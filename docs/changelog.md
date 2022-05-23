@@ -279,3 +279,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-20 23:07: feat(auth): add bearer token header validation helper
 - 2022-05-21 14:02: fix(storage): correct file descriptor leak on close
 - 2022-05-21 19:39: feat(parser): add support for nested json payloads
+- 2022-05-23 12:00: refactor(cache): unify cache interface across backends
