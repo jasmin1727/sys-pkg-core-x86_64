@@ -282,3 +282,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-23 12:00: refactor(cache): unify cache interface across backends
 - 2022-05-23 14:52: docs: update API endpoints reference and sample requests
 - 2022-05-23 17:31: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2022-05-24 17:16: fix(cache): resolve cache key collision for compound queries
