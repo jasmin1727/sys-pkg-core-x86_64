@@ -295,3 +295,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-25 17:33: test(cache): assert eviction behavior under memory pressure
 - 2022-05-25 17:38: test(parser): add test cases for malformed inputs
 - 2022-05-25 18:41: refactor(core): streamline worker initialization sequence
+- 2022-05-25 18:47: feat(validator): add schema validation for incoming events
