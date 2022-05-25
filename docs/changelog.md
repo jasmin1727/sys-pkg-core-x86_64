@@ -285,3 +285,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-24 17:16: fix(cache): resolve cache key collision for compound queries
 - 2022-05-25 10:06: feat(validator): add schema validation for incoming events
 - 2022-05-25 10:56: feat(scheduler): support cron-like job scheduling intervals
+- 2022-05-25 11:18: feat(api): add retry policy with exponential backoff
