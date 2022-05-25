@@ -292,3 +292,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-25 15:46: test(parser): add test cases for malformed inputs
 - 2022-05-25 16:07: test(cache): assert eviction behavior under memory pressure
 - 2022-05-25 16:10: feat(context): propagate request trace id across coroutines
+- 2022-05-25 17:33: test(cache): assert eviction behavior under memory pressure
