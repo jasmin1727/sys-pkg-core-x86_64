@@ -289,3 +289,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-25 13:17: refactor: optimize module imports and remove unused dependencies
 - 2022-05-25 13:39: feat(core): implement async task worker pool
 - 2022-05-25 15:06: test(parser): add test cases for malformed inputs
+- 2022-05-25 15:46: test(parser): add test cases for malformed inputs
