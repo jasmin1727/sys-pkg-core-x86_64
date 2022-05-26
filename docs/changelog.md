@@ -300,3 +300,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-26 10:02: docs: update setup instructions and prerequisites
 - 2022-05-26 11:34: test(parser): add test cases for malformed inputs
 - 2022-05-26 13:41: feat(stream): add chunked data stream reader
+- 2022-05-26 15:37: refactor: optimize module imports and remove unused dependencies
