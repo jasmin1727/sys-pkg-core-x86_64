@@ -301,3 +301,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-26 11:34: test(parser): add test cases for malformed inputs
 - 2022-05-26 13:41: feat(stream): add chunked data stream reader
 - 2022-05-26 15:37: refactor: optimize module imports and remove unused dependencies
+- 2022-05-26 17:08: refactor(cache): unify cache interface across backends
