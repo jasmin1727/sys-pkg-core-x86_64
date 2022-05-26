@@ -303,3 +303,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-26 15:37: refactor: optimize module imports and remove unused dependencies
 - 2022-05-26 17:08: refactor(cache): unify cache interface across backends
 - 2022-05-26 22:44: docs: update API endpoints reference and sample requests
+- 2022-05-26 23:09: feat(stream): add chunked data stream reader
