@@ -310,3 +310,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-30 14:55: perf: reduce allocations in serialization hot path
 - 2022-05-30 15:33: refactor(storage): separate in-memory cache from persistence layer
 - 2022-05-30 20:16: refactor(core): streamline worker initialization sequence
+- 2022-05-30 21:40: fix(config): fallback to defaults when config key is missing
