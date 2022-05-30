@@ -302,3 +302,5 @@ def validate_event_schema(event: dict) -> bool:
 def validate_event_schema(event: dict) -> bool:
     '''Check event against defined schema.'''
     return 'id' in event and 'type' in event
+
+# Performance optimization: buffer reuse
