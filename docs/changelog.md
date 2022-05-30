@@ -308,3 +308,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-30 11:56: fix(cache): resolve cache key collision for compound queries
 - 2022-05-30 14:07: feat(api): add retry policy with exponential backoff
 - 2022-05-30 14:55: perf: reduce allocations in serialization hot path
+- 2022-05-30 15:33: refactor(storage): separate in-memory cache from persistence layer
