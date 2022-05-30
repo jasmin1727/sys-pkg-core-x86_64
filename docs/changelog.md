@@ -305,3 +305,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-26 22:44: docs: update API endpoints reference and sample requests
 - 2022-05-26 23:09: feat(stream): add chunked data stream reader
 - 2022-05-29 13:54: chore: update dependency versions in package lock
+- 2022-05-30 11:56: fix(cache): resolve cache key collision for compound queries
