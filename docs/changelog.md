@@ -315,3 +315,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-31 11:33: test(core): add coverage for worker crash recovery
 - 2022-05-31 13:51: feat(parser): add support for nested json payloads
 - 2022-05-31 18:53: feat(stream): add chunked data stream reader
+- 2022-05-31 20:47: test(storage): verify concurrency safety with thread pool
