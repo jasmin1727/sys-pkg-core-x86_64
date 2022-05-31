@@ -313,3 +313,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-30 21:40: fix(config): fallback to defaults when config key is missing
 - 2022-05-30 23:14: test(storage): verify concurrency safety with thread pool
 - 2022-05-31 11:33: test(core): add coverage for worker crash recovery
+- 2022-05-31 13:51: feat(parser): add support for nested json payloads
