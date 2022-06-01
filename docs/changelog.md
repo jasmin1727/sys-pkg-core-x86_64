@@ -316,3 +316,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-31 13:51: feat(parser): add support for nested json payloads
 - 2022-05-31 18:53: feat(stream): add chunked data stream reader
 - 2022-05-31 20:47: test(storage): verify concurrency safety with thread pool
+- 2022-06-01 18:18: docs: document configuration parameters and overrides
