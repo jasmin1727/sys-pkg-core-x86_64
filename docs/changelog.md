@@ -317,3 +317,4 @@ All notable changes and milestones are documented in this file.
 - 2022-05-31 18:53: feat(stream): add chunked data stream reader
 - 2022-05-31 20:47: test(storage): verify concurrency safety with thread pool
 - 2022-06-01 18:18: docs: document configuration parameters and overrides
+- 2022-06-01 21:00: docs: update API endpoints reference and sample requests
