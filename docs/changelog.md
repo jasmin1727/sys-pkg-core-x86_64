@@ -322,3 +322,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-02 14:25: test(storage): verify concurrency safety with thread pool
 - 2022-06-06 11:18: test(storage): verify concurrency safety with thread pool
 - 2022-06-06 12:54: docs: update API endpoints reference and sample requests
+- 2022-06-06 21:15: refactor(core): streamline worker initialization sequence
