@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-01 22:27: docs: update setup instructions and prerequisites
 - 2022-06-02 14:25: test(storage): verify concurrency safety with thread pool
 - 2022-06-06 11:18: test(storage): verify concurrency safety with thread pool
+- 2022-06-06 12:54: docs: update API endpoints reference and sample requests
