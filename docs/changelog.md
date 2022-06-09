@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-09 16:37: fix(queue): acknowledge message after successful processing
 - 2022-06-09 18:26: fix(config): fallback to defaults when config key is missing
 - 2022-06-09 18:38: refactor(core): streamline worker initialization sequence
+- 2022-06-09 18:51: refactor(cache): unify cache interface across backends
