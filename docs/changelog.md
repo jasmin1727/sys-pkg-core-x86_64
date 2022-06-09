@@ -324,3 +324,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-06 12:54: docs: update API endpoints reference and sample requests
 - 2022-06-06 21:15: refactor(core): streamline worker initialization sequence
 - 2022-06-09 11:05: test(cache): assert eviction behavior under memory pressure
+- 2022-06-09 11:26: fix(parser): resolve unexpected EOF when reading stream
