@@ -327,3 +327,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-09 11:26: fix(parser): resolve unexpected EOF when reading stream
 - 2022-06-09 12:13: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2022-06-09 12:56: refactor(cache): unify cache interface across backends
+- 2022-06-09 15:18: refactor(core): streamline worker initialization sequence
