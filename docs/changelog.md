@@ -328,3 +328,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-09 12:13: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2022-06-09 12:56: refactor(cache): unify cache interface across backends
 - 2022-06-09 15:18: refactor(core): streamline worker initialization sequence
+- 2022-06-09 15:58: test(parser): add test cases for malformed inputs
