@@ -335,3 +335,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-09 18:51: refactor(cache): unify cache interface across backends
 - 2022-06-09 20:00: docs: update API endpoints reference and sample requests
 - 2022-06-11 16:47: feat(storage): implement disk-backed key-value cache
+- 2022-06-11 17:21: test(storage): verify concurrency safety with thread pool
