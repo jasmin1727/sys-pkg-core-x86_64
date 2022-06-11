@@ -336,3 +336,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-09 20:00: docs: update API endpoints reference and sample requests
 - 2022-06-11 16:47: feat(storage): implement disk-backed key-value cache
 - 2022-06-11 17:21: test(storage): verify concurrency safety with thread pool
+- 2022-06-11 18:47: refactor(storage): separate in-memory cache from persistence layer
