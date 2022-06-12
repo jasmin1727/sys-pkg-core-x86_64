@@ -340,3 +340,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-11 20:22: refactor(cache): unify cache interface across backends
 - 2022-06-11 22:01: refactor: optimize module imports and remove unused dependencies
 - 2022-06-11 22:08: fix(queue): acknowledge message after successful processing
+- 2022-06-12 15:22: fix(parser): resolve unexpected EOF when reading stream
