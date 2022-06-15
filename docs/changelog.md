@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-15 14:32: fix(schema): resolve null value parsing in payload
 - 2022-06-15 15:54: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2022-06-15 18:09: docs: update API endpoints reference and sample requests
+- 2022-06-15 21:23: fix(storage): correct file descriptor leak on close
