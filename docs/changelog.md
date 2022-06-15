@@ -343,3 +343,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-12 15:22: fix(parser): resolve unexpected EOF when reading stream
 - 2022-06-15 11:26: feat(scheduler): support cron-like job scheduling intervals
 - 2022-06-15 13:41: docs: update setup instructions and prerequisites
+- 2022-06-15 14:32: fix(schema): resolve null value parsing in payload
