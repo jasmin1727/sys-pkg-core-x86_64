@@ -342,3 +342,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-11 22:08: fix(queue): acknowledge message after successful processing
 - 2022-06-12 15:22: fix(parser): resolve unexpected EOF when reading stream
 - 2022-06-15 11:26: feat(scheduler): support cron-like job scheduling intervals
+- 2022-06-15 13:41: docs: update setup instructions and prerequisites
