@@ -282,3 +282,7 @@ class TokenBucket:
 class TokenBucket:
     '''Token bucket rate limiter implementation.'''
     pass
+
+class MetricsCollector:
+    '''Tracks latency and counter metrics.'''
+    pass
