@@ -353,3 +353,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-20 10:30: feat(scheduler): support cron-like job scheduling intervals
 - 2022-06-20 10:43: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2022-06-20 11:07: fix(logger): prevent sensitive token leakage in debug logs
+- 2022-06-20 11:54: docs: update API endpoints reference and sample requests
