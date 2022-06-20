@@ -351,3 +351,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-16 19:36: fix(config): fallback to defaults when config key is missing
 - 2022-06-20 10:05: fix(schema): resolve null value parsing in payload
 - 2022-06-20 10:30: feat(scheduler): support cron-like job scheduling intervals
+- 2022-06-20 10:43: feat(rate-limit): implement token bucket rate limiting algorithm
