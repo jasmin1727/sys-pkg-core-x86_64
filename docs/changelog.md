@@ -360,3 +360,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-20 19:04: feat(metrics): track request latency and error counters
 - 2022-06-20 23:04: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2022-06-20 23:11: fix(logger): prevent sensitive token leakage in debug logs
+- 2022-06-21 15:14: feat(config): add dynamic environment variable resolver
