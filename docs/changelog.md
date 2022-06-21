@@ -362,3 +362,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-20 23:11: fix(logger): prevent sensitive token leakage in debug logs
 - 2022-06-21 15:14: feat(config): add dynamic environment variable resolver
 - 2022-06-21 17:27: fix(schema): resolve null value parsing in payload
+- 2022-06-21 17:54: docs: update API endpoints reference and sample requests
