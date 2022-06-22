@@ -364,3 +364,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-21 17:27: fix(schema): resolve null value parsing in payload
 - 2022-06-21 17:54: docs: update API endpoints reference and sample requests
 - 2022-06-21 21:21: fix(core): handle race condition during worker shutdown
+- 2022-06-22 12:45: feat(parser): add support for nested json payloads
