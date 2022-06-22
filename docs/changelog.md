@@ -366,3 +366,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-21 21:21: fix(core): handle race condition during worker shutdown
 - 2022-06-22 12:45: feat(parser): add support for nested json payloads
 - 2022-06-22 18:54: docs: update setup instructions and prerequisites
+- 2022-06-22 21:10: feat(validator): add schema validation for incoming events
