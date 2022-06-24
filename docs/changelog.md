@@ -370,3 +370,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-23 23:19: refactor(cache): unify cache interface across backends
 - 2022-06-24 17:01: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2022-06-24 19:31: feat(metrics): track request latency and error counters
+- 2022-06-24 20:11: feat(scheduler): support cron-like job scheduling intervals
