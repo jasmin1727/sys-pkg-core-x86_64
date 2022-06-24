@@ -368,3 +368,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-22 18:54: docs: update setup instructions and prerequisites
 - 2022-06-22 21:10: feat(validator): add schema validation for incoming events
 - 2022-06-23 23:19: refactor(cache): unify cache interface across backends
+- 2022-06-24 17:01: feat(rate-limit): implement token bucket rate limiting algorithm
