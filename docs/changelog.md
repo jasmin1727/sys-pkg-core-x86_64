@@ -378,3 +378,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-25 16:52: fix(config): fallback to defaults when config key is missing
 - 2022-06-25 17:48: docs: document configuration parameters and overrides
 - 2022-06-25 19:24: test(core): add coverage for worker crash recovery
+- 2022-06-25 20:39: feat(metrics): track request latency and error counters
