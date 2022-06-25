@@ -375,3 +375,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-25 13:01: refactor(storage): separate in-memory cache from persistence layer
 - 2022-06-25 13:14: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2022-06-25 13:46: test(cache): assert eviction behavior under memory pressure
+- 2022-06-25 16:52: fix(config): fallback to defaults when config key is missing
