@@ -374,3 +374,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-24 23:16: fix(logger): prevent sensitive token leakage in debug logs
 - 2022-06-25 13:01: refactor(storage): separate in-memory cache from persistence layer
 - 2022-06-25 13:14: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2022-06-25 13:46: test(cache): assert eviction behavior under memory pressure
