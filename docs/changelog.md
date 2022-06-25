@@ -372,3 +372,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-24 19:31: feat(metrics): track request latency and error counters
 - 2022-06-24 20:11: feat(scheduler): support cron-like job scheduling intervals
 - 2022-06-24 23:16: fix(logger): prevent sensitive token leakage in debug logs
+- 2022-06-25 13:01: refactor(storage): separate in-memory cache from persistence layer
