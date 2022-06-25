@@ -381,3 +381,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-25 20:39: feat(metrics): track request latency and error counters
 - 2022-06-25 21:15: feat(core): implement async task worker pool
 - 2022-06-25 22:11: docs: document configuration parameters and overrides
+- 2022-06-25 22:18: refactor(cache): unify cache interface across backends
