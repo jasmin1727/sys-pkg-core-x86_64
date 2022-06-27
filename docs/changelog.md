@@ -383,3 +383,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-25 22:11: docs: document configuration parameters and overrides
 - 2022-06-25 22:18: refactor(cache): unify cache interface across backends
 - 2022-06-27 12:41: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2022-06-27 16:00: refactor: optimize module imports and remove unused dependencies
