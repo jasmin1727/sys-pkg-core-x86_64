@@ -387,3 +387,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-27 19:04: fix(core): handle race condition during worker shutdown
 - 2022-06-27 21:14: feat(api): add retry policy with exponential backoff
 - 2022-06-27 22:13: refactor: optimize module imports and remove unused dependencies
+- 2022-06-28 13:56: fix(cache): resolve cache key collision for compound queries
