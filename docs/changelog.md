@@ -392,3 +392,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-28 16:42: refactor(cache): unify cache interface across backends
 - 2022-06-28 18:24: refactor(storage): separate in-memory cache from persistence layer
 - 2022-06-28 18:29: fix(cache): resolve cache key collision for compound queries
+- 2022-06-28 20:46: refactor(utils): decompose monolithic string processing utility
