@@ -388,3 +388,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-27 21:14: feat(api): add retry policy with exponential backoff
 - 2022-06-27 22:13: refactor: optimize module imports and remove unused dependencies
 - 2022-06-28 13:56: fix(cache): resolve cache key collision for compound queries
+- 2022-06-28 16:00: feat(core): implement async task worker pool
