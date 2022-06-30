@@ -394,3 +394,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-28 18:29: fix(cache): resolve cache key collision for compound queries
 - 2022-06-28 20:46: refactor(utils): decompose monolithic string processing utility
 - 2022-06-28 22:11: feat(scheduler): support cron-like job scheduling intervals
+- 2022-06-30 21:25: fix(parser): resolve unexpected EOF when reading stream
