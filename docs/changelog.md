@@ -396,3 +396,4 @@ All notable changes and milestones are documented in this file.
 - 2022-06-28 22:11: feat(scheduler): support cron-like job scheduling intervals
 - 2022-06-30 21:25: fix(parser): resolve unexpected EOF when reading stream
 - 2022-07-01 19:38: feat(validator): add schema validation for incoming events
+- 2022-07-04 10:22: test(cache): assert eviction behavior under memory pressure
