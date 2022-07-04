@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2022-07-04 12:48: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2022-07-04 12:50: test(cache): assert eviction behavior under memory pressure
 - 2022-07-04 15:25: refactor(storage): separate in-memory cache from persistence layer
+- 2022-07-04 18:54: refactor(cache): unify cache interface across backends
