@@ -266,3 +266,4 @@ All notable changes and milestones are documented in this file.
 - 2022-07-04 21:36: feat(api): add retry policy with exponential backoff
 - 2022-07-04 23:25: test(storage): verify concurrency safety with thread pool
 - 2022-07-09 11:23: docs: update API endpoints reference and sample requests
+- 2022-07-09 12:26: test(parser): add test cases for malformed inputs
