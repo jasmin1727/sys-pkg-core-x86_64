@@ -268,3 +268,4 @@ All notable changes and milestones are documented in this file.
 - 2022-07-09 11:23: docs: update API endpoints reference and sample requests
 - 2022-07-09 12:26: test(parser): add test cases for malformed inputs
 - 2022-07-09 17:02: feat(context): propagate request trace id across coroutines
+- 2022-07-09 17:38: fix(schema): resolve null value parsing in payload
