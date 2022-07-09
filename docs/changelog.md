@@ -265,3 +265,4 @@ All notable changes and milestones are documented in this file.
 - 2022-07-04 20:58: fix(config): fallback to defaults when config key is missing
 - 2022-07-04 21:36: feat(api): add retry policy with exponential backoff
 - 2022-07-04 23:25: test(storage): verify concurrency safety with thread pool
+- 2022-07-09 11:23: docs: update API endpoints reference and sample requests
