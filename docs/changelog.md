@@ -269,3 +269,4 @@ All notable changes and milestones are documented in this file.
 - 2022-07-09 12:26: test(parser): add test cases for malformed inputs
 - 2022-07-09 17:02: feat(context): propagate request trace id across coroutines
 - 2022-07-09 17:38: fix(schema): resolve null value parsing in payload
+- 2022-07-09 21:28: fix(cache): resolve cache key collision for compound queries
