@@ -278,3 +278,4 @@ All notable changes and milestones are documented in this file.
 - 2022-07-22 17:49: refactor: optimize module imports and remove unused dependencies
 - 2022-07-22 21:27: feat(metrics): track request latency and error counters
 - 2022-07-22 23:09: fix(core): handle race condition during worker shutdown
+- 2022-07-22 23:24: docs: add architecture overview and system flow diagram
