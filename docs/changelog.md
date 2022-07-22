@@ -271,3 +271,4 @@ All notable changes and milestones are documented in this file.
 - 2022-07-09 17:38: fix(schema): resolve null value parsing in payload
 - 2022-07-09 21:28: fix(cache): resolve cache key collision for compound queries
 - 2022-07-22 13:02: fix(cache): resolve cache key collision for compound queries
+- 2022-07-22 13:34: test(cache): assert eviction behavior under memory pressure
