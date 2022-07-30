@@ -279,3 +279,4 @@ All notable changes and milestones are documented in this file.
 - 2022-07-22 21:27: feat(metrics): track request latency and error counters
 - 2022-07-22 23:09: fix(core): handle race condition during worker shutdown
 - 2022-07-22 23:24: docs: add architecture overview and system flow diagram
+- 2022-07-30 19:10: feat(api): add retry policy with exponential backoff
