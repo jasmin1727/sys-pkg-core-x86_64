@@ -291,3 +291,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-04 20:32: feat(core): implement async task worker pool
 - 2022-08-04 21:29: refactor(utils): decompose monolithic string processing utility
 - 2022-08-04 21:33: docs: add architecture overview and system flow diagram
+- 2022-08-04 21:49: fix(storage): correct file descriptor leak on close
