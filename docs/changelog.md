@@ -285,3 +285,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-03 10:10: fix(storage): correct file descriptor leak on close
 - 2022-08-03 16:42: feat(core): implement async task worker pool
 - 2022-08-03 20:07: feat(context): propagate request trace id across coroutines
+- 2022-08-04 17:31: feat(context): propagate request trace id across coroutines
