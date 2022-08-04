@@ -287,3 +287,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-03 20:07: feat(context): propagate request trace id across coroutines
 - 2022-08-04 17:31: feat(context): propagate request trace id across coroutines
 - 2022-08-04 19:17: refactor(utils): decompose monolithic string processing utility
+- 2022-08-04 19:27: feat(scheduler): support cron-like job scheduling intervals
