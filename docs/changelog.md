@@ -295,3 +295,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-08 11:23: fix(storage): correct file descriptor leak on close
 - 2022-08-08 15:25: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2022-08-08 16:49: feat(scheduler): support cron-like job scheduling intervals
+- 2022-08-08 20:13: fix(core): handle race condition during worker shutdown
