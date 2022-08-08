@@ -293,3 +293,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-04 21:33: docs: add architecture overview and system flow diagram
 - 2022-08-04 21:49: fix(storage): correct file descriptor leak on close
 - 2022-08-08 11:23: fix(storage): correct file descriptor leak on close
+- 2022-08-08 15:25: feat(rate-limit): implement token bucket rate limiting algorithm
