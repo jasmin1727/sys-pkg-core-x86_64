@@ -300,3 +300,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-10 12:55: fix(parser): resolve unexpected EOF when reading stream
 - 2022-08-10 13:40: fix(storage): correct file descriptor leak on close
 - 2022-08-10 14:32: feat(context): propagate request trace id across coroutines
+- 2022-08-10 16:29: refactor(core): streamline worker initialization sequence
