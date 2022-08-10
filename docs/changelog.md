@@ -298,3 +298,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-08 20:13: fix(core): handle race condition during worker shutdown
 - 2022-08-09 14:08: fix(core): handle race condition during worker shutdown
 - 2022-08-10 12:55: fix(parser): resolve unexpected EOF when reading stream
+- 2022-08-10 13:40: fix(storage): correct file descriptor leak on close
