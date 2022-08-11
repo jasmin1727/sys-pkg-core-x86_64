@@ -310,3 +310,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-11 20:30: test(cache): assert eviction behavior under memory pressure
 - 2022-08-11 22:16: feat(stream): add chunked data stream reader
 - 2022-08-11 22:59: fix(core): handle race condition during worker shutdown
+- 2022-08-11 23:23: fix(logger): prevent sensitive token leakage in debug logs
