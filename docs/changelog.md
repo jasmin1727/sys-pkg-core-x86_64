@@ -305,3 +305,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-10 21:54: fix(schema): resolve null value parsing in payload
 - 2022-08-11 13:30: refactor(storage): separate in-memory cache from persistence layer
 - 2022-08-11 13:34: test(parser): add test cases for malformed inputs
+- 2022-08-11 15:37: docs: add architecture overview and system flow diagram
