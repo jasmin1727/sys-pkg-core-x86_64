@@ -303,3 +303,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-10 16:29: refactor(core): streamline worker initialization sequence
 - 2022-08-10 20:55: fix(queue): acknowledge message after successful processing
 - 2022-08-10 21:54: fix(schema): resolve null value parsing in payload
+- 2022-08-11 13:30: refactor(storage): separate in-memory cache from persistence layer
