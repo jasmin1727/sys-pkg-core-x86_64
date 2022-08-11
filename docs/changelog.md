@@ -306,3 +306,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-11 13:30: refactor(storage): separate in-memory cache from persistence layer
 - 2022-08-11 13:34: test(parser): add test cases for malformed inputs
 - 2022-08-11 15:37: docs: add architecture overview and system flow diagram
+- 2022-08-11 18:48: feat(core): implement async task worker pool
