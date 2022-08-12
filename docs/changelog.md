@@ -314,3 +314,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-12 16:04: fix(cache): resolve cache key collision for compound queries
 - 2022-08-12 16:43: fix(config): fallback to defaults when config key is missing
 - 2022-08-12 18:52: refactor(core): streamline worker initialization sequence
+- 2022-08-12 21:04: refactor(core): streamline worker initialization sequence
