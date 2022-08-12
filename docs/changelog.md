@@ -312,3 +312,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-11 22:59: fix(core): handle race condition during worker shutdown
 - 2022-08-11 23:23: fix(logger): prevent sensitive token leakage in debug logs
 - 2022-08-12 16:04: fix(cache): resolve cache key collision for compound queries
+- 2022-08-12 16:43: fix(config): fallback to defaults when config key is missing
