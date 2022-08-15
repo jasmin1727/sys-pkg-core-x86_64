@@ -318,3 +318,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-12 23:23: feat(validator): add schema validation for incoming events
 - 2022-08-15 13:17: fix(storage): correct file descriptor leak on close
 - 2022-08-15 15:00: refactor(cache): unify cache interface across backends
+- 2022-08-15 17:43: test(cache): assert eviction behavior under memory pressure
