@@ -316,3 +316,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-12 18:52: refactor(core): streamline worker initialization sequence
 - 2022-08-12 21:04: refactor(core): streamline worker initialization sequence
 - 2022-08-12 23:23: feat(validator): add schema validation for incoming events
+- 2022-08-15 13:17: fix(storage): correct file descriptor leak on close
