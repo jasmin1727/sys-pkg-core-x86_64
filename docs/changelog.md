@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-15 17:43: test(cache): assert eviction behavior under memory pressure
 - 2022-08-17 11:28: feat(parser): add support for nested json payloads
 - 2022-08-17 12:05: feat(scheduler): support cron-like job scheduling intervals
+- 2022-08-17 13:12: feat(events): implement publish-subscribe message bus
