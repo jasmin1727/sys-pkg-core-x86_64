@@ -323,3 +323,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-17 12:05: feat(scheduler): support cron-like job scheduling intervals
 - 2022-08-17 13:12: feat(events): implement publish-subscribe message bus
 - 2022-08-18 14:53: fix(parser): resolve unexpected EOF when reading stream
+- 2022-08-19 10:10: feat(scheduler): support cron-like job scheduling intervals
