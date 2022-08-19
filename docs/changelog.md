@@ -327,3 +327,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-19 15:52: fix(parser): resolve unexpected EOF when reading stream
 - 2022-08-19 16:15: feat(core): implement async task worker pool
 - 2022-08-19 18:19: test(storage): verify concurrency safety with thread pool
+- 2022-08-19 22:58: feat(storage): implement disk-backed key-value cache
