@@ -326,3 +326,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-19 10:10: feat(scheduler): support cron-like job scheduling intervals
 - 2022-08-19 15:52: fix(parser): resolve unexpected EOF when reading stream
 - 2022-08-19 16:15: feat(core): implement async task worker pool
+- 2022-08-19 18:19: test(storage): verify concurrency safety with thread pool
