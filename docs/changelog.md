@@ -330,3 +330,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-19 22:58: feat(storage): implement disk-backed key-value cache
 - 2022-08-22 11:00: test(parser): add test cases for malformed inputs
 - 2022-08-22 11:53: test(core): add coverage for worker crash recovery
+- 2022-08-22 14:19: feat(cache): implement adaptive LRU cache with TTL expiry
