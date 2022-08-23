@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-22 11:53: test(core): add coverage for worker crash recovery
 - 2022-08-22 14:19: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2022-08-22 14:51: style: enforce consistent docstring and code formatting
+- 2022-08-23 17:00: feat(scheduler): support cron-like job scheduling intervals
