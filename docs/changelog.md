@@ -339,3 +339,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-26 12:42: feat(parser): add support for nested json payloads
 - 2022-08-26 16:58: feat(metrics): track request latency and error counters
 - 2022-08-26 17:40: feat(api): add retry policy with exponential backoff
+- 2022-08-26 17:50: feat(metrics): track request latency and error counters
