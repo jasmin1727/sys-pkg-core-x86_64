@@ -341,3 +341,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-26 17:40: feat(api): add retry policy with exponential backoff
 - 2022-08-26 17:50: feat(metrics): track request latency and error counters
 - 2022-08-26 18:08: feat(validator): add schema validation for incoming events
+- 2022-08-26 18:16: fix(parser): resolve unexpected EOF when reading stream
