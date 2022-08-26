@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-26 18:16: fix(parser): resolve unexpected EOF when reading stream
 - 2022-08-26 18:47: chore: configure pre-commit hooks and linter rules
 - 2022-08-26 19:07: fix(cache): resolve cache key collision for compound queries
+- 2022-08-26 23:16: feat(validator): add schema validation for incoming events
