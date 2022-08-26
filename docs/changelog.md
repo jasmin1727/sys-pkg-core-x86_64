@@ -337,3 +337,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-26 11:23: feat(logger): introduce structured json formatting
 - 2022-08-26 12:34: feat(storage): implement disk-backed key-value cache
 - 2022-08-26 12:42: feat(parser): add support for nested json payloads
+- 2022-08-26 16:58: feat(metrics): track request latency and error counters
