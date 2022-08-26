@@ -334,3 +334,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-22 14:51: style: enforce consistent docstring and code formatting
 - 2022-08-23 17:00: feat(scheduler): support cron-like job scheduling intervals
 - 2022-08-24 23:02: fix(logger): prevent sensitive token leakage in debug logs
+- 2022-08-26 11:23: feat(logger): introduce structured json formatting
