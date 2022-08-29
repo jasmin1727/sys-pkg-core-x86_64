@@ -348,3 +348,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-27 17:08: fix(schema): resolve null value parsing in payload
 - 2022-08-27 17:11: feat(stream): add chunked data stream reader
 - 2022-08-27 18:22: fix(parser): resolve unexpected EOF when reading stream
+- 2022-08-29 11:33: fix(logger): prevent sensitive token leakage in debug logs
