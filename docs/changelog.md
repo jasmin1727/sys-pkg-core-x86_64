@@ -354,3 +354,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-29 18:03: feat(context): propagate request trace id across coroutines
 - 2022-08-30 15:26: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2022-08-30 15:48: docs: update API endpoints reference and sample requests
+- 2022-08-30 18:23: feat(context): propagate request trace id across coroutines
