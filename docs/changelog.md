@@ -352,3 +352,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-29 11:50: docs: add architecture overview and system flow diagram
 - 2022-08-29 12:53: fix(core): handle race condition during worker shutdown
 - 2022-08-29 18:03: feat(context): propagate request trace id across coroutines
+- 2022-08-30 15:26: feat(rate-limit): implement token bucket rate limiting algorithm
