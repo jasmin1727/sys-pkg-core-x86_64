@@ -360,3 +360,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-01 10:53: docs: update API endpoints reference and sample requests
 - 2022-09-01 13:11: fix(schema): resolve null value parsing in payload
 - 2022-09-01 14:16: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2022-09-01 14:57: feat(logger): introduce structured json formatting
