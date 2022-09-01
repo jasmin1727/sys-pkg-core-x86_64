@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2022-08-30 18:23: feat(context): propagate request trace id across coroutines
 - 2022-08-30 20:38: fix(core): handle race condition during worker shutdown
 - 2022-08-30 21:40: refactor(core): streamline worker initialization sequence
+- 2022-09-01 10:53: docs: update API endpoints reference and sample requests
