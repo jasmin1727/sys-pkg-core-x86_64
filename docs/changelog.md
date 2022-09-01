@@ -362,3 +362,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-01 14:16: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2022-09-01 14:57: feat(logger): introduce structured json formatting
 - 2022-09-01 15:17: fix(storage): correct file descriptor leak on close
+- 2022-09-01 15:23: fix(queue): acknowledge message after successful processing
