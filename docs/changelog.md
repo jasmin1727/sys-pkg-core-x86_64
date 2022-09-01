@@ -366,3 +366,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-01 15:36: refactor(cache): unify cache interface across backends
 - 2022-09-01 18:39: fix(parser): resolve unexpected EOF when reading stream
 - 2022-09-01 18:52: test(core): add coverage for worker crash recovery
+- 2022-09-01 22:01: fix(config): fallback to defaults when config key is missing
