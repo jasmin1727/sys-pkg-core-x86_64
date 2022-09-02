@@ -372,3 +372,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-02 12:11: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2022-09-02 13:27: test(parser): add test cases for malformed inputs
 - 2022-09-02 18:23: fix(storage): correct file descriptor leak on close
+- 2022-09-02 20:55: fix(config): fallback to defaults when config key is missing
