@@ -370,3 +370,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-01 22:50: feat(stream): add chunked data stream reader
 - 2022-09-01 22:57: test(storage): verify concurrency safety with thread pool
 - 2022-09-02 12:11: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2022-09-02 13:27: test(parser): add test cases for malformed inputs
