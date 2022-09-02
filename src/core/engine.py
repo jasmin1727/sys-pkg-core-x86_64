@@ -228,3 +228,7 @@ def safe_shutdown(pool):
     pool['status'] = 'stopped'
 
 # Refactored worker lifecycle management
+
+class TokenBucket:
+    '''Token bucket rate limiter implementation.'''
+    pass
