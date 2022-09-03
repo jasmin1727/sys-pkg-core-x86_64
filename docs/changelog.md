@@ -373,3 +373,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-02 13:27: test(parser): add test cases for malformed inputs
 - 2022-09-02 18:23: fix(storage): correct file descriptor leak on close
 - 2022-09-02 20:55: fix(config): fallback to defaults when config key is missing
+- 2022-09-03 16:20: feat(validator): add schema validation for incoming events
