@@ -375,3 +375,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-02 20:55: fix(config): fallback to defaults when config key is missing
 - 2022-09-03 16:20: feat(validator): add schema validation for incoming events
 - 2022-09-03 17:36: feat(storage): implement disk-backed key-value cache
+- 2022-09-06 11:37: test(cache): assert eviction behavior under memory pressure
