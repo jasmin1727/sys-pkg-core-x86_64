@@ -377,3 +377,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-03 17:36: feat(storage): implement disk-backed key-value cache
 - 2022-09-06 11:37: test(cache): assert eviction behavior under memory pressure
 - 2022-09-06 11:51: fix(core): handle race condition during worker shutdown
+- 2022-09-06 13:45: fix(logger): prevent sensitive token leakage in debug logs
