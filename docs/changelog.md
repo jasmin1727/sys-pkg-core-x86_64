@@ -379,3 +379,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-06 11:51: fix(core): handle race condition during worker shutdown
 - 2022-09-06 13:45: fix(logger): prevent sensitive token leakage in debug logs
 - 2022-09-06 19:58: docs: update API endpoints reference and sample requests
+- 2022-09-07 11:00: feat(stream): add chunked data stream reader
