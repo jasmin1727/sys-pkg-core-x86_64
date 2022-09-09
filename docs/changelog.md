@@ -382,3 +382,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-07 11:00: feat(stream): add chunked data stream reader
 - 2022-09-09 12:16: fix(logger): prevent sensitive token leakage in debug logs
 - 2022-09-09 12:33: fix(core): handle race condition during worker shutdown
+- 2022-09-09 13:17: docs: add architecture overview and system flow diagram
