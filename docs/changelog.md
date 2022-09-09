@@ -384,3 +384,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-09 12:33: fix(core): handle race condition during worker shutdown
 - 2022-09-09 13:17: docs: add architecture overview and system flow diagram
 - 2022-09-09 13:20: refactor(cache): unify cache interface across backends
+- 2022-09-09 15:40: fix(config): fallback to defaults when config key is missing
