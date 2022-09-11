@@ -387,3 +387,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-09 15:40: fix(config): fallback to defaults when config key is missing
 - 2022-09-09 18:03: feat(validator): add schema validation for incoming events
 - 2022-09-09 22:30: test(storage): verify concurrency safety with thread pool
+- 2022-09-11 15:55: feat(context): propagate request trace id across coroutines
