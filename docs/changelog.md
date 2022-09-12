@@ -391,3 +391,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-11 16:54: feat(config): add dynamic environment variable resolver
 - 2022-09-11 19:43: style: enforce consistent docstring and code formatting
 - 2022-09-12 10:33: fix(cache): resolve cache key collision for compound queries
+- 2022-09-12 20:07: feat(cache): implement adaptive LRU cache with TTL expiry
