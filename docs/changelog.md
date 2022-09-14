@@ -260,3 +260,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-14 20:14: fix(parser): resolve unexpected EOF when reading stream
 - 2022-09-14 21:13: fix(logger): prevent sensitive token leakage in debug logs
 - 2022-09-14 21:26: test(storage): verify concurrency safety with thread pool
+- 2022-09-14 21:37: fix(core): handle race condition during worker shutdown
