@@ -1,2 +1,2 @@
-// system package metadata blob chunk 254
-const CHUNK_254 = 0x00fe;
+// system package metadata blob chunk 255
+const CHUNK_255 = 0x00ff;
