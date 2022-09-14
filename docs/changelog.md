@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-14 18:51: docs: update API endpoints reference and sample requests
 - 2022-09-14 20:14: fix(parser): resolve unexpected EOF when reading stream
 - 2022-09-14 21:13: fix(logger): prevent sensitive token leakage in debug logs
+- 2022-09-14 21:26: test(storage): verify concurrency safety with thread pool
