@@ -395,3 +395,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-14 10:07: fix(queue): acknowledge message after successful processing
 - 2022-09-14 10:21: feat(stream): add chunked data stream reader
 - 2022-09-14 12:29: test(core): add coverage for worker crash recovery
+- 2022-09-14 17:17: feat(parser): add support for nested json payloads
