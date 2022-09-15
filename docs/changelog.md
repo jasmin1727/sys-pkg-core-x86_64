@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-14 21:13: fix(logger): prevent sensitive token leakage in debug logs
 - 2022-09-14 21:26: test(storage): verify concurrency safety with thread pool
 - 2022-09-14 21:37: fix(core): handle race condition during worker shutdown
+- 2022-09-15 13:43: fix(queue): acknowledge message after successful processing
