@@ -266,3 +266,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-20 18:17: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2022-09-20 19:45: fix(queue): acknowledge message after successful processing
 - 2022-09-20 22:11: docs: document configuration parameters and overrides
+- 2022-09-20 23:26: feat(storage): implement disk-backed key-value cache
