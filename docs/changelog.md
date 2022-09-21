@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-20 19:45: fix(queue): acknowledge message after successful processing
 - 2022-09-20 22:11: docs: document configuration parameters and overrides
 - 2022-09-20 23:26: feat(storage): implement disk-backed key-value cache
+- 2022-09-21 14:31: fix(cache): resolve cache key collision for compound queries
