@@ -271,3 +271,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-21 15:05: fix(core): handle race condition during worker shutdown
 - 2022-09-21 15:57: test(core): add coverage for worker crash recovery
 - 2022-09-22 13:51: test(core): add coverage for worker crash recovery
+- 2022-09-22 15:16: test(parser): add test cases for malformed inputs
