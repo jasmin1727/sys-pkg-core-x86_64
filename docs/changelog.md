@@ -273,3 +273,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-22 13:51: test(core): add coverage for worker crash recovery
 - 2022-09-22 15:16: test(parser): add test cases for malformed inputs
 - 2022-09-22 15:37: feat(storage): implement disk-backed key-value cache
+- 2022-09-24 10:35: fix(parser): resolve unexpected EOF when reading stream
