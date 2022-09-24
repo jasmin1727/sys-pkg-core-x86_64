@@ -275,3 +275,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-22 15:37: feat(storage): implement disk-backed key-value cache
 - 2022-09-24 10:35: fix(parser): resolve unexpected EOF when reading stream
 - 2022-09-24 10:55: feat(config): add dynamic environment variable resolver
+- 2022-09-24 15:12: feat(context): propagate request trace id across coroutines
