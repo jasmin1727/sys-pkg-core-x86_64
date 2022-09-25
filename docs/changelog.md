@@ -286,3 +286,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-25 16:53: style: enforce consistent docstring and code formatting
 - 2022-09-25 18:28: feat(context): propagate request trace id across coroutines
 - 2022-09-25 22:21: feat(logger): introduce structured json formatting
+- 2022-09-25 22:50: refactor(storage): separate in-memory cache from persistence layer
