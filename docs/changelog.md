@@ -284,3 +284,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-25 13:55: test(storage): verify concurrency safety with thread pool
 - 2022-09-25 14:01: test(core): add coverage for worker crash recovery
 - 2022-09-25 16:53: style: enforce consistent docstring and code formatting
+- 2022-09-25 18:28: feat(context): propagate request trace id across coroutines
