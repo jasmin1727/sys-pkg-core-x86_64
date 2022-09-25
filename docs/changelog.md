@@ -279,3 +279,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-24 16:41: feat(context): propagate request trace id across coroutines
 - 2022-09-24 21:52: feat(validator): add schema validation for incoming events
 - 2022-09-24 22:25: feat(logger): introduce structured json formatting
+- 2022-09-25 11:25: test(parser): add test cases for malformed inputs
