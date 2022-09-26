@@ -287,3 +287,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-25 18:28: feat(context): propagate request trace id across coroutines
 - 2022-09-25 22:21: feat(logger): introduce structured json formatting
 - 2022-09-25 22:50: refactor(storage): separate in-memory cache from persistence layer
+- 2022-09-26 12:29: feat(cache): implement adaptive LRU cache with TTL expiry
