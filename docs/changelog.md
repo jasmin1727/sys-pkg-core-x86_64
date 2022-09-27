@@ -292,3 +292,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-27 10:00: feat(parser): add support for nested json payloads
 - 2022-09-27 13:55: feat(metrics): track request latency and error counters
 - 2022-09-27 20:42: feat(validator): add schema validation for incoming events
+- 2022-09-27 21:28: refactor(storage): separate in-memory cache from persistence layer
