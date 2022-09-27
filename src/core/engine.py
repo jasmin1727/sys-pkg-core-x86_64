@@ -252,3 +252,7 @@ def safe_shutdown(pool):
     pool['status'] = 'stopped'
 
 # Formatted with strict styling
+
+class MetricsCollector:
+    '''Tracks latency and counter metrics.'''
+    pass

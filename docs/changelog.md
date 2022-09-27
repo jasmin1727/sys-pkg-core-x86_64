@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-26 12:29: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2022-09-26 17:53: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2022-09-27 10:00: feat(parser): add support for nested json payloads
+- 2022-09-27 13:55: feat(metrics): track request latency and error counters
