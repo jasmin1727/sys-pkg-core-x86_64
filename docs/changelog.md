@@ -300,3 +300,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-28 15:45: fix(parser): resolve unexpected EOF when reading stream
 - 2022-09-28 17:03: fix(logger): prevent sensitive token leakage in debug logs
 - 2022-09-28 18:27: fix(config): fallback to defaults when config key is missing
+- 2022-09-28 19:01: feat(events): implement publish-subscribe message bus
