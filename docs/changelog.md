@@ -297,3 +297,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-28 11:43: test(parser): add test cases for malformed inputs
 - 2022-09-28 11:55: feat(storage): implement disk-backed key-value cache
 - 2022-09-28 13:48: refactor(cache): unify cache interface across backends
+- 2022-09-28 15:45: fix(parser): resolve unexpected EOF when reading stream
