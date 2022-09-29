@@ -306,3 +306,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-29 16:37: refactor(cache): unify cache interface across backends
 - 2022-09-29 16:58: refactor(core): streamline worker initialization sequence
 - 2022-09-29 17:27: refactor(utils): decompose monolithic string processing utility
+- 2022-09-29 21:19: fix(core): handle race condition during worker shutdown
