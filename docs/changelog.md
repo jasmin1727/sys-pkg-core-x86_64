@@ -304,3 +304,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-29 11:06: feat(metrics): track request latency and error counters
 - 2022-09-29 13:41: fix(config): fallback to defaults when config key is missing
 - 2022-09-29 16:37: refactor(cache): unify cache interface across backends
+- 2022-09-29 16:58: refactor(core): streamline worker initialization sequence
