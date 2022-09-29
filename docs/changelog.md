@@ -308,3 +308,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-29 17:27: refactor(utils): decompose monolithic string processing utility
 - 2022-09-29 21:19: fix(core): handle race condition during worker shutdown
 - 2022-09-29 22:02: feat(validator): add schema validation for incoming events
+- 2022-09-29 23:24: refactor(core): streamline worker initialization sequence
