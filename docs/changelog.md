@@ -312,3 +312,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-30 11:16: docs: update API endpoints reference and sample requests
 - 2022-09-30 11:20: refactor: optimize module imports and remove unused dependencies
 - 2022-09-30 13:42: feat(core): implement async task worker pool
+- 2022-09-30 20:06: feat(scheduler): support cron-like job scheduling intervals
