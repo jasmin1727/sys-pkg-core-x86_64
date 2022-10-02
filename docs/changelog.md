@@ -316,3 +316,4 @@ All notable changes and milestones are documented in this file.
 - 2022-10-02 12:53: feat(storage): implement disk-backed key-value cache
 - 2022-10-02 19:27: refactor(core): streamline worker initialization sequence
 - 2022-10-02 20:16: test(core): add coverage for worker crash recovery
+- 2022-10-02 22:11: fix(parser): resolve unexpected EOF when reading stream
