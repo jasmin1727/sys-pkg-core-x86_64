@@ -314,3 +314,4 @@ All notable changes and milestones are documented in this file.
 - 2022-09-30 13:42: feat(core): implement async task worker pool
 - 2022-09-30 20:06: feat(scheduler): support cron-like job scheduling intervals
 - 2022-10-02 12:53: feat(storage): implement disk-backed key-value cache
+- 2022-10-02 19:27: refactor(core): streamline worker initialization sequence
