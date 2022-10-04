@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2022-10-03 16:51: feat(auth): add bearer token header validation helper
 - 2022-10-04 10:18: perf: reduce allocations in serialization hot path
 - 2022-10-04 10:36: test(core): add coverage for worker crash recovery
+- 2022-10-04 11:51: style: enforce consistent docstring and code formatting
