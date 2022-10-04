@@ -323,3 +323,4 @@ All notable changes and milestones are documented in this file.
 - 2022-10-04 10:36: test(core): add coverage for worker crash recovery
 - 2022-10-04 11:51: style: enforce consistent docstring and code formatting
 - 2022-10-04 13:21: feat(metrics): track request latency and error counters
+- 2022-10-04 14:19: docs: document configuration parameters and overrides
