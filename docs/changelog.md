@@ -319,3 +319,4 @@ All notable changes and milestones are documented in this file.
 - 2022-10-02 22:11: fix(parser): resolve unexpected EOF when reading stream
 - 2022-10-03 13:31: fix(cache): resolve cache key collision for compound queries
 - 2022-10-03 16:51: feat(auth): add bearer token header validation helper
+- 2022-10-04 10:18: perf: reduce allocations in serialization hot path
