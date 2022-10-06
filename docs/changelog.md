@@ -330,3 +330,4 @@ All notable changes and milestones are documented in this file.
 - 2022-10-04 18:24: chore: update dependency versions in package lock
 - 2022-10-04 19:53: fix(queue): acknowledge message after successful processing
 - 2022-10-04 22:02: test(core): add coverage for worker crash recovery
+- 2022-10-06 12:49: fix(queue): acknowledge message after successful processing
