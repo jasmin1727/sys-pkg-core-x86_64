@@ -336,3 +336,4 @@ All notable changes and milestones are documented in this file.
 - 2022-10-10 22:02: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2022-10-11 10:25: refactor: optimize module imports and remove unused dependencies
 - 2022-10-11 17:30: fix(queue): acknowledge message after successful processing
+- 2022-10-11 20:22: docs: document configuration parameters and overrides
