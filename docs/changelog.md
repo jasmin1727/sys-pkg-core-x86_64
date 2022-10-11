@@ -335,3 +335,4 @@ All notable changes and milestones are documented in this file.
 - 2022-10-07 18:26: refactor(storage): separate in-memory cache from persistence layer
 - 2022-10-10 22:02: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2022-10-11 10:25: refactor: optimize module imports and remove unused dependencies
+- 2022-10-11 17:30: fix(queue): acknowledge message after successful processing
