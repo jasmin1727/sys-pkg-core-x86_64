@@ -341,3 +341,4 @@ All notable changes and milestones are documented in this file.
 - 2022-10-13 15:28: fix(schema): resolve null value parsing in payload
 - 2022-10-13 16:40: refactor(storage): separate in-memory cache from persistence layer
 - 2022-10-13 16:55: perf: reduce allocations in serialization hot path
+- 2022-10-13 19:07: fix(parser): resolve unexpected EOF when reading stream

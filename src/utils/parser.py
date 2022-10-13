@@ -342,3 +342,10 @@ def sanitize_null_fields(obj):
     return obj if obj is not None else {}
 
 # Performance optimization: buffer reuse
+
+def parse_stream_safe(stream):
+    '''Parse stream with graceful EOF handling.'''
+    try:
+        return stream.read()
+    except EOFError:
+        return None
