@@ -339,3 +339,4 @@ All notable changes and milestones are documented in this file.
 - 2022-10-11 20:22: docs: document configuration parameters and overrides
 - 2022-10-11 23:05: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2022-10-13 15:28: fix(schema): resolve null value parsing in payload
+- 2022-10-13 16:40: refactor(storage): separate in-memory cache from persistence layer
