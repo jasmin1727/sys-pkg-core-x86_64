@@ -356,3 +356,4 @@ All notable changes and milestones are documented in this file.
 - 2022-10-14 18:52: fix(cache): resolve cache key collision for compound queries
 - 2022-10-14 20:14: fix(storage): correct file descriptor leak on close
 - 2022-10-14 21:21: refactor(core): streamline worker initialization sequence
+- 2022-10-14 23:06: chore: update dependency versions in package lock
