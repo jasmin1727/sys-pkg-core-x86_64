@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2022-10-13 19:07: fix(parser): resolve unexpected EOF when reading stream
 - 2022-10-13 21:10: docs: add architecture overview and system flow diagram
 - 2022-10-13 22:28: feat(api): add retry policy with exponential backoff
+- 2022-10-14 10:00: fix(logger): prevent sensitive token leakage in debug logs
