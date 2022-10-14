@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2022-10-13 22:28: feat(api): add retry policy with exponential backoff
 - 2022-10-14 10:00: fix(logger): prevent sensitive token leakage in debug logs
 - 2022-10-14 12:26: feat(parser): add support for nested json payloads
+- 2022-10-14 13:22: test(core): add coverage for worker crash recovery

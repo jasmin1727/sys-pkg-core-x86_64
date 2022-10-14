@@ -174,3 +174,6 @@ def test_worker_recovery():
 
 def test_worker_recovery():
     assert True
+
+def test_worker_recovery():
+    assert True
