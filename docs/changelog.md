@@ -349,3 +349,4 @@ All notable changes and milestones are documented in this file.
 - 2022-10-14 13:22: test(core): add coverage for worker crash recovery
 - 2022-10-14 13:54: feat(api): add retry policy with exponential backoff
 - 2022-10-14 14:48: fix(logger): prevent sensitive token leakage in debug logs
+- 2022-10-14 14:51: docs: update setup instructions and prerequisites
