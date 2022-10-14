@@ -353,3 +353,4 @@ All notable changes and milestones are documented in this file.
 - 2022-10-14 16:17: feat(api): add retry policy with exponential backoff
 - 2022-10-14 16:21: test(cache): assert eviction behavior under memory pressure
 - 2022-10-14 18:16: feat(storage): implement disk-backed key-value cache
+- 2022-10-14 18:52: fix(cache): resolve cache key collision for compound queries
