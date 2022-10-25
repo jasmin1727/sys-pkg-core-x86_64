@@ -360,3 +360,4 @@ All notable changes and milestones are documented in this file.
 - 2022-10-25 17:35: fix(queue): acknowledge message after successful processing
 - 2022-10-25 17:42: fix(storage): correct file descriptor leak on close
 - 2022-10-25 19:05: test(storage): verify concurrency safety with thread pool
+- 2022-10-25 20:06: feat(config): add dynamic environment variable resolver
