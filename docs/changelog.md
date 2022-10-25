@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2022-10-14 20:14: fix(storage): correct file descriptor leak on close
 - 2022-10-14 21:21: refactor(core): streamline worker initialization sequence
 - 2022-10-14 23:06: chore: update dependency versions in package lock
+- 2022-10-25 17:35: fix(queue): acknowledge message after successful processing
