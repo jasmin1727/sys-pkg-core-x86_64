@@ -362,3 +362,4 @@ All notable changes and milestones are documented in this file.
 - 2022-10-25 19:05: test(storage): verify concurrency safety with thread pool
 - 2022-10-25 20:06: feat(config): add dynamic environment variable resolver
 - 2022-10-28 11:06: refactor(core): streamline worker initialization sequence
+- 2022-10-28 12:44: fix(cache): resolve cache key collision for compound queries
