@@ -365,3 +365,4 @@ All notable changes and milestones are documented in this file.
 - 2022-10-28 12:44: fix(cache): resolve cache key collision for compound queries
 - 2022-10-31 18:52: fix(config): fallback to defaults when config key is missing
 - 2022-10-31 19:45: test(core): add coverage for worker crash recovery
+- 2022-10-31 21:47: feat(core): implement async task worker pool
