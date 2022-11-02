@@ -371,3 +371,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-02 11:58: refactor(storage): separate in-memory cache from persistence layer
 - 2022-11-02 12:53: feat(core): implement async task worker pool
 - 2022-11-02 12:57: test(cache): assert eviction behavior under memory pressure
+- 2022-11-02 16:22: feat(parser): add support for nested json payloads
