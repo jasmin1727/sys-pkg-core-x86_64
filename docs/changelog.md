@@ -373,3 +373,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-02 12:57: test(cache): assert eviction behavior under memory pressure
 - 2022-11-02 16:22: feat(parser): add support for nested json payloads
 - 2022-11-02 18:03: chore: configure pre-commit hooks and linter rules
+- 2022-11-02 18:03: fix(schema): resolve null value parsing in payload
