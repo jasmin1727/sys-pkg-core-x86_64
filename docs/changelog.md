@@ -375,3 +375,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-02 18:03: chore: configure pre-commit hooks and linter rules
 - 2022-11-02 18:03: fix(schema): resolve null value parsing in payload
 - 2022-11-02 19:03: fix(config): fallback to defaults when config key is missing
+- 2022-11-02 19:07: test(core): add coverage for worker crash recovery
