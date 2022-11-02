@@ -369,3 +369,4 @@ All notable changes and milestones are documented in this file.
 - 2022-10-31 23:06: feat(stream): add chunked data stream reader
 - 2022-11-02 11:42: refactor(core): streamline worker initialization sequence
 - 2022-11-02 11:58: refactor(storage): separate in-memory cache from persistence layer
+- 2022-11-02 12:53: feat(core): implement async task worker pool
