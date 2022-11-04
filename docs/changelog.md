@@ -382,3 +382,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-03 22:06: fix(parser): resolve unexpected EOF when reading stream
 - 2022-11-03 22:53: refactor(utils): decompose monolithic string processing utility
 - 2022-11-03 23:25: refactor(core): streamline worker initialization sequence
+- 2022-11-04 11:37: fix(parser): resolve unexpected EOF when reading stream
