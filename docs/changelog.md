@@ -385,3 +385,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-04 11:37: fix(parser): resolve unexpected EOF when reading stream
 - 2022-11-04 17:18: feat(core): implement async task worker pool
 - 2022-11-04 17:23: refactor(storage): separate in-memory cache from persistence layer
+- 2022-11-04 20:26: feat(api): add retry policy with exponential backoff
