@@ -384,3 +384,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-03 23:25: refactor(core): streamline worker initialization sequence
 - 2022-11-04 11:37: fix(parser): resolve unexpected EOF when reading stream
 - 2022-11-04 17:18: feat(core): implement async task worker pool
+- 2022-11-04 17:23: refactor(storage): separate in-memory cache from persistence layer
