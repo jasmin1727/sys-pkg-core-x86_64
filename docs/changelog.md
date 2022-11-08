@@ -388,3 +388,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-04 20:26: feat(api): add retry policy with exponential backoff
 - 2022-11-08 15:41: test(core): add coverage for worker crash recovery
 - 2022-11-08 16:11: refactor: optimize module imports and remove unused dependencies
+- 2022-11-08 16:40: feat(storage): implement disk-backed key-value cache
