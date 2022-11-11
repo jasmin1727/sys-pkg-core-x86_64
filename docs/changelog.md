@@ -394,3 +394,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-08 22:06: fix(queue): acknowledge message after successful processing
 - 2022-11-08 22:45: feat(storage): implement disk-backed key-value cache
 - 2022-11-09 13:13: refactor(utils): decompose monolithic string processing utility
+- 2022-11-11 12:36: refactor(cache): unify cache interface across backends
