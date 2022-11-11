@@ -395,3 +395,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-08 22:45: feat(storage): implement disk-backed key-value cache
 - 2022-11-09 13:13: refactor(utils): decompose monolithic string processing utility
 - 2022-11-11 12:36: refactor(cache): unify cache interface across backends
+- 2022-11-11 15:28: fix(schema): resolve null value parsing in payload
