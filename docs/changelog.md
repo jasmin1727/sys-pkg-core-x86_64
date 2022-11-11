@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-11 12:36: refactor(cache): unify cache interface across backends
 - 2022-11-11 15:28: fix(schema): resolve null value parsing in payload
 - 2022-11-11 16:44: test(cache): assert eviction behavior under memory pressure
+- 2022-11-11 23:20: feat(events): implement publish-subscribe message bus
