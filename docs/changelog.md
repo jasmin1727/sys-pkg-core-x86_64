@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-12 15:42: fix(core): handle race condition during worker shutdown
 - 2022-11-12 16:33: fix(cache): resolve cache key collision for compound queries
 - 2022-11-12 17:17: docs: update setup instructions and prerequisites
+- 2022-11-12 18:54: test(parser): add test cases for malformed inputs
