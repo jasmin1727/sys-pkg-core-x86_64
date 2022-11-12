@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-11 23:20: feat(events): implement publish-subscribe message bus
 - 2022-11-12 10:13: docs: update API endpoints reference and sample requests
 - 2022-11-12 15:42: fix(core): handle race condition during worker shutdown
+- 2022-11-12 16:33: fix(cache): resolve cache key collision for compound queries
