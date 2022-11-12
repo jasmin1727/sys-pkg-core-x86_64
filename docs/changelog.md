@@ -263,3 +263,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-12 17:17: docs: update setup instructions and prerequisites
 - 2022-11-12 18:54: test(parser): add test cases for malformed inputs
 - 2022-11-12 19:49: feat(validator): add schema validation for incoming events
+- 2022-11-12 20:22: refactor: optimize module imports and remove unused dependencies
