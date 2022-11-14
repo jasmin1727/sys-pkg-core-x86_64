@@ -266,3 +266,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-12 20:22: refactor: optimize module imports and remove unused dependencies
 - 2022-11-12 20:23: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2022-11-14 11:04: feat(events): implement publish-subscribe message bus
+- 2022-11-14 14:49: feat(storage): implement disk-backed key-value cache
