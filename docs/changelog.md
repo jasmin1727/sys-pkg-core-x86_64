@@ -270,3 +270,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-14 17:33: fix(core): handle race condition during worker shutdown
 - 2022-11-16 18:38: chore: configure pre-commit hooks and linter rules
 - 2022-11-16 23:25: refactor: optimize module imports and remove unused dependencies
+- 2022-11-17 20:15: docs: document configuration parameters and overrides
