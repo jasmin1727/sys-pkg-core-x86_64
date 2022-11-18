@@ -273,3 +273,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-17 20:15: docs: document configuration parameters and overrides
 - 2022-11-18 11:07: docs: update setup instructions and prerequisites
 - 2022-11-18 15:19: fix(logger): prevent sensitive token leakage in debug logs
+- 2022-11-18 15:42: fix(schema): resolve null value parsing in payload
