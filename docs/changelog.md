@@ -281,3 +281,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-19 16:24: fix(parser): resolve unexpected EOF when reading stream
 - 2022-11-19 17:36: chore: update dependency versions in package lock
 - 2022-11-19 19:02: test(cache): assert eviction behavior under memory pressure
+- 2022-11-19 20:51: fix(logger): prevent sensitive token leakage in debug logs
