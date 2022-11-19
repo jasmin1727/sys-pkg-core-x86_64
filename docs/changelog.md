@@ -278,3 +278,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-18 19:41: docs: update setup instructions and prerequisites
 - 2022-11-18 22:03: feat(parser): add support for nested json payloads
 - 2022-11-19 10:10: feat(scheduler): support cron-like job scheduling intervals
+- 2022-11-19 16:24: fix(parser): resolve unexpected EOF when reading stream
