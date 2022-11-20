@@ -284,3 +284,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-19 20:51: fix(logger): prevent sensitive token leakage in debug logs
 - 2022-11-20 10:14: feat(logger): introduce structured json formatting
 - 2022-11-20 14:42: test(core): add coverage for worker crash recovery
+- 2022-11-20 18:24: feat(cache): implement adaptive LRU cache with TTL expiry
