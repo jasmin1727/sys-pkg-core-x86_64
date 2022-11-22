@@ -293,3 +293,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-22 11:58: feat(stream): add chunked data stream reader
 - 2022-11-22 12:00: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2022-11-22 12:58: fix(parser): resolve unexpected EOF when reading stream
+- 2022-11-22 15:53: fix(schema): resolve null value parsing in payload
