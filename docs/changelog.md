@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-21 10:10: style: enforce consistent docstring and code formatting
 - 2022-11-21 14:23: feat(parser): add support for nested json payloads
 - 2022-11-22 10:43: test(cache): assert eviction behavior under memory pressure
+- 2022-11-22 11:58: feat(stream): add chunked data stream reader
