@@ -301,3 +301,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-26 10:36: fix(cache): resolve cache key collision for compound queries
 - 2022-11-26 17:17: fix(config): fallback to defaults when config key is missing
 - 2022-11-26 17:59: docs: update setup instructions and prerequisites
+- 2022-11-26 20:19: test(parser): add test cases for malformed inputs
