@@ -299,3 +299,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-22 20:46: fix(storage): correct file descriptor leak on close
 - 2022-11-22 21:40: fix(schema): resolve null value parsing in payload
 - 2022-11-26 10:36: fix(cache): resolve cache key collision for compound queries
+- 2022-11-26 17:17: fix(config): fallback to defaults when config key is missing
