@@ -304,3 +304,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-26 20:19: test(parser): add test cases for malformed inputs
 - 2022-11-28 10:55: feat(context): propagate request trace id across coroutines
 - 2022-11-28 11:53: test(parser): add test cases for malformed inputs
+- 2022-11-28 16:31: refactor(storage): separate in-memory cache from persistence layer
