@@ -309,3 +309,4 @@ All notable changes and milestones are documented in this file.
 - 2022-11-29 15:02: refactor(storage): separate in-memory cache from persistence layer
 - 2022-12-01 11:56: refactor(storage): separate in-memory cache from persistence layer
 - 2022-12-01 12:09: test(core): add coverage for worker crash recovery
+- 2022-12-01 19:58: perf: reduce allocations in serialization hot path
