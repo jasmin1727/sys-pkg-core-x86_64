@@ -319,3 +319,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-02 18:56: style: enforce consistent docstring and code formatting
 - 2022-12-02 20:36: test(core): add coverage for worker crash recovery
 - 2022-12-02 21:47: test(core): add coverage for worker crash recovery
+- 2022-12-02 23:10: feat(stream): add chunked data stream reader
