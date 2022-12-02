@@ -314,3 +314,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-01 21:47: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2022-12-02 11:20: feat(parser): add support for nested json payloads
 - 2022-12-02 16:08: perf: reduce allocations in serialization hot path
+- 2022-12-02 17:57: fix(storage): correct file descriptor leak on close
