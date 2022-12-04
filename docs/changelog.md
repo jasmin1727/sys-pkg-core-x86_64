@@ -324,3 +324,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-04 12:26: chore: update dependency versions in package lock
 - 2022-12-04 13:09: docs: add architecture overview and system flow diagram
 - 2022-12-04 15:35: feat(context): propagate request trace id across coroutines
+- 2022-12-04 18:00: fix(logger): prevent sensitive token leakage in debug logs
