@@ -323,3 +323,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-04 11:20: feat(stream): add chunked data stream reader
 - 2022-12-04 12:26: chore: update dependency versions in package lock
 - 2022-12-04 13:09: docs: add architecture overview and system flow diagram
+- 2022-12-04 15:35: feat(context): propagate request trace id across coroutines
