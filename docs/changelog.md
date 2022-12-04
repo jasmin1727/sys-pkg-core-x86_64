@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-02 21:47: test(core): add coverage for worker crash recovery
 - 2022-12-02 23:10: feat(stream): add chunked data stream reader
 - 2022-12-04 11:20: feat(stream): add chunked data stream reader
+- 2022-12-04 12:26: chore: update dependency versions in package lock
