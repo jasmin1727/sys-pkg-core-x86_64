@@ -269,3 +269,5 @@ def parse_nested_payload(raw: str) -> dict:
     return json.loads(raw)
 
 # Performance optimization: buffer reuse
+
+# Decomposed string processing helpers
