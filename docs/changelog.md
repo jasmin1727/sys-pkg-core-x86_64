@@ -331,3 +331,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-06 12:05: test(parser): add test cases for malformed inputs
 - 2022-12-06 12:28: fix(storage): correct file descriptor leak on close
 - 2022-12-06 16:22: refactor(utils): decompose monolithic string processing utility
+- 2022-12-06 16:52: chore: configure pre-commit hooks and linter rules
