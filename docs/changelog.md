@@ -341,3 +341,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-07 15:07: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2022-12-07 15:42: docs: document configuration parameters and overrides
 - 2022-12-07 16:10: docs: update API endpoints reference and sample requests
+- 2022-12-07 16:28: docs: update API endpoints reference and sample requests
