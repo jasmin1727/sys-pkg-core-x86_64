@@ -342,3 +342,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-07 15:42: docs: document configuration parameters and overrides
 - 2022-12-07 16:10: docs: update API endpoints reference and sample requests
 - 2022-12-07 16:28: docs: update API endpoints reference and sample requests
+- 2022-12-07 16:59: refactor(storage): separate in-memory cache from persistence layer
