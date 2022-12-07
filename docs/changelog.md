@@ -339,3 +339,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-07 10:58: fix(queue): acknowledge message after successful processing
 - 2022-12-07 14:51: feat(parser): add support for nested json payloads
 - 2022-12-07 15:07: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2022-12-07 15:42: docs: document configuration parameters and overrides
