@@ -345,3 +345,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-07 16:59: refactor(storage): separate in-memory cache from persistence layer
 - 2022-12-07 17:20: refactor(storage): separate in-memory cache from persistence layer
 - 2022-12-07 21:19: fix(cache): resolve cache key collision for compound queries
+- 2022-12-07 21:59: test(core): add coverage for worker crash recovery
