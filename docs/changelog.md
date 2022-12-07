@@ -336,3 +336,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-06 18:56: fix(logger): prevent sensitive token leakage in debug logs
 - 2022-12-06 21:33: fix(config): fallback to defaults when config key is missing
 - 2022-12-07 10:27: fix(config): fallback to defaults when config key is missing
+- 2022-12-07 10:58: fix(queue): acknowledge message after successful processing
