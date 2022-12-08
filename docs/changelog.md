@@ -350,3 +350,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-08 14:38: feat(metrics): track request latency and error counters
 - 2022-12-08 17:01: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2022-12-08 17:07: perf: reduce allocations in serialization hot path
+- 2022-12-08 19:21: refactor(utils): decompose monolithic string processing utility
