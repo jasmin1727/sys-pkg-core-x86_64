@@ -352,3 +352,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-08 17:07: perf: reduce allocations in serialization hot path
 - 2022-12-08 19:21: refactor(utils): decompose monolithic string processing utility
 - 2022-12-08 21:09: feat(api): add retry policy with exponential backoff
+- 2022-12-09 14:13: fix(storage): correct file descriptor leak on close
