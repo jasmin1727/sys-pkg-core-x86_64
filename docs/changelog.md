@@ -355,3 +355,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-09 14:13: fix(storage): correct file descriptor leak on close
 - 2022-12-09 19:19: refactor(storage): separate in-memory cache from persistence layer
 - 2022-12-09 19:59: refactor: optimize module imports and remove unused dependencies
+- 2022-12-09 20:28: test(parser): add test cases for malformed inputs
