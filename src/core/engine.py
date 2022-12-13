@@ -186,3 +186,7 @@ class MetricsCollector:
 class TokenBucket:
     '''Token bucket rate limiter implementation.'''
     pass
+
+def create_worker_pool(workers: int = 4):
+    '''Initialize async worker pool.'''
+    return {'workers': workers, 'status': 'ready'}
