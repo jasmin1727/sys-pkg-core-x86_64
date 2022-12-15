@@ -367,3 +367,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-14 15:42: refactor(storage): separate in-memory cache from persistence layer
 - 2022-12-15 13:47: fix(schema): resolve null value parsing in payload
 - 2022-12-15 17:56: fix(schema): resolve null value parsing in payload
+- 2022-12-15 18:32: feat(config): add dynamic environment variable resolver
