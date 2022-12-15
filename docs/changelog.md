@@ -365,3 +365,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-13 19:57: test(core): add coverage for worker crash recovery
 - 2022-12-13 21:58: refactor(utils): decompose monolithic string processing utility
 - 2022-12-14 15:42: refactor(storage): separate in-memory cache from persistence layer
+- 2022-12-15 13:47: fix(schema): resolve null value parsing in payload
