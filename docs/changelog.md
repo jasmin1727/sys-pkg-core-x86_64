@@ -368,3 +368,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-15 13:47: fix(schema): resolve null value parsing in payload
 - 2022-12-15 17:56: fix(schema): resolve null value parsing in payload
 - 2022-12-15 18:32: feat(config): add dynamic environment variable resolver
+- 2022-12-15 19:41: feat(stream): add chunked data stream reader
