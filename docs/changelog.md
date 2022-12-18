@@ -373,3 +373,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-18 12:46: feat(metrics): track request latency and error counters
 - 2022-12-18 13:42: fix(parser): resolve unexpected EOF when reading stream
 - 2022-12-18 17:34: test(parser): add test cases for malformed inputs
+- 2022-12-18 19:27: test(parser): add test cases for malformed inputs
