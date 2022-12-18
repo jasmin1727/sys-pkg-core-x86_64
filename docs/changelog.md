@@ -371,3 +371,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-15 19:41: feat(stream): add chunked data stream reader
 - 2022-12-15 20:36: refactor: optimize module imports and remove unused dependencies
 - 2022-12-18 12:46: feat(metrics): track request latency and error counters
+- 2022-12-18 13:42: fix(parser): resolve unexpected EOF when reading stream
