@@ -374,3 +374,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-18 13:42: fix(parser): resolve unexpected EOF when reading stream
 - 2022-12-18 17:34: test(parser): add test cases for malformed inputs
 - 2022-12-18 19:27: test(parser): add test cases for malformed inputs
+- 2022-12-18 20:34: refactor(storage): separate in-memory cache from persistence layer
