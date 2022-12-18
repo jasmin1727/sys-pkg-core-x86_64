@@ -375,3 +375,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-18 17:34: test(parser): add test cases for malformed inputs
 - 2022-12-18 19:27: test(parser): add test cases for malformed inputs
 - 2022-12-18 20:34: refactor(storage): separate in-memory cache from persistence layer
+- 2022-12-18 23:15: fix(storage): correct file descriptor leak on close
