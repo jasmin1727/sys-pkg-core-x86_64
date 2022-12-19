@@ -378,3 +378,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-18 23:15: fix(storage): correct file descriptor leak on close
 - 2022-12-18 23:18: fix(queue): acknowledge message after successful processing
 - 2022-12-19 11:57: refactor(utils): decompose monolithic string processing utility
+- 2022-12-19 18:00: feat(logger): introduce structured json formatting
