@@ -380,3 +380,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-19 11:57: refactor(utils): decompose monolithic string processing utility
 - 2022-12-19 18:00: feat(logger): introduce structured json formatting
 - 2022-12-19 22:35: refactor(cache): unify cache interface across backends
+- 2022-12-21 13:06: fix(queue): acknowledge message after successful processing
