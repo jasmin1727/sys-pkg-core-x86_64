@@ -386,3 +386,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-22 14:55: refactor(storage): separate in-memory cache from persistence layer
 - 2022-12-22 16:23: refactor(utils): decompose monolithic string processing utility
 - 2022-12-22 22:02: feat(context): propagate request trace id across coroutines
+- 2022-12-22 22:21: feat(api): add retry policy with exponential backoff
