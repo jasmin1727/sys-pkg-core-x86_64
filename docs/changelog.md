@@ -384,3 +384,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-21 16:11: feat(config): add dynamic environment variable resolver
 - 2022-12-21 22:36: fix(parser): resolve unexpected EOF when reading stream
 - 2022-12-22 14:55: refactor(storage): separate in-memory cache from persistence layer
+- 2022-12-22 16:23: refactor(utils): decompose monolithic string processing utility
