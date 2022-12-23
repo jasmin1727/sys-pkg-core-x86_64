@@ -388,3 +388,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-22 22:02: feat(context): propagate request trace id across coroutines
 - 2022-12-22 22:21: feat(api): add retry policy with exponential backoff
 - 2022-12-23 15:01: refactor: optimize module imports and remove unused dependencies
+- 2022-12-23 15:36: feat(events): implement publish-subscribe message bus
