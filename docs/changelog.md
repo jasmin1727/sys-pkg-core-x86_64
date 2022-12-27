@@ -391,3 +391,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-23 15:36: feat(events): implement publish-subscribe message bus
 - 2022-12-23 20:31: fix(schema): resolve null value parsing in payload
 - 2022-12-27 10:25: fix(config): fallback to defaults when config key is missing
+- 2022-12-27 14:03: test(storage): verify concurrency safety with thread pool
