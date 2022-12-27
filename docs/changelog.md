@@ -393,3 +393,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-27 10:25: fix(config): fallback to defaults when config key is missing
 - 2022-12-27 14:03: test(storage): verify concurrency safety with thread pool
 - 2022-12-27 15:16: refactor(cache): unify cache interface across backends
+- 2022-12-27 18:25: feat(auth): add bearer token header validation helper
