@@ -258,3 +258,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-28 13:23: fix(storage): correct file descriptor leak on close
 - 2022-12-28 17:23: docs: update API endpoints reference and sample requests
 - 2022-12-28 19:18: refactor: optimize module imports and remove unused dependencies
+- 2022-12-28 19:26: feat(cache): implement adaptive LRU cache with TTL expiry
