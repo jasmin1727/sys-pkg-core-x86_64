@@ -396,3 +396,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-27 18:25: feat(auth): add bearer token header validation helper
 - 2022-12-28 11:22: feat(context): propagate request trace id across coroutines
 - 2022-12-28 13:16: refactor(storage): separate in-memory cache from persistence layer
+- 2022-12-28 13:23: fix(storage): correct file descriptor leak on close
