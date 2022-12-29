@@ -260,3 +260,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-28 19:18: refactor: optimize module imports and remove unused dependencies
 - 2022-12-28 19:26: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2022-12-28 19:48: feat(validator): add schema validation for incoming events
+- 2022-12-29 15:02: fix(schema): resolve null value parsing in payload
