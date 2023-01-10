@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-28 19:26: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2022-12-28 19:48: feat(validator): add schema validation for incoming events
 - 2022-12-29 15:02: fix(schema): resolve null value parsing in payload
+- 2023-01-10 21:32: fix(queue): acknowledge message after successful processing
