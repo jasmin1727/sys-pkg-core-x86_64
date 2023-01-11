@@ -270,3 +270,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-11 15:54: docs: add architecture overview and system flow diagram
 - 2023-01-11 16:56: fix(cache): resolve cache key collision for compound queries
 - 2023-01-11 21:39: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2023-01-11 22:37: feat(stream): add chunked data stream reader
