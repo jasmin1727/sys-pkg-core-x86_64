@@ -263,3 +263,4 @@ All notable changes and milestones are documented in this file.
 - 2022-12-29 15:02: fix(schema): resolve null value parsing in payload
 - 2023-01-10 21:32: fix(queue): acknowledge message after successful processing
 - 2023-01-11 11:38: fix(parser): resolve unexpected EOF when reading stream
+- 2023-01-11 11:43: feat(events): implement publish-subscribe message bus
