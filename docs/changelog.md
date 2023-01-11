@@ -268,3 +268,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-11 12:40: fix(config): fallback to defaults when config key is missing
 - 2023-01-11 12:59: feat(scheduler): support cron-like job scheduling intervals
 - 2023-01-11 15:54: docs: add architecture overview and system flow diagram
+- 2023-01-11 16:56: fix(cache): resolve cache key collision for compound queries
