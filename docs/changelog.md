@@ -265,3 +265,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-11 11:38: fix(parser): resolve unexpected EOF when reading stream
 - 2023-01-11 11:43: feat(events): implement publish-subscribe message bus
 - 2023-01-11 12:26: refactor(core): streamline worker initialization sequence
+- 2023-01-11 12:40: fix(config): fallback to defaults when config key is missing
