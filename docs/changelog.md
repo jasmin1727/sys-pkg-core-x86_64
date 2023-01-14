@@ -273,3 +273,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-11 22:37: feat(stream): add chunked data stream reader
 - 2023-01-14 10:08: feat(core): implement async task worker pool
 - 2023-01-14 14:02: feat(context): propagate request trace id across coroutines
+- 2023-01-14 21:51: feat(metrics): track request latency and error counters
