@@ -276,3 +276,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-14 21:51: feat(metrics): track request latency and error counters
 - 2023-01-14 23:19: feat(validator): add schema validation for incoming events
 - 2023-01-16 12:41: chore: configure pre-commit hooks and linter rules
+- 2023-01-16 22:02: fix(cache): resolve cache key collision for compound queries
