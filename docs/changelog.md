@@ -278,3 +278,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-16 12:41: chore: configure pre-commit hooks and linter rules
 - 2023-01-16 22:02: fix(cache): resolve cache key collision for compound queries
 - 2023-01-18 15:04: feat(events): implement publish-subscribe message bus
+- 2023-01-18 15:45: docs: update API endpoints reference and sample requests
