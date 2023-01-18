@@ -280,3 +280,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-18 15:04: feat(events): implement publish-subscribe message bus
 - 2023-01-18 15:45: docs: update API endpoints reference and sample requests
 - 2023-01-18 16:05: fix(storage): correct file descriptor leak on close
+- 2023-01-18 17:14: feat(auth): add bearer token header validation helper
