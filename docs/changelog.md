@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-20 15:10: fix(schema): resolve null value parsing in payload
 - 2023-01-20 15:38: feat(validator): add schema validation for incoming events
 - 2023-01-20 16:54: feat(events): implement publish-subscribe message bus
+- 2023-01-20 22:14: fix(core): handle race condition during worker shutdown
