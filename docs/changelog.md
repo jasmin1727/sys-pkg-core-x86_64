@@ -287,3 +287,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-19 12:53: refactor: optimize module imports and remove unused dependencies
 - 2023-01-19 20:15: docs: document configuration parameters and overrides
 - 2023-01-20 11:55: feat(events): implement publish-subscribe message bus
+- 2023-01-20 15:10: fix(schema): resolve null value parsing in payload
