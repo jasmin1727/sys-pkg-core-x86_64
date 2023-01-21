@@ -292,3 +292,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-20 16:54: feat(events): implement publish-subscribe message bus
 - 2023-01-20 22:14: fix(core): handle race condition during worker shutdown
 - 2023-01-21 14:04: fix(cache): resolve cache key collision for compound queries
+- 2023-01-21 19:22: feat(core): implement async task worker pool
