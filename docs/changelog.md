@@ -294,3 +294,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-21 14:04: fix(cache): resolve cache key collision for compound queries
 - 2023-01-21 19:22: feat(core): implement async task worker pool
 - 2023-01-21 21:20: perf: reduce allocations in serialization hot path
+- 2023-01-23 14:07: fix(queue): acknowledge message after successful processing
