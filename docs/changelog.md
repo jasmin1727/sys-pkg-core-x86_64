@@ -297,3 +297,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-23 14:07: fix(queue): acknowledge message after successful processing
 - 2023-01-23 14:56: feat(config): add dynamic environment variable resolver
 - 2023-01-23 16:53: refactor(core): streamline worker initialization sequence
+- 2023-01-23 17:26: refactor(utils): decompose monolithic string processing utility
