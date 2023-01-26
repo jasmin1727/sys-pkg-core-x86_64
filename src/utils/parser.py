@@ -182,3 +182,7 @@ def validate_event_schema(event: dict) -> bool:
 # Performance optimization: buffer reuse
 
 # Decomposed string processing helpers
+
+def validate_bearer_token(header: str) -> bool:
+    '''Validate authorization header format.'''
+    return header.startswith('Bearer ')
