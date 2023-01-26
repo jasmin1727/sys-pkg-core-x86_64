@@ -302,3 +302,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-24 21:17: refactor: optimize module imports and remove unused dependencies
 - 2023-01-24 23:06: refactor(core): streamline worker initialization sequence
 - 2023-01-26 10:25: feat(auth): add bearer token header validation helper
+- 2023-01-26 12:34: test(core): add coverage for worker crash recovery
