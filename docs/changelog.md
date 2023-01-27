@@ -309,3 +309,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-27 12:00: fix(cache): resolve cache key collision for compound queries
 - 2023-01-27 15:06: docs: update API endpoints reference and sample requests
 - 2023-01-27 15:43: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2023-01-27 20:16: fix(schema): resolve null value parsing in payload
