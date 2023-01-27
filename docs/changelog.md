@@ -305,3 +305,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-26 12:34: test(core): add coverage for worker crash recovery
 - 2023-01-26 16:20: refactor(storage): separate in-memory cache from persistence layer
 - 2023-01-27 10:13: fix(logger): prevent sensitive token leakage in debug logs
+- 2023-01-27 11:59: docs: update API endpoints reference and sample requests
