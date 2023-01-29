@@ -311,3 +311,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-27 15:43: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2023-01-27 20:16: fix(schema): resolve null value parsing in payload
 - 2023-01-27 21:07: feat(config): add dynamic environment variable resolver
+- 2023-01-29 10:12: feat(validator): add schema validation for incoming events
