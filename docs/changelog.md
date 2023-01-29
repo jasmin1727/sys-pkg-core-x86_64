@@ -316,3 +316,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-29 12:39: fix(core): handle race condition during worker shutdown
 - 2023-01-29 16:05: feat(storage): implement disk-backed key-value cache
 - 2023-01-29 17:48: fix(cache): resolve cache key collision for compound queries
+- 2023-01-29 18:43: test(parser): add test cases for malformed inputs
