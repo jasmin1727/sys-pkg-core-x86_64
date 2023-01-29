@@ -314,3 +314,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-29 10:12: feat(validator): add schema validation for incoming events
 - 2023-01-29 11:01: fix(queue): acknowledge message after successful processing
 - 2023-01-29 12:39: fix(core): handle race condition during worker shutdown
+- 2023-01-29 16:05: feat(storage): implement disk-backed key-value cache
