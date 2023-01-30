@@ -319,3 +319,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-29 18:43: test(parser): add test cases for malformed inputs
 - 2023-01-30 10:47: feat(config): add dynamic environment variable resolver
 - 2023-01-30 13:56: fix(schema): resolve null value parsing in payload
+- 2023-01-30 14:49: fix(storage): correct file descriptor leak on close
