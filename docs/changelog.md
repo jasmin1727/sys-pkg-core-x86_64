@@ -317,3 +317,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-29 16:05: feat(storage): implement disk-backed key-value cache
 - 2023-01-29 17:48: fix(cache): resolve cache key collision for compound queries
 - 2023-01-29 18:43: test(parser): add test cases for malformed inputs
+- 2023-01-30 10:47: feat(config): add dynamic environment variable resolver
