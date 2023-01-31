@@ -322,3 +322,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-30 14:49: fix(storage): correct file descriptor leak on close
 - 2023-01-30 19:19: refactor(cache): unify cache interface across backends
 - 2023-01-30 23:08: fix(schema): resolve null value parsing in payload
+- 2023-01-31 14:04: feat(validator): add schema validation for incoming events
