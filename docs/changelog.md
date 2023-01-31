@@ -324,3 +324,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-30 23:08: fix(schema): resolve null value parsing in payload
 - 2023-01-31 14:04: feat(validator): add schema validation for incoming events
 - 2023-01-31 14:45: fix(config): fallback to defaults when config key is missing
+- 2023-01-31 18:18: fix(parser): resolve unexpected EOF when reading stream
