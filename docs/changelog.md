@@ -328,3 +328,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-01 10:18: test(core): add coverage for worker crash recovery
 - 2023-02-01 13:29: perf: reduce allocations in serialization hot path
 - 2023-02-01 13:57: docs: update setup instructions and prerequisites
+- 2023-02-01 15:44: docs: document configuration parameters and overrides
