@@ -327,3 +327,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-31 18:18: fix(parser): resolve unexpected EOF when reading stream
 - 2023-02-01 10:18: test(core): add coverage for worker crash recovery
 - 2023-02-01 13:29: perf: reduce allocations in serialization hot path
+- 2023-02-01 13:57: docs: update setup instructions and prerequisites
