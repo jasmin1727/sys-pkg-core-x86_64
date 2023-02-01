@@ -325,3 +325,4 @@ All notable changes and milestones are documented in this file.
 - 2023-01-31 14:04: feat(validator): add schema validation for incoming events
 - 2023-01-31 14:45: fix(config): fallback to defaults when config key is missing
 - 2023-01-31 18:18: fix(parser): resolve unexpected EOF when reading stream
+- 2023-02-01 10:18: test(core): add coverage for worker crash recovery
