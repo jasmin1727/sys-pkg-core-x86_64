@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-03 10:13: fix(queue): acknowledge message after successful processing
 - 2023-02-03 10:43: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-02-04 12:41: feat(stream): add chunked data stream reader
+- 2023-02-04 12:46: feat(validator): add schema validation for incoming events
