@@ -334,3 +334,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-04 12:41: feat(stream): add chunked data stream reader
 - 2023-02-04 12:46: feat(validator): add schema validation for incoming events
 - 2023-02-04 18:00: fix(core): handle race condition during worker shutdown
+- 2023-02-04 18:02: feat(metrics): track request latency and error counters
