@@ -336,3 +336,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-04 18:00: fix(core): handle race condition during worker shutdown
 - 2023-02-04 18:02: feat(metrics): track request latency and error counters
 - 2023-02-04 20:05: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2023-02-04 21:01: test(cache): assert eviction behavior under memory pressure
