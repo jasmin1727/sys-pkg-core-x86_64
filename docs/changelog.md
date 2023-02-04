@@ -338,3 +338,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-04 20:05: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2023-02-04 21:01: test(cache): assert eviction behavior under memory pressure
 - 2023-02-04 21:01: fix(schema): resolve null value parsing in payload
+- 2023-02-04 21:19: test(core): add coverage for worker crash recovery
