@@ -340,3 +340,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-04 21:01: fix(schema): resolve null value parsing in payload
 - 2023-02-04 21:19: test(core): add coverage for worker crash recovery
 - 2023-02-05 12:17: feat(storage): implement disk-backed key-value cache
+- 2023-02-05 12:31: feat(parser): add support for nested json payloads
