@@ -342,3 +342,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-05 12:17: feat(storage): implement disk-backed key-value cache
 - 2023-02-05 12:31: feat(parser): add support for nested json payloads
 - 2023-02-05 21:14: refactor(cache): unify cache interface across backends
+- 2023-02-05 22:21: refactor(storage): separate in-memory cache from persistence layer
