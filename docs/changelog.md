@@ -349,3 +349,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-06 12:10: fix(cache): resolve cache key collision for compound queries
 - 2023-02-06 15:49: perf: reduce allocations in serialization hot path
 - 2023-02-06 16:15: chore: update dependency versions in package lock
+- 2023-02-06 18:57: feat(logger): introduce structured json formatting
