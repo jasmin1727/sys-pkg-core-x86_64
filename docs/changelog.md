@@ -345,3 +345,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-05 22:21: refactor(storage): separate in-memory cache from persistence layer
 - 2023-02-05 22:46: fix(schema): resolve null value parsing in payload
 - 2023-02-06 10:55: style: enforce consistent docstring and code formatting
+- 2023-02-06 11:47: fix(cache): resolve cache key collision for compound queries
