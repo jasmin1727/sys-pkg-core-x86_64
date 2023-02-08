@@ -233,3 +233,5 @@ def sanitize_null_fields(obj):
     return obj if obj is not None else {}
 
 # Performance optimization: buffer reuse
+
+# Performance optimization: buffer reuse

@@ -352,3 +352,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-06 18:57: feat(logger): introduce structured json formatting
 - 2023-02-06 19:53: feat(api): add retry policy with exponential backoff
 - 2023-02-06 20:02: test(core): add coverage for worker crash recovery
+- 2023-02-08 23:17: perf: reduce allocations in serialization hot path
