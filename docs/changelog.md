@@ -355,3 +355,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-08 23:17: perf: reduce allocations in serialization hot path
 - 2023-02-10 23:13: fix(config): fallback to defaults when config key is missing
 - 2023-02-11 16:17: docs: add architecture overview and system flow diagram
+- 2023-02-11 17:33: feat(storage): implement disk-backed key-value cache
