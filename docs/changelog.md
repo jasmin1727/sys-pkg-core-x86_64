@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-11 16:17: docs: add architecture overview and system flow diagram
 - 2023-02-11 17:33: feat(storage): implement disk-backed key-value cache
 - 2023-02-11 22:31: fix(queue): acknowledge message after successful processing
+- 2023-02-12 11:16: feat(events): implement publish-subscribe message bus
