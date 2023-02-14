@@ -367,3 +367,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-14 16:38: fix(config): fallback to defaults when config key is missing
 - 2023-02-14 17:03: refactor(storage): separate in-memory cache from persistence layer
 - 2023-02-14 19:24: feat(validator): add schema validation for incoming events
+- 2023-02-14 20:24: test(storage): verify concurrency safety with thread pool
