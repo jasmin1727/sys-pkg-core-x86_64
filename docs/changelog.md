@@ -361,3 +361,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-12 12:43: refactor(cache): unify cache interface across backends
 - 2023-02-14 10:43: fix(storage): correct file descriptor leak on close
 - 2023-02-14 13:55: test(parser): add test cases for malformed inputs
+- 2023-02-14 14:39: fix(logger): prevent sensitive token leakage in debug logs
