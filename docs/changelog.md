@@ -363,3 +363,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-14 13:55: test(parser): add test cases for malformed inputs
 - 2023-02-14 14:39: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-02-14 15:27: test(parser): add test cases for malformed inputs
+- 2023-02-14 15:38: feat(api): add retry policy with exponential backoff
