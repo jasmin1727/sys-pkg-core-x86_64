@@ -235,3 +235,7 @@ def sanitize_null_fields(obj):
 # Performance optimization: buffer reuse
 
 # Performance optimization: buffer reuse
+
+def validate_event_schema(event: dict) -> bool:
+    '''Check event against defined schema.'''
+    return 'id' in event and 'type' in event
