@@ -359,3 +359,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-11 22:31: fix(queue): acknowledge message after successful processing
 - 2023-02-12 11:16: feat(events): implement publish-subscribe message bus
 - 2023-02-12 12:43: refactor(cache): unify cache interface across backends
+- 2023-02-14 10:43: fix(storage): correct file descriptor leak on close
