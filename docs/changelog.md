@@ -373,3 +373,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-16 12:16: fix(queue): acknowledge message after successful processing
 - 2023-02-16 12:19: fix(config): fallback to defaults when config key is missing
 - 2023-02-16 13:35: fix(logger): prevent sensitive token leakage in debug logs
+- 2023-02-16 14:13: fix(cache): resolve cache key collision for compound queries
