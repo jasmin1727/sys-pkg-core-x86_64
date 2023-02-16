@@ -372,3 +372,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-14 23:14: refactor(utils): decompose monolithic string processing utility
 - 2023-02-16 12:16: fix(queue): acknowledge message after successful processing
 - 2023-02-16 12:19: fix(config): fallback to defaults when config key is missing
+- 2023-02-16 13:35: fix(logger): prevent sensitive token leakage in debug logs
