@@ -371,3 +371,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-14 22:52: feat(metrics): track request latency and error counters
 - 2023-02-14 23:14: refactor(utils): decompose monolithic string processing utility
 - 2023-02-16 12:16: fix(queue): acknowledge message after successful processing
+- 2023-02-16 12:19: fix(config): fallback to defaults when config key is missing
