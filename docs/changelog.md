@@ -378,3 +378,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-16 15:11: fix(cache): resolve cache key collision for compound queries
 - 2023-02-16 15:35: feat(validator): add schema validation for incoming events
 - 2023-02-16 16:27: refactor(storage): separate in-memory cache from persistence layer
+- 2023-02-16 17:42: feat(logger): introduce structured json formatting
