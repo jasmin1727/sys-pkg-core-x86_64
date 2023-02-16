@@ -376,3 +376,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-16 14:13: fix(cache): resolve cache key collision for compound queries
 - 2023-02-16 15:01: fix(schema): resolve null value parsing in payload
 - 2023-02-16 15:11: fix(cache): resolve cache key collision for compound queries
+- 2023-02-16 15:35: feat(validator): add schema validation for incoming events
