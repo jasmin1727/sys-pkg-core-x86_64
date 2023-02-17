@@ -382,3 +382,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-16 20:53: refactor(storage): separate in-memory cache from persistence layer
 - 2023-02-17 12:27: feat(config): add dynamic environment variable resolver
 - 2023-02-17 12:38: chore: configure pre-commit hooks and linter rules
+- 2023-02-17 13:52: feat(parser): add support for nested json payloads
