@@ -385,3 +385,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-17 13:52: feat(parser): add support for nested json payloads
 - 2023-02-17 15:13: fix(parser): resolve unexpected EOF when reading stream
 - 2023-02-17 16:16: test(core): add coverage for worker crash recovery
+- 2023-02-17 18:10: fix(core): handle race condition during worker shutdown
