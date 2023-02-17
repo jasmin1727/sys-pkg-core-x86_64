@@ -386,3 +386,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-17 15:13: fix(parser): resolve unexpected EOF when reading stream
 - 2023-02-17 16:16: test(core): add coverage for worker crash recovery
 - 2023-02-17 18:10: fix(core): handle race condition during worker shutdown
+- 2023-02-17 19:57: refactor(storage): separate in-memory cache from persistence layer
