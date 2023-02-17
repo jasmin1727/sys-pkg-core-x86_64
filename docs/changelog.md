@@ -388,3 +388,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-17 18:10: fix(core): handle race condition during worker shutdown
 - 2023-02-17 19:57: refactor(storage): separate in-memory cache from persistence layer
 - 2023-02-17 20:29: feat(api): add retry policy with exponential backoff
+- 2023-02-17 22:13: feat(context): propagate request trace id across coroutines
