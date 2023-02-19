@@ -390,3 +390,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-17 20:29: feat(api): add retry policy with exponential backoff
 - 2023-02-17 22:13: feat(context): propagate request trace id across coroutines
 - 2023-02-17 22:34: fix(storage): correct file descriptor leak on close
+- 2023-02-19 21:46: fix(parser): resolve unexpected EOF when reading stream
