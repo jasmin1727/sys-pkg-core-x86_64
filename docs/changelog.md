@@ -391,3 +391,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-17 22:13: feat(context): propagate request trace id across coroutines
 - 2023-02-17 22:34: fix(storage): correct file descriptor leak on close
 - 2023-02-19 21:46: fix(parser): resolve unexpected EOF when reading stream
+- 2023-02-21 11:35: test(storage): verify concurrency safety with thread pool
