@@ -392,3 +392,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-17 22:34: fix(storage): correct file descriptor leak on close
 - 2023-02-19 21:46: fix(parser): resolve unexpected EOF when reading stream
 - 2023-02-21 11:35: test(storage): verify concurrency safety with thread pool
+- 2023-02-21 11:35: feat(parser): add support for nested json payloads
