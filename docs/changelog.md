@@ -396,3 +396,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-21 22:21: refactor(cache): unify cache interface across backends
 - 2023-02-21 23:15: feat(logger): introduce structured json formatting
 - 2023-02-24 15:07: feat(auth): add bearer token header validation helper
+- 2023-02-25 23:02: test(parser): add test cases for malformed inputs
