@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-26 18:05: docs: update setup instructions and prerequisites
 - 2023-02-26 20:27: refactor(utils): decompose monolithic string processing utility
 - 2023-02-26 21:14: test(parser): add test cases for malformed inputs
+- 2023-02-26 23:24: fix(parser): resolve unexpected EOF when reading stream
