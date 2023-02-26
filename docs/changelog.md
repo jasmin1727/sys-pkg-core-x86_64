@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-26 12:56: fix(storage): correct file descriptor leak on close
 - 2023-02-26 13:27: test(core): add coverage for worker crash recovery
 - 2023-02-26 14:28: docs: update setup instructions and prerequisites
+- 2023-02-26 16:04: fix(logger): prevent sensitive token leakage in debug logs
