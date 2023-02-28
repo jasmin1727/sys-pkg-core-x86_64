@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-26 23:24: fix(parser): resolve unexpected EOF when reading stream
 - 2023-02-27 15:44: fix(config): fallback to defaults when config key is missing
 - 2023-02-27 17:30: feat(api): add retry policy with exponential backoff
+- 2023-02-28 10:20: refactor: optimize module imports and remove unused dependencies
