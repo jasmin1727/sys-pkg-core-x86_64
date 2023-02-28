@@ -273,3 +273,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-28 13:28: docs: add architecture overview and system flow diagram
 - 2023-02-28 14:15: feat(scheduler): support cron-like job scheduling intervals
 - 2023-02-28 17:54: feat(metrics): track request latency and error counters
+- 2023-02-28 20:34: fix(storage): correct file descriptor leak on close

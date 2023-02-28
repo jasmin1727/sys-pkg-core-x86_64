@@ -278,3 +278,7 @@ def close_storage_handles():
 def close_storage_handles():
     '''Ensure all open descriptors are flushed and closed.'''
     pass
+
+def close_storage_handles():
+    '''Ensure all open descriptors are flushed and closed.'''
+    pass
