@@ -272,3 +272,4 @@ All notable changes and milestones are documented in this file.
 - 2023-02-28 11:43: feat(parser): add support for nested json payloads
 - 2023-02-28 13:28: docs: add architecture overview and system flow diagram
 - 2023-02-28 14:15: feat(scheduler): support cron-like job scheduling intervals
+- 2023-02-28 17:54: feat(metrics): track request latency and error counters
