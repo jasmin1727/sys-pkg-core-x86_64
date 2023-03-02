@@ -281,3 +281,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-02 18:12: perf: reduce allocations in serialization hot path
 - 2023-03-02 18:20: refactor(utils): decompose monolithic string processing utility
 - 2023-03-02 18:24: feat(events): implement publish-subscribe message bus
+- 2023-03-02 19:38: feat(rate-limit): implement token bucket rate limiting algorithm
