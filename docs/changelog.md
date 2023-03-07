@@ -285,3 +285,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-07 10:14: fix(schema): resolve null value parsing in payload
 - 2023-03-07 10:53: refactor(utils): decompose monolithic string processing utility
 - 2023-03-07 11:03: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2023-03-07 11:25: test(storage): verify concurrency safety with thread pool
