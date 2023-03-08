@@ -289,3 +289,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-07 16:13: fix(storage): correct file descriptor leak on close
 - 2023-03-07 19:20: fix(config): fallback to defaults when config key is missing
 - 2023-03-07 20:14: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2023-03-08 12:07: feat(cache): implement adaptive LRU cache with TTL expiry
