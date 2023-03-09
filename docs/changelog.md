@@ -291,3 +291,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-07 20:14: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2023-03-08 12:07: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2023-03-08 12:55: refactor(utils): decompose monolithic string processing utility
+- 2023-03-09 13:23: feat(cache): implement adaptive LRU cache with TTL expiry
