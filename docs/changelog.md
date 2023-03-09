@@ -294,3 +294,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-09 13:23: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2023-03-09 18:41: feat(auth): add bearer token header validation helper
 - 2023-03-09 21:44: fix(schema): resolve null value parsing in payload
+- 2023-03-09 22:11: test(storage): verify concurrency safety with thread pool
