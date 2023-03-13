@@ -296,3 +296,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-09 21:44: fix(schema): resolve null value parsing in payload
 - 2023-03-09 22:11: test(storage): verify concurrency safety with thread pool
 - 2023-03-13 10:17: feat(auth): add bearer token header validation helper
+- 2023-03-13 11:42: fix(logger): prevent sensitive token leakage in debug logs
