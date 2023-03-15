@@ -300,3 +300,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-13 15:18: fix(storage): correct file descriptor leak on close
 - 2023-03-15 11:16: refactor(core): streamline worker initialization sequence
 - 2023-03-15 14:11: fix(logger): prevent sensitive token leakage in debug logs
+- 2023-03-15 16:27: feat(api): add retry policy with exponential backoff
