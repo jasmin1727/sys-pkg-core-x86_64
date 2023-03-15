@@ -301,3 +301,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-15 11:16: refactor(core): streamline worker initialization sequence
 - 2023-03-15 14:11: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-03-15 16:27: feat(api): add retry policy with exponential backoff
+- 2023-03-15 17:13: refactor(core): streamline worker initialization sequence
