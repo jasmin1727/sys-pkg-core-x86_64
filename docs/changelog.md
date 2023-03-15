@@ -298,3 +298,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-13 10:17: feat(auth): add bearer token header validation helper
 - 2023-03-13 11:42: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-03-13 15:18: fix(storage): correct file descriptor leak on close
+- 2023-03-15 11:16: refactor(core): streamline worker initialization sequence
