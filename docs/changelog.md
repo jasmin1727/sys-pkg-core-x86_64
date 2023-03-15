@@ -304,3 +304,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-15 17:13: refactor(core): streamline worker initialization sequence
 - 2023-03-15 17:48: test(parser): add test cases for malformed inputs
 - 2023-03-15 22:08: fix(schema): resolve null value parsing in payload
+- 2023-03-15 22:53: feat(storage): implement disk-backed key-value cache
