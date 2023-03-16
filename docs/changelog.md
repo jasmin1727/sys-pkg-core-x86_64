@@ -307,3 +307,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-15 22:53: feat(storage): implement disk-backed key-value cache
 - 2023-03-16 10:25: refactor(core): streamline worker initialization sequence
 - 2023-03-16 11:32: feat(validator): add schema validation for incoming events
+- 2023-03-16 13:46: refactor: optimize module imports and remove unused dependencies
