@@ -308,3 +308,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-16 10:25: refactor(core): streamline worker initialization sequence
 - 2023-03-16 11:32: feat(validator): add schema validation for incoming events
 - 2023-03-16 13:46: refactor: optimize module imports and remove unused dependencies
+- 2023-03-16 14:56: refactor(cache): unify cache interface across backends
