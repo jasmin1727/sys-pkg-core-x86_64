@@ -311,3 +311,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-16 14:56: refactor(cache): unify cache interface across backends
 - 2023-03-16 15:01: feat(metrics): track request latency and error counters
 - 2023-03-16 15:15: refactor: optimize module imports and remove unused dependencies
+- 2023-03-16 16:49: fix(logger): prevent sensitive token leakage in debug logs
