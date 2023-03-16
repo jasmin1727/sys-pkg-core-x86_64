@@ -313,3 +313,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-16 15:15: refactor: optimize module imports and remove unused dependencies
 - 2023-03-16 16:49: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-03-16 20:40: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2023-03-16 21:40: fix(logger): prevent sensitive token leakage in debug logs
