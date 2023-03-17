@@ -319,3 +319,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-17 17:28: feat(config): add dynamic environment variable resolver
 - 2023-03-17 18:45: feat(stream): add chunked data stream reader
 - 2023-03-17 19:01: test(storage): verify concurrency safety with thread pool
+- 2023-03-17 20:39: fix(core): handle race condition during worker shutdown
