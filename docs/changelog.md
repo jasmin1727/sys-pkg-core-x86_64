@@ -318,3 +318,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-17 15:20: feat(scheduler): support cron-like job scheduling intervals
 - 2023-03-17 17:28: feat(config): add dynamic environment variable resolver
 - 2023-03-17 18:45: feat(stream): add chunked data stream reader
+- 2023-03-17 19:01: test(storage): verify concurrency safety with thread pool
