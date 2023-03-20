@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-17 19:01: test(storage): verify concurrency safety with thread pool
 - 2023-03-17 20:39: fix(core): handle race condition during worker shutdown
 - 2023-03-20 14:14: refactor(storage): separate in-memory cache from persistence layer
+- 2023-03-20 18:16: fix(queue): acknowledge message after successful processing
