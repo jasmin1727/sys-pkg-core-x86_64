@@ -325,3 +325,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-20 21:14: test(cache): assert eviction behavior under memory pressure
 - 2023-03-20 21:44: refactor(utils): decompose monolithic string processing utility
 - 2023-03-20 21:53: fix(schema): resolve null value parsing in payload
+- 2023-03-20 22:28: docs: add architecture overview and system flow diagram
