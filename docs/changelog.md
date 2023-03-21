@@ -328,3 +328,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-20 22:28: docs: add architecture overview and system flow diagram
 - 2023-03-21 12:59: refactor(storage): separate in-memory cache from persistence layer
 - 2023-03-21 16:16: fix(queue): acknowledge message after successful processing
+- 2023-03-21 19:17: fix(logger): prevent sensitive token leakage in debug logs
