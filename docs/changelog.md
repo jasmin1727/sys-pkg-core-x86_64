@@ -333,3 +333,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-21 20:14: feat(context): propagate request trace id across coroutines
 - 2023-03-22 14:15: refactor(storage): separate in-memory cache from persistence layer
 - 2023-03-22 16:21: docs: document configuration parameters and overrides
+- 2023-03-22 17:52: feat(core): implement async task worker pool
