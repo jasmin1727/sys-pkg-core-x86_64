@@ -337,3 +337,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-22 20:05: fix(storage): correct file descriptor leak on close
 - 2023-03-23 19:51: fix(queue): acknowledge message after successful processing
 - 2023-03-24 12:41: feat(stream): add chunked data stream reader
+- 2023-03-24 18:49: fix(schema): resolve null value parsing in payload
