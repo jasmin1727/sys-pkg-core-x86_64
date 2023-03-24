@@ -336,3 +336,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-22 17:52: feat(core): implement async task worker pool
 - 2023-03-22 20:05: fix(storage): correct file descriptor leak on close
 - 2023-03-23 19:51: fix(queue): acknowledge message after successful processing
+- 2023-03-24 12:41: feat(stream): add chunked data stream reader
