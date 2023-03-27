@@ -342,3 +342,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-27 13:17: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2023-03-27 14:05: test(cache): assert eviction behavior under memory pressure
 - 2023-03-27 15:18: feat(core): implement async task worker pool
+- 2023-03-27 16:28: test(core): add coverage for worker crash recovery
