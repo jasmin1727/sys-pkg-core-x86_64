@@ -339,3 +339,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-24 12:41: feat(stream): add chunked data stream reader
 - 2023-03-24 18:49: fix(schema): resolve null value parsing in payload
 - 2023-03-24 19:40: fix(core): handle race condition during worker shutdown
+- 2023-03-27 13:17: feat(cache): implement adaptive LRU cache with TTL expiry
