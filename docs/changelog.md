@@ -341,3 +341,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-24 19:40: fix(core): handle race condition during worker shutdown
 - 2023-03-27 13:17: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2023-03-27 14:05: test(cache): assert eviction behavior under memory pressure
+- 2023-03-27 15:18: feat(core): implement async task worker pool
