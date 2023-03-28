@@ -349,3 +349,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-28 12:38: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-03-28 15:09: fix(schema): resolve null value parsing in payload
 - 2023-03-28 17:25: refactor(cache): unify cache interface across backends
+- 2023-03-28 22:04: fix(cache): resolve cache key collision for compound queries
