@@ -347,3 +347,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-28 10:50: fix(core): handle race condition during worker shutdown
 - 2023-03-28 12:06: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-03-28 12:38: fix(logger): prevent sensitive token leakage in debug logs
+- 2023-03-28 15:09: fix(schema): resolve null value parsing in payload
