@@ -345,3 +345,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-27 16:28: test(core): add coverage for worker crash recovery
 - 2023-03-27 17:55: refactor(utils): decompose monolithic string processing utility
 - 2023-03-28 10:50: fix(core): handle race condition during worker shutdown
+- 2023-03-28 12:06: fix(logger): prevent sensitive token leakage in debug logs
