@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-27 15:18: feat(core): implement async task worker pool
 - 2023-03-27 16:28: test(core): add coverage for worker crash recovery
 - 2023-03-27 17:55: refactor(utils): decompose monolithic string processing utility
+- 2023-03-28 10:50: fix(core): handle race condition during worker shutdown
