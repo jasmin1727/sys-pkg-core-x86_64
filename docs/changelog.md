@@ -358,3 +358,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-29 13:51: test(core): add coverage for worker crash recovery
 - 2023-03-29 14:26: feat(storage): implement disk-backed key-value cache
 - 2023-03-29 18:34: test(cache): assert eviction behavior under memory pressure
+- 2023-03-29 20:19: test(cache): assert eviction behavior under memory pressure
