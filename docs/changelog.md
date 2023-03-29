@@ -352,3 +352,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-28 22:04: fix(cache): resolve cache key collision for compound queries
 - 2023-03-29 12:10: test(cache): assert eviction behavior under memory pressure
 - 2023-03-29 12:49: feat(core): implement async task worker pool
+- 2023-03-29 13:11: feat(storage): implement disk-backed key-value cache
