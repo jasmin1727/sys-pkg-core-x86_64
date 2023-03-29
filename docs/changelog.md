@@ -354,3 +354,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-29 12:49: feat(core): implement async task worker pool
 - 2023-03-29 13:11: feat(storage): implement disk-backed key-value cache
 - 2023-03-29 13:15: fix(core): handle race condition during worker shutdown
+- 2023-03-29 13:19: feat(auth): add bearer token header validation helper
