@@ -361,3 +361,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-29 20:19: test(cache): assert eviction behavior under memory pressure
 - 2023-03-29 21:40: fix(config): fallback to defaults when config key is missing
 - 2023-03-29 23:28: docs: document configuration parameters and overrides
+- 2023-03-31 22:15: docs: document configuration parameters and overrides
