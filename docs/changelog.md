@@ -367,3 +367,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-01 15:16: feat(validator): add schema validation for incoming events
 - 2023-04-01 17:54: feat(stream): add chunked data stream reader
 - 2023-04-01 17:54: docs: document configuration parameters and overrides
+- 2023-04-01 18:00: feat(rate-limit): implement token bucket rate limiting algorithm
