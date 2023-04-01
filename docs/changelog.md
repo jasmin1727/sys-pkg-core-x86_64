@@ -365,3 +365,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-01 12:45: fix(core): handle race condition during worker shutdown
 - 2023-04-01 13:08: refactor: optimize module imports and remove unused dependencies
 - 2023-04-01 15:16: feat(validator): add schema validation for incoming events
+- 2023-04-01 17:54: feat(stream): add chunked data stream reader
