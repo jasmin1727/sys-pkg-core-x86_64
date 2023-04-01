@@ -362,3 +362,4 @@ All notable changes and milestones are documented in this file.
 - 2023-03-29 21:40: fix(config): fallback to defaults when config key is missing
 - 2023-03-29 23:28: docs: document configuration parameters and overrides
 - 2023-03-31 22:15: docs: document configuration parameters and overrides
+- 2023-04-01 12:45: fix(core): handle race condition during worker shutdown
