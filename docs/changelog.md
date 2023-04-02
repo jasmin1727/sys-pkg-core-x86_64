@@ -373,3 +373,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-02 11:51: refactor(utils): decompose monolithic string processing utility
 - 2023-04-02 12:05: refactor(cache): unify cache interface across backends
 - 2023-04-02 14:15: test(cache): assert eviction behavior under memory pressure
+- 2023-04-02 14:26: test(storage): verify concurrency safety with thread pool
