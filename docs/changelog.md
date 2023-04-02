@@ -371,3 +371,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-01 18:39: feat(api): add retry policy with exponential backoff
 - 2023-04-01 23:22: fix(storage): correct file descriptor leak on close
 - 2023-04-02 11:51: refactor(utils): decompose monolithic string processing utility
+- 2023-04-02 12:05: refactor(cache): unify cache interface across backends
