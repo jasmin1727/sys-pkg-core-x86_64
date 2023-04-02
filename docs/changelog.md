@@ -376,3 +376,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-02 14:26: test(storage): verify concurrency safety with thread pool
 - 2023-04-02 17:10: chore: configure pre-commit hooks and linter rules
 - 2023-04-02 20:14: test(core): add coverage for worker crash recovery
+- 2023-04-02 20:44: feat(core): implement async task worker pool
