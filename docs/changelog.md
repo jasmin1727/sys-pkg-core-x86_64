@@ -377,3 +377,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-02 17:10: chore: configure pre-commit hooks and linter rules
 - 2023-04-02 20:14: test(core): add coverage for worker crash recovery
 - 2023-04-02 20:44: feat(core): implement async task worker pool
+- 2023-04-02 23:20: refactor(storage): separate in-memory cache from persistence layer
