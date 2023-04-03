@@ -381,3 +381,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-03 10:08: perf: reduce allocations in serialization hot path
 - 2023-04-03 12:28: fix(parser): resolve unexpected EOF when reading stream
 - 2023-04-03 12:59: fix(parser): resolve unexpected EOF when reading stream
+- 2023-04-03 14:26: refactor(core): streamline worker initialization sequence
