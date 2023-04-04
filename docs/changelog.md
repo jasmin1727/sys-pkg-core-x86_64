@@ -386,3 +386,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-03 20:05: docs: update setup instructions and prerequisites
 - 2023-04-03 21:16: feat(metrics): track request latency and error counters
 - 2023-04-04 12:01: feat(core): implement async task worker pool
+- 2023-04-04 13:03: fix(cache): resolve cache key collision for compound queries
