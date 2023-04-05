@@ -389,3 +389,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-04 13:03: fix(cache): resolve cache key collision for compound queries
 - 2023-04-04 18:47: feat(stream): add chunked data stream reader
 - 2023-04-04 19:44: fix(parser): resolve unexpected EOF when reading stream
+- 2023-04-05 10:54: feat(parser): add support for nested json payloads
