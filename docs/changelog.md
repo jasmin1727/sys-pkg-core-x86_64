@@ -393,3 +393,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-06 13:56: fix(core): handle race condition during worker shutdown
 - 2023-04-06 15:05: fix(schema): resolve null value parsing in payload
 - 2023-04-06 16:16: test(storage): verify concurrency safety with thread pool
+- 2023-04-06 20:21: feat(stream): add chunked data stream reader
