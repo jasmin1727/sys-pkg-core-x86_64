@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-07 22:41: fix(storage): correct file descriptor leak on close
 - 2023-04-07 22:48: feat(scheduler): support cron-like job scheduling intervals
 - 2023-04-09 16:07: feat(validator): add schema validation for incoming events
+- 2023-04-11 10:19: feat(config): add dynamic environment variable resolver
