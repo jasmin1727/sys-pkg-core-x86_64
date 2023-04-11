@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-11 11:47: refactor(core): streamline worker initialization sequence
 - 2023-04-11 17:11: feat(scheduler): support cron-like job scheduling intervals
 - 2023-04-11 18:11: refactor: optimize module imports and remove unused dependencies
+- 2023-04-11 19:23: test(cache): assert eviction behavior under memory pressure
