@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-11 19:23: test(cache): assert eviction behavior under memory pressure
 - 2023-04-15 21:37: feat(context): propagate request trace id across coroutines
 - 2023-04-17 13:44: feat(storage): implement disk-backed key-value cache
+- 2023-04-17 15:25: docs: add architecture overview and system flow diagram
