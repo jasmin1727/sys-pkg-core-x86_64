@@ -275,3 +275,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-20 13:50: feat(scheduler): support cron-like job scheduling intervals
 - 2023-04-20 14:32: fix(schema): resolve null value parsing in payload
 - 2023-04-20 14:48: test(storage): verify concurrency safety with thread pool
+- 2023-04-20 15:40: feat(parser): add support for nested json payloads
