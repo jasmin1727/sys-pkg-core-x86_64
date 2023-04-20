@@ -280,3 +280,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-20 16:24: perf: reduce allocations in serialization hot path
 - 2023-04-20 18:32: chore: configure pre-commit hooks and linter rules
 - 2023-04-20 18:56: refactor(storage): separate in-memory cache from persistence layer
+- 2023-04-20 21:49: feat(scheduler): support cron-like job scheduling intervals
