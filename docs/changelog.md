@@ -270,3 +270,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-17 15:25: docs: add architecture overview and system flow diagram
 - 2023-04-17 19:25: refactor: optimize module imports and remove unused dependencies
 - 2023-04-17 21:47: feat(config): add dynamic environment variable resolver
+- 2023-04-20 10:53: refactor(cache): unify cache interface across backends
