@@ -283,3 +283,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-20 21:49: feat(scheduler): support cron-like job scheduling intervals
 - 2023-04-20 21:55: fix(config): fallback to defaults when config key is missing
 - 2023-04-20 23:24: style: enforce consistent docstring and code formatting
+- 2023-04-21 15:00: feat(storage): implement disk-backed key-value cache
