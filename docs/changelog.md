@@ -292,3 +292,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-23 17:30: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2023-04-23 17:55: feat(auth): add bearer token header validation helper
 - 2023-04-23 19:28: fix(config): fallback to defaults when config key is missing
+- 2023-04-23 22:22: feat(metrics): track request latency and error counters
