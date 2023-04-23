@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-23 13:39: test(cache): assert eviction behavior under memory pressure
 - 2023-04-23 16:13: test(cache): assert eviction behavior under memory pressure
 - 2023-04-23 17:30: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2023-04-23 17:55: feat(auth): add bearer token header validation helper

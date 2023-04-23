@@ -225,3 +225,7 @@ def parse_nested_payload(raw: str) -> dict:
     return json.loads(raw)
 
 # Performance optimization: buffer reuse
+
+def validate_bearer_token(header: str) -> bool:
+    '''Validate authorization header format.'''
+    return header.startswith('Bearer ')
