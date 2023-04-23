@@ -286,3 +286,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-21 15:00: feat(storage): implement disk-backed key-value cache
 - 2023-04-21 18:21: feat(logger): introduce structured json formatting
 - 2023-04-21 20:08: docs: update setup instructions and prerequisites
+- 2023-04-23 10:21: fix(cache): resolve cache key collision for compound queries
