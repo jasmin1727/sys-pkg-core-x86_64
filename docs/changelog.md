@@ -296,3 +296,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-23 23:18: fix(parser): resolve unexpected EOF when reading stream
 - 2023-04-25 15:52: feat(parser): add support for nested json payloads
 - 2023-04-25 18:33: refactor: optimize module imports and remove unused dependencies
+- 2023-04-26 10:58: chore: update dependency versions in package lock
