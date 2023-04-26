@@ -303,3 +303,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-26 16:57: fix(core): handle race condition during worker shutdown
 - 2023-04-26 17:32: fix(config): fallback to defaults when config key is missing
 - 2023-04-26 18:40: feat(parser): add support for nested json payloads
+- 2023-04-26 21:44: docs: update API endpoints reference and sample requests
