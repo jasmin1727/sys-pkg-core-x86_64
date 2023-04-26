@@ -300,3 +300,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-26 11:22: feat(context): propagate request trace id across coroutines
 - 2023-04-26 16:25: test(core): add coverage for worker crash recovery
 - 2023-04-26 16:27: fix(queue): acknowledge message after successful processing
+- 2023-04-26 16:57: fix(core): handle race condition during worker shutdown
