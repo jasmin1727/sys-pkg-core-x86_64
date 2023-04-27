@@ -305,3 +305,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-26 18:40: feat(parser): add support for nested json payloads
 - 2023-04-26 21:44: docs: update API endpoints reference and sample requests
 - 2023-04-26 23:13: feat(config): add dynamic environment variable resolver
+- 2023-04-27 12:16: feat(events): implement publish-subscribe message bus
