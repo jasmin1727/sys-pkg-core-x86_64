@@ -308,3 +308,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-27 12:16: feat(events): implement publish-subscribe message bus
 - 2023-04-27 14:05: feat(parser): add support for nested json payloads
 - 2023-04-27 15:51: feat(scheduler): support cron-like job scheduling intervals
+- 2023-04-27 21:36: refactor(storage): separate in-memory cache from persistence layer
