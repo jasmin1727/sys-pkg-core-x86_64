@@ -310,3 +310,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-27 15:51: feat(scheduler): support cron-like job scheduling intervals
 - 2023-04-27 21:36: refactor(storage): separate in-memory cache from persistence layer
 - 2023-04-29 17:34: fix(queue): acknowledge message after successful processing
+- 2023-04-29 18:33: perf: reduce allocations in serialization hot path
