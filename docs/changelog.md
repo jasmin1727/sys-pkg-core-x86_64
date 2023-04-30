@@ -314,3 +314,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-30 10:45: refactor(cache): unify cache interface across backends
 - 2023-04-30 11:03: feat(events): implement publish-subscribe message bus
 - 2023-04-30 13:29: refactor(utils): decompose monolithic string processing utility
+- 2023-04-30 19:57: chore: configure pre-commit hooks and linter rules
