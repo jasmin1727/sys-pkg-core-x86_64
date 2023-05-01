@@ -318,3 +318,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-01 11:04: refactor(storage): separate in-memory cache from persistence layer
 - 2023-05-01 11:25: test(core): add coverage for worker crash recovery
 - 2023-05-01 16:07: feat(storage): implement disk-backed key-value cache
+- 2023-05-01 16:51: refactor(utils): decompose monolithic string processing utility
