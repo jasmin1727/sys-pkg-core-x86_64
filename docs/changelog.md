@@ -316,3 +316,4 @@ All notable changes and milestones are documented in this file.
 - 2023-04-30 13:29: refactor(utils): decompose monolithic string processing utility
 - 2023-04-30 19:57: chore: configure pre-commit hooks and linter rules
 - 2023-05-01 11:04: refactor(storage): separate in-memory cache from persistence layer
+- 2023-05-01 11:25: test(core): add coverage for worker crash recovery
