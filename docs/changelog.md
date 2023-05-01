@@ -323,3 +323,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-01 19:34: feat(config): add dynamic environment variable resolver
 - 2023-05-01 20:59: refactor(core): streamline worker initialization sequence
 - 2023-05-01 21:57: fix(logger): prevent sensitive token leakage in debug logs
+- 2023-05-01 22:20: fix(storage): correct file descriptor leak on close
