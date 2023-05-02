@@ -329,3 +329,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-02 10:52: test(cache): assert eviction behavior under memory pressure
 - 2023-05-02 11:19: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2023-05-02 12:46: test(core): add coverage for worker crash recovery
+- 2023-05-02 14:48: fix(storage): correct file descriptor leak on close
