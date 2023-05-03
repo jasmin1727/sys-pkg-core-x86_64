@@ -337,3 +337,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-03 11:04: fix(core): handle race condition during worker shutdown
 - 2023-05-03 11:41: feat(metrics): track request latency and error counters
 - 2023-05-03 11:46: fix(config): fallback to defaults when config key is missing
+- 2023-05-03 13:18: fix(config): fallback to defaults when config key is missing
