@@ -340,3 +340,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-03 13:18: fix(config): fallback to defaults when config key is missing
 - 2023-05-03 14:46: fix(cache): resolve cache key collision for compound queries
 - 2023-05-03 17:16: feat(stream): add chunked data stream reader
+- 2023-05-03 19:07: fix(logger): prevent sensitive token leakage in debug logs
