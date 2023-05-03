@@ -335,3 +335,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-02 19:12: feat(config): add dynamic environment variable resolver
 - 2023-05-03 10:06: feat(logger): introduce structured json formatting
 - 2023-05-03 11:04: fix(core): handle race condition during worker shutdown
+- 2023-05-03 11:41: feat(metrics): track request latency and error counters
