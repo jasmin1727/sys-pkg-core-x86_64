@@ -343,3 +343,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-03 19:07: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-05-03 19:51: fix(queue): acknowledge message after successful processing
 - 2023-05-03 20:21: refactor: optimize module imports and remove unused dependencies
+- 2023-05-03 20:22: refactor(storage): separate in-memory cache from persistence layer
