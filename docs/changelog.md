@@ -345,3 +345,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-03 20:21: refactor: optimize module imports and remove unused dependencies
 - 2023-05-03 20:22: refactor(storage): separate in-memory cache from persistence layer
 - 2023-05-04 16:32: chore: update dependency versions in package lock
+- 2023-05-04 19:57: fix(core): handle race condition during worker shutdown

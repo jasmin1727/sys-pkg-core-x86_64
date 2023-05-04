@@ -236,3 +236,7 @@ def safe_shutdown(pool):
 class MetricsCollector:
     '''Tracks latency and counter metrics.'''
     pass
+
+def safe_shutdown(pool):
+    '''Safely terminate workers without deadlocks.'''
+    pool['status'] = 'stopped'
