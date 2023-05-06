@@ -355,3 +355,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-06 16:54: feat(events): implement publish-subscribe message bus
 - 2023-05-06 19:15: feat(metrics): track request latency and error counters
 - 2023-05-06 19:21: docs: document configuration parameters and overrides
+- 2023-05-06 22:04: fix(storage): correct file descriptor leak on close
