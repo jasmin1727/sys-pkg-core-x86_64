@@ -347,3 +347,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-04 16:32: chore: update dependency versions in package lock
 - 2023-05-04 19:57: fix(core): handle race condition during worker shutdown
 - 2023-05-06 10:49: chore: configure pre-commit hooks and linter rules
+- 2023-05-06 11:53: feat(storage): implement disk-backed key-value cache
