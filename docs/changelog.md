@@ -353,3 +353,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-06 13:28: test(storage): verify concurrency safety with thread pool
 - 2023-05-06 16:06: feat(events): implement publish-subscribe message bus
 - 2023-05-06 16:54: feat(events): implement publish-subscribe message bus
+- 2023-05-06 19:15: feat(metrics): track request latency and error counters
