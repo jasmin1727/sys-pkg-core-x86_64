@@ -350,3 +350,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-06 11:53: feat(storage): implement disk-backed key-value cache
 - 2023-05-06 12:41: refactor: optimize module imports and remove unused dependencies
 - 2023-05-06 13:02: fix(schema): resolve null value parsing in payload
+- 2023-05-06 13:28: test(storage): verify concurrency safety with thread pool
