@@ -366,3 +366,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-08 14:35: feat(config): add dynamic environment variable resolver
 - 2023-05-08 15:04: refactor(core): streamline worker initialization sequence
 - 2023-05-08 16:00: refactor: optimize module imports and remove unused dependencies
+- 2023-05-08 17:44: feat(core): implement async task worker pool
