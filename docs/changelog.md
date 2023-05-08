@@ -360,3 +360,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-07 20:12: docs: document configuration parameters and overrides
 - 2023-05-07 20:49: test(parser): add test cases for malformed inputs
 - 2023-05-08 10:10: refactor(storage): separate in-memory cache from persistence layer
+- 2023-05-08 10:12: chore: configure pre-commit hooks and linter rules
