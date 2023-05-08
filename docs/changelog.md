@@ -369,3 +369,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-08 17:44: feat(core): implement async task worker pool
 - 2023-05-08 20:53: feat(logger): introduce structured json formatting
 - 2023-05-08 21:42: feat(stream): add chunked data stream reader
+- 2023-05-08 21:52: fix(logger): prevent sensitive token leakage in debug logs
