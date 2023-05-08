@@ -363,3 +363,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-08 10:12: chore: configure pre-commit hooks and linter rules
 - 2023-05-08 10:39: feat(logger): introduce structured json formatting
 - 2023-05-08 14:06: test(cache): assert eviction behavior under memory pressure
+- 2023-05-08 14:35: feat(config): add dynamic environment variable resolver
