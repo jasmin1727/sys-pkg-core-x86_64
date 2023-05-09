@@ -377,3 +377,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-09 11:36: refactor(utils): decompose monolithic string processing utility
 - 2023-05-09 16:10: fix(schema): resolve null value parsing in payload
 - 2023-05-09 16:44: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2023-05-09 17:12: test(parser): add test cases for malformed inputs
