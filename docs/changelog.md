@@ -376,3 +376,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-09 10:56: fix(queue): acknowledge message after successful processing
 - 2023-05-09 11:36: refactor(utils): decompose monolithic string processing utility
 - 2023-05-09 16:10: fix(schema): resolve null value parsing in payload
+- 2023-05-09 16:44: feat(cache): implement adaptive LRU cache with TTL expiry
