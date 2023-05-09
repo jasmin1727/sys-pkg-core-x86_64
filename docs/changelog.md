@@ -381,3 +381,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-09 18:50: refactor(cache): unify cache interface across backends
 - 2023-05-09 19:09: perf: reduce allocations in serialization hot path
 - 2023-05-09 19:23: test(parser): add test cases for malformed inputs
+- 2023-05-09 21:21: chore: configure pre-commit hooks and linter rules
