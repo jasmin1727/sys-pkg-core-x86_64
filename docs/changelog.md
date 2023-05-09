@@ -372,3 +372,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-08 21:52: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-05-08 22:00: docs: add architecture overview and system flow diagram
 - 2023-05-08 22:52: test(storage): verify concurrency safety with thread pool
+- 2023-05-09 10:51: fix(parser): resolve unexpected EOF when reading stream
