@@ -374,3 +374,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-08 22:52: test(storage): verify concurrency safety with thread pool
 - 2023-05-09 10:51: fix(parser): resolve unexpected EOF when reading stream
 - 2023-05-09 10:56: fix(queue): acknowledge message after successful processing
+- 2023-05-09 11:36: refactor(utils): decompose monolithic string processing utility
