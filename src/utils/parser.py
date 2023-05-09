@@ -273,3 +273,7 @@ def sanitize_null_fields(obj):
     return obj if obj is not None else {}
 
 # Performance optimization: buffer reuse
+
+def parse_nested_payload(raw: str) -> dict:
+    '''Safely decode nested JSON structures.'''
+    return json.loads(raw)
