@@ -385,3 +385,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-09 22:51: feat(parser): add support for nested json payloads
 - 2023-05-09 23:02: fix(cache): resolve cache key collision for compound queries
 - 2023-05-10 10:44: fix(cache): resolve cache key collision for compound queries
+- 2023-05-10 15:35: feat(events): implement publish-subscribe message bus
