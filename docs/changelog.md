@@ -391,3 +391,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-11 12:22: feat(context): propagate request trace id across coroutines
 - 2023-05-11 14:01: fix(core): handle race condition during worker shutdown
 - 2023-05-11 14:21: feat(config): add dynamic environment variable resolver
+- 2023-05-11 15:49: test(cache): assert eviction behavior under memory pressure
