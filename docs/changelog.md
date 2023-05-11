@@ -388,3 +388,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-10 15:35: feat(events): implement publish-subscribe message bus
 - 2023-05-10 22:10: feat(context): propagate request trace id across coroutines
 - 2023-05-10 22:12: docs: document configuration parameters and overrides
+- 2023-05-11 12:22: feat(context): propagate request trace id across coroutines
