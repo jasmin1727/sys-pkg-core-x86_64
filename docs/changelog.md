@@ -393,3 +393,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-11 14:21: feat(config): add dynamic environment variable resolver
 - 2023-05-11 15:49: test(cache): assert eviction behavior under memory pressure
 - 2023-05-11 16:27: refactor(storage): separate in-memory cache from persistence layer
+- 2023-05-11 17:53: feat(events): implement publish-subscribe message bus
