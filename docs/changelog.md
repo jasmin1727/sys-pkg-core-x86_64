@@ -258,3 +258,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-19 11:06: refactor(storage): separate in-memory cache from persistence layer
 - 2023-05-19 15:24: test(core): add coverage for worker crash recovery
 - 2023-05-19 17:05: feat(scheduler): support cron-like job scheduling intervals
+- 2023-05-19 22:02: fix(cache): resolve cache key collision for compound queries
