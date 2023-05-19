@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-11 20:07: fix(storage): correct file descriptor leak on close
 - 2023-05-11 20:59: feat(metrics): track request latency and error counters
 - 2023-05-19 11:06: refactor(storage): separate in-memory cache from persistence layer
+- 2023-05-19 15:24: test(core): add coverage for worker crash recovery
