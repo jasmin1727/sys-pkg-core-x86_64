@@ -260,3 +260,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-19 17:05: feat(scheduler): support cron-like job scheduling intervals
 - 2023-05-19 22:02: fix(cache): resolve cache key collision for compound queries
 - 2023-05-23 22:12: test(cache): assert eviction behavior under memory pressure
+- 2023-05-24 13:06: docs: document configuration parameters and overrides
