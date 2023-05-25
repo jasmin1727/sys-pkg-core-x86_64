@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-25 10:31: fix(core): handle race condition during worker shutdown
 - 2023-05-25 20:00: refactor(cache): unify cache interface across backends
 - 2023-05-25 20:03: refactor(storage): separate in-memory cache from persistence layer
+- 2023-05-25 20:52: feat(auth): add bearer token header validation helper
