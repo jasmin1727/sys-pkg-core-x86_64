@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-24 13:14: fix(schema): resolve null value parsing in payload
 - 2023-05-24 15:12: feat(logger): introduce structured json formatting
 - 2023-05-24 15:26: fix(core): handle race condition during worker shutdown
+- 2023-05-25 10:31: fix(core): handle race condition during worker shutdown
