@@ -270,3 +270,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-25 20:52: feat(auth): add bearer token header validation helper
 - 2023-05-26 15:45: feat(stream): add chunked data stream reader
 - 2023-05-26 15:46: fix(core): handle race condition during worker shutdown
+- 2023-05-26 16:23: refactor(utils): decompose monolithic string processing utility
