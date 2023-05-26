@@ -272,3 +272,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-26 15:46: fix(core): handle race condition during worker shutdown
 - 2023-05-26 16:23: refactor(utils): decompose monolithic string processing utility
 - 2023-05-26 16:51: fix(schema): resolve null value parsing in payload
+- 2023-05-26 20:32: fix(parser): resolve unexpected EOF when reading stream
