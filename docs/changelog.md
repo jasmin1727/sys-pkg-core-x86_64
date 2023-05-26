@@ -268,3 +268,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-25 20:00: refactor(cache): unify cache interface across backends
 - 2023-05-25 20:03: refactor(storage): separate in-memory cache from persistence layer
 - 2023-05-25 20:52: feat(auth): add bearer token header validation helper
+- 2023-05-26 15:45: feat(stream): add chunked data stream reader
