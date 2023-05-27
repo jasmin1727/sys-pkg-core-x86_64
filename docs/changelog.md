@@ -276,3 +276,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-27 15:06: refactor(cache): unify cache interface across backends
 - 2023-05-27 17:20: docs: update API endpoints reference and sample requests
 - 2023-05-27 17:36: test(parser): add test cases for malformed inputs
+- 2023-05-27 18:16: refactor(core): streamline worker initialization sequence
