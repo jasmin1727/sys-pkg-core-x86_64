@@ -274,3 +274,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-26 16:51: fix(schema): resolve null value parsing in payload
 - 2023-05-26 20:32: fix(parser): resolve unexpected EOF when reading stream
 - 2023-05-27 15:06: refactor(cache): unify cache interface across backends
+- 2023-05-27 17:20: docs: update API endpoints reference and sample requests
