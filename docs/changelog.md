@@ -277,3 +277,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-27 17:20: docs: update API endpoints reference and sample requests
 - 2023-05-27 17:36: test(parser): add test cases for malformed inputs
 - 2023-05-27 18:16: refactor(core): streamline worker initialization sequence
+- 2023-05-27 20:58: fix(config): fallback to defaults when config key is missing
