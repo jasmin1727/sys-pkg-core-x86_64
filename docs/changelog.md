@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-28 16:24: perf: reduce allocations in serialization hot path
 - 2023-05-28 19:05: feat(stream): add chunked data stream reader
 - 2023-05-28 23:26: feat(scheduler): support cron-like job scheduling intervals
+- 2023-05-28 23:28: fix(schema): resolve null value parsing in payload
