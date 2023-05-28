@@ -282,3 +282,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-28 10:44: feat(scheduler): support cron-like job scheduling intervals
 - 2023-05-28 11:51: docs: add architecture overview and system flow diagram
 - 2023-05-28 11:58: refactor: optimize module imports and remove unused dependencies
+- 2023-05-28 12:32: feat(cache): implement adaptive LRU cache with TTL expiry
