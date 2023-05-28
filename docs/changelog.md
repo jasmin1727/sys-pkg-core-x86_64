@@ -286,3 +286,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-28 12:39: refactor: optimize module imports and remove unused dependencies
 - 2023-05-28 12:40: feat(storage): implement disk-backed key-value cache
 - 2023-05-28 13:22: docs: update setup instructions and prerequisites
+- 2023-05-28 15:07: feat(context): propagate request trace id across coroutines
