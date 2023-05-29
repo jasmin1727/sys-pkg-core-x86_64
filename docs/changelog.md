@@ -291,3 +291,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-28 19:05: feat(stream): add chunked data stream reader
 - 2023-05-28 23:26: feat(scheduler): support cron-like job scheduling intervals
 - 2023-05-28 23:28: fix(schema): resolve null value parsing in payload
+- 2023-05-29 14:40: test(parser): add test cases for malformed inputs
