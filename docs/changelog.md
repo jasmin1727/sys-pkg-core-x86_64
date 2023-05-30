@@ -293,3 +293,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-28 23:28: fix(schema): resolve null value parsing in payload
 - 2023-05-29 14:40: test(parser): add test cases for malformed inputs
 - 2023-05-30 11:20: fix(storage): correct file descriptor leak on close
+- 2023-05-30 14:25: test(parser): add test cases for malformed inputs
