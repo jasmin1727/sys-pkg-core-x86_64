@@ -296,3 +296,4 @@ All notable changes and milestones are documented in this file.
 - 2023-05-30 14:25: test(parser): add test cases for malformed inputs
 - 2023-05-30 15:02: refactor(core): streamline worker initialization sequence
 - 2023-06-02 17:51: fix(parser): resolve unexpected EOF when reading stream
+- 2023-06-02 22:38: fix(core): handle race condition during worker shutdown
