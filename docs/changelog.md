@@ -302,3 +302,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-03 12:02: refactor: optimize module imports and remove unused dependencies
 - 2023-06-03 13:12: docs: add architecture overview and system flow diagram
 - 2023-06-03 13:19: feat(metrics): track request latency and error counters
+- 2023-06-03 14:39: fix(logger): prevent sensitive token leakage in debug logs
