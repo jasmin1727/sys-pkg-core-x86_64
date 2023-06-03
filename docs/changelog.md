@@ -306,3 +306,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-03 17:57: feat(logger): introduce structured json formatting
 - 2023-06-03 19:54: style: enforce consistent docstring and code formatting
 - 2023-06-03 22:41: docs: update setup instructions and prerequisites
+- 2023-06-03 22:55: test(cache): assert eviction behavior under memory pressure
