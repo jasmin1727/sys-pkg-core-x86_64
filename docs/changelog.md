@@ -300,3 +300,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-02 23:05: refactor(core): streamline worker initialization sequence
 - 2023-06-02 23:19: feat(auth): add bearer token header validation helper
 - 2023-06-03 12:02: refactor: optimize module imports and remove unused dependencies
+- 2023-06-03 13:12: docs: add architecture overview and system flow diagram
