@@ -310,3 +310,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-05 11:46: refactor: optimize module imports and remove unused dependencies
 - 2023-06-05 14:26: feat(metrics): track request latency and error counters
 - 2023-06-05 15:22: fix(config): fallback to defaults when config key is missing
+- 2023-06-05 16:22: feat(config): add dynamic environment variable resolver
