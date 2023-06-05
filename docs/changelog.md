@@ -312,3 +312,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-05 15:22: fix(config): fallback to defaults when config key is missing
 - 2023-06-05 16:22: feat(config): add dynamic environment variable resolver
 - 2023-06-05 16:43: feat(storage): implement disk-backed key-value cache
+- 2023-06-05 18:39: fix(parser): resolve unexpected EOF when reading stream
