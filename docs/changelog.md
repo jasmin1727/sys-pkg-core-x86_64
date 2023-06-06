@@ -315,3 +315,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-05 18:39: fix(parser): resolve unexpected EOF when reading stream
 - 2023-06-05 20:34: test(storage): verify concurrency safety with thread pool
 - 2023-06-05 23:20: docs: add architecture overview and system flow diagram
+- 2023-06-06 19:36: fix(config): fallback to defaults when config key is missing
