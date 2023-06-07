@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-07 18:27: feat(api): add retry policy with exponential backoff
 - 2023-06-07 21:27: chore: update dependency versions in package lock
 - 2023-06-07 22:33: test(parser): add test cases for malformed inputs
+- 2023-06-07 22:41: docs: document configuration parameters and overrides
