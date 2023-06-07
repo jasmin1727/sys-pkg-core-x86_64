@@ -319,3 +319,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-06 20:49: perf: reduce allocations in serialization hot path
 - 2023-06-06 23:28: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2023-06-07 18:27: feat(api): add retry policy with exponential backoff
+- 2023-06-07 21:27: chore: update dependency versions in package lock
