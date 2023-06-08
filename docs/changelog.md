@@ -325,3 +325,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-08 11:15: refactor: optimize module imports and remove unused dependencies
 - 2023-06-08 12:12: feat(logger): introduce structured json formatting
 - 2023-06-08 14:06: feat(validator): add schema validation for incoming events
+- 2023-06-08 15:55: feat(events): implement publish-subscribe message bus
