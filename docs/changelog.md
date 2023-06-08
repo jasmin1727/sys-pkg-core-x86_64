@@ -323,3 +323,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-07 22:33: test(parser): add test cases for malformed inputs
 - 2023-06-07 22:41: docs: document configuration parameters and overrides
 - 2023-06-08 11:15: refactor: optimize module imports and remove unused dependencies
+- 2023-06-08 12:12: feat(logger): introduce structured json formatting
