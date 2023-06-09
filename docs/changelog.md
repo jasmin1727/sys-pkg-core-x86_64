@@ -328,3 +328,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-08 15:55: feat(events): implement publish-subscribe message bus
 - 2023-06-08 21:22: docs: update setup instructions and prerequisites
 - 2023-06-08 22:04: feat(scheduler): support cron-like job scheduling intervals
+- 2023-06-09 15:44: fix(cache): resolve cache key collision for compound queries
