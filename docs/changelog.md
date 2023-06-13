@@ -333,3 +333,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-09 16:40: feat(config): add dynamic environment variable resolver
 - 2023-06-09 19:20: feat(auth): add bearer token header validation helper
 - 2023-06-09 20:52: chore: configure pre-commit hooks and linter rules
+- 2023-06-13 12:25: fix(parser): resolve unexpected EOF when reading stream
