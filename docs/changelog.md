@@ -340,3 +340,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-14 15:48: test(parser): add test cases for malformed inputs
 - 2023-06-14 17:59: fix(schema): resolve null value parsing in payload
 - 2023-06-14 18:11: feat(scheduler): support cron-like job scheduling intervals
+- 2023-06-14 19:39: feat(config): add dynamic environment variable resolver
