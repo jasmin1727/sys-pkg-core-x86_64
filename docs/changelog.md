@@ -348,3 +348,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-16 10:18: refactor(storage): separate in-memory cache from persistence layer
 - 2023-06-16 12:17: feat(metrics): track request latency and error counters
 - 2023-06-16 15:54: docs: document configuration parameters and overrides
+- 2023-06-16 21:18: fix(core): handle race condition during worker shutdown
