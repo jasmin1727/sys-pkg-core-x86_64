@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-15 12:36: refactor(cache): unify cache interface across backends
 - 2023-06-15 14:16: fix(cache): resolve cache key collision for compound queries
 - 2023-06-16 10:18: refactor(storage): separate in-memory cache from persistence layer
+- 2023-06-16 12:17: feat(metrics): track request latency and error counters
