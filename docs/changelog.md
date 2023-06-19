@@ -353,3 +353,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-19 10:07: fix(parser): resolve unexpected EOF when reading stream
 - 2023-06-19 13:53: fix(parser): resolve unexpected EOF when reading stream
 - 2023-06-19 14:54: fix(schema): resolve null value parsing in payload
+- 2023-06-19 15:03: fix(queue): acknowledge message after successful processing
