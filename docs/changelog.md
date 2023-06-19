@@ -351,3 +351,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-16 21:18: fix(core): handle race condition during worker shutdown
 - 2023-06-16 22:37: docs: update setup instructions and prerequisites
 - 2023-06-19 10:07: fix(parser): resolve unexpected EOF when reading stream
+- 2023-06-19 13:53: fix(parser): resolve unexpected EOF when reading stream
