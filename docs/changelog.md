@@ -355,3 +355,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-19 14:54: fix(schema): resolve null value parsing in payload
 - 2023-06-19 15:03: fix(queue): acknowledge message after successful processing
 - 2023-06-19 18:29: feat(auth): add bearer token header validation helper
+- 2023-06-19 19:39: fix(queue): acknowledge message after successful processing
