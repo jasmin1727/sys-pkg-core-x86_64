@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-19 18:29: feat(auth): add bearer token header validation helper
 - 2023-06-19 19:39: fix(queue): acknowledge message after successful processing
 - 2023-06-19 21:41: feat(stream): add chunked data stream reader
+- 2023-06-21 10:55: test(cache): assert eviction behavior under memory pressure
