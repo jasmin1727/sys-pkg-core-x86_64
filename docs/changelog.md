@@ -364,3 +364,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-23 10:07: fix(core): handle race condition during worker shutdown
 - 2023-06-23 10:24: docs: document configuration parameters and overrides
 - 2023-06-23 14:13: refactor: optimize module imports and remove unused dependencies
+- 2023-06-23 21:24: test(storage): verify concurrency safety with thread pool
