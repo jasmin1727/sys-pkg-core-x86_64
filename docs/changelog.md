@@ -363,3 +363,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-21 20:04: feat(validator): add schema validation for incoming events
 - 2023-06-23 10:07: fix(core): handle race condition during worker shutdown
 - 2023-06-23 10:24: docs: document configuration parameters and overrides
+- 2023-06-23 14:13: refactor: optimize module imports and remove unused dependencies
