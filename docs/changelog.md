@@ -361,3 +361,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-21 12:53: docs: document configuration parameters and overrides
 - 2023-06-21 13:02: feat(parser): add support for nested json payloads
 - 2023-06-21 20:04: feat(validator): add schema validation for incoming events
+- 2023-06-23 10:07: fix(core): handle race condition during worker shutdown
