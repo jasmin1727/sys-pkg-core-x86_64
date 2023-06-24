@@ -370,3 +370,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-23 22:36: feat(events): implement publish-subscribe message bus
 - 2023-06-23 22:51: fix(queue): acknowledge message after successful processing
 - 2023-06-24 11:56: feat(context): propagate request trace id across coroutines
+- 2023-06-24 11:57: test(core): add coverage for worker crash recovery
