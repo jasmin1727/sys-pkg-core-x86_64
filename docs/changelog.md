@@ -374,3 +374,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-24 12:26: feat(logger): introduce structured json formatting
 - 2023-06-24 12:28: feat(stream): add chunked data stream reader
 - 2023-06-24 14:24: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2023-06-24 14:34: feat(logger): introduce structured json formatting
