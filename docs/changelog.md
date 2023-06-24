@@ -372,3 +372,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-24 11:56: feat(context): propagate request trace id across coroutines
 - 2023-06-24 11:57: test(core): add coverage for worker crash recovery
 - 2023-06-24 12:26: feat(logger): introduce structured json formatting
+- 2023-06-24 12:28: feat(stream): add chunked data stream reader
