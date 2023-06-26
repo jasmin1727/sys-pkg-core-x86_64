@@ -382,3 +382,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-24 17:31: feat(metrics): track request latency and error counters
 - 2023-06-24 20:47: fix(storage): correct file descriptor leak on close
 - 2023-06-24 23:22: docs: add architecture overview and system flow diagram
+- 2023-06-26 13:35: feat(auth): add bearer token header validation helper
