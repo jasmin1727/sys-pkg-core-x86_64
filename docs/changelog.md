@@ -385,3 +385,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-26 13:35: feat(auth): add bearer token header validation helper
 - 2023-06-26 13:50: refactor(storage): separate in-memory cache from persistence layer
 - 2023-06-26 16:50: chore: update dependency versions in package lock
+- 2023-06-26 17:50: refactor(cache): unify cache interface across backends
