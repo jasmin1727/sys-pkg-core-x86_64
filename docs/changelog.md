@@ -395,3 +395,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-27 22:14: chore: configure pre-commit hooks and linter rules
 - 2023-06-28 11:56: feat(core): implement async task worker pool
 - 2023-06-28 13:31: test(storage): verify concurrency safety with thread pool
+- 2023-06-28 14:38: feat(stream): add chunked data stream reader
