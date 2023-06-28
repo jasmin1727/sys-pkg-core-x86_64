@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-28 13:31: test(storage): verify concurrency safety with thread pool
 - 2023-06-28 14:38: feat(stream): add chunked data stream reader
 - 2023-06-28 17:24: fix(logger): prevent sensitive token leakage in debug logs
+- 2023-06-28 17:36: refactor(cache): unify cache interface across backends
