@@ -258,3 +258,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-28 17:24: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-06-28 17:36: refactor(cache): unify cache interface across backends
 - 2023-06-28 19:17: test(parser): add test cases for malformed inputs
+- 2023-06-30 12:47: fix(queue): acknowledge message after successful processing
