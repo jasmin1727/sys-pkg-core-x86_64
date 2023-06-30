@@ -260,3 +260,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-28 19:17: test(parser): add test cases for malformed inputs
 - 2023-06-30 12:47: fix(queue): acknowledge message after successful processing
 - 2023-06-30 18:06: fix(queue): acknowledge message after successful processing
+- 2023-06-30 22:44: fix(storage): correct file descriptor leak on close
