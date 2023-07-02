@@ -262,3 +262,4 @@ All notable changes and milestones are documented in this file.
 - 2023-06-30 18:06: fix(queue): acknowledge message after successful processing
 - 2023-06-30 22:44: fix(storage): correct file descriptor leak on close
 - 2023-07-02 11:22: feat(events): implement publish-subscribe message bus
+- 2023-07-02 14:56: feat(validator): add schema validation for incoming events
