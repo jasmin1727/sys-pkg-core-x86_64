@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-02 11:22: feat(events): implement publish-subscribe message bus
 - 2023-07-02 14:56: feat(validator): add schema validation for incoming events
 - 2023-07-02 18:15: test(cache): assert eviction behavior under memory pressure
+- 2023-07-02 23:19: refactor(storage): separate in-memory cache from persistence layer
