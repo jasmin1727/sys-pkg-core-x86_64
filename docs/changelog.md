@@ -268,3 +268,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-03 10:06: test(cache): assert eviction behavior under memory pressure
 - 2023-07-03 11:56: test(cache): assert eviction behavior under memory pressure
 - 2023-07-03 14:49: refactor(cache): unify cache interface across backends
+- 2023-07-03 14:51: test(cache): assert eviction behavior under memory pressure
