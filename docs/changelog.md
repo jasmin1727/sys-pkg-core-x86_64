@@ -274,3 +274,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-03 23:10: fix(cache): resolve cache key collision for compound queries
 - 2023-07-04 11:03: fix(cache): resolve cache key collision for compound queries
 - 2023-07-04 11:47: feat(config): add dynamic environment variable resolver
+- 2023-07-04 12:42: feat(scheduler): support cron-like job scheduling intervals
