@@ -273,3 +273,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-03 22:47: feat(auth): add bearer token header validation helper
 - 2023-07-03 23:10: fix(cache): resolve cache key collision for compound queries
 - 2023-07-04 11:03: fix(cache): resolve cache key collision for compound queries
+- 2023-07-04 11:47: feat(config): add dynamic environment variable resolver
