@@ -283,3 +283,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-04 18:50: feat(metrics): track request latency and error counters
 - 2023-07-04 19:48: test(core): add coverage for worker crash recovery
 - 2023-07-04 22:36: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2023-07-04 23:02: fix(cache): resolve cache key collision for compound queries
