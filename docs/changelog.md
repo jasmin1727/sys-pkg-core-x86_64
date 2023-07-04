@@ -279,3 +279,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-04 15:18: fix(config): fallback to defaults when config key is missing
 - 2023-07-04 16:27: docs: document configuration parameters and overrides
 - 2023-07-04 17:07: refactor(cache): unify cache interface across backends
+- 2023-07-04 17:44: refactor(core): streamline worker initialization sequence
