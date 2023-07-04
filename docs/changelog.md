@@ -280,3 +280,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-04 16:27: docs: document configuration parameters and overrides
 - 2023-07-04 17:07: refactor(cache): unify cache interface across backends
 - 2023-07-04 17:44: refactor(core): streamline worker initialization sequence
+- 2023-07-04 18:50: feat(metrics): track request latency and error counters
