@@ -285,3 +285,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-04 22:36: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2023-07-04 23:02: fix(cache): resolve cache key collision for compound queries
 - 2023-07-05 13:09: feat(logger): introduce structured json formatting
+- 2023-07-05 16:14: feat(cache): implement adaptive LRU cache with TTL expiry
