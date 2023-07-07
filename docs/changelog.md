@@ -289,3 +289,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-05 17:37: feat(core): implement async task worker pool
 - 2023-07-05 21:03: feat(metrics): track request latency and error counters
 - 2023-07-07 10:27: test(storage): verify concurrency safety with thread pool
+- 2023-07-07 11:23: feat(events): implement publish-subscribe message bus
