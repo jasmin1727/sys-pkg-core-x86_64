@@ -292,3 +292,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-07 11:23: feat(events): implement publish-subscribe message bus
 - 2023-07-07 12:54: feat(core): implement async task worker pool
 - 2023-07-07 13:13: refactor(utils): decompose monolithic string processing utility
+- 2023-07-07 15:17: fix(logger): prevent sensitive token leakage in debug logs
