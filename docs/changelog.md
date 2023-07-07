@@ -296,3 +296,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-07 20:15: fix(cache): resolve cache key collision for compound queries
 - 2023-07-07 20:29: feat(stream): add chunked data stream reader
 - 2023-07-07 20:46: refactor(storage): separate in-memory cache from persistence layer
+- 2023-07-07 21:57: fix(core): handle race condition during worker shutdown
