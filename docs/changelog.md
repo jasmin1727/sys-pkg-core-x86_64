@@ -298,3 +298,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-07 20:46: refactor(storage): separate in-memory cache from persistence layer
 - 2023-07-07 21:57: fix(core): handle race condition during worker shutdown
 - 2023-07-08 17:35: refactor(utils): decompose monolithic string processing utility
+- 2023-07-08 18:14: perf: reduce allocations in serialization hot path
