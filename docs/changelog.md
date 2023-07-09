@@ -300,3 +300,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-08 17:35: refactor(utils): decompose monolithic string processing utility
 - 2023-07-08 18:14: perf: reduce allocations in serialization hot path
 - 2023-07-09 16:38: feat(auth): add bearer token header validation helper
+- 2023-07-09 23:14: chore: update dependency versions in package lock
