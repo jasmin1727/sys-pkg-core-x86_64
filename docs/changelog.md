@@ -304,3 +304,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-10 11:48: style: enforce consistent docstring and code formatting
 - 2023-07-10 11:57: feat(validator): add schema validation for incoming events
 - 2023-07-10 14:06: test(cache): assert eviction behavior under memory pressure
+- 2023-07-10 15:33: docs: document configuration parameters and overrides
