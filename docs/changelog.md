@@ -301,3 +301,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-08 18:14: perf: reduce allocations in serialization hot path
 - 2023-07-09 16:38: feat(auth): add bearer token header validation helper
 - 2023-07-09 23:14: chore: update dependency versions in package lock
+- 2023-07-10 11:48: style: enforce consistent docstring and code formatting
