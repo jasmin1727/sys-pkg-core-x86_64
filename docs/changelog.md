@@ -314,3 +314,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-10 22:26: feat(auth): add bearer token header validation helper
 - 2023-07-10 23:05: feat(events): implement publish-subscribe message bus
 - 2023-07-11 10:47: fix(parser): resolve unexpected EOF when reading stream
+- 2023-07-11 19:22: docs: update setup instructions and prerequisites
