@@ -316,3 +316,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-11 10:47: fix(parser): resolve unexpected EOF when reading stream
 - 2023-07-11 19:22: docs: update setup instructions and prerequisites
 - 2023-07-11 21:29: refactor(cache): unify cache interface across backends
+- 2023-07-11 21:31: feat(scheduler): support cron-like job scheduling intervals
