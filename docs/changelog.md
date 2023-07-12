@@ -320,3 +320,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-11 21:55: refactor(cache): unify cache interface across backends
 - 2023-07-11 22:13: feat(api): add retry policy with exponential backoff
 - 2023-07-11 23:05: chore: update dependency versions in package lock
+- 2023-07-12 23:04: feat(context): propagate request trace id across coroutines
