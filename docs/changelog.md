@@ -324,3 +324,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-14 11:12: test(core): add coverage for worker crash recovery
 - 2023-07-14 12:28: feat(scheduler): support cron-like job scheduling intervals
 - 2023-07-14 12:31: test(parser): add test cases for malformed inputs
+- 2023-07-14 13:36: feat(events): implement publish-subscribe message bus
