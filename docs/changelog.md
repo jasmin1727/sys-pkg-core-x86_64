@@ -326,3 +326,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-14 12:31: test(parser): add test cases for malformed inputs
 - 2023-07-14 13:36: feat(events): implement publish-subscribe message bus
 - 2023-07-14 14:33: refactor(storage): separate in-memory cache from persistence layer
+- 2023-07-14 17:02: fix(logger): prevent sensitive token leakage in debug logs
