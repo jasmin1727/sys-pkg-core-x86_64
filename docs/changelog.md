@@ -323,3 +323,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-12 23:04: feat(context): propagate request trace id across coroutines
 - 2023-07-14 11:12: test(core): add coverage for worker crash recovery
 - 2023-07-14 12:28: feat(scheduler): support cron-like job scheduling intervals
+- 2023-07-14 12:31: test(parser): add test cases for malformed inputs
