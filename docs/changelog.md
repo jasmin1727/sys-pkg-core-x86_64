@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-17 15:04: feat(storage): implement disk-backed key-value cache
 - 2023-07-17 16:58: feat(config): add dynamic environment variable resolver
 - 2023-07-17 22:41: refactor(utils): decompose monolithic string processing utility
+- 2023-07-17 23:20: refactor(core): streamline worker initialization sequence
