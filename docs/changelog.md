@@ -330,3 +330,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-14 22:09: feat(context): propagate request trace id across coroutines
 - 2023-07-16 20:48: test(storage): verify concurrency safety with thread pool
 - 2023-07-17 15:04: feat(storage): implement disk-backed key-value cache
+- 2023-07-17 16:58: feat(config): add dynamic environment variable resolver
