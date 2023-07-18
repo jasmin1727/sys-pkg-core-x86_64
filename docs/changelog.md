@@ -335,3 +335,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-17 23:20: refactor(core): streamline worker initialization sequence
 - 2023-07-18 15:31: feat(scheduler): support cron-like job scheduling intervals
 - 2023-07-18 20:20: feat(config): add dynamic environment variable resolver
+- 2023-07-18 22:15: refactor(cache): unify cache interface across backends
