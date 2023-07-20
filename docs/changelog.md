@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-20 20:59: refactor(core): streamline worker initialization sequence
 - 2023-07-20 22:26: docs: add architecture overview and system flow diagram
 - 2023-07-20 22:45: feat(events): implement publish-subscribe message bus
+- 2023-07-20 23:03: docs: update API endpoints reference and sample requests
