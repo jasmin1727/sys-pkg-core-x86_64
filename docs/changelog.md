@@ -340,3 +340,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-20 14:00: refactor(storage): separate in-memory cache from persistence layer
 - 2023-07-20 15:59: fix(schema): resolve null value parsing in payload
 - 2023-07-20 16:07: fix(config): fallback to defaults when config key is missing
+- 2023-07-20 16:33: feat(stream): add chunked data stream reader
