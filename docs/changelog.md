@@ -338,3 +338,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-18 22:15: refactor(cache): unify cache interface across backends
 - 2023-07-19 10:24: refactor(cache): unify cache interface across backends
 - 2023-07-20 14:00: refactor(storage): separate in-memory cache from persistence layer
+- 2023-07-20 15:59: fix(schema): resolve null value parsing in payload
