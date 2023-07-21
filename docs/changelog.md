@@ -345,3 +345,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-20 22:26: docs: add architecture overview and system flow diagram
 - 2023-07-20 22:45: feat(events): implement publish-subscribe message bus
 - 2023-07-20 23:03: docs: update API endpoints reference and sample requests
+- 2023-07-21 13:03: fix(parser): resolve unexpected EOF when reading stream
