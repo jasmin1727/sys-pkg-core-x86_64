@@ -348,3 +348,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-21 13:03: fix(parser): resolve unexpected EOF when reading stream
 - 2023-07-21 16:57: chore: configure pre-commit hooks and linter rules
 - 2023-07-22 17:36: feat(api): add retry policy with exponential backoff
+- 2023-07-22 21:22: feat(scheduler): support cron-like job scheduling intervals
