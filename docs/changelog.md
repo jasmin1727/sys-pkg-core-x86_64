@@ -356,3 +356,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-24 21:55: refactor: optimize module imports and remove unused dependencies
 - 2023-07-25 17:00: feat(storage): implement disk-backed key-value cache
 - 2023-07-25 21:22: feat(logger): introduce structured json formatting
+- 2023-07-25 22:34: fix(storage): correct file descriptor leak on close
