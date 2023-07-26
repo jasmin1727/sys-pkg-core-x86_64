@@ -363,3 +363,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-26 17:05: fix(queue): acknowledge message after successful processing
 - 2023-07-26 17:54: fix(storage): correct file descriptor leak on close
 - 2023-07-26 18:42: feat(validator): add schema validation for incoming events
+- 2023-07-26 23:11: refactor: optimize module imports and remove unused dependencies
