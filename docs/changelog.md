@@ -360,3 +360,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-26 10:53: refactor(utils): decompose monolithic string processing utility
 - 2023-07-26 14:17: feat(api): add retry policy with exponential backoff
 - 2023-07-26 14:24: fix(logger): prevent sensitive token leakage in debug logs
+- 2023-07-26 17:05: fix(queue): acknowledge message after successful processing
