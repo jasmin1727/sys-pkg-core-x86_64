@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-25 17:00: feat(storage): implement disk-backed key-value cache
 - 2023-07-25 21:22: feat(logger): introduce structured json formatting
 - 2023-07-25 22:34: fix(storage): correct file descriptor leak on close
+- 2023-07-26 10:53: refactor(utils): decompose monolithic string processing utility
