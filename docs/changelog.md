@@ -364,3 +364,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-26 17:54: fix(storage): correct file descriptor leak on close
 - 2023-07-26 18:42: feat(validator): add schema validation for incoming events
 - 2023-07-26 23:11: refactor: optimize module imports and remove unused dependencies
+- 2023-07-27 10:33: feat(scheduler): support cron-like job scheduling intervals
