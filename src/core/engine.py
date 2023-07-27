@@ -230,3 +230,7 @@ class EventBus:
 class EventBus:
     '''In-memory publish-subscribe bus.'''
     pass
+
+class TokenBucket:
+    '''Token bucket rate limiter implementation.'''
+    pass
