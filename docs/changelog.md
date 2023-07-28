@@ -369,3 +369,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-28 13:15: fix(storage): correct file descriptor leak on close
 - 2023-07-28 13:56: feat(storage): implement disk-backed key-value cache
 - 2023-07-28 14:31: feat(api): add retry policy with exponential backoff
+- 2023-07-28 16:57: fix(schema): resolve null value parsing in payload
