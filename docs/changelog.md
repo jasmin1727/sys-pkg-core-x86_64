@@ -367,3 +367,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-27 10:33: feat(scheduler): support cron-like job scheduling intervals
 - 2023-07-27 22:48: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2023-07-28 13:15: fix(storage): correct file descriptor leak on close
+- 2023-07-28 13:56: feat(storage): implement disk-backed key-value cache
