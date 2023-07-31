@@ -376,3 +376,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-31 12:34: feat(context): propagate request trace id across coroutines
 - 2023-07-31 14:52: refactor(utils): decompose monolithic string processing utility
 - 2023-07-31 15:21: test(parser): add test cases for malformed inputs
+- 2023-07-31 19:02: feat(api): add retry policy with exponential backoff
