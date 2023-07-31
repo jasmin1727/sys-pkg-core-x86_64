@@ -380,3 +380,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-31 19:52: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2023-07-31 20:18: refactor(core): streamline worker initialization sequence
 - 2023-07-31 22:08: test(storage): verify concurrency safety with thread pool
+- 2023-07-31 23:23: test(parser): add test cases for malformed inputs
