@@ -373,3 +373,4 @@ All notable changes and milestones are documented in this file.
 - 2023-07-28 23:18: feat(stream): add chunked data stream reader
 - 2023-07-31 10:55: feat(stream): add chunked data stream reader
 - 2023-07-31 11:00: fix(cache): resolve cache key collision for compound queries
+- 2023-07-31 12:34: feat(context): propagate request trace id across coroutines
