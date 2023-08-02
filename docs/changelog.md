@@ -386,3 +386,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-01 17:21: feat(config): add dynamic environment variable resolver
 - 2023-08-01 20:36: fix(storage): correct file descriptor leak on close
 - 2023-08-01 21:31: feat(api): add retry policy with exponential backoff
+- 2023-08-02 10:14: test(storage): verify concurrency safety with thread pool
