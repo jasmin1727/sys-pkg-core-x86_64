@@ -393,3 +393,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-02 15:56: feat(validator): add schema validation for incoming events
 - 2023-08-02 17:02: refactor(storage): separate in-memory cache from persistence layer
 - 2023-08-02 17:31: test(storage): verify concurrency safety with thread pool
+- 2023-08-02 18:51: feat(logger): introduce structured json formatting
