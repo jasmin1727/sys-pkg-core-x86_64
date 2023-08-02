@@ -389,3 +389,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-02 10:14: test(storage): verify concurrency safety with thread pool
 - 2023-08-02 12:35: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2023-08-02 15:16: test(parser): add test cases for malformed inputs
+- 2023-08-02 15:47: feat(stream): add chunked data stream reader
