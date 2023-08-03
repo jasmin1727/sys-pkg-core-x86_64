@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-03 14:06: test(storage): verify concurrency safety with thread pool
 - 2023-08-03 15:22: feat(validator): add schema validation for incoming events
 - 2023-08-03 16:30: feat(parser): add support for nested json payloads
+- 2023-08-03 17:38: refactor(utils): decompose monolithic string processing utility
