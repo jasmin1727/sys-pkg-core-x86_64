@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-02 23:03: feat(scheduler): support cron-like job scheduling intervals
 - 2023-08-03 10:53: test(storage): verify concurrency safety with thread pool
 - 2023-08-03 10:53: refactor(cache): unify cache interface across backends
+- 2023-08-03 14:06: test(storage): verify concurrency safety with thread pool
