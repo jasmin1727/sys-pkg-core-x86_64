@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-03 16:30: feat(parser): add support for nested json payloads
 - 2023-08-03 17:38: refactor(utils): decompose monolithic string processing utility
 - 2023-08-03 18:14: fix(queue): acknowledge message after successful processing
+- 2023-08-03 19:38: docs: update setup instructions and prerequisites
