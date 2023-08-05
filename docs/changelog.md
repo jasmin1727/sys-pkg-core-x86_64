@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-03 20:50: fix(parser): resolve unexpected EOF when reading stream
 - 2023-08-03 21:25: fix(storage): correct file descriptor leak on close
 - 2023-08-04 15:20: fix(logger): prevent sensitive token leakage in debug logs
+- 2023-08-05 11:26: feat(stream): add chunked data stream reader
