@@ -272,3 +272,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-06 12:08: feat(stream): add chunked data stream reader
 - 2023-08-06 12:42: docs: update API endpoints reference and sample requests
 - 2023-08-06 16:42: feat(storage): implement disk-backed key-value cache
+- 2023-08-06 19:45: test(core): add coverage for worker crash recovery
