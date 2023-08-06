@@ -269,3 +269,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-04 15:20: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-08-05 11:26: feat(stream): add chunked data stream reader
 - 2023-08-05 15:51: refactor(core): streamline worker initialization sequence
+- 2023-08-06 12:08: feat(stream): add chunked data stream reader
