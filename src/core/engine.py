@@ -242,3 +242,7 @@ class TokenBucket:
 # Refactored worker lifecycle management
 
 # Refactored worker lifecycle management
+
+class EventBus:
+    '''In-memory publish-subscribe bus.'''
+    pass
