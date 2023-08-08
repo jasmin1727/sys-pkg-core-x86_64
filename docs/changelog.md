@@ -277,3 +277,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-08 13:05: docs: document configuration parameters and overrides
 - 2023-08-08 13:07: chore: update dependency versions in package lock
 - 2023-08-08 13:13: fix(schema): resolve null value parsing in payload
+- 2023-08-08 14:51: feat(parser): add support for nested json payloads
