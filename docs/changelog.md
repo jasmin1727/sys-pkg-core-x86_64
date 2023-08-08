@@ -275,3 +275,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-06 19:45: test(core): add coverage for worker crash recovery
 - 2023-08-06 21:45: chore: configure pre-commit hooks and linter rules
 - 2023-08-08 13:05: docs: document configuration parameters and overrides
+- 2023-08-08 13:07: chore: update dependency versions in package lock
