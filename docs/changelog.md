@@ -286,3 +286,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-08 19:01: feat(api): add retry policy with exponential backoff
 - 2023-08-08 21:48: refactor(storage): separate in-memory cache from persistence layer
 - 2023-08-08 22:11: fix(cache): resolve cache key collision for compound queries
+- 2023-08-08 23:06: fix(cache): resolve cache key collision for compound queries
