@@ -283,3 +283,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-08 17:37: fix(schema): resolve null value parsing in payload
 - 2023-08-08 17:40: feat(api): add retry policy with exponential backoff
 - 2023-08-08 18:42: fix(cache): resolve cache key collision for compound queries
+- 2023-08-08 19:01: feat(api): add retry policy with exponential backoff
