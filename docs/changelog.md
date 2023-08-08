@@ -279,3 +279,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-08 13:13: fix(schema): resolve null value parsing in payload
 - 2023-08-08 14:51: feat(parser): add support for nested json payloads
 - 2023-08-08 15:38: feat(events): implement publish-subscribe message bus
+- 2023-08-08 17:21: feat(logger): introduce structured json formatting
