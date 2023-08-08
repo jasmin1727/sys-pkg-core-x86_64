@@ -281,3 +281,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-08 15:38: feat(events): implement publish-subscribe message bus
 - 2023-08-08 17:21: feat(logger): introduce structured json formatting
 - 2023-08-08 17:37: fix(schema): resolve null value parsing in payload
+- 2023-08-08 17:40: feat(api): add retry policy with exponential backoff
