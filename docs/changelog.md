@@ -289,3 +289,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-08 23:06: fix(cache): resolve cache key collision for compound queries
 - 2023-08-08 23:22: chore: update dependency versions in package lock
 - 2023-08-09 11:15: fix(queue): acknowledge message after successful processing
+- 2023-08-09 17:18: fix(parser): resolve unexpected EOF when reading stream
