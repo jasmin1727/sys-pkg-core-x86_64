@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-08 23:22: chore: update dependency versions in package lock
 - 2023-08-09 11:15: fix(queue): acknowledge message after successful processing
 - 2023-08-09 17:18: fix(parser): resolve unexpected EOF when reading stream
+- 2023-08-10 11:06: fix(logger): prevent sensitive token leakage in debug logs
