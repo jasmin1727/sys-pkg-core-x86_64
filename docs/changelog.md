@@ -294,3 +294,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-10 11:32: feat(storage): implement disk-backed key-value cache
 - 2023-08-10 13:58: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-08-10 14:49: feat(config): add dynamic environment variable resolver
+- 2023-08-10 18:38: fix(schema): resolve null value parsing in payload
