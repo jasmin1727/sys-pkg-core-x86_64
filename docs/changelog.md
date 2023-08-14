@@ -299,3 +299,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-11 13:45: feat(api): add retry policy with exponential backoff
 - 2023-08-11 22:30: fix(parser): resolve unexpected EOF when reading stream
 - 2023-08-14 15:54: fix(config): fallback to defaults when config key is missing
+- 2023-08-14 17:21: feat(events): implement publish-subscribe message bus
