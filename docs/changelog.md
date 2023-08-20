@@ -302,3 +302,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-14 17:21: feat(events): implement publish-subscribe message bus
 - 2023-08-20 15:02: test(cache): assert eviction behavior under memory pressure
 - 2023-08-20 15:57: feat(storage): implement disk-backed key-value cache
+- 2023-08-20 19:46: docs: update API endpoints reference and sample requests
