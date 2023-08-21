@@ -311,3 +311,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-21 18:18: docs: update setup instructions and prerequisites
 - 2023-08-21 20:15: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-08-21 21:07: docs: update setup instructions and prerequisites
+- 2023-08-21 21:36: feat(config): add dynamic environment variable resolver
