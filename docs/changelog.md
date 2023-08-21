@@ -315,3 +315,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-21 21:59: refactor: optimize module imports and remove unused dependencies
 - 2023-08-21 22:09: refactor(utils): decompose monolithic string processing utility
 - 2023-08-21 23:01: fix(queue): acknowledge message after successful processing
+- 2023-08-21 23:14: fix(core): handle race condition during worker shutdown
