@@ -309,3 +309,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-21 17:38: refactor(utils): decompose monolithic string processing utility
 - 2023-08-21 17:52: refactor(cache): unify cache interface across backends
 - 2023-08-21 18:18: docs: update setup instructions and prerequisites
+- 2023-08-21 20:15: fix(logger): prevent sensitive token leakage in debug logs
