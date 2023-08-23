@@ -317,3 +317,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-21 23:01: fix(queue): acknowledge message after successful processing
 - 2023-08-21 23:14: fix(core): handle race condition during worker shutdown
 - 2023-08-22 22:35: fix(logger): prevent sensitive token leakage in debug logs
+- 2023-08-23 13:54: fix(core): handle race condition during worker shutdown
