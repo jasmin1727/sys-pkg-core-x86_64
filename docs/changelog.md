@@ -324,3 +324,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-23 21:22: feat(api): add retry policy with exponential backoff
 - 2023-08-24 10:35: feat(storage): implement disk-backed key-value cache
 - 2023-08-24 11:31: test(cache): assert eviction behavior under memory pressure
+- 2023-08-24 19:19: feat(parser): add support for nested json payloads

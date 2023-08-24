@@ -346,3 +346,7 @@ def sanitize_null_fields(obj):
 # Decomposed string processing helpers
 
 # Decomposed string processing helpers
+
+def parse_nested_payload(raw: str) -> dict:
+    '''Safely decode nested JSON structures.'''
+    return json.loads(raw)
