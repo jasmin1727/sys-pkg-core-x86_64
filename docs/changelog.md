@@ -322,3 +322,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-23 17:00: refactor: optimize module imports and remove unused dependencies
 - 2023-08-23 21:13: test(storage): verify concurrency safety with thread pool
 - 2023-08-23 21:22: feat(api): add retry policy with exponential backoff
+- 2023-08-24 10:35: feat(storage): implement disk-backed key-value cache
