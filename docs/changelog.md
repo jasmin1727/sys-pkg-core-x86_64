@@ -327,3 +327,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-24 19:19: feat(parser): add support for nested json payloads
 - 2023-08-25 14:00: refactor: optimize module imports and remove unused dependencies
 - 2023-08-25 15:38: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2023-08-27 13:54: fix(cache): resolve cache key collision for compound queries
