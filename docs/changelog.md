@@ -331,3 +331,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-27 19:07: refactor(cache): unify cache interface across backends
 - 2023-08-28 11:25: feat(storage): implement disk-backed key-value cache
 - 2023-08-28 17:35: feat(context): propagate request trace id across coroutines
+- 2023-08-28 23:25: feat(config): add dynamic environment variable resolver
