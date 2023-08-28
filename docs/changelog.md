@@ -329,3 +329,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-25 15:38: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2023-08-27 13:54: fix(cache): resolve cache key collision for compound queries
 - 2023-08-27 19:07: refactor(cache): unify cache interface across backends
+- 2023-08-28 11:25: feat(storage): implement disk-backed key-value cache
