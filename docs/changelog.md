@@ -334,3 +334,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-28 23:25: feat(config): add dynamic environment variable resolver
 - 2023-08-29 11:13: style: enforce consistent docstring and code formatting
 - 2023-08-29 12:27: refactor(core): streamline worker initialization sequence
+- 2023-08-29 14:12: feat(storage): implement disk-backed key-value cache
