@@ -337,3 +337,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-29 14:12: feat(storage): implement disk-backed key-value cache
 - 2023-08-29 18:14: test(cache): assert eviction behavior under memory pressure
 - 2023-08-29 20:44: fix(logger): prevent sensitive token leakage in debug logs
+- 2023-08-29 21:45: feat(config): add dynamic environment variable resolver
