@@ -341,3 +341,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-30 15:04: refactor(utils): decompose monolithic string processing utility
 - 2023-08-30 17:07: refactor(utils): decompose monolithic string processing utility
 - 2023-08-30 17:13: fix(core): handle race condition during worker shutdown
+- 2023-08-30 18:41: test(core): add coverage for worker crash recovery
