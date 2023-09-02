@@ -347,3 +347,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-02 13:26: feat(storage): implement disk-backed key-value cache
 - 2023-09-02 14:20: feat(scheduler): support cron-like job scheduling intervals
 - 2023-09-02 14:57: refactor(storage): separate in-memory cache from persistence layer
+- 2023-09-02 15:05: fix(cache): resolve cache key collision for compound queries
