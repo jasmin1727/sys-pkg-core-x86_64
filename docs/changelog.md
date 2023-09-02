@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2023-08-30 18:41: test(core): add coverage for worker crash recovery
 - 2023-09-02 11:53: refactor: optimize module imports and remove unused dependencies
 - 2023-09-02 12:27: feat(stream): add chunked data stream reader
+- 2023-09-02 13:26: feat(storage): implement disk-backed key-value cache
