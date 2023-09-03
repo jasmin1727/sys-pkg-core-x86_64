@@ -356,3 +356,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-03 16:37: test(storage): verify concurrency safety with thread pool
 - 2023-09-03 17:50: refactor(storage): separate in-memory cache from persistence layer
 - 2023-09-03 19:07: chore: update dependency versions in package lock
+- 2023-09-03 22:39: feat(storage): implement disk-backed key-value cache
