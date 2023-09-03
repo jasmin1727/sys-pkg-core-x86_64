@@ -351,3 +351,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-02 17:58: test(parser): add test cases for malformed inputs
 - 2023-09-02 18:48: test(core): add coverage for worker crash recovery
 - 2023-09-02 19:45: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2023-09-03 12:04: fix(schema): resolve null value parsing in payload
