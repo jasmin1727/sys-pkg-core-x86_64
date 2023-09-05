@@ -361,3 +361,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-04 16:24: docs: document configuration parameters and overrides
 - 2023-09-05 10:18: docs: update API endpoints reference and sample requests
 - 2023-09-05 13:36: feat(metrics): track request latency and error counters
+- 2023-09-05 14:50: fix(storage): correct file descriptor leak on close
