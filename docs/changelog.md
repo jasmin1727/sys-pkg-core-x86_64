@@ -367,3 +367,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-05 18:56: test(storage): verify concurrency safety with thread pool
 - 2023-09-05 19:07: refactor(storage): separate in-memory cache from persistence layer
 - 2023-09-05 19:18: docs: document configuration parameters and overrides
+- 2023-09-05 19:39: fix(storage): correct file descriptor leak on close
