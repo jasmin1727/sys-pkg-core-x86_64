@@ -369,3 +369,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-05 19:18: docs: document configuration parameters and overrides
 - 2023-09-05 19:39: fix(storage): correct file descriptor leak on close
 - 2023-09-05 20:23: fix(logger): prevent sensitive token leakage in debug logs
+- 2023-09-05 22:07: fix(queue): acknowledge message after successful processing
