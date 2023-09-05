@@ -364,3 +364,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-05 14:50: fix(storage): correct file descriptor leak on close
 - 2023-09-05 16:30: fix(storage): correct file descriptor leak on close
 - 2023-09-05 16:59: feat(metrics): track request latency and error counters
+- 2023-09-05 18:56: test(storage): verify concurrency safety with thread pool
