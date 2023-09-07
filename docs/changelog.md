@@ -374,3 +374,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-06 10:36: feat(auth): add bearer token header validation helper
 - 2023-09-06 16:44: refactor(cache): unify cache interface across backends
 - 2023-09-07 14:44: refactor(core): streamline worker initialization sequence
+- 2023-09-07 16:45: docs: document configuration parameters and overrides
