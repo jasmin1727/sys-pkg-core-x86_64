@@ -380,3 +380,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-08 19:44: feat(auth): add bearer token header validation helper
 - 2023-09-12 14:44: feat(storage): implement disk-backed key-value cache
 - 2023-09-12 17:01: style: enforce consistent docstring and code formatting
+- 2023-09-12 22:52: feat(parser): add support for nested json payloads
