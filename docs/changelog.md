@@ -378,3 +378,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-07 17:42: test(storage): verify concurrency safety with thread pool
 - 2023-09-07 21:56: docs: update setup instructions and prerequisites
 - 2023-09-08 19:44: feat(auth): add bearer token header validation helper
+- 2023-09-12 14:44: feat(storage): implement disk-backed key-value cache
