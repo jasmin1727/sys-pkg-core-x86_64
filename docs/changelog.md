@@ -383,3 +383,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-12 22:52: feat(parser): add support for nested json payloads
 - 2023-09-12 22:58: feat(config): add dynamic environment variable resolver
 - 2023-09-14 10:42: fix(queue): acknowledge message after successful processing
+- 2023-09-14 11:01: fix(logger): prevent sensitive token leakage in debug logs
