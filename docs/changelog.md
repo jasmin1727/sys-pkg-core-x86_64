@@ -385,3 +385,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-14 10:42: fix(queue): acknowledge message after successful processing
 - 2023-09-14 11:01: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-09-14 12:01: fix(config): fallback to defaults when config key is missing
+- 2023-09-14 15:19: fix(logger): prevent sensitive token leakage in debug logs
