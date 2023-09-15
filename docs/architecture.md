@@ -289,3 +289,6 @@ Install required runtime packages and configure environment.
 
 ### System Architecture
 Modular event-driven architecture designed for high throughput.
+
+### System Architecture
+Modular event-driven architecture designed for high throughput.
