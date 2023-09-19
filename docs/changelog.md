@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-19 10:23: fix(config): fallback to defaults when config key is missing
 - 2023-09-19 12:06: feat(parser): add support for nested json payloads
 - 2023-09-19 12:57: fix(queue): acknowledge message after successful processing
+- 2023-09-19 13:33: fix(cache): resolve cache key collision for compound queries
