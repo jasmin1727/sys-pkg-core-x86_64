@@ -263,3 +263,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-19 18:57: feat(storage): implement disk-backed key-value cache
 - 2023-09-19 19:16: test(storage): verify concurrency safety with thread pool
 - 2023-09-19 20:24: refactor(core): streamline worker initialization sequence
+- 2023-09-19 22:15: refactor(cache): unify cache interface across backends
