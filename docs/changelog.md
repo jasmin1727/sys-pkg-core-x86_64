@@ -394,3 +394,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-15 18:31: refactor: optimize module imports and remove unused dependencies
 - 2023-09-15 18:41: feat(scheduler): support cron-like job scheduling intervals
 - 2023-09-15 18:56: docs: add architecture overview and system flow diagram
+- 2023-09-19 10:23: fix(config): fallback to defaults when config key is missing
