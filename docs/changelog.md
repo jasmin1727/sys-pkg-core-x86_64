@@ -395,3 +395,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-15 18:41: feat(scheduler): support cron-like job scheduling intervals
 - 2023-09-15 18:56: docs: add architecture overview and system flow diagram
 - 2023-09-19 10:23: fix(config): fallback to defaults when config key is missing
+- 2023-09-19 12:06: feat(parser): add support for nested json payloads
