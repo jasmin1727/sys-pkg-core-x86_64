@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-19 23:03: fix(cache): resolve cache key collision for compound queries
 - 2023-09-20 10:50: feat(validator): add schema validation for incoming events
 - 2023-09-20 11:46: fix(logger): prevent sensitive token leakage in debug logs
+- 2023-09-20 13:02: test(cache): assert eviction behavior under memory pressure
