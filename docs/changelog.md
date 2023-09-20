@@ -271,3 +271,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-20 13:44: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2023-09-20 18:53: feat(storage): implement disk-backed key-value cache
 - 2023-09-20 22:36: fix(queue): acknowledge message after successful processing
+- 2023-09-20 23:13: test(storage): verify concurrency safety with thread pool
