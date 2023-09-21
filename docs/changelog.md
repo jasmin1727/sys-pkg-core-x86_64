@@ -273,3 +273,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-20 22:36: fix(queue): acknowledge message after successful processing
 - 2023-09-20 23:13: test(storage): verify concurrency safety with thread pool
 - 2023-09-21 17:32: style: enforce consistent docstring and code formatting
+- 2023-09-21 17:53: fix(core): handle race condition during worker shutdown
