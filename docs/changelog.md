@@ -275,3 +275,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-21 17:32: style: enforce consistent docstring and code formatting
 - 2023-09-21 17:53: fix(core): handle race condition during worker shutdown
 - 2023-09-21 20:08: feat(parser): add support for nested json payloads
+- 2023-09-22 13:40: feat(stream): add chunked data stream reader
