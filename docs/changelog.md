@@ -279,3 +279,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-22 21:51: fix(cache): resolve cache key collision for compound queries
 - 2023-09-23 10:01: refactor(core): streamline worker initialization sequence
 - 2023-09-23 13:42: feat(parser): add support for nested json payloads
+- 2023-09-23 13:56: fix(cache): resolve cache key collision for compound queries
