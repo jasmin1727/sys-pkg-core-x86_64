@@ -284,3 +284,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-25 16:58: feat(core): implement async task worker pool
 - 2023-09-25 17:19: feat(config): add dynamic environment variable resolver
 - 2023-09-25 21:44: docs: document configuration parameters and overrides
+- 2023-09-25 22:20: refactor(utils): decompose monolithic string processing utility
