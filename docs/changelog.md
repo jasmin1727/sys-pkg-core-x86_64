@@ -289,3 +289,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-26 15:09: feat(api): add retry policy with exponential backoff
 - 2023-09-26 15:34: refactor: optimize module imports and remove unused dependencies
 - 2023-09-26 17:09: chore: configure pre-commit hooks and linter rules
+- 2023-09-26 23:06: refactor(core): streamline worker initialization sequence
