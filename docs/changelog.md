@@ -293,3 +293,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-27 10:05: test(cache): assert eviction behavior under memory pressure
 - 2023-09-27 15:43: refactor(storage): separate in-memory cache from persistence layer
 - 2023-09-27 19:06: feat(core): implement async task worker pool
+- 2023-09-27 21:41: fix(parser): resolve unexpected EOF when reading stream
