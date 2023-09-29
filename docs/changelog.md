@@ -296,3 +296,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-27 21:41: fix(parser): resolve unexpected EOF when reading stream
 - 2023-09-29 10:03: docs: document configuration parameters and overrides
 - 2023-09-29 14:25: fix(config): fallback to defaults when config key is missing
+- 2023-09-29 21:31: feat(storage): implement disk-backed key-value cache
