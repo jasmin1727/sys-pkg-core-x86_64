@@ -299,3 +299,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-29 21:31: feat(storage): implement disk-backed key-value cache
 - 2023-09-30 12:18: refactor(cache): unify cache interface across backends
 - 2023-09-30 16:20: fix(schema): resolve null value parsing in payload
+- 2023-09-30 19:05: fix(logger): prevent sensitive token leakage in debug logs
