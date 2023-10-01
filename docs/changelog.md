@@ -300,3 +300,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-30 12:18: refactor(cache): unify cache interface across backends
 - 2023-09-30 16:20: fix(schema): resolve null value parsing in payload
 - 2023-09-30 19:05: fix(logger): prevent sensitive token leakage in debug logs
+- 2023-10-01 10:08: fix(cache): resolve cache key collision for compound queries
