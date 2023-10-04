@@ -302,3 +302,4 @@ All notable changes and milestones are documented in this file.
 - 2023-09-30 19:05: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-10-01 10:08: fix(cache): resolve cache key collision for compound queries
 - 2023-10-04 13:56: fix(cache): resolve cache key collision for compound queries
+- 2023-10-04 14:44: feat(parser): add support for nested json payloads
