@@ -303,3 +303,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-01 10:08: fix(cache): resolve cache key collision for compound queries
 - 2023-10-04 13:56: fix(cache): resolve cache key collision for compound queries
 - 2023-10-04 14:44: feat(parser): add support for nested json payloads
+- 2023-10-04 20:26: refactor(storage): separate in-memory cache from persistence layer
