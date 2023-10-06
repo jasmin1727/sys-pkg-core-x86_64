@@ -306,3 +306,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-04 20:26: refactor(storage): separate in-memory cache from persistence layer
 - 2023-10-04 22:01: feat(logger): introduce structured json formatting
 - 2023-10-05 16:45: feat(auth): add bearer token header validation helper
+- 2023-10-06 20:33: feat(api): add retry policy with exponential backoff
