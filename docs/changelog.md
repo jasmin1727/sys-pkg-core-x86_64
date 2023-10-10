@@ -309,3 +309,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-06 20:33: feat(api): add retry policy with exponential backoff
 - 2023-10-06 22:46: docs: add architecture overview and system flow diagram
 - 2023-10-10 14:02: docs: add architecture overview and system flow diagram
+- 2023-10-10 14:46: refactor(cache): unify cache interface across backends
