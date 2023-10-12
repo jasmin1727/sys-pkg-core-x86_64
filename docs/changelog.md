@@ -317,3 +317,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-11 19:05: feat(logger): introduce structured json formatting
 - 2023-10-12 11:00: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2023-10-12 14:47: fix(config): fallback to defaults when config key is missing
+- 2023-10-12 16:09: feat(cache): implement adaptive LRU cache with TTL expiry
