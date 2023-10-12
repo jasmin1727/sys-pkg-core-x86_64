@@ -315,3 +315,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-11 16:51: feat(api): add retry policy with exponential backoff
 - 2023-10-11 19:02: refactor(utils): decompose monolithic string processing utility
 - 2023-10-11 19:05: feat(logger): introduce structured json formatting
+- 2023-10-12 11:00: feat(rate-limit): implement token bucket rate limiting algorithm
