@@ -319,3 +319,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-12 14:47: fix(config): fallback to defaults when config key is missing
 - 2023-10-12 16:09: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2023-10-12 17:37: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2023-10-17 10:23: refactor: optimize module imports and remove unused dependencies
