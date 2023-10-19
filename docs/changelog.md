@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-19 19:17: fix(config): fallback to defaults when config key is missing
 - 2023-10-19 20:29: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-10-19 21:06: refactor(storage): separate in-memory cache from persistence layer
+- 2023-10-19 22:16: feat(logger): introduce structured json formatting
