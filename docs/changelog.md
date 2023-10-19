@@ -326,3 +326,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-19 10:21: chore: update dependency versions in package lock
 - 2023-10-19 10:41: fix(cache): resolve cache key collision for compound queries
 - 2023-10-19 12:40: test(storage): verify concurrency safety with thread pool
+- 2023-10-19 14:20: test(core): add coverage for worker crash recovery
