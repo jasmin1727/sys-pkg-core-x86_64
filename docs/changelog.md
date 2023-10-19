@@ -328,3 +328,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-19 12:40: test(storage): verify concurrency safety with thread pool
 - 2023-10-19 14:20: test(core): add coverage for worker crash recovery
 - 2023-10-19 15:02: fix(queue): acknowledge message after successful processing
+- 2023-10-19 19:12: fix(core): handle race condition during worker shutdown
