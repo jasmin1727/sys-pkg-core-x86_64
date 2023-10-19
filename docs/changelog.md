@@ -323,3 +323,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-17 11:50: refactor(cache): unify cache interface across backends
 - 2023-10-17 14:08: feat(core): implement async task worker pool
 - 2023-10-17 17:09: refactor(utils): decompose monolithic string processing utility
+- 2023-10-19 10:21: chore: update dependency versions in package lock
