@@ -335,3 +335,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-19 22:16: feat(logger): introduce structured json formatting
 - 2023-10-20 14:54: feat(logger): introduce structured json formatting
 - 2023-10-20 21:10: feat(storage): implement disk-backed key-value cache
+- 2023-10-20 22:59: feat(config): add dynamic environment variable resolver
