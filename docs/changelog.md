@@ -337,3 +337,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-20 21:10: feat(storage): implement disk-backed key-value cache
 - 2023-10-20 22:59: feat(config): add dynamic environment variable resolver
 - 2023-10-21 18:30: feat(metrics): track request latency and error counters
+- 2023-10-22 12:10: chore: configure pre-commit hooks and linter rules
