@@ -239,3 +239,7 @@ def validate_bearer_token(header: str) -> bool:
 # Decomposed string processing helpers
 
 # Decomposed string processing helpers
+
+def validate_bearer_token(header: str) -> bool:
+    '''Validate authorization header format.'''
+    return header.startswith('Bearer ')

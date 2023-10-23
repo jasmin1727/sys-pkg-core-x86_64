@@ -341,3 +341,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-23 10:46: feat(scheduler): support cron-like job scheduling intervals
 - 2023-10-23 15:30: test(cache): assert eviction behavior under memory pressure
 - 2023-10-23 19:07: test(cache): assert eviction behavior under memory pressure
+- 2023-10-23 20:44: feat(auth): add bearer token header validation helper
