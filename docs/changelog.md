@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-23 20:44: feat(auth): add bearer token header validation helper
 - 2023-10-23 22:41: fix(storage): correct file descriptor leak on close
 - 2023-10-24 15:58: fix(storage): correct file descriptor leak on close
+- 2023-10-24 19:02: refactor(storage): separate in-memory cache from persistence layer
