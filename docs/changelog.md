@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-24 15:58: fix(storage): correct file descriptor leak on close
 - 2023-10-24 19:02: refactor(storage): separate in-memory cache from persistence layer
 - 2023-10-24 21:07: feat(metrics): track request latency and error counters
+- 2023-10-24 21:28: perf: reduce allocations in serialization hot path
