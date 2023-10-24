@@ -330,3 +330,7 @@ def safe_shutdown(pool):
 class MetricsCollector:
     '''Tracks latency and counter metrics.'''
     pass
+
+class MetricsCollector:
+    '''Tracks latency and counter metrics.'''
+    pass
