@@ -349,3 +349,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-24 21:28: perf: reduce allocations in serialization hot path
 - 2023-10-25 22:36: refactor(utils): decompose monolithic string processing utility
 - 2023-10-26 10:11: test(storage): verify concurrency safety with thread pool
+- 2023-10-26 18:37: docs: update API endpoints reference and sample requests
