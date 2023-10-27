@@ -352,3 +352,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-26 18:37: docs: update API endpoints reference and sample requests
 - 2023-10-27 10:46: fix(core): handle race condition during worker shutdown
 - 2023-10-27 13:08: feat(auth): add bearer token header validation helper
+- 2023-10-27 18:43: feat(storage): implement disk-backed key-value cache
