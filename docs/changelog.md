@@ -354,3 +354,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-27 13:08: feat(auth): add bearer token header validation helper
 - 2023-10-27 18:43: feat(storage): implement disk-backed key-value cache
 - 2023-10-27 19:10: feat(auth): add bearer token header validation helper
+- 2023-10-27 19:41: test(cache): assert eviction behavior under memory pressure
