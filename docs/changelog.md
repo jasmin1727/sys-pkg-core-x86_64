@@ -359,3 +359,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-27 23:01: refactor(storage): separate in-memory cache from persistence layer
 - 2023-10-30 10:07: fix(storage): correct file descriptor leak on close
 - 2023-10-30 13:39: feat(api): add retry policy with exponential backoff
+- 2023-10-30 14:05: test(parser): add test cases for malformed inputs
