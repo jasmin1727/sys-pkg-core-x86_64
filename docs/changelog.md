@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-27 19:41: test(cache): assert eviction behavior under memory pressure
 - 2023-10-27 21:08: docs: document configuration parameters and overrides
 - 2023-10-27 23:01: refactor(storage): separate in-memory cache from persistence layer
+- 2023-10-30 10:07: fix(storage): correct file descriptor leak on close
