@@ -367,3 +367,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-31 13:06: refactor(storage): separate in-memory cache from persistence layer
 - 2023-10-31 15:56: test(storage): verify concurrency safety with thread pool
 - 2023-10-31 16:23: refactor(core): streamline worker initialization sequence
+- 2023-10-31 21:04: refactor(core): streamline worker initialization sequence
