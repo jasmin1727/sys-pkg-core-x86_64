@@ -361,3 +361,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-30 13:39: feat(api): add retry policy with exponential backoff
 - 2023-10-30 14:05: test(parser): add test cases for malformed inputs
 - 2023-10-30 20:06: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2023-10-31 11:06: test(storage): verify concurrency safety with thread pool
