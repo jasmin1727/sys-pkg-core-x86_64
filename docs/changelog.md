@@ -364,3 +364,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-31 11:06: test(storage): verify concurrency safety with thread pool
 - 2023-10-31 11:36: fix(queue): acknowledge message after successful processing
 - 2023-10-31 12:46: fix(cache): resolve cache key collision for compound queries
+- 2023-10-31 13:06: refactor(storage): separate in-memory cache from persistence layer
