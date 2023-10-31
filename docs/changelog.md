@@ -362,3 +362,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-30 14:05: test(parser): add test cases for malformed inputs
 - 2023-10-30 20:06: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2023-10-31 11:06: test(storage): verify concurrency safety with thread pool
+- 2023-10-31 11:36: fix(queue): acknowledge message after successful processing
