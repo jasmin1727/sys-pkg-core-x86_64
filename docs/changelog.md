@@ -371,3 +371,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-01 12:47: test(storage): verify concurrency safety with thread pool
 - 2023-11-01 13:37: refactor(core): streamline worker initialization sequence
 - 2023-11-01 22:01: feat(parser): add support for nested json payloads
+- 2023-11-01 23:09: feat(metrics): track request latency and error counters
