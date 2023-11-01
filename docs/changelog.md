@@ -368,3 +368,4 @@ All notable changes and milestones are documented in this file.
 - 2023-10-31 15:56: test(storage): verify concurrency safety with thread pool
 - 2023-10-31 16:23: refactor(core): streamline worker initialization sequence
 - 2023-10-31 21:04: refactor(core): streamline worker initialization sequence
+- 2023-11-01 12:47: test(storage): verify concurrency safety with thread pool
