@@ -374,3 +374,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-01 23:09: feat(metrics): track request latency and error counters
 - 2023-11-02 10:12: feat(validator): add schema validation for incoming events
 - 2023-11-02 11:01: refactor: optimize module imports and remove unused dependencies
+- 2023-11-02 11:24: feat(config): add dynamic environment variable resolver
