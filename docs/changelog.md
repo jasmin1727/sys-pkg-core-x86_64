@@ -381,3 +381,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-02 18:27: refactor(cache): unify cache interface across backends
 - 2023-11-02 18:47: refactor: optimize module imports and remove unused dependencies
 - 2023-11-02 19:29: docs: add architecture overview and system flow diagram
+- 2023-11-02 20:44: test(parser): add test cases for malformed inputs
