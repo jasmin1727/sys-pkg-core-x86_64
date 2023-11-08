@@ -392,3 +392,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-08 17:59: test(core): add coverage for worker crash recovery
 - 2023-11-08 18:03: feat(validator): add schema validation for incoming events
 - 2023-11-08 19:29: feat(events): implement publish-subscribe message bus
+- 2023-11-08 21:38: feat(core): implement async task worker pool
