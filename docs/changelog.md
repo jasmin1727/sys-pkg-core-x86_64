@@ -388,3 +388,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-08 10:41: perf: reduce allocations in serialization hot path
 - 2023-11-08 13:27: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2023-11-08 17:16: chore: update dependency versions in package lock
+- 2023-11-08 17:19: feat(stream): add chunked data stream reader
