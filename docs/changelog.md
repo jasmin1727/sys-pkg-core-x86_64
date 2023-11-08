@@ -386,3 +386,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-02 22:59: fix(storage): correct file descriptor leak on close
 - 2023-11-08 10:35: fix(config): fallback to defaults when config key is missing
 - 2023-11-08 10:41: perf: reduce allocations in serialization hot path
+- 2023-11-08 13:27: feat(rate-limit): implement token bucket rate limiting algorithm
