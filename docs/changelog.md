@@ -391,3 +391,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-08 17:19: feat(stream): add chunked data stream reader
 - 2023-11-08 17:59: test(core): add coverage for worker crash recovery
 - 2023-11-08 18:03: feat(validator): add schema validation for incoming events
+- 2023-11-08 19:29: feat(events): implement publish-subscribe message bus
