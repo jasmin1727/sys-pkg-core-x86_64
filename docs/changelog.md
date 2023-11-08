@@ -384,3 +384,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-02 20:44: test(parser): add test cases for malformed inputs
 - 2023-11-02 22:26: fix(core): handle race condition during worker shutdown
 - 2023-11-02 22:59: fix(storage): correct file descriptor leak on close
+- 2023-11-08 10:35: fix(config): fallback to defaults when config key is missing
