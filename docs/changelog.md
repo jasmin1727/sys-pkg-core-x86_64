@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-09 17:21: refactor: optimize module imports and remove unused dependencies
 - 2023-11-09 18:10: feat(api): add retry policy with exponential backoff
 - 2023-11-09 20:07: feat(core): implement async task worker pool
+- 2023-11-11 18:26: docs: add architecture overview and system flow diagram
