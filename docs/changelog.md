@@ -262,3 +262,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-12 18:21: fix(config): fallback to defaults when config key is missing
 - 2023-11-12 18:29: feat(context): propagate request trace id across coroutines
 - 2023-11-12 19:27: refactor(storage): separate in-memory cache from persistence layer
+- 2023-11-12 20:04: refactor(cache): unify cache interface across backends
