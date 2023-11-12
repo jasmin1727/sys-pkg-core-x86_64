@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-12 19:27: refactor(storage): separate in-memory cache from persistence layer
 - 2023-11-12 20:04: refactor(cache): unify cache interface across backends
 - 2023-11-12 20:57: refactor: optimize module imports and remove unused dependencies
+- 2023-11-12 21:21: docs: update API endpoints reference and sample requests
