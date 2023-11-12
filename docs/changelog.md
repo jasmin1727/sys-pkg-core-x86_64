@@ -258,3 +258,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-09 20:07: feat(core): implement async task worker pool
 - 2023-11-11 18:26: docs: add architecture overview and system flow diagram
 - 2023-11-12 13:16: fix(storage): correct file descriptor leak on close
+- 2023-11-12 14:37: test(core): add coverage for worker crash recovery
