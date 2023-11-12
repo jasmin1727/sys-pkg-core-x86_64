@@ -260,3 +260,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-12 13:16: fix(storage): correct file descriptor leak on close
 - 2023-11-12 14:37: test(core): add coverage for worker crash recovery
 - 2023-11-12 18:21: fix(config): fallback to defaults when config key is missing
+- 2023-11-12 18:29: feat(context): propagate request trace id across coroutines
