@@ -270,3 +270,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-13 12:25: test(core): add coverage for worker crash recovery
 - 2023-11-13 16:07: feat(logger): introduce structured json formatting
 - 2023-11-13 16:16: fix(queue): acknowledge message after successful processing
+- 2023-11-13 19:00: refactor: optimize module imports and remove unused dependencies
