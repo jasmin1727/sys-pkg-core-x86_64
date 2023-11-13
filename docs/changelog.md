@@ -266,3 +266,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-12 20:57: refactor: optimize module imports and remove unused dependencies
 - 2023-11-12 21:21: docs: update API endpoints reference and sample requests
 - 2023-11-12 22:45: test(core): add coverage for worker crash recovery
+- 2023-11-13 10:03: docs: add architecture overview and system flow diagram
