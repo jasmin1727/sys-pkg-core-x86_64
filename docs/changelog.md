@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-12 21:21: docs: update API endpoints reference and sample requests
 - 2023-11-12 22:45: test(core): add coverage for worker crash recovery
 - 2023-11-13 10:03: docs: add architecture overview and system flow diagram
+- 2023-11-13 12:25: test(core): add coverage for worker crash recovery
