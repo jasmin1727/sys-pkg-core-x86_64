@@ -275,3 +275,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-13 22:03: feat(metrics): track request latency and error counters
 - 2023-11-14 10:48: test(cache): assert eviction behavior under memory pressure
 - 2023-11-14 16:33: refactor(storage): separate in-memory cache from persistence layer
+- 2023-11-14 23:09: feat(rate-limit): implement token bucket rate limiting algorithm
