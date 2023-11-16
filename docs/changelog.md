@@ -278,3 +278,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-14 23:09: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2023-11-16 15:09: feat(events): implement publish-subscribe message bus
 - 2023-11-16 16:45: fix(logger): prevent sensitive token leakage in debug logs
+- 2023-11-16 17:23: test(cache): assert eviction behavior under memory pressure
