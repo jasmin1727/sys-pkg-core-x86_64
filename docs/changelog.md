@@ -281,3 +281,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-16 17:23: test(cache): assert eviction behavior under memory pressure
 - 2023-11-16 18:12: fix(schema): resolve null value parsing in payload
 - 2023-11-16 21:05: chore: update dependency versions in package lock
+- 2023-11-16 23:03: fix(queue): acknowledge message after successful processing
