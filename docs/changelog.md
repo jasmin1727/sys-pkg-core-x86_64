@@ -280,3 +280,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-16 16:45: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-11-16 17:23: test(cache): assert eviction behavior under memory pressure
 - 2023-11-16 18:12: fix(schema): resolve null value parsing in payload
+- 2023-11-16 21:05: chore: update dependency versions in package lock
