@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-19 10:03: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-11-19 12:09: test(parser): add test cases for malformed inputs
 - 2023-11-19 18:32: fix(queue): acknowledge message after successful processing
+- 2023-11-19 18:46: feat(api): add retry policy with exponential backoff
