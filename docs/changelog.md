@@ -298,3 +298,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-20 16:47: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-11-20 17:06: docs: document configuration parameters and overrides
 - 2023-11-20 17:37: fix(queue): acknowledge message after successful processing
+- 2023-11-20 19:57: feat(api): add retry policy with exponential backoff
