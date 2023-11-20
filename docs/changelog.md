@@ -301,3 +301,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-20 19:57: feat(api): add retry policy with exponential backoff
 - 2023-11-20 21:15: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-11-20 21:32: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2023-11-20 21:55: feat(rate-limit): implement token bucket rate limiting algorithm
