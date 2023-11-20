@@ -295,3 +295,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-20 16:05: docs: update API endpoints reference and sample requests
 - 2023-11-20 16:28: feat(metrics): track request latency and error counters
 - 2023-11-20 16:31: refactor(cache): unify cache interface across backends
+- 2023-11-20 16:47: fix(logger): prevent sensitive token leakage in debug logs
