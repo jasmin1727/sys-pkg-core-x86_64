@@ -305,3 +305,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-20 22:34: test(cache): assert eviction behavior under memory pressure
 - 2023-11-21 10:54: refactor(utils): decompose monolithic string processing utility
 - 2023-11-21 10:58: fix(cache): resolve cache key collision for compound queries
+- 2023-11-21 13:14: fix(storage): correct file descriptor leak on close
