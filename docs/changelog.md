@@ -308,3 +308,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-21 13:14: fix(storage): correct file descriptor leak on close
 - 2023-11-21 16:06: refactor(utils): decompose monolithic string processing utility
 - 2023-11-22 10:28: refactor(core): streamline worker initialization sequence
+- 2023-11-22 11:40: fix(parser): resolve unexpected EOF when reading stream
