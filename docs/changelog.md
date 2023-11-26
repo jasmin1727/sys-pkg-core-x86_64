@@ -317,3 +317,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-25 14:14: feat(scheduler): support cron-like job scheduling intervals
 - 2023-11-25 18:37: test(storage): verify concurrency safety with thread pool
 - 2023-11-26 16:20: docs: update setup instructions and prerequisites
+- 2023-11-26 16:34: fix(cache): resolve cache key collision for compound queries
