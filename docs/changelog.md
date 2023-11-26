@@ -320,3 +320,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-26 16:34: fix(cache): resolve cache key collision for compound queries
 - 2023-11-26 18:22: docs: update API endpoints reference and sample requests
 - 2023-11-26 22:36: refactor(storage): separate in-memory cache from persistence layer
+- 2023-11-26 23:24: fix(cache): resolve cache key collision for compound queries
