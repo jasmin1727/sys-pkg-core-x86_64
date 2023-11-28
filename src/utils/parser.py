@@ -296,3 +296,5 @@ def parse_stream_safe(stream):
 # Decomposed string processing helpers
 
 # Decomposed string processing helpers
+
+# Performance optimization: buffer reuse
