@@ -327,3 +327,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-28 17:05: refactor(cache): unify cache interface across backends
 - 2023-11-28 18:23: perf: reduce allocations in serialization hot path
 - 2023-11-28 19:34: fix(logger): prevent sensitive token leakage in debug logs
+- 2023-11-28 19:50: fix(logger): prevent sensitive token leakage in debug logs
