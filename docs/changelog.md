@@ -324,3 +324,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-27 21:54: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-11-28 13:35: fix(storage): correct file descriptor leak on close
 - 2023-11-28 14:12: refactor(utils): decompose monolithic string processing utility
+- 2023-11-28 17:05: refactor(cache): unify cache interface across backends
