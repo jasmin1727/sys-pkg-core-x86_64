@@ -326,3 +326,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-28 14:12: refactor(utils): decompose monolithic string processing utility
 - 2023-11-28 17:05: refactor(cache): unify cache interface across backends
 - 2023-11-28 18:23: perf: reduce allocations in serialization hot path
+- 2023-11-28 19:34: fix(logger): prevent sensitive token leakage in debug logs
