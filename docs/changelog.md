@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-29 10:09: refactor(utils): decompose monolithic string processing utility
 - 2023-11-29 11:42: refactor: optimize module imports and remove unused dependencies
 - 2023-11-29 12:19: refactor(utils): decompose monolithic string processing utility
+- 2023-11-29 13:41: test(parser): add test cases for malformed inputs
