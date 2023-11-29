@@ -336,3 +336,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-29 14:56: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-11-29 16:39: refactor: optimize module imports and remove unused dependencies
 - 2023-11-29 18:02: test(storage): verify concurrency safety with thread pool
+- 2023-11-29 19:03: fix(config): fallback to defaults when config key is missing
