@@ -340,3 +340,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-30 10:03: perf: reduce allocations in serialization hot path
 - 2023-11-30 12:40: refactor: optimize module imports and remove unused dependencies
 - 2023-11-30 14:49: feat(validator): add schema validation for incoming events
+- 2023-11-30 16:01: test(cache): assert eviction behavior under memory pressure
