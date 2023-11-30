@@ -339,3 +339,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-29 19:03: fix(config): fallback to defaults when config key is missing
 - 2023-11-30 10:03: perf: reduce allocations in serialization hot path
 - 2023-11-30 12:40: refactor: optimize module imports and remove unused dependencies
+- 2023-11-30 14:49: feat(validator): add schema validation for incoming events
