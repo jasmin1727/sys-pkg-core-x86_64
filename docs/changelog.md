@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-30 17:19: fix(core): handle race condition during worker shutdown
 - 2023-11-30 17:32: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-11-30 18:13: feat(auth): add bearer token header validation helper
+- 2023-11-30 19:33: style: enforce consistent docstring and code formatting
