@@ -338,3 +338,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-29 18:02: test(storage): verify concurrency safety with thread pool
 - 2023-11-29 19:03: fix(config): fallback to defaults when config key is missing
 - 2023-11-30 10:03: perf: reduce allocations in serialization hot path
+- 2023-11-30 12:40: refactor: optimize module imports and remove unused dependencies
