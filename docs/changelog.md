@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-30 18:13: feat(auth): add bearer token header validation helper
 - 2023-11-30 19:33: style: enforce consistent docstring and code formatting
 - 2023-11-30 19:58: feat(config): add dynamic environment variable resolver
+- 2023-11-30 20:52: refactor(utils): decompose monolithic string processing utility
