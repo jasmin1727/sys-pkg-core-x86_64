@@ -343,3 +343,4 @@ All notable changes and milestones are documented in this file.
 - 2023-11-30 16:01: test(cache): assert eviction behavior under memory pressure
 - 2023-11-30 17:19: fix(core): handle race condition during worker shutdown
 - 2023-11-30 17:32: fix(logger): prevent sensitive token leakage in debug logs
+- 2023-11-30 18:13: feat(auth): add bearer token header validation helper
