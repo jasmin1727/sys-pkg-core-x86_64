@@ -232,3 +232,7 @@ def safe_shutdown(pool):
     pool['status'] = 'stopped'
 
 # Formatted with strict styling
+
+def create_worker_pool(workers: int = 4):
+    '''Initialize async worker pool.'''
+    return {'workers': workers, 'status': 'ready'}
