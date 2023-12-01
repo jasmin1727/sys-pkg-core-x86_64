@@ -353,3 +353,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-01 11:27: feat(core): implement async task worker pool
 - 2023-12-01 11:34: refactor: optimize module imports and remove unused dependencies
 - 2023-12-01 12:09: fix(core): handle race condition during worker shutdown
+- 2023-12-01 12:51: feat(events): implement publish-subscribe message bus
