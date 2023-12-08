@@ -364,3 +364,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-05 23:21: feat(context): propagate request trace id across coroutines
 - 2023-12-08 12:54: feat(storage): implement disk-backed key-value cache
 - 2023-12-08 13:44: fix(core): handle race condition during worker shutdown
+- 2023-12-08 15:38: feat(cache): implement adaptive LRU cache with TTL expiry
