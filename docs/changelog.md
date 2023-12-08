@@ -362,3 +362,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-01 22:48: refactor: optimize module imports and remove unused dependencies
 - 2023-12-05 21:36: feat(logger): introduce structured json formatting
 - 2023-12-05 23:21: feat(context): propagate request trace id across coroutines
+- 2023-12-08 12:54: feat(storage): implement disk-backed key-value cache
