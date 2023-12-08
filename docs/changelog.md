@@ -366,3 +366,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-08 13:44: fix(core): handle race condition during worker shutdown
 - 2023-12-08 15:38: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2023-12-08 16:26: fix(queue): acknowledge message after successful processing
+- 2023-12-08 23:13: feat(scheduler): support cron-like job scheduling intervals
