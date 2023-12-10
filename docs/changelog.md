@@ -370,3 +370,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-09 15:15: style: enforce consistent docstring and code formatting
 - 2023-12-09 16:57: refactor(utils): decompose monolithic string processing utility
 - 2023-12-09 19:40: refactor(utils): decompose monolithic string processing utility
+- 2023-12-10 17:00: test(parser): add test cases for malformed inputs
