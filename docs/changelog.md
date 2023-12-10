@@ -372,3 +372,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-09 19:40: refactor(utils): decompose monolithic string processing utility
 - 2023-12-10 17:00: test(parser): add test cases for malformed inputs
 - 2023-12-10 18:23: feat(auth): add bearer token header validation helper
+- 2023-12-10 21:37: feat(stream): add chunked data stream reader
