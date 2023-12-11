@@ -375,3 +375,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-10 21:37: feat(stream): add chunked data stream reader
 - 2023-12-10 21:39: refactor(core): streamline worker initialization sequence
 - 2023-12-11 12:36: feat(stream): add chunked data stream reader
+- 2023-12-11 17:11: feat(config): add dynamic environment variable resolver
