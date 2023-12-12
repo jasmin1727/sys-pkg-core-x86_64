@@ -379,3 +379,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-11 23:00: feat(storage): implement disk-backed key-value cache
 - 2023-12-11 23:06: refactor(utils): decompose monolithic string processing utility
 - 2023-12-12 14:18: fix(parser): resolve unexpected EOF when reading stream
+- 2023-12-12 15:00: test(storage): verify concurrency safety with thread pool
