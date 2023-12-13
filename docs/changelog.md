@@ -382,3 +382,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-12 15:00: test(storage): verify concurrency safety with thread pool
 - 2023-12-12 18:04: fix(storage): correct file descriptor leak on close
 - 2023-12-12 19:46: docs: update API endpoints reference and sample requests
+- 2023-12-13 12:12: test(parser): add test cases for malformed inputs
