@@ -391,3 +391,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-13 16:04: feat(config): add dynamic environment variable resolver
 - 2023-12-13 18:39: refactor(storage): separate in-memory cache from persistence layer
 - 2023-12-13 20:23: feat(context): propagate request trace id across coroutines
+- 2023-12-13 22:53: test(cache): assert eviction behavior under memory pressure
