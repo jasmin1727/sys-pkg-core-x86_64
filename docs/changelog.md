@@ -385,3 +385,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-13 12:12: test(parser): add test cases for malformed inputs
 - 2023-12-13 13:01: refactor(cache): unify cache interface across backends
 - 2023-12-13 13:42: docs: update setup instructions and prerequisites
+- 2023-12-13 13:45: feat(validator): add schema validation for incoming events
