@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-15 14:06: test(core): add coverage for worker crash recovery
 - 2023-12-15 16:02: refactor(core): streamline worker initialization sequence
 - 2023-12-15 18:19: fix(core): handle race condition during worker shutdown
+- 2023-12-15 18:37: feat(logger): introduce structured json formatting
