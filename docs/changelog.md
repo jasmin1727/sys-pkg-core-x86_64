@@ -393,3 +393,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-13 20:23: feat(context): propagate request trace id across coroutines
 - 2023-12-13 22:53: test(cache): assert eviction behavior under memory pressure
 - 2023-12-13 23:20: test(core): add coverage for worker crash recovery
+- 2023-12-15 11:07: feat(parser): add support for nested json payloads
