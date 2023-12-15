@@ -395,3 +395,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-13 23:20: test(core): add coverage for worker crash recovery
 - 2023-12-15 11:07: feat(parser): add support for nested json payloads
 - 2023-12-15 14:06: test(core): add coverage for worker crash recovery
+- 2023-12-15 16:02: refactor(core): streamline worker initialization sequence
