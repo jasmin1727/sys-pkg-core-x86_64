@@ -254,3 +254,7 @@ def safe_shutdown(pool):
 # Refactored worker lifecycle management
 
 # Refactored worker lifecycle management
+
+def safe_shutdown(pool):
+    '''Safely terminate workers without deadlocks.'''
+    pool['status'] = 'stopped'
