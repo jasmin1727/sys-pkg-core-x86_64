@@ -263,3 +263,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-17 11:16: refactor(utils): decompose monolithic string processing utility
 - 2023-12-17 11:31: feat(logger): introduce structured json formatting
 - 2023-12-17 12:21: refactor(utils): decompose monolithic string processing utility
+- 2023-12-17 12:39: fix(logger): prevent sensitive token leakage in debug logs
