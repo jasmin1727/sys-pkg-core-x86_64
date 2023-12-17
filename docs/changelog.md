@@ -266,3 +266,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-17 12:39: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-12-17 15:29: feat(auth): add bearer token header validation helper
 - 2023-12-17 16:09: fix(core): handle race condition during worker shutdown
+- 2023-12-17 19:02: docs: document configuration parameters and overrides
