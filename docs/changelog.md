@@ -269,3 +269,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-17 19:02: docs: document configuration parameters and overrides
 - 2023-12-17 21:26: feat(logger): introduce structured json formatting
 - 2023-12-17 22:45: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2023-12-17 22:55: refactor(cache): unify cache interface across backends
