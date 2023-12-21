@@ -273,3 +273,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-17 22:58: fix(storage): correct file descriptor leak on close
 - 2023-12-21 16:47: fix(cache): resolve cache key collision for compound queries
 - 2023-12-21 18:37: fix(storage): correct file descriptor leak on close
+- 2023-12-21 19:30: test(core): add coverage for worker crash recovery
