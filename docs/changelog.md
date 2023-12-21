@@ -271,3 +271,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-17 22:45: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2023-12-17 22:55: refactor(cache): unify cache interface across backends
 - 2023-12-17 22:58: fix(storage): correct file descriptor leak on close
+- 2023-12-21 16:47: fix(cache): resolve cache key collision for compound queries
