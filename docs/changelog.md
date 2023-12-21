@@ -275,3 +275,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-21 18:37: fix(storage): correct file descriptor leak on close
 - 2023-12-21 19:30: test(core): add coverage for worker crash recovery
 - 2023-12-21 19:35: fix(schema): resolve null value parsing in payload
+- 2023-12-21 21:51: docs: add architecture overview and system flow diagram
