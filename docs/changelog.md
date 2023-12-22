@@ -279,3 +279,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-22 10:40: fix(schema): resolve null value parsing in payload
 - 2023-12-22 10:46: docs: update setup instructions and prerequisites
 - 2023-12-22 14:20: fix(queue): acknowledge message after successful processing
+- 2023-12-22 15:47: fix(core): handle race condition during worker shutdown
