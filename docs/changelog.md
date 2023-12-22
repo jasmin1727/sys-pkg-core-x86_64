@@ -277,3 +277,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-21 19:35: fix(schema): resolve null value parsing in payload
 - 2023-12-21 21:51: docs: add architecture overview and system flow diagram
 - 2023-12-22 10:40: fix(schema): resolve null value parsing in payload
+- 2023-12-22 10:46: docs: update setup instructions and prerequisites
