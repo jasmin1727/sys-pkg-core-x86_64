@@ -283,3 +283,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-22 16:17: docs: update API endpoints reference and sample requests
 - 2023-12-22 17:22: test(core): add coverage for worker crash recovery
 - 2023-12-22 18:33: fix(logger): prevent sensitive token leakage in debug logs
+- 2023-12-22 19:58: test(parser): add test cases for malformed inputs
