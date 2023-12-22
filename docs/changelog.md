@@ -281,3 +281,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-22 14:20: fix(queue): acknowledge message after successful processing
 - 2023-12-22 15:47: fix(core): handle race condition during worker shutdown
 - 2023-12-22 16:17: docs: update API endpoints reference and sample requests
+- 2023-12-22 17:22: test(core): add coverage for worker crash recovery
