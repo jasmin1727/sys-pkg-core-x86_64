@@ -285,3 +285,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-22 18:33: fix(logger): prevent sensitive token leakage in debug logs
 - 2023-12-22 19:58: test(parser): add test cases for malformed inputs
 - 2023-12-22 20:47: style: enforce consistent docstring and code formatting
+- 2023-12-25 13:19: fix(core): handle race condition during worker shutdown
