@@ -288,3 +288,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-25 13:19: fix(core): handle race condition during worker shutdown
 - 2023-12-25 14:17: refactor(cache): unify cache interface across backends
 - 2023-12-25 17:41: feat(auth): add bearer token header validation helper
+- 2023-12-25 21:33: docs: add architecture overview and system flow diagram
