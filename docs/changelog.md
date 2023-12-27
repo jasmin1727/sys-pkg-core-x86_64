@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-25 17:41: feat(auth): add bearer token header validation helper
 - 2023-12-25 21:33: docs: add architecture overview and system flow diagram
 - 2023-12-26 22:55: style: enforce consistent docstring and code formatting
+- 2023-12-27 16:13: feat(logger): introduce structured json formatting
