@@ -291,3 +291,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-25 21:33: docs: add architecture overview and system flow diagram
 - 2023-12-26 22:55: style: enforce consistent docstring and code formatting
 - 2023-12-27 16:13: feat(logger): introduce structured json formatting
+- 2023-12-27 17:33: feat(api): add retry policy with exponential backoff
