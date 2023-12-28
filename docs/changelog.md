@@ -298,3 +298,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-28 14:49: fix(cache): resolve cache key collision for compound queries
 - 2023-12-28 15:54: refactor(storage): separate in-memory cache from persistence layer
 - 2023-12-28 16:31: test(cache): assert eviction behavior under memory pressure
+- 2023-12-28 19:25: feat(rate-limit): implement token bucket rate limiting algorithm
