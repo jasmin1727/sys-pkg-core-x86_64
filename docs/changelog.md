@@ -293,3 +293,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-27 16:13: feat(logger): introduce structured json formatting
 - 2023-12-27 17:33: feat(api): add retry policy with exponential backoff
 - 2023-12-27 23:28: fix(queue): acknowledge message after successful processing
+- 2023-12-28 11:56: refactor(utils): decompose monolithic string processing utility
