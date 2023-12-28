@@ -296,3 +296,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-28 11:56: refactor(utils): decompose monolithic string processing utility
 - 2023-12-28 13:44: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2023-12-28 14:49: fix(cache): resolve cache key collision for compound queries
+- 2023-12-28 15:54: refactor(storage): separate in-memory cache from persistence layer
