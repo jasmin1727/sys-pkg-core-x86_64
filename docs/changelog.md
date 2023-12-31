@@ -300,3 +300,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-28 16:31: test(cache): assert eviction behavior under memory pressure
 - 2023-12-28 19:25: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2023-12-28 21:44: feat(events): implement publish-subscribe message bus
+- 2023-12-31 13:27: feat(stream): add chunked data stream reader
