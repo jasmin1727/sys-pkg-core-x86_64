@@ -303,3 +303,4 @@ All notable changes and milestones are documented in this file.
 - 2023-12-31 13:27: feat(stream): add chunked data stream reader
 - 2023-12-31 15:38: test(cache): assert eviction behavior under memory pressure
 - 2023-12-31 22:01: fix(config): fallback to defaults when config key is missing
+- 2024-01-01 10:18: feat(auth): add bearer token header validation helper
