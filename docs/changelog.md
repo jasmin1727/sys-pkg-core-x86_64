@@ -310,3 +310,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-02 12:27: test(core): add coverage for worker crash recovery
 - 2024-01-02 14:17: feat(scheduler): support cron-like job scheduling intervals
 - 2024-01-02 14:33: refactor(utils): decompose monolithic string processing utility
+- 2024-01-02 16:06: feat(parser): add support for nested json payloads
