@@ -316,3 +316,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-04 11:00: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-01-04 11:13: feat(logger): introduce structured json formatting
 - 2024-01-04 11:59: feat(auth): add bearer token header validation helper
+- 2024-01-04 12:10: fix(config): fallback to defaults when config key is missing
