@@ -320,3 +320,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-04 18:56: fix(cache): resolve cache key collision for compound queries
 - 2024-01-04 19:01: fix(storage): correct file descriptor leak on close
 - 2024-01-04 19:52: test(cache): assert eviction behavior under memory pressure
+- 2024-01-04 20:24: refactor(cache): unify cache interface across backends
