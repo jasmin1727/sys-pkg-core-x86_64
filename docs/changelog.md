@@ -315,3 +315,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-04 10:57: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-01-04 11:00: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-01-04 11:13: feat(logger): introduce structured json formatting
+- 2024-01-04 11:59: feat(auth): add bearer token header validation helper
