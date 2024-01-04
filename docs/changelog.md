@@ -314,3 +314,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-02 18:29: style: enforce consistent docstring and code formatting
 - 2024-01-04 10:57: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-01-04 11:00: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2024-01-04 11:13: feat(logger): introduce structured json formatting
