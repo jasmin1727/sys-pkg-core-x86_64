@@ -318,3 +318,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-04 11:59: feat(auth): add bearer token header validation helper
 - 2024-01-04 12:10: fix(config): fallback to defaults when config key is missing
 - 2024-01-04 18:56: fix(cache): resolve cache key collision for compound queries
+- 2024-01-04 19:01: fix(storage): correct file descriptor leak on close
