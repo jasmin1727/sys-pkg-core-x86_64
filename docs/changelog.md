@@ -329,3 +329,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-05 13:00: fix(schema): resolve null value parsing in payload
 - 2024-01-05 16:45: feat(validator): add schema validation for incoming events
 - 2024-01-05 18:17: perf: reduce allocations in serialization hot path
+- 2024-01-05 18:28: test(storage): verify concurrency safety with thread pool
