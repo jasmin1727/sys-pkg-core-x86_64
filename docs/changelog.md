@@ -331,3 +331,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-05 18:17: perf: reduce allocations in serialization hot path
 - 2024-01-05 18:28: test(storage): verify concurrency safety with thread pool
 - 2024-01-05 21:12: perf: reduce allocations in serialization hot path
+- 2024-01-05 21:50: feat(config): add dynamic environment variable resolver
