@@ -323,3 +323,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-04 20:24: refactor(cache): unify cache interface across backends
 - 2024-01-04 20:26: feat(context): propagate request trace id across coroutines
 - 2024-01-04 22:28: fix(cache): resolve cache key collision for compound queries
+- 2024-01-05 10:12: refactor(utils): decompose monolithic string processing utility
