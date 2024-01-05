@@ -326,3 +326,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-05 10:12: refactor(utils): decompose monolithic string processing utility
 - 2024-01-05 11:00: fix(storage): correct file descriptor leak on close
 - 2024-01-05 11:32: perf: reduce allocations in serialization hot path
+- 2024-01-05 13:00: fix(schema): resolve null value parsing in payload

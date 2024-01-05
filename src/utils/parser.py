@@ -218,3 +218,7 @@ def validate_bearer_token(header: str) -> bool:
 # Decomposed string processing helpers
 
 # Performance optimization: buffer reuse
+
+def sanitize_null_fields(obj):
+    '''Replace null values with empty defaults.'''
+    return obj if obj is not None else {}
