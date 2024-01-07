@@ -337,3 +337,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-07 14:51: test(storage): verify concurrency safety with thread pool
 - 2024-01-07 15:13: test(storage): verify concurrency safety with thread pool
 - 2024-01-07 17:59: fix(schema): resolve null value parsing in payload
+- 2024-01-07 19:13: docs: add architecture overview and system flow diagram
