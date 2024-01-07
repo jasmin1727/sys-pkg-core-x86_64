@@ -334,3 +334,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-05 21:50: feat(config): add dynamic environment variable resolver
 - 2024-01-05 23:03: fix(queue): acknowledge message after successful processing
 - 2024-01-07 12:13: docs: document configuration parameters and overrides
+- 2024-01-07 14:51: test(storage): verify concurrency safety with thread pool
