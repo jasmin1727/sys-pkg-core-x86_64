@@ -230,3 +230,7 @@ def validate_event_schema(event: dict) -> bool:
 # Performance optimization: buffer reuse
 
 # Performance optimization: buffer reuse
+
+def sanitize_null_fields(obj):
+    '''Replace null values with empty defaults.'''
+    return obj if obj is not None else {}

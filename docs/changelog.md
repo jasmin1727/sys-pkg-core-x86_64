@@ -336,3 +336,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-07 12:13: docs: document configuration parameters and overrides
 - 2024-01-07 14:51: test(storage): verify concurrency safety with thread pool
 - 2024-01-07 15:13: test(storage): verify concurrency safety with thread pool
+- 2024-01-07 17:59: fix(schema): resolve null value parsing in payload
