@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-08 17:33: test(storage): verify concurrency safety with thread pool
 - 2024-01-08 18:39: docs: update setup instructions and prerequisites
 - 2024-01-08 19:57: chore: update dependency versions in package lock
+- 2024-01-08 20:18: docs: add architecture overview and system flow diagram
