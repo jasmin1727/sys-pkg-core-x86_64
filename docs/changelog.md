@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-08 14:32: refactor(cache): unify cache interface across backends
 - 2024-01-08 17:26: feat(parser): add support for nested json payloads
 - 2024-01-08 17:33: test(storage): verify concurrency safety with thread pool
+- 2024-01-08 18:39: docs: update setup instructions and prerequisites
