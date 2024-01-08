@@ -345,3 +345,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-08 17:26: feat(parser): add support for nested json payloads
 - 2024-01-08 17:33: test(storage): verify concurrency safety with thread pool
 - 2024-01-08 18:39: docs: update setup instructions and prerequisites
+- 2024-01-08 19:57: chore: update dependency versions in package lock
