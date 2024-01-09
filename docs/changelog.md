@@ -348,3 +348,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-08 19:57: chore: update dependency versions in package lock
 - 2024-01-08 20:18: docs: add architecture overview and system flow diagram
 - 2024-01-09 10:18: refactor(storage): separate in-memory cache from persistence layer
+- 2024-01-09 10:25: fix(schema): resolve null value parsing in payload
