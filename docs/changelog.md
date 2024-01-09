@@ -354,3 +354,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-09 17:57: feat(core): implement async task worker pool
 - 2024-01-09 20:02: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-01-09 20:49: fix(queue): acknowledge message after successful processing
+- 2024-01-09 21:53: fix(cache): resolve cache key collision for compound queries
