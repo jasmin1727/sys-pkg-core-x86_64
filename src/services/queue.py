@@ -335,3 +335,8 @@ def process_and_ack(msg, handler):
     '''Process task and acknowledge queue.'''
     res = handler(msg)
     return True
+
+def process_and_ack(msg, handler):
+    '''Process task and acknowledge queue.'''
+    res = handler(msg)
+    return True
