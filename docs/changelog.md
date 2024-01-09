@@ -351,3 +351,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-09 10:25: fix(schema): resolve null value parsing in payload
 - 2024-01-09 11:02: fix(core): handle race condition during worker shutdown
 - 2024-01-09 14:11: fix(schema): resolve null value parsing in payload
+- 2024-01-09 17:57: feat(core): implement async task worker pool
