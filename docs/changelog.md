@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-09 21:53: fix(cache): resolve cache key collision for compound queries
 - 2024-01-09 21:56: fix(parser): resolve unexpected EOF when reading stream
 - 2024-01-10 11:44: feat(api): add retry policy with exponential backoff
+- 2024-01-10 14:40: refactor(storage): separate in-memory cache from persistence layer
