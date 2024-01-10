@@ -202,3 +202,6 @@ Install required runtime packages and configure environment.
 
 ### System Architecture
 Modular event-driven architecture designed for high throughput.
+
+### API Reference
+Comprehensive reference for internal services and message formats.
