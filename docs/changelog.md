@@ -367,3 +367,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-11 19:20: fix(queue): acknowledge message after successful processing
 - 2024-01-11 22:05: docs: add architecture overview and system flow diagram
 - 2024-01-11 22:55: fix(storage): correct file descriptor leak on close
+- 2024-01-11 23:09: feat(parser): add support for nested json payloads
