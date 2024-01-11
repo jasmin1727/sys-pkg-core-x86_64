@@ -361,3 +361,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-10 16:04: docs: update API endpoints reference and sample requests
 - 2024-01-10 17:48: refactor(cache): unify cache interface across backends
 - 2024-01-10 22:41: feat(context): propagate request trace id across coroutines
+- 2024-01-11 11:08: feat(metrics): track request latency and error counters
