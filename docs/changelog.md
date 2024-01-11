@@ -366,3 +366,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-11 18:41: refactor(utils): decompose monolithic string processing utility
 - 2024-01-11 19:20: fix(queue): acknowledge message after successful processing
 - 2024-01-11 22:05: docs: add architecture overview and system flow diagram
+- 2024-01-11 22:55: fix(storage): correct file descriptor leak on close
