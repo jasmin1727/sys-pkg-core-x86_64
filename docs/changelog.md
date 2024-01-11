@@ -364,3 +364,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-11 11:08: feat(metrics): track request latency and error counters
 - 2024-01-11 11:47: feat(stream): add chunked data stream reader
 - 2024-01-11 18:41: refactor(utils): decompose monolithic string processing utility
+- 2024-01-11 19:20: fix(queue): acknowledge message after successful processing
