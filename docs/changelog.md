@@ -369,3 +369,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-11 22:55: fix(storage): correct file descriptor leak on close
 - 2024-01-11 23:09: feat(parser): add support for nested json payloads
 - 2024-01-13 11:15: fix(config): fallback to defaults when config key is missing
+- 2024-01-14 15:48: feat(context): propagate request trace id across coroutines
