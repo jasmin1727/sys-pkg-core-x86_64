@@ -372,3 +372,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-14 15:48: feat(context): propagate request trace id across coroutines
 - 2024-01-15 12:23: fix(config): fallback to defaults when config key is missing
 - 2024-01-15 13:35: fix(config): fallback to defaults when config key is missing
+- 2024-01-15 14:32: fix(storage): correct file descriptor leak on close
