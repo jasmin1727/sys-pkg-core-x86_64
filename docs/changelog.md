@@ -375,3 +375,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-15 14:32: fix(storage): correct file descriptor leak on close
 - 2024-01-15 16:26: fix(queue): acknowledge message after successful processing
 - 2024-01-15 23:23: refactor(utils): decompose monolithic string processing utility
+- 2024-01-16 20:26: fix(schema): resolve null value parsing in payload
