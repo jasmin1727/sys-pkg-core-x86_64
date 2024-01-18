@@ -378,3 +378,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-16 20:26: fix(schema): resolve null value parsing in payload
 - 2024-01-17 12:11: fix(schema): resolve null value parsing in payload
 - 2024-01-17 14:53: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2024-01-18 17:32: refactor(utils): decompose monolithic string processing utility
