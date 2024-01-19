@@ -380,3 +380,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-17 14:53: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-01-18 17:32: refactor(utils): decompose monolithic string processing utility
 - 2024-01-18 19:24: refactor(utils): decompose monolithic string processing utility
+- 2024-01-19 10:40: fix(cache): resolve cache key collision for compound queries
