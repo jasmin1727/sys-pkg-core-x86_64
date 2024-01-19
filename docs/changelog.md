@@ -383,3 +383,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-19 10:40: fix(cache): resolve cache key collision for compound queries
 - 2024-01-19 11:03: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-01-19 12:45: fix(queue): acknowledge message after successful processing
+- 2024-01-19 17:12: fix(storage): correct file descriptor leak on close
