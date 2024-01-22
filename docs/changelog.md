@@ -387,3 +387,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-19 18:45: test(storage): verify concurrency safety with thread pool
 - 2024-01-19 22:55: fix(queue): acknowledge message after successful processing
 - 2024-01-21 21:55: refactor(cache): unify cache interface across backends
+- 2024-01-22 10:13: fix(core): handle race condition during worker shutdown
