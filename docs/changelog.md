@@ -394,3 +394,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-22 18:56: test(storage): verify concurrency safety with thread pool
 - 2024-01-22 18:57: feat(events): implement publish-subscribe message bus
 - 2024-01-22 20:28: test(cache): assert eviction behavior under memory pressure
+- 2024-01-22 20:44: feat(validator): add schema validation for incoming events
