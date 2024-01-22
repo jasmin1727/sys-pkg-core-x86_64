@@ -392,3 +392,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-22 13:35: fix(schema): resolve null value parsing in payload
 - 2024-01-22 17:08: docs: add architecture overview and system flow diagram
 - 2024-01-22 18:56: test(storage): verify concurrency safety with thread pool
+- 2024-01-22 18:57: feat(events): implement publish-subscribe message bus
