@@ -258,3 +258,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-22 23:17: docs: document configuration parameters and overrides
 - 2024-01-24 11:02: test(parser): add test cases for malformed inputs
 - 2024-01-24 11:03: fix(logger): prevent sensitive token leakage in debug logs
+- 2024-01-24 11:15: refactor(cache): unify cache interface across backends
