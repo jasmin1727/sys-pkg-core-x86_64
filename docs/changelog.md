@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-22 20:44: feat(validator): add schema validation for incoming events
 - 2024-01-22 22:05: feat(parser): add support for nested json payloads
 - 2024-01-22 23:17: docs: document configuration parameters and overrides
+- 2024-01-24 11:02: test(parser): add test cases for malformed inputs
