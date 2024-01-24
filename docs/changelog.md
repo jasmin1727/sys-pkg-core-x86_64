@@ -260,3 +260,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-24 11:03: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-01-24 11:15: refactor(cache): unify cache interface across backends
 - 2024-01-24 11:39: feat(validator): add schema validation for incoming events
+- 2024-01-24 18:41: fix(cache): resolve cache key collision for compound queries
