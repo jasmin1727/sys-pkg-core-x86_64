@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-25 12:52: feat(logger): introduce structured json formatting
 - 2024-01-25 13:58: refactor: optimize module imports and remove unused dependencies
 - 2024-01-25 14:23: feat(metrics): track request latency and error counters
+- 2024-01-25 15:13: refactor(cache): unify cache interface across backends
