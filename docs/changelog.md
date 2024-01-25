@@ -263,3 +263,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-24 18:41: fix(cache): resolve cache key collision for compound queries
 - 2024-01-25 12:52: feat(logger): introduce structured json formatting
 - 2024-01-25 13:58: refactor: optimize module imports and remove unused dependencies
+- 2024-01-25 14:23: feat(metrics): track request latency and error counters
