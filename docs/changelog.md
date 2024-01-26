@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-25 15:13: refactor(cache): unify cache interface across backends
 - 2024-01-25 22:08: feat(scheduler): support cron-like job scheduling intervals
 - 2024-01-26 10:04: refactor: optimize module imports and remove unused dependencies
+- 2024-01-26 14:16: fix(parser): resolve unexpected EOF when reading stream
