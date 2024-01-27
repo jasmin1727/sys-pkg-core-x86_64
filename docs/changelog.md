@@ -268,3 +268,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-25 22:08: feat(scheduler): support cron-like job scheduling intervals
 - 2024-01-26 10:04: refactor: optimize module imports and remove unused dependencies
 - 2024-01-26 14:16: fix(parser): resolve unexpected EOF when reading stream
+- 2024-01-27 14:48: feat(logger): introduce structured json formatting
