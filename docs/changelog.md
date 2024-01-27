@@ -271,3 +271,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-27 14:48: feat(logger): introduce structured json formatting
 - 2024-01-27 15:55: fix(parser): resolve unexpected EOF when reading stream
 - 2024-01-27 15:59: fix(storage): correct file descriptor leak on close
+- 2024-01-27 20:33: feat(logger): introduce structured json formatting
