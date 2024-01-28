@@ -273,3 +273,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-27 15:59: fix(storage): correct file descriptor leak on close
 - 2024-01-27 20:33: feat(logger): introduce structured json formatting
 - 2024-01-27 22:05: test(storage): verify concurrency safety with thread pool
+- 2024-01-28 21:40: fix(cache): resolve cache key collision for compound queries
