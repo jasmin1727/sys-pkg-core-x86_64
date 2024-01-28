@@ -276,3 +276,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-28 21:40: fix(cache): resolve cache key collision for compound queries
 - 2024-01-28 22:02: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-01-28 22:15: fix(config): fallback to defaults when config key is missing
+- 2024-01-28 23:13: feat(parser): add support for nested json payloads
