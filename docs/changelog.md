@@ -280,3 +280,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-29 10:31: docs: update setup instructions and prerequisites
 - 2024-01-29 11:43: refactor(storage): separate in-memory cache from persistence layer
 - 2024-01-29 14:02: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2024-01-29 19:15: docs: update setup instructions and prerequisites
