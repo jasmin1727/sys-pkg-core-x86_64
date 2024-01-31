@@ -284,3 +284,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-30 16:51: fix(config): fallback to defaults when config key is missing
 - 2024-01-31 10:02: chore: update dependency versions in package lock
 - 2024-01-31 14:10: test(cache): assert eviction behavior under memory pressure
+- 2024-01-31 14:33: feat(context): propagate request trace id across coroutines
