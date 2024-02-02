@@ -287,3 +287,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-31 14:33: feat(context): propagate request trace id across coroutines
 - 2024-01-31 16:22: feat(logger): introduce structured json formatting
 - 2024-01-31 23:21: fix(queue): acknowledge message after successful processing
+- 2024-02-02 12:46: feat(scheduler): support cron-like job scheduling intervals
