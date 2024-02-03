@@ -289,3 +289,4 @@ All notable changes and milestones are documented in this file.
 - 2024-01-31 23:21: fix(queue): acknowledge message after successful processing
 - 2024-02-02 12:46: feat(scheduler): support cron-like job scheduling intervals
 - 2024-02-02 22:03: feat(config): add dynamic environment variable resolver
+- 2024-02-03 10:58: fix(config): fallback to defaults when config key is missing
