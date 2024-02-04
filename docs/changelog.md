@@ -293,3 +293,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-04 10:11: refactor(storage): separate in-memory cache from persistence layer
 - 2024-02-04 12:37: feat(scheduler): support cron-like job scheduling intervals
 - 2024-02-04 17:01: test(storage): verify concurrency safety with thread pool
+- 2024-02-04 19:36: test(cache): assert eviction behavior under memory pressure
