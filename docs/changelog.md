@@ -291,3 +291,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-02 22:03: feat(config): add dynamic environment variable resolver
 - 2024-02-03 10:58: fix(config): fallback to defaults when config key is missing
 - 2024-02-04 10:11: refactor(storage): separate in-memory cache from persistence layer
+- 2024-02-04 12:37: feat(scheduler): support cron-like job scheduling intervals
