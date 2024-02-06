@@ -298,3 +298,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-05 16:15: fix(core): handle race condition during worker shutdown
 - 2024-02-06 10:01: refactor(storage): separate in-memory cache from persistence layer
 - 2024-02-06 10:21: test(core): add coverage for worker crash recovery
+- 2024-02-06 12:59: test(storage): verify concurrency safety with thread pool
