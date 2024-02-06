@@ -296,3 +296,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-04 19:36: test(cache): assert eviction behavior under memory pressure
 - 2024-02-05 15:43: fix(parser): resolve unexpected EOF when reading stream
 - 2024-02-05 16:15: fix(core): handle race condition during worker shutdown
+- 2024-02-06 10:01: refactor(storage): separate in-memory cache from persistence layer
