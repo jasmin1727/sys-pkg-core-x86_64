@@ -302,3 +302,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-06 20:00: feat(context): propagate request trace id across coroutines
 - 2024-02-09 15:01: refactor(storage): separate in-memory cache from persistence layer
 - 2024-02-09 16:39: feat(storage): implement disk-backed key-value cache
+- 2024-02-09 19:13: feat(stream): add chunked data stream reader
