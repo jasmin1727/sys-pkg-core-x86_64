@@ -305,3 +305,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-09 19:13: feat(stream): add chunked data stream reader
 - 2024-02-09 21:03: feat(validator): add schema validation for incoming events
 - 2024-02-10 11:02: docs: document configuration parameters and overrides
+- 2024-02-10 17:45: refactor(core): streamline worker initialization sequence
