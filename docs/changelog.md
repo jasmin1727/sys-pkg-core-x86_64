@@ -310,3 +310,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-11 13:05: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-02-11 17:14: fix(schema): resolve null value parsing in payload
 - 2024-02-11 19:16: fix(schema): resolve null value parsing in payload
+- 2024-02-12 16:35: docs: update setup instructions and prerequisites
