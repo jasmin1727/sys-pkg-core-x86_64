@@ -312,3 +312,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-11 19:16: fix(schema): resolve null value parsing in payload
 - 2024-02-12 16:35: docs: update setup instructions and prerequisites
 - 2024-02-14 16:01: feat(context): propagate request trace id across coroutines
+- 2024-02-15 10:23: fix(schema): resolve null value parsing in payload
