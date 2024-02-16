@@ -315,3 +315,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-15 10:23: fix(schema): resolve null value parsing in payload
 - 2024-02-15 14:49: fix(core): handle race condition during worker shutdown
 - 2024-02-15 18:46: test(cache): assert eviction behavior under memory pressure
+- 2024-02-16 12:38: feat(cache): implement adaptive LRU cache with TTL expiry
