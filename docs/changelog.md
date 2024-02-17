@@ -319,3 +319,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-16 16:05: chore: configure pre-commit hooks and linter rules
 - 2024-02-17 10:23: fix(queue): acknowledge message after successful processing
 - 2024-02-17 13:31: fix(logger): prevent sensitive token leakage in debug logs
+- 2024-02-17 17:03: feat(stream): add chunked data stream reader
