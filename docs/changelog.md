@@ -317,3 +317,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-15 18:46: test(cache): assert eviction behavior under memory pressure
 - 2024-02-16 12:38: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-02-16 16:05: chore: configure pre-commit hooks and linter rules
+- 2024-02-17 10:23: fix(queue): acknowledge message after successful processing
