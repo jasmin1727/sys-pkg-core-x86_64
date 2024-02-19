@@ -327,3 +327,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-19 13:47: feat(logger): introduce structured json formatting
 - 2024-02-19 14:12: feat(validator): add schema validation for incoming events
 - 2024-02-19 14:59: test(storage): verify concurrency safety with thread pool
+- 2024-02-19 16:59: feat(stream): add chunked data stream reader
