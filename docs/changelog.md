@@ -325,3 +325,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-19 11:43: test(core): add coverage for worker crash recovery
 - 2024-02-19 12:27: feat(stream): add chunked data stream reader
 - 2024-02-19 13:47: feat(logger): introduce structured json formatting
+- 2024-02-19 14:12: feat(validator): add schema validation for incoming events
