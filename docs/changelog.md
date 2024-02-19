@@ -322,3 +322,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-17 17:03: feat(stream): add chunked data stream reader
 - 2024-02-18 11:10: fix(cache): resolve cache key collision for compound queries
 - 2024-02-18 21:15: fix(logger): prevent sensitive token leakage in debug logs
+- 2024-02-19 11:43: test(core): add coverage for worker crash recovery
