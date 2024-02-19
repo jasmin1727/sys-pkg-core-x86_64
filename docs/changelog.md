@@ -331,3 +331,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-19 18:36: docs: update API endpoints reference and sample requests
 - 2024-02-19 19:32: test(storage): verify concurrency safety with thread pool
 - 2024-02-19 19:33: test(parser): add test cases for malformed inputs
+- 2024-02-19 19:38: test(core): add coverage for worker crash recovery
