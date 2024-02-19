@@ -324,3 +324,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-18 21:15: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-02-19 11:43: test(core): add coverage for worker crash recovery
 - 2024-02-19 12:27: feat(stream): add chunked data stream reader
+- 2024-02-19 13:47: feat(logger): introduce structured json formatting
