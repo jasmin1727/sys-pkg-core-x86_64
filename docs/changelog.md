@@ -342,3 +342,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-20 18:09: refactor(core): streamline worker initialization sequence
 - 2024-02-20 22:08: feat(auth): add bearer token header validation helper
 - 2024-02-20 22:14: perf: reduce allocations in serialization hot path
+- 2024-02-20 22:41: test(cache): assert eviction behavior under memory pressure
