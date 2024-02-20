@@ -341,3 +341,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-20 14:55: test(storage): verify concurrency safety with thread pool
 - 2024-02-20 18:09: refactor(core): streamline worker initialization sequence
 - 2024-02-20 22:08: feat(auth): add bearer token header validation helper
+- 2024-02-20 22:14: perf: reduce allocations in serialization hot path
