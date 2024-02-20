@@ -338,3 +338,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-20 12:36: test(cache): assert eviction behavior under memory pressure
 - 2024-02-20 12:50: feat(validator): add schema validation for incoming events
 - 2024-02-20 14:39: fix(core): handle race condition during worker shutdown
+- 2024-02-20 14:55: test(storage): verify concurrency safety with thread pool
