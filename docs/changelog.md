@@ -335,3 +335,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-19 21:50: refactor(utils): decompose monolithic string processing utility
 - 2024-02-20 10:39: feat(auth): add bearer token header validation helper
 - 2024-02-20 12:25: test(parser): add test cases for malformed inputs
+- 2024-02-20 12:36: test(cache): assert eviction behavior under memory pressure
