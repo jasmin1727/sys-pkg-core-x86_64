@@ -343,3 +343,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-20 22:08: feat(auth): add bearer token header validation helper
 - 2024-02-20 22:14: perf: reduce allocations in serialization hot path
 - 2024-02-20 22:41: test(cache): assert eviction behavior under memory pressure
+- 2024-02-21 22:29: chore: configure pre-commit hooks and linter rules
