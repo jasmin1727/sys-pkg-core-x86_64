@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-20 22:14: perf: reduce allocations in serialization hot path
 - 2024-02-20 22:41: test(cache): assert eviction behavior under memory pressure
 - 2024-02-21 22:29: chore: configure pre-commit hooks and linter rules
+- 2024-02-24 19:23: fix(schema): resolve null value parsing in payload
