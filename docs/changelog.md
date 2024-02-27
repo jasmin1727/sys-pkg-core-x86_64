@@ -348,3 +348,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-25 14:15: feat(metrics): track request latency and error counters
 - 2024-02-25 17:02: chore: configure pre-commit hooks and linter rules
 - 2024-02-27 12:21: feat(core): implement async task worker pool
+- 2024-02-27 15:41: fix(schema): resolve null value parsing in payload
