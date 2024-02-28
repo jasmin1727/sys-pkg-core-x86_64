@@ -350,3 +350,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-27 12:21: feat(core): implement async task worker pool
 - 2024-02-27 15:41: fix(schema): resolve null value parsing in payload
 - 2024-02-27 22:37: refactor(utils): decompose monolithic string processing utility
+- 2024-02-28 14:48: feat(auth): add bearer token header validation helper
