@@ -353,3 +353,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-28 14:48: feat(auth): add bearer token header validation helper
 - 2024-02-28 16:29: docs: add architecture overview and system flow diagram
 - 2024-02-28 19:26: fix(cache): resolve cache key collision for compound queries
+- 2024-02-28 20:59: fix(config): fallback to defaults when config key is missing
