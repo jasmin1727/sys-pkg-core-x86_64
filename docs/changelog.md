@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-29 12:13: refactor(storage): separate in-memory cache from persistence layer
 - 2024-02-29 12:52: feat(parser): add support for nested json payloads
 - 2024-02-29 13:34: refactor(core): streamline worker initialization sequence
+- 2024-02-29 13:39: test(cache): assert eviction behavior under memory pressure
