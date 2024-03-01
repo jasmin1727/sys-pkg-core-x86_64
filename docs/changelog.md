@@ -361,3 +361,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-29 15:41: feat(metrics): track request latency and error counters
 - 2024-02-29 17:37: test(parser): add test cases for malformed inputs
 - 2024-02-29 18:51: feat(api): add retry policy with exponential backoff
+- 2024-03-01 10:41: docs: document configuration parameters and overrides
