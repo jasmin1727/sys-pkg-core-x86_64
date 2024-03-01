@@ -363,3 +363,4 @@ All notable changes and milestones are documented in this file.
 - 2024-02-29 18:51: feat(api): add retry policy with exponential backoff
 - 2024-03-01 10:41: docs: document configuration parameters and overrides
 - 2024-03-01 13:02: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2024-03-01 13:08: fix(config): fallback to defaults when config key is missing
