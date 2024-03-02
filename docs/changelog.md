@@ -366,3 +366,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-01 13:08: fix(config): fallback to defaults when config key is missing
 - 2024-03-01 20:45: fix(storage): correct file descriptor leak on close
 - 2024-03-02 18:19: feat(logger): introduce structured json formatting
+- 2024-03-02 21:06: fix(core): handle race condition during worker shutdown
