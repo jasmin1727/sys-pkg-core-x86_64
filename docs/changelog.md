@@ -372,3 +372,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-03 11:58: feat(auth): add bearer token header validation helper
 - 2024-03-03 12:14: test(parser): add test cases for malformed inputs
 - 2024-03-03 12:18: docs: document configuration parameters and overrides
+- 2024-03-03 13:02: test(storage): verify concurrency safety with thread pool
