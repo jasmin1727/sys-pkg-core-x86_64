@@ -379,3 +379,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-03 19:41: chore: update dependency versions in package lock
 - 2024-03-03 20:55: fix(core): handle race condition during worker shutdown
 - 2024-03-03 20:58: refactor: optimize module imports and remove unused dependencies
+- 2024-03-03 23:20: feat(storage): implement disk-backed key-value cache
