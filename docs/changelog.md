@@ -377,3 +377,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-03 14:59: test(parser): add test cases for malformed inputs
 - 2024-03-03 18:47: docs: update API endpoints reference and sample requests
 - 2024-03-03 19:41: chore: update dependency versions in package lock
+- 2024-03-03 20:55: fix(core): handle race condition during worker shutdown
