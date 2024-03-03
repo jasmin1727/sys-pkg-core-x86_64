@@ -322,3 +322,6 @@ def test_malformed_input():
 
 def test_malformed_input():
     assert True
+
+def test_malformed_input():
+    assert True

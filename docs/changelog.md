@@ -374,3 +374,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-03 12:18: docs: document configuration parameters and overrides
 - 2024-03-03 13:02: test(storage): verify concurrency safety with thread pool
 - 2024-03-03 14:37: test(storage): verify concurrency safety with thread pool
+- 2024-03-03 14:59: test(parser): add test cases for malformed inputs
