@@ -369,3 +369,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-02 21:06: fix(core): handle race condition during worker shutdown
 - 2024-03-03 10:21: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-03-03 11:58: fix(cache): resolve cache key collision for compound queries
+- 2024-03-03 11:58: feat(auth): add bearer token header validation helper
