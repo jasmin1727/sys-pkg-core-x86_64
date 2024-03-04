@@ -391,3 +391,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-04 17:29: refactor(storage): separate in-memory cache from persistence layer
 - 2024-03-04 21:21: refactor(utils): decompose monolithic string processing utility
 - 2024-03-04 21:45: fix(queue): acknowledge message after successful processing
+- 2024-03-04 21:47: docs: update setup instructions and prerequisites
