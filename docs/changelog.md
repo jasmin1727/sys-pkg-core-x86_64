@@ -393,3 +393,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-04 21:45: fix(queue): acknowledge message after successful processing
 - 2024-03-04 21:47: docs: update setup instructions and prerequisites
 - 2024-03-04 21:48: feat(metrics): track request latency and error counters
+- 2024-03-04 23:26: refactor(core): streamline worker initialization sequence
