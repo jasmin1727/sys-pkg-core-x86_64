@@ -384,3 +384,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-04 10:54: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-03-04 11:04: test(cache): assert eviction behavior under memory pressure
 - 2024-03-04 11:22: docs: update API endpoints reference and sample requests
+- 2024-03-04 14:55: chore: update dependency versions in package lock
