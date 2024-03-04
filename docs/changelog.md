@@ -381,3 +381,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-03 20:58: refactor: optimize module imports and remove unused dependencies
 - 2024-03-03 23:20: feat(storage): implement disk-backed key-value cache
 - 2024-03-04 10:49: feat(auth): add bearer token header validation helper
+- 2024-03-04 10:54: fix(logger): prevent sensitive token leakage in debug logs
