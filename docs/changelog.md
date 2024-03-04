@@ -387,3 +387,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-04 14:55: chore: update dependency versions in package lock
 - 2024-03-04 15:44: docs: update setup instructions and prerequisites
 - 2024-03-04 16:06: test(core): add coverage for worker crash recovery
+- 2024-03-04 16:52: feat(validator): add schema validation for incoming events
