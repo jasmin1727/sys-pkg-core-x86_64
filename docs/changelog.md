@@ -395,3 +395,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-04 21:48: feat(metrics): track request latency and error counters
 - 2024-03-04 23:26: refactor(core): streamline worker initialization sequence
 - 2024-03-05 10:52: feat(events): implement publish-subscribe message bus
+- 2024-03-05 12:03: fix(storage): correct file descriptor leak on close
