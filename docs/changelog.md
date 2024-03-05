@@ -260,3 +260,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-05 17:01: test(parser): add test cases for malformed inputs
 - 2024-03-05 18:27: fix(queue): acknowledge message after successful processing
 - 2024-03-05 19:59: fix(queue): acknowledge message after successful processing
+- 2024-03-05 20:21: feat(logger): introduce structured json formatting
