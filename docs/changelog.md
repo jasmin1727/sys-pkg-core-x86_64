@@ -263,3 +263,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-05 20:21: feat(logger): introduce structured json formatting
 - 2024-03-05 22:30: feat(api): add retry policy with exponential backoff
 - 2024-03-06 12:43: fix(logger): prevent sensitive token leakage in debug logs
+- 2024-03-06 19:56: docs: document configuration parameters and overrides
