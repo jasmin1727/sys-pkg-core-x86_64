@@ -206,3 +206,5 @@ class MetricsCollector:
 class EventBus:
     '''In-memory publish-subscribe bus.'''
     pass
+
+# Formatted with strict styling
