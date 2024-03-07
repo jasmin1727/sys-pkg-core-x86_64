@@ -269,3 +269,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-07 17:24: style: enforce consistent docstring and code formatting
 - 2024-03-07 17:52: test(parser): add test cases for malformed inputs
 - 2024-03-07 18:22: fix(storage): correct file descriptor leak on close
+- 2024-03-07 20:24: fix(cache): resolve cache key collision for compound queries
