@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-06 22:52: docs: update setup instructions and prerequisites
 - 2024-03-07 16:32: test(parser): add test cases for malformed inputs
 - 2024-03-07 17:24: style: enforce consistent docstring and code formatting
+- 2024-03-07 17:52: test(parser): add test cases for malformed inputs
