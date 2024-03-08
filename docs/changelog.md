@@ -271,3 +271,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-07 18:22: fix(storage): correct file descriptor leak on close
 - 2024-03-07 20:24: fix(cache): resolve cache key collision for compound queries
 - 2024-03-08 13:22: test(storage): verify concurrency safety with thread pool
+- 2024-03-08 16:54: fix(cache): resolve cache key collision for compound queries
