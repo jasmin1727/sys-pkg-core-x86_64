@@ -274,3 +274,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-08 16:54: fix(cache): resolve cache key collision for compound queries
 - 2024-03-08 17:46: refactor(utils): decompose monolithic string processing utility
 - 2024-03-10 18:23: fix(config): fallback to defaults when config key is missing
+- 2024-03-10 21:55: fix(config): fallback to defaults when config key is missing
