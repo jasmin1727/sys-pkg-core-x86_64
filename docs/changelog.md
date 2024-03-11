@@ -282,3 +282,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-11 14:39: feat(context): propagate request trace id across coroutines
 - 2024-03-11 15:46: docs: update setup instructions and prerequisites
 - 2024-03-11 17:56: fix(config): fallback to defaults when config key is missing
+- 2024-03-11 19:19: perf: reduce allocations in serialization hot path
