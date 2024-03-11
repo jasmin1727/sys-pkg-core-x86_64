@@ -276,3 +276,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-10 18:23: fix(config): fallback to defaults when config key is missing
 - 2024-03-10 21:55: fix(config): fallback to defaults when config key is missing
 - 2024-03-10 23:24: refactor: optimize module imports and remove unused dependencies
+- 2024-03-11 10:29: fix(core): handle race condition during worker shutdown
