@@ -283,3 +283,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-11 15:46: docs: update setup instructions and prerequisites
 - 2024-03-11 17:56: fix(config): fallback to defaults when config key is missing
 - 2024-03-11 19:19: perf: reduce allocations in serialization hot path
+- 2024-03-11 19:42: docs: update API endpoints reference and sample requests
