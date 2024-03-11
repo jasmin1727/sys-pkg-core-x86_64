@@ -279,3 +279,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-11 10:29: fix(core): handle race condition during worker shutdown
 - 2024-03-11 11:56: feat(storage): implement disk-backed key-value cache
 - 2024-03-11 14:26: feat(auth): add bearer token header validation helper
+- 2024-03-11 14:39: feat(context): propagate request trace id across coroutines
