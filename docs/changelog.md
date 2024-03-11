@@ -280,3 +280,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-11 11:56: feat(storage): implement disk-backed key-value cache
 - 2024-03-11 14:26: feat(auth): add bearer token header validation helper
 - 2024-03-11 14:39: feat(context): propagate request trace id across coroutines
+- 2024-03-11 15:46: docs: update setup instructions and prerequisites
