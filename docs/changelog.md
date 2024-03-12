@@ -293,3 +293,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-12 14:07: fix(config): fallback to defaults when config key is missing
 - 2024-03-12 15:57: fix(storage): correct file descriptor leak on close
 - 2024-03-12 18:32: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2024-03-12 19:33: fix(cache): resolve cache key collision for compound queries
