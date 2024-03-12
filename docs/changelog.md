@@ -285,3 +285,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-11 19:19: perf: reduce allocations in serialization hot path
 - 2024-03-11 19:42: docs: update API endpoints reference and sample requests
 - 2024-03-11 23:02: refactor(storage): separate in-memory cache from persistence layer
+- 2024-03-12 10:55: refactor: optimize module imports and remove unused dependencies
