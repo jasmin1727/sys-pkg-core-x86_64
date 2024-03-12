@@ -287,3 +287,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-11 23:02: refactor(storage): separate in-memory cache from persistence layer
 - 2024-03-12 10:55: refactor: optimize module imports and remove unused dependencies
 - 2024-03-12 11:17: fix(config): fallback to defaults when config key is missing
+- 2024-03-12 11:32: refactor(cache): unify cache interface across backends
