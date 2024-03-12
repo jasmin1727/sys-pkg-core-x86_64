@@ -291,3 +291,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-12 11:59: style: enforce consistent docstring and code formatting
 - 2024-03-12 13:49: feat(context): propagate request trace id across coroutines
 - 2024-03-12 14:07: fix(config): fallback to defaults when config key is missing
+- 2024-03-12 15:57: fix(storage): correct file descriptor leak on close
