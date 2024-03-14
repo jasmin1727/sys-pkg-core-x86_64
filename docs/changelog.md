@@ -298,3 +298,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-14 12:36: refactor(storage): separate in-memory cache from persistence layer
 - 2024-03-14 13:25: docs: update API endpoints reference and sample requests
 - 2024-03-14 14:28: feat(core): implement async task worker pool
+- 2024-03-14 14:36: refactor(core): streamline worker initialization sequence
