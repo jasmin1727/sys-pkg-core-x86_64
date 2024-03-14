@@ -300,3 +300,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-14 14:28: feat(core): implement async task worker pool
 - 2024-03-14 14:36: refactor(core): streamline worker initialization sequence
 - 2024-03-14 16:21: test(cache): assert eviction behavior under memory pressure
+- 2024-03-14 19:18: test(parser): add test cases for malformed inputs
