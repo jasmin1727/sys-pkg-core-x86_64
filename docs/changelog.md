@@ -307,3 +307,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-16 13:59: feat(scheduler): support cron-like job scheduling intervals
 - 2024-03-16 14:15: feat(core): implement async task worker pool
 - 2024-03-16 22:32: docs: add architecture overview and system flow diagram
+- 2024-03-16 22:37: feat(logger): introduce structured json formatting
