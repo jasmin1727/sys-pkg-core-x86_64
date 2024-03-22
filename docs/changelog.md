@@ -313,3 +313,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-18 18:35: refactor(utils): decompose monolithic string processing utility
 - 2024-03-20 20:31: refactor(storage): separate in-memory cache from persistence layer
 - 2024-03-20 23:12: refactor(utils): decompose monolithic string processing utility
+- 2024-03-22 15:53: feat(storage): implement disk-backed key-value cache
