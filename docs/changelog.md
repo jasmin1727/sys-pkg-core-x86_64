@@ -318,3 +318,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-23 12:18: fix(config): fallback to defaults when config key is missing
 - 2024-03-25 18:11: feat(core): implement async task worker pool
 - 2024-03-25 20:08: fix(cache): resolve cache key collision for compound queries
+- 2024-03-26 11:26: fix(parser): resolve unexpected EOF when reading stream
