@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-26 11:26: fix(parser): resolve unexpected EOF when reading stream
 - 2024-03-27 17:36: feat(scheduler): support cron-like job scheduling intervals
 - 2024-03-28 12:26: fix(storage): correct file descriptor leak on close
+- 2024-03-28 12:57: test(core): add coverage for worker crash recovery
