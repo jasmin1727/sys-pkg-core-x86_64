@@ -323,3 +323,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-28 12:26: fix(storage): correct file descriptor leak on close
 - 2024-03-28 12:57: test(core): add coverage for worker crash recovery
 - 2024-03-28 19:13: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2024-03-29 10:06: fix(storage): correct file descriptor leak on close
