@@ -329,3 +329,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-29 11:58: fix(cache): resolve cache key collision for compound queries
 - 2024-03-29 12:04: fix(config): fallback to defaults when config key is missing
 - 2024-03-29 12:42: feat(parser): add support for nested json payloads
+- 2024-03-29 12:43: feat(config): add dynamic environment variable resolver
