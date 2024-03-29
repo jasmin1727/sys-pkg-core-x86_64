@@ -331,3 +331,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-29 12:42: feat(parser): add support for nested json payloads
 - 2024-03-29 12:43: feat(config): add dynamic environment variable resolver
 - 2024-03-29 17:50: feat(events): implement publish-subscribe message bus
+- 2024-03-29 18:56: feat(cache): implement adaptive LRU cache with TTL expiry
