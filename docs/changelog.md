@@ -333,3 +333,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-29 17:50: feat(events): implement publish-subscribe message bus
 - 2024-03-29 18:56: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-03-29 19:16: feat(logger): introduce structured json formatting
+- 2024-03-29 21:43: fix(core): handle race condition during worker shutdown
