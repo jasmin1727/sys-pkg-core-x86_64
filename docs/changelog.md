@@ -326,3 +326,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-29 10:06: fix(storage): correct file descriptor leak on close
 - 2024-03-29 11:40: refactor(cache): unify cache interface across backends
 - 2024-03-29 11:45: fix(parser): resolve unexpected EOF when reading stream
+- 2024-03-29 11:58: fix(cache): resolve cache key collision for compound queries
