@@ -340,3 +340,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-30 14:40: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-03-30 15:55: feat(context): propagate request trace id across coroutines
 - 2024-03-30 17:35: docs: document configuration parameters and overrides
+- 2024-03-30 17:39: fix(schema): resolve null value parsing in payload
