@@ -335,3 +335,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-29 19:16: feat(logger): introduce structured json formatting
 - 2024-03-29 21:43: fix(core): handle race condition during worker shutdown
 - 2024-03-30 12:15: feat(logger): introduce structured json formatting
+- 2024-03-30 12:24: refactor(utils): decompose monolithic string processing utility
