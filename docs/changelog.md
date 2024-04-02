@@ -345,3 +345,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-30 20:32: test(parser): add test cases for malformed inputs
 - 2024-03-31 16:34: refactor(utils): decompose monolithic string processing utility
 - 2024-04-02 13:10: fix(queue): acknowledge message after successful processing
+- 2024-04-02 21:03: fix(core): handle race condition during worker shutdown
