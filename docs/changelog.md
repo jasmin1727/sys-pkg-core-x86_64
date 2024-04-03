@@ -358,3 +358,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-03 16:41: test(core): add coverage for worker crash recovery
 - 2024-04-03 18:18: feat(stream): add chunked data stream reader
 - 2024-04-03 23:14: test(core): add coverage for worker crash recovery
+- 2024-04-03 23:18: fix(config): fallback to defaults when config key is missing
