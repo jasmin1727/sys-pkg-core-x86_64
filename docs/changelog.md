@@ -350,3 +350,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-03 11:06: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-04-03 12:27: fix(config): fallback to defaults when config key is missing
 - 2024-04-03 13:12: docs: update setup instructions and prerequisites
+- 2024-04-03 14:03: fix(queue): acknowledge message after successful processing
