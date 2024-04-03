@@ -355,3 +355,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-03 16:07: fix(config): fallback to defaults when config key is missing
 - 2024-04-03 16:07: refactor(core): streamline worker initialization sequence
 - 2024-04-03 16:29: refactor(storage): separate in-memory cache from persistence layer
+- 2024-04-03 16:41: test(core): add coverage for worker crash recovery
