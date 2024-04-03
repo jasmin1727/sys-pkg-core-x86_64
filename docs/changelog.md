@@ -348,3 +348,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-02 21:03: fix(core): handle race condition during worker shutdown
 - 2024-04-03 10:31: feat(events): implement publish-subscribe message bus
 - 2024-04-03 11:06: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2024-04-03 12:27: fix(config): fallback to defaults when config key is missing
