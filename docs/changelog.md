@@ -351,3 +351,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-03 12:27: fix(config): fallback to defaults when config key is missing
 - 2024-04-03 13:12: docs: update setup instructions and prerequisites
 - 2024-04-03 14:03: fix(queue): acknowledge message after successful processing
+- 2024-04-03 15:20: test(cache): assert eviction behavior under memory pressure
