@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2024-03-31 16:34: refactor(utils): decompose monolithic string processing utility
 - 2024-04-02 13:10: fix(queue): acknowledge message after successful processing
 - 2024-04-02 21:03: fix(core): handle race condition during worker shutdown
+- 2024-04-03 10:31: feat(events): implement publish-subscribe message bus
