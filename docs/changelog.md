@@ -356,3 +356,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-03 16:07: refactor(core): streamline worker initialization sequence
 - 2024-04-03 16:29: refactor(storage): separate in-memory cache from persistence layer
 - 2024-04-03 16:41: test(core): add coverage for worker crash recovery
+- 2024-04-03 18:18: feat(stream): add chunked data stream reader
