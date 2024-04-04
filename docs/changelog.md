@@ -364,3 +364,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-04 13:34: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-04-04 14:03: feat(auth): add bearer token header validation helper
 - 2024-04-04 15:11: refactor(storage): separate in-memory cache from persistence layer
+- 2024-04-04 16:01: test(parser): add test cases for malformed inputs
