@@ -362,3 +362,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-04 10:22: fix(config): fallback to defaults when config key is missing
 - 2024-04-04 12:32: fix(config): fallback to defaults when config key is missing
 - 2024-04-04 13:34: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2024-04-04 14:03: feat(auth): add bearer token header validation helper
