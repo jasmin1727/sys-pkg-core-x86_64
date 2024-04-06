@@ -372,3 +372,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-04 21:53: fix(schema): resolve null value parsing in payload
 - 2024-04-04 22:17: docs: add architecture overview and system flow diagram
 - 2024-04-05 15:28: fix(cache): resolve cache key collision for compound queries
+- 2024-04-06 10:59: fix(config): fallback to defaults when config key is missing
