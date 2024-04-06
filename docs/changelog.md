@@ -377,3 +377,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-06 15:43: test(parser): add test cases for malformed inputs
 - 2024-04-06 17:13: feat(logger): introduce structured json formatting
 - 2024-04-06 18:42: fix(core): handle race condition during worker shutdown
+- 2024-04-06 19:18: feat(rate-limit): implement token bucket rate limiting algorithm
