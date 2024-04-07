@@ -382,3 +382,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-07 10:32: refactor(cache): unify cache interface across backends
 - 2024-04-07 12:48: feat(api): add retry policy with exponential backoff
 - 2024-04-07 14:15: docs: update API endpoints reference and sample requests
+- 2024-04-07 15:34: fix(storage): correct file descriptor leak on close
