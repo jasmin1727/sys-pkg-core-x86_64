@@ -384,3 +384,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-07 14:15: docs: update API endpoints reference and sample requests
 - 2024-04-07 15:34: fix(storage): correct file descriptor leak on close
 - 2024-04-07 15:37: style: enforce consistent docstring and code formatting
+- 2024-04-07 18:54: feat(stream): add chunked data stream reader
