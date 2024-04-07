@@ -380,3 +380,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-06 19:18: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-04-06 19:33: feat(events): implement publish-subscribe message bus
 - 2024-04-07 10:32: refactor(cache): unify cache interface across backends
+- 2024-04-07 12:48: feat(api): add retry policy with exponential backoff
