@@ -386,3 +386,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-07 15:37: style: enforce consistent docstring and code formatting
 - 2024-04-07 18:54: feat(stream): add chunked data stream reader
 - 2024-04-07 19:48: feat(scheduler): support cron-like job scheduling intervals
+- 2024-04-07 20:59: refactor(storage): separate in-memory cache from persistence layer
