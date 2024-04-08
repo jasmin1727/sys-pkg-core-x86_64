@@ -391,3 +391,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-08 15:15: refactor(cache): unify cache interface across backends
 - 2024-04-08 16:24: refactor(utils): decompose monolithic string processing utility
 - 2024-04-08 17:42: fix(storage): correct file descriptor leak on close
+- 2024-04-08 17:58: fix(schema): resolve null value parsing in payload
