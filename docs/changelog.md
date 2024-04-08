@@ -393,3 +393,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-08 17:42: fix(storage): correct file descriptor leak on close
 - 2024-04-08 17:58: fix(schema): resolve null value parsing in payload
 - 2024-04-08 19:33: fix(logger): prevent sensitive token leakage in debug logs
+- 2024-04-08 20:29: fix(queue): acknowledge message after successful processing
