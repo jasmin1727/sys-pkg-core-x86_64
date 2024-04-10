@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-08 20:57: fix(schema): resolve null value parsing in payload
 - 2024-04-10 11:05: refactor: optimize module imports and remove unused dependencies
 - 2024-04-10 13:09: feat(auth): add bearer token header validation helper
+- 2024-04-10 18:30: refactor(cache): unify cache interface across backends
