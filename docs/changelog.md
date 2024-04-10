@@ -396,3 +396,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-08 20:29: fix(queue): acknowledge message after successful processing
 - 2024-04-08 20:57: fix(schema): resolve null value parsing in payload
 - 2024-04-10 11:05: refactor: optimize module imports and remove unused dependencies
+- 2024-04-10 13:09: feat(auth): add bearer token header validation helper
