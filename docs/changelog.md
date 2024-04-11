@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-10 18:30: refactor(cache): unify cache interface across backends
 - 2024-04-10 22:03: docs: update API endpoints reference and sample requests
 - 2024-04-11 18:47: test(parser): add test cases for malformed inputs
+- 2024-04-11 19:51: chore: configure pre-commit hooks and linter rules
