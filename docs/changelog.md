@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-12 10:09: test(parser): add test cases for malformed inputs
 - 2024-04-12 10:37: test(parser): add test cases for malformed inputs
 - 2024-04-12 11:10: refactor(storage): separate in-memory cache from persistence layer
+- 2024-04-12 11:45: refactor(core): streamline worker initialization sequence
