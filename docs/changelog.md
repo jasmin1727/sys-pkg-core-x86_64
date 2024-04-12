@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-12 11:45: refactor(core): streamline worker initialization sequence
 - 2024-04-12 13:33: docs: add architecture overview and system flow diagram
 - 2024-04-12 15:11: fix(core): handle race condition during worker shutdown
+- 2024-04-12 16:32: feat(cache): implement adaptive LRU cache with TTL expiry
