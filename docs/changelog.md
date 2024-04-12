@@ -270,3 +270,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-12 16:32: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-04-12 16:47: feat(metrics): track request latency and error counters
 - 2024-04-12 19:22: refactor(utils): decompose monolithic string processing utility
+- 2024-04-12 20:11: fix(parser): resolve unexpected EOF when reading stream
