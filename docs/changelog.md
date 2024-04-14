@@ -274,3 +274,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-12 20:26: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-04-12 22:58: refactor(storage): separate in-memory cache from persistence layer
 - 2024-04-13 16:08: feat(auth): add bearer token header validation helper
+- 2024-04-14 10:13: feat(stream): add chunked data stream reader
