@@ -277,3 +277,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-14 10:13: feat(stream): add chunked data stream reader
 - 2024-04-14 13:27: feat(parser): add support for nested json payloads
 - 2024-04-14 16:13: feat(core): implement async task worker pool
+- 2024-04-14 17:07: test(parser): add test cases for malformed inputs
