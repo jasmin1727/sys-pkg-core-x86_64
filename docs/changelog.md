@@ -275,3 +275,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-12 22:58: refactor(storage): separate in-memory cache from persistence layer
 - 2024-04-13 16:08: feat(auth): add bearer token header validation helper
 - 2024-04-14 10:13: feat(stream): add chunked data stream reader
+- 2024-04-14 13:27: feat(parser): add support for nested json payloads
