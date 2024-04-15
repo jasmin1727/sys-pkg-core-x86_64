@@ -291,3 +291,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-15 15:23: refactor: optimize module imports and remove unused dependencies
 - 2024-04-15 16:42: fix(queue): acknowledge message after successful processing
 - 2024-04-15 17:16: fix(core): handle race condition during worker shutdown
+- 2024-04-15 18:31: refactor(storage): separate in-memory cache from persistence layer
