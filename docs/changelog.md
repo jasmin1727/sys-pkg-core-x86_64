@@ -284,3 +284,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-15 10:04: feat(events): implement publish-subscribe message bus
 - 2024-04-15 10:05: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-04-15 10:23: feat(core): implement async task worker pool
+- 2024-04-15 10:44: fix(parser): resolve unexpected EOF when reading stream
