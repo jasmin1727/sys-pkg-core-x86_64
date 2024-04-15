@@ -281,3 +281,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-14 17:13: feat(api): add retry policy with exponential backoff
 - 2024-04-14 18:59: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-04-14 19:43: feat(validator): add schema validation for incoming events
+- 2024-04-15 10:04: feat(events): implement publish-subscribe message bus
