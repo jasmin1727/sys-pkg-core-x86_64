@@ -286,3 +286,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-15 10:23: feat(core): implement async task worker pool
 - 2024-04-15 10:44: fix(parser): resolve unexpected EOF when reading stream
 - 2024-04-15 11:02: fix(core): handle race condition during worker shutdown
+- 2024-04-15 12:53: chore: configure pre-commit hooks and linter rules
