@@ -289,3 +289,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-15 12:53: chore: configure pre-commit hooks and linter rules
 - 2024-04-15 13:13: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-04-15 15:23: refactor: optimize module imports and remove unused dependencies
+- 2024-04-15 16:42: fix(queue): acknowledge message after successful processing
