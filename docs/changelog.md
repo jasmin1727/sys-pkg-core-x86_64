@@ -297,3 +297,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-15 21:32: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-04-16 15:19: test(core): add coverage for worker crash recovery
 - 2024-04-16 16:00: fix(config): fallback to defaults when config key is missing
+- 2024-04-16 17:18: fix(logger): prevent sensitive token leakage in debug logs
