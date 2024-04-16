@@ -295,3 +295,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-15 18:32: chore: configure pre-commit hooks and linter rules
 - 2024-04-15 19:38: feat(config): add dynamic environment variable resolver
 - 2024-04-15 21:32: fix(logger): prevent sensitive token leakage in debug logs
+- 2024-04-16 15:19: test(core): add coverage for worker crash recovery
