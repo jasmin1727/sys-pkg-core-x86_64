@@ -310,3 +310,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-17 19:15: docs: document configuration parameters and overrides
 - 2024-04-17 19:30: fix(parser): resolve unexpected EOF when reading stream
 - 2024-04-17 21:28: fix(cache): resolve cache key collision for compound queries
+- 2024-04-17 22:11: fix(logger): prevent sensitive token leakage in debug logs
