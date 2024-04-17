@@ -303,3 +303,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-17 14:37: test(core): add coverage for worker crash recovery
 - 2024-04-17 14:53: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-04-17 15:08: fix(core): handle race condition during worker shutdown
+- 2024-04-17 15:20: feat(config): add dynamic environment variable resolver
