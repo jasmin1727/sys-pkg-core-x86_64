@@ -307,3 +307,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-17 17:12: test(core): add coverage for worker crash recovery
 - 2024-04-17 17:16: fix(queue): acknowledge message after successful processing
 - 2024-04-17 17:42: feat(context): propagate request trace id across coroutines
+- 2024-04-17 19:15: docs: document configuration parameters and overrides
