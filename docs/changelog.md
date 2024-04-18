@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-18 17:44: fix(queue): acknowledge message after successful processing
 - 2024-04-18 19:12: feat(metrics): track request latency and error counters
 - 2024-04-18 19:48: fix(cache): resolve cache key collision for compound queries
+- 2024-04-18 22:59: feat(logger): introduce structured json formatting
