@@ -313,3 +313,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-17 22:11: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-04-18 10:22: feat(context): propagate request trace id across coroutines
 - 2024-04-18 11:11: feat(config): add dynamic environment variable resolver
+- 2024-04-18 11:51: feat(auth): add bearer token header validation helper
