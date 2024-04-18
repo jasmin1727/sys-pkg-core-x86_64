@@ -311,3 +311,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-17 19:30: fix(parser): resolve unexpected EOF when reading stream
 - 2024-04-17 21:28: fix(cache): resolve cache key collision for compound queries
 - 2024-04-17 22:11: fix(logger): prevent sensitive token leakage in debug logs
+- 2024-04-18 10:22: feat(context): propagate request trace id across coroutines
