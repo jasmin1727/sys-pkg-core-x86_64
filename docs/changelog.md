@@ -315,3 +315,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-18 11:11: feat(config): add dynamic environment variable resolver
 - 2024-04-18 11:51: feat(auth): add bearer token header validation helper
 - 2024-04-18 11:55: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2024-04-18 14:17: feat(rate-limit): implement token bucket rate limiting algorithm
