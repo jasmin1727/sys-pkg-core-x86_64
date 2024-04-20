@@ -324,3 +324,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-18 22:59: feat(logger): introduce structured json formatting
 - 2024-04-18 23:28: fix(cache): resolve cache key collision for compound queries
 - 2024-04-19 21:29: feat(scheduler): support cron-like job scheduling intervals
+- 2024-04-20 18:39: refactor(cache): unify cache interface across backends
