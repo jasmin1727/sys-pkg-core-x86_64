@@ -326,3 +326,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-19 21:29: feat(scheduler): support cron-like job scheduling intervals
 - 2024-04-20 18:39: refactor(cache): unify cache interface across backends
 - 2024-04-20 22:49: fix(queue): acknowledge message after successful processing
+- 2024-04-21 18:47: test(core): add coverage for worker crash recovery
