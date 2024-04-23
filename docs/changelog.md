@@ -328,3 +328,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-20 22:49: fix(queue): acknowledge message after successful processing
 - 2024-04-21 18:47: test(core): add coverage for worker crash recovery
 - 2024-04-23 12:27: fix(config): fallback to defaults when config key is missing
+- 2024-04-23 12:43: docs: update setup instructions and prerequisites
