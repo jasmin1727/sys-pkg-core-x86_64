@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-23 13:46: test(cache): assert eviction behavior under memory pressure
 - 2024-04-23 14:30: feat(scheduler): support cron-like job scheduling intervals
 - 2024-04-23 15:59: fix(storage): correct file descriptor leak on close
+- 2024-04-23 16:36: fix(parser): resolve unexpected EOF when reading stream
