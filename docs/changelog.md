@@ -334,3 +334,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-23 15:59: fix(storage): correct file descriptor leak on close
 - 2024-04-23 16:36: fix(parser): resolve unexpected EOF when reading stream
 - 2024-04-23 18:31: docs: update API endpoints reference and sample requests
+- 2024-04-24 18:13: style: enforce consistent docstring and code formatting
