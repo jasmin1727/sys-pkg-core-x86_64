@@ -341,3 +341,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-25 23:22: refactor: optimize module imports and remove unused dependencies
 - 2024-04-26 10:38: fix(core): handle race condition during worker shutdown
 - 2024-04-26 12:48: refactor(storage): separate in-memory cache from persistence layer
+- 2024-04-26 12:49: fix(core): handle race condition during worker shutdown
