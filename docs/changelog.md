@@ -339,3 +339,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-25 20:15: perf: reduce allocations in serialization hot path
 - 2024-04-25 20:19: fix(cache): resolve cache key collision for compound queries
 - 2024-04-25 23:22: refactor: optimize module imports and remove unused dependencies
+- 2024-04-26 10:38: fix(core): handle race condition during worker shutdown
