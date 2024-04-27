@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-27 10:58: docs: document configuration parameters and overrides
 - 2024-04-27 11:10: test(core): add coverage for worker crash recovery
 - 2024-04-27 13:10: test(cache): assert eviction behavior under memory pressure
+- 2024-04-27 16:53: test(storage): verify concurrency safety with thread pool
