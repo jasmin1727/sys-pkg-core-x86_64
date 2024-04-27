@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2024-04-26 12:49: fix(core): handle race condition during worker shutdown
 - 2024-04-26 22:32: docs: update setup instructions and prerequisites
 - 2024-04-27 10:58: docs: document configuration parameters and overrides
+- 2024-04-27 11:10: test(core): add coverage for worker crash recovery
