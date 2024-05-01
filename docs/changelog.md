@@ -351,3 +351,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-01 17:10: docs: update API endpoints reference and sample requests
 - 2024-05-01 18:37: fix(config): fallback to defaults when config key is missing
 - 2024-05-01 19:24: feat(api): add retry policy with exponential backoff
+- 2024-05-01 19:33: fix(core): handle race condition during worker shutdown
