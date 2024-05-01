@@ -342,3 +342,7 @@ def sanitize_null_fields(obj):
     return obj if obj is not None else {}
 
 # Performance optimization: buffer reuse
+
+def validate_bearer_token(header: str) -> bool:
+    '''Validate authorization header format.'''
+    return header.startswith('Bearer ')
