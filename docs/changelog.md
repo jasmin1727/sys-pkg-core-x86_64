@@ -352,3 +352,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-01 18:37: fix(config): fallback to defaults when config key is missing
 - 2024-05-01 19:24: feat(api): add retry policy with exponential backoff
 - 2024-05-01 19:33: fix(core): handle race condition during worker shutdown
+- 2024-05-01 22:29: docs: add architecture overview and system flow diagram
