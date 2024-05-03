@@ -360,3 +360,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-03 20:14: docs: add architecture overview and system flow diagram
 - 2024-05-03 21:28: feat(parser): add support for nested json payloads
 - 2024-05-03 21:35: fix(config): fallback to defaults when config key is missing
+- 2024-05-03 23:17: feat(metrics): track request latency and error counters
