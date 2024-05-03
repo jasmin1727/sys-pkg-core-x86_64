@@ -358,3 +358,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-03 14:17: feat(core): implement async task worker pool
 - 2024-05-03 16:23: feat(config): add dynamic environment variable resolver
 - 2024-05-03 20:14: docs: add architecture overview and system flow diagram
+- 2024-05-03 21:28: feat(parser): add support for nested json payloads
