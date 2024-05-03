@@ -355,3 +355,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-01 22:29: docs: add architecture overview and system flow diagram
 - 2024-05-01 22:31: feat(auth): add bearer token header validation helper
 - 2024-05-03 12:12: fix(queue): acknowledge message after successful processing
+- 2024-05-03 14:17: feat(core): implement async task worker pool
