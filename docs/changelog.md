@@ -362,3 +362,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-03 21:35: fix(config): fallback to defaults when config key is missing
 - 2024-05-03 23:17: feat(metrics): track request latency and error counters
 - 2024-05-05 16:15: test(cache): assert eviction behavior under memory pressure
+- 2024-05-05 21:58: docs: update setup instructions and prerequisites
