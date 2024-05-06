@@ -366,3 +366,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-05 22:01: feat(config): add dynamic environment variable resolver
 - 2024-05-06 10:09: docs: update setup instructions and prerequisites
 - 2024-05-06 10:13: feat(logger): introduce structured json formatting
+- 2024-05-06 11:51: fix(config): fallback to defaults when config key is missing
