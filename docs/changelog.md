@@ -371,3 +371,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-06 21:51: feat(metrics): track request latency and error counters
 - 2024-05-07 11:19: refactor(cache): unify cache interface across backends
 - 2024-05-07 22:40: feat(parser): add support for nested json payloads
+- 2024-05-07 23:27: feat(core): implement async task worker pool
