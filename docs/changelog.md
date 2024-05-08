@@ -372,3 +372,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-07 11:19: refactor(cache): unify cache interface across backends
 - 2024-05-07 22:40: feat(parser): add support for nested json payloads
 - 2024-05-07 23:27: feat(core): implement async task worker pool
+- 2024-05-08 11:28: fix(cache): resolve cache key collision for compound queries
