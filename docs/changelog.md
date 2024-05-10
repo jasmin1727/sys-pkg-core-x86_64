@@ -375,3 +375,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-08 11:28: fix(cache): resolve cache key collision for compound queries
 - 2024-05-08 13:15: test(core): add coverage for worker crash recovery
 - 2024-05-08 14:26: fix(storage): correct file descriptor leak on close
+- 2024-05-10 13:07: docs: document configuration parameters and overrides
