@@ -378,3 +378,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-10 13:07: docs: document configuration parameters and overrides
 - 2024-05-11 13:44: refactor: optimize module imports and remove unused dependencies
 - 2024-05-11 16:34: fix(core): handle race condition during worker shutdown
+- 2024-05-11 21:20: fix(parser): resolve unexpected EOF when reading stream
