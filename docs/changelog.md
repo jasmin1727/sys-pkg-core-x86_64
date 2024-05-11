@@ -376,3 +376,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-08 13:15: test(core): add coverage for worker crash recovery
 - 2024-05-08 14:26: fix(storage): correct file descriptor leak on close
 - 2024-05-10 13:07: docs: document configuration parameters and overrides
+- 2024-05-11 13:44: refactor: optimize module imports and remove unused dependencies
