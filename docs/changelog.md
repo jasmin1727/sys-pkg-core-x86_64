@@ -381,3 +381,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-11 21:20: fix(parser): resolve unexpected EOF when reading stream
 - 2024-05-12 10:06: fix(storage): correct file descriptor leak on close
 - 2024-05-12 12:17: fix(cache): resolve cache key collision for compound queries
+- 2024-05-12 12:26: test(parser): add test cases for malformed inputs
