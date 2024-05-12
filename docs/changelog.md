@@ -385,3 +385,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-12 12:48: fix(queue): acknowledge message after successful processing
 - 2024-05-12 14:31: test(core): add coverage for worker crash recovery
 - 2024-05-12 15:30: fix(core): handle race condition during worker shutdown
+- 2024-05-12 20:50: feat(core): implement async task worker pool
