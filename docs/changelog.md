@@ -387,3 +387,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-12 15:30: fix(core): handle race condition during worker shutdown
 - 2024-05-12 20:50: feat(core): implement async task worker pool
 - 2024-05-12 21:35: fix(schema): resolve null value parsing in payload
+- 2024-05-12 21:44: refactor(utils): decompose monolithic string processing utility
