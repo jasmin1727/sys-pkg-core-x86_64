@@ -384,3 +384,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-12 12:26: test(parser): add test cases for malformed inputs
 - 2024-05-12 12:48: fix(queue): acknowledge message after successful processing
 - 2024-05-12 14:31: test(core): add coverage for worker crash recovery
+- 2024-05-12 15:30: fix(core): handle race condition during worker shutdown
