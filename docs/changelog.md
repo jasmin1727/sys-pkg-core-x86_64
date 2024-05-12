@@ -383,3 +383,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-12 12:17: fix(cache): resolve cache key collision for compound queries
 - 2024-05-12 12:26: test(parser): add test cases for malformed inputs
 - 2024-05-12 12:48: fix(queue): acknowledge message after successful processing
+- 2024-05-12 14:31: test(core): add coverage for worker crash recovery
