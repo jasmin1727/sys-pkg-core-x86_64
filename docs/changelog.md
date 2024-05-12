@@ -382,3 +382,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-12 10:06: fix(storage): correct file descriptor leak on close
 - 2024-05-12 12:17: fix(cache): resolve cache key collision for compound queries
 - 2024-05-12 12:26: test(parser): add test cases for malformed inputs
+- 2024-05-12 12:48: fix(queue): acknowledge message after successful processing
