@@ -391,3 +391,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-13 11:45: test(core): add coverage for worker crash recovery
 - 2024-05-13 12:40: feat(scheduler): support cron-like job scheduling intervals
 - 2024-05-13 18:26: feat(config): add dynamic environment variable resolver
+- 2024-05-13 23:05: fix(parser): resolve unexpected EOF when reading stream
