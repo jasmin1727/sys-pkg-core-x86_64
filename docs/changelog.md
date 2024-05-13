@@ -389,3 +389,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-12 21:35: fix(schema): resolve null value parsing in payload
 - 2024-05-12 21:44: refactor(utils): decompose monolithic string processing utility
 - 2024-05-13 11:45: test(core): add coverage for worker crash recovery
+- 2024-05-13 12:40: feat(scheduler): support cron-like job scheduling intervals
