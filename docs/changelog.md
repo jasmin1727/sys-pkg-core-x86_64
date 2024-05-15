@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-15 15:54: refactor(utils): decompose monolithic string processing utility
 - 2024-05-15 16:44: fix(queue): acknowledge message after successful processing
 - 2024-05-15 17:22: fix(schema): resolve null value parsing in payload
+- 2024-05-15 19:45: feat(validator): add schema validation for incoming events
