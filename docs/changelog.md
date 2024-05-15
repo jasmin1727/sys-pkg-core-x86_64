@@ -263,3 +263,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-15 20:21: fix(config): fallback to defaults when config key is missing
 - 2024-05-15 20:44: fix(cache): resolve cache key collision for compound queries
 - 2024-05-15 20:59: feat(config): add dynamic environment variable resolver
+- 2024-05-15 21:35: refactor(cache): unify cache interface across backends
