@@ -258,3 +258,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-15 14:19: fix(cache): resolve cache key collision for compound queries
 - 2024-05-15 15:54: refactor(utils): decompose monolithic string processing utility
 - 2024-05-15 16:44: fix(queue): acknowledge message after successful processing
+- 2024-05-15 17:22: fix(schema): resolve null value parsing in payload
