@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-15 17:22: fix(schema): resolve null value parsing in payload
 - 2024-05-15 19:45: feat(validator): add schema validation for incoming events
 - 2024-05-15 20:21: fix(config): fallback to defaults when config key is missing
+- 2024-05-15 20:44: fix(cache): resolve cache key collision for compound queries
