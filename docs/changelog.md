@@ -396,3 +396,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-15 11:09: feat(api): add retry policy with exponential backoff
 - 2024-05-15 13:07: docs: update API endpoints reference and sample requests
 - 2024-05-15 13:38: feat(config): add dynamic environment variable resolver
+- 2024-05-15 14:19: fix(cache): resolve cache key collision for compound queries
