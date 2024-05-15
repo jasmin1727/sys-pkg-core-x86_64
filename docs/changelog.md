@@ -393,3 +393,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-13 18:26: feat(config): add dynamic environment variable resolver
 - 2024-05-13 23:05: fix(parser): resolve unexpected EOF when reading stream
 - 2024-05-15 10:47: fix(config): fallback to defaults when config key is missing
+- 2024-05-15 11:09: feat(api): add retry policy with exponential backoff
