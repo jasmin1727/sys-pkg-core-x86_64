@@ -265,3 +265,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-15 20:59: feat(config): add dynamic environment variable resolver
 - 2024-05-15 21:35: refactor(cache): unify cache interface across backends
 - 2024-05-15 22:04: feat(logger): introduce structured json formatting
+- 2024-05-16 17:47: fix(config): fallback to defaults when config key is missing
