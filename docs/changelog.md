@@ -268,3 +268,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-16 17:47: fix(config): fallback to defaults when config key is missing
 - 2024-05-16 18:24: perf: reduce allocations in serialization hot path
 - 2024-05-17 10:39: test(parser): add test cases for malformed inputs
+- 2024-05-17 16:14: docs: update setup instructions and prerequisites
