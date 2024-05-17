@@ -270,3 +270,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-17 10:39: test(parser): add test cases for malformed inputs
 - 2024-05-17 16:14: docs: update setup instructions and prerequisites
 - 2024-05-17 18:36: test(parser): add test cases for malformed inputs
+- 2024-05-17 19:50: refactor(core): streamline worker initialization sequence
