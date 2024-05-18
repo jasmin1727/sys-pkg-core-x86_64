@@ -272,3 +272,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-17 18:36: test(parser): add test cases for malformed inputs
 - 2024-05-17 19:50: refactor(core): streamline worker initialization sequence
 - 2024-05-17 22:05: refactor(cache): unify cache interface across backends
+- 2024-05-18 12:55: feat(api): add retry policy with exponential backoff
