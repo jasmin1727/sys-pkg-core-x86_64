@@ -276,3 +276,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-18 13:52: test(cache): assert eviction behavior under memory pressure
 - 2024-05-18 14:46: feat(context): propagate request trace id across coroutines
 - 2024-05-18 17:29: fix(storage): correct file descriptor leak on close
+- 2024-05-18 17:32: feat(scheduler): support cron-like job scheduling intervals
