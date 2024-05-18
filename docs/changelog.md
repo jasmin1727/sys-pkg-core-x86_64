@@ -273,3 +273,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-17 19:50: refactor(core): streamline worker initialization sequence
 - 2024-05-17 22:05: refactor(cache): unify cache interface across backends
 - 2024-05-18 12:55: feat(api): add retry policy with exponential backoff
+- 2024-05-18 13:52: test(cache): assert eviction behavior under memory pressure
