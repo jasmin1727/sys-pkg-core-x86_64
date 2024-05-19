@@ -280,3 +280,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-18 21:01: fix(parser): resolve unexpected EOF when reading stream
 - 2024-05-19 10:01: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-05-19 11:24: feat(core): implement async task worker pool
+- 2024-05-19 11:40: fix(storage): correct file descriptor leak on close
