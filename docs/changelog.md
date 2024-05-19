@@ -278,3 +278,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-18 17:29: fix(storage): correct file descriptor leak on close
 - 2024-05-18 17:32: feat(scheduler): support cron-like job scheduling intervals
 - 2024-05-18 21:01: fix(parser): resolve unexpected EOF when reading stream
+- 2024-05-19 10:01: fix(logger): prevent sensitive token leakage in debug logs
