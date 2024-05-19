@@ -281,3 +281,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-19 10:01: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-05-19 11:24: feat(core): implement async task worker pool
 - 2024-05-19 11:40: fix(storage): correct file descriptor leak on close
+- 2024-05-19 17:59: feat(cache): implement adaptive LRU cache with TTL expiry
