@@ -284,3 +284,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-19 17:59: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-05-19 19:49: feat(stream): add chunked data stream reader
 - 2024-05-20 12:18: fix(core): handle race condition during worker shutdown
+- 2024-05-20 15:57: feat(storage): implement disk-backed key-value cache
