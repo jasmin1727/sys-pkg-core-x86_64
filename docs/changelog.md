@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-20 17:23: feat(context): propagate request trace id across coroutines
 - 2024-05-20 18:12: feat(events): implement publish-subscribe message bus
 - 2024-05-20 18:25: chore: update dependency versions in package lock
+- 2024-05-20 19:54: fix(queue): acknowledge message after successful processing
