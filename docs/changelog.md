@@ -289,3 +289,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-20 16:15: docs: add architecture overview and system flow diagram
 - 2024-05-20 17:23: feat(context): propagate request trace id across coroutines
 - 2024-05-20 18:12: feat(events): implement publish-subscribe message bus
+- 2024-05-20 18:25: chore: update dependency versions in package lock
