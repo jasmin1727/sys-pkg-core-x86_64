@@ -293,3 +293,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-20 19:54: fix(queue): acknowledge message after successful processing
 - 2024-05-20 21:18: fix(schema): resolve null value parsing in payload
 - 2024-05-21 11:47: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2024-05-21 16:37: feat(storage): implement disk-backed key-value cache
