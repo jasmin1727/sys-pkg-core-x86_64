@@ -297,3 +297,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-22 13:11: docs: add architecture overview and system flow diagram
 - 2024-05-22 22:17: test(storage): verify concurrency safety with thread pool
 - 2024-05-23 11:25: feat(api): add retry policy with exponential backoff
+- 2024-05-23 16:28: refactor(core): streamline worker initialization sequence
