@@ -299,3 +299,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-23 11:25: feat(api): add retry policy with exponential backoff
 - 2024-05-23 16:28: refactor(core): streamline worker initialization sequence
 - 2024-05-23 18:00: fix(storage): correct file descriptor leak on close
+- 2024-05-23 22:46: fix(parser): resolve unexpected EOF when reading stream
