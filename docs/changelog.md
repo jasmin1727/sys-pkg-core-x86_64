@@ -302,3 +302,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-23 22:46: fix(parser): resolve unexpected EOF when reading stream
 - 2024-05-24 11:09: feat(core): implement async task worker pool
 - 2024-05-24 11:21: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2024-05-24 11:59: docs: update setup instructions and prerequisites
