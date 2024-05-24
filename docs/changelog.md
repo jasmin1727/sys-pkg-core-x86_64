@@ -303,3 +303,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-24 11:09: feat(core): implement async task worker pool
 - 2024-05-24 11:21: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-05-24 11:59: docs: update setup instructions and prerequisites
+- 2024-05-24 13:20: test(core): add coverage for worker crash recovery
