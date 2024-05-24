@@ -307,3 +307,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-24 17:33: feat(auth): add bearer token header validation helper
 - 2024-05-24 19:06: feat(config): add dynamic environment variable resolver
 - 2024-05-24 20:09: feat(scheduler): support cron-like job scheduling intervals
+- 2024-05-24 20:30: feat(events): implement publish-subscribe message bus
