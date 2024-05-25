@@ -315,3 +315,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-25 13:00: feat(logger): introduce structured json formatting
 - 2024-05-25 14:11: feat(parser): add support for nested json payloads
 - 2024-05-25 14:40: test(core): add coverage for worker crash recovery
+- 2024-05-25 15:09: refactor(utils): decompose monolithic string processing utility
