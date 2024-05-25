@@ -316,3 +316,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-25 14:11: feat(parser): add support for nested json payloads
 - 2024-05-25 14:40: test(core): add coverage for worker crash recovery
 - 2024-05-25 15:09: refactor(utils): decompose monolithic string processing utility
+- 2024-05-25 15:49: chore: configure pre-commit hooks and linter rules
