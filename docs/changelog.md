@@ -312,3 +312,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-24 22:02: fix(queue): acknowledge message after successful processing
 - 2024-05-24 23:21: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-05-25 12:24: refactor: optimize module imports and remove unused dependencies
+- 2024-05-25 13:00: feat(logger): introduce structured json formatting
