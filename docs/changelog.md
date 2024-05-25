@@ -318,3 +318,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-25 15:09: refactor(utils): decompose monolithic string processing utility
 - 2024-05-25 15:49: chore: configure pre-commit hooks and linter rules
 - 2024-05-25 16:39: style: enforce consistent docstring and code formatting
+- 2024-05-25 22:31: test(core): add coverage for worker crash recovery
