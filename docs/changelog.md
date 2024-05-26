@@ -323,3 +323,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-26 12:31: fix(schema): resolve null value parsing in payload
 - 2024-05-26 15:48: feat(stream): add chunked data stream reader
 - 2024-05-26 17:08: refactor(storage): separate in-memory cache from persistence layer
+- 2024-05-26 17:24: fix(logger): prevent sensitive token leakage in debug logs
