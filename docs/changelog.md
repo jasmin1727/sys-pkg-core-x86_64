@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-25 22:31: test(core): add coverage for worker crash recovery
 - 2024-05-26 11:34: refactor: optimize module imports and remove unused dependencies
 - 2024-05-26 12:31: fix(schema): resolve null value parsing in payload
+- 2024-05-26 15:48: feat(stream): add chunked data stream reader
