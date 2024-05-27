@@ -329,3 +329,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-26 22:34: refactor: optimize module imports and remove unused dependencies
 - 2024-05-27 14:38: feat(context): propagate request trace id across coroutines
 - 2024-05-27 16:10: fix(core): handle race condition during worker shutdown
+- 2024-05-27 21:11: feat(events): implement publish-subscribe message bus
