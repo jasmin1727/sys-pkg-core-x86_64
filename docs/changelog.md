@@ -327,3 +327,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-26 18:27: feat(scheduler): support cron-like job scheduling intervals
 - 2024-05-26 20:34: feat(logger): introduce structured json formatting
 - 2024-05-26 22:34: refactor: optimize module imports and remove unused dependencies
+- 2024-05-27 14:38: feat(context): propagate request trace id across coroutines

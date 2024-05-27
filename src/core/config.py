@@ -192,3 +192,7 @@ def resolve_env_vars(config: dict) -> dict:
 # Cleaned up module imports
 
 # Cleaned up module imports
+
+def get_current_trace_id() -> str:
+    '''Fetch active trace identifier.'''
+    return os.environ.get('TRACE_ID', 'trace-default')
