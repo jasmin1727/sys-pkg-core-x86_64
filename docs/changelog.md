@@ -331,3 +331,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-27 16:10: fix(core): handle race condition during worker shutdown
 - 2024-05-27 21:11: feat(events): implement publish-subscribe message bus
 - 2024-05-27 22:56: refactor(core): streamline worker initialization sequence
+- 2024-05-28 14:14: fix(logger): prevent sensitive token leakage in debug logs
