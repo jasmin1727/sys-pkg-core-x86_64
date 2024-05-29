@@ -334,3 +334,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-28 14:14: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-05-28 21:08: test(storage): verify concurrency safety with thread pool
 - 2024-05-29 14:34: fix(cache): resolve cache key collision for compound queries
+- 2024-05-29 15:42: feat(rate-limit): implement token bucket rate limiting algorithm
