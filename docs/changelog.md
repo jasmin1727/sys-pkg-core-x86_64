@@ -336,3 +336,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-29 14:34: fix(cache): resolve cache key collision for compound queries
 - 2024-05-29 15:42: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-05-29 16:18: feat(events): implement publish-subscribe message bus
+- 2024-05-29 20:58: refactor(cache): unify cache interface across backends
