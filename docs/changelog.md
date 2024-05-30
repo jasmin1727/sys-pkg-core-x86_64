@@ -339,3 +339,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-29 20:58: refactor(cache): unify cache interface across backends
 - 2024-05-30 11:31: feat(api): add retry policy with exponential backoff
 - 2024-05-30 11:50: feat(scheduler): support cron-like job scheduling intervals
+- 2024-05-30 12:48: fix(storage): correct file descriptor leak on close
