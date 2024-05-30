@@ -341,3 +341,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-30 11:50: feat(scheduler): support cron-like job scheduling intervals
 - 2024-05-30 12:48: fix(storage): correct file descriptor leak on close
 - 2024-05-30 19:08: fix(core): handle race condition during worker shutdown
+- 2024-05-30 21:09: feat(storage): implement disk-backed key-value cache
