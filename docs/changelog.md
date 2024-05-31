@@ -347,3 +347,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-31 17:33: feat(logger): introduce structured json formatting
 - 2024-05-31 19:28: feat(parser): add support for nested json payloads
 - 2024-05-31 19:59: test(core): add coverage for worker crash recovery
+- 2024-05-31 20:18: feat(rate-limit): implement token bucket rate limiting algorithm
