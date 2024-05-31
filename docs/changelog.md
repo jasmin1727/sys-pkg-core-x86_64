@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-30 21:09: feat(storage): implement disk-backed key-value cache
 - 2024-05-30 21:35: feat(parser): add support for nested json payloads
 - 2024-05-31 13:07: fix(cache): resolve cache key collision for compound queries
+- 2024-05-31 17:33: feat(logger): introduce structured json formatting
