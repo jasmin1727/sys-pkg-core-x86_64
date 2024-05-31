@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-31 13:07: fix(cache): resolve cache key collision for compound queries
 - 2024-05-31 17:33: feat(logger): introduce structured json formatting
 - 2024-05-31 19:28: feat(parser): add support for nested json payloads
+- 2024-05-31 19:59: test(core): add coverage for worker crash recovery
