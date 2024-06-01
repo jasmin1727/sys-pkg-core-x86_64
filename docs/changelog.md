@@ -348,3 +348,4 @@ All notable changes and milestones are documented in this file.
 - 2024-05-31 19:28: feat(parser): add support for nested json payloads
 - 2024-05-31 19:59: test(core): add coverage for worker crash recovery
 - 2024-05-31 20:18: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2024-06-01 10:44: refactor(cache): unify cache interface across backends
