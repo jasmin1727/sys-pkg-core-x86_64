@@ -352,3 +352,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-01 12:11: feat(scheduler): support cron-like job scheduling intervals
 - 2024-06-01 12:35: refactor(utils): decompose monolithic string processing utility
 - 2024-06-01 12:43: fix(config): fallback to defaults when config key is missing
+- 2024-06-01 14:48: feat(auth): add bearer token header validation helper
