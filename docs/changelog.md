@@ -355,3 +355,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-01 14:48: feat(auth): add bearer token header validation helper
 - 2024-06-02 10:42: feat(validator): add schema validation for incoming events
 - 2024-06-02 16:33: refactor(storage): separate in-memory cache from persistence layer
+- 2024-06-02 18:14: fix(parser): resolve unexpected EOF when reading stream
