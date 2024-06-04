@@ -359,3 +359,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-02 19:56: feat(config): add dynamic environment variable resolver
 - 2024-06-02 21:24: feat(validator): add schema validation for incoming events
 - 2024-06-02 22:25: feat(api): add retry policy with exponential backoff
+- 2024-06-04 14:37: docs: update API endpoints reference and sample requests
