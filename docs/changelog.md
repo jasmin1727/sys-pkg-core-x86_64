@@ -362,3 +362,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-04 14:37: docs: update API endpoints reference and sample requests
 - 2024-06-04 15:31: fix(storage): correct file descriptor leak on close
 - 2024-06-04 17:37: test(storage): verify concurrency safety with thread pool
+- 2024-06-05 13:55: feat(logger): introduce structured json formatting
