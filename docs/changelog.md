@@ -364,3 +364,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-04 17:37: test(storage): verify concurrency safety with thread pool
 - 2024-06-05 13:55: feat(logger): introduce structured json formatting
 - 2024-06-05 17:26: feat(scheduler): support cron-like job scheduling intervals
+- 2024-06-05 18:22: docs: update setup instructions and prerequisites
