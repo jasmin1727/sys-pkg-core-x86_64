@@ -368,3 +368,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-06 14:24: test(cache): assert eviction behavior under memory pressure
 - 2024-06-06 17:05: docs: add architecture overview and system flow diagram
 - 2024-06-06 17:50: chore: update dependency versions in package lock
+- 2024-06-07 11:40: feat(parser): add support for nested json payloads
