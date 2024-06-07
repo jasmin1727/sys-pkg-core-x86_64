@@ -373,3 +373,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-07 13:08: fix(core): handle race condition during worker shutdown
 - 2024-06-07 13:31: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-06-07 16:41: feat(logger): introduce structured json formatting
+- 2024-06-07 17:00: feat(logger): introduce structured json formatting
