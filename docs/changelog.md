@@ -371,3 +371,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-07 11:40: feat(parser): add support for nested json payloads
 - 2024-06-07 12:04: feat(config): add dynamic environment variable resolver
 - 2024-06-07 13:08: fix(core): handle race condition during worker shutdown
+- 2024-06-07 13:31: feat(cache): implement adaptive LRU cache with TTL expiry
