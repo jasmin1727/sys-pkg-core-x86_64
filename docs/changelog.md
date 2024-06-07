@@ -375,3 +375,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-07 16:41: feat(logger): introduce structured json formatting
 - 2024-06-07 17:00: feat(logger): introduce structured json formatting
 - 2024-06-07 19:45: docs: add architecture overview and system flow diagram
+- 2024-06-07 20:00: refactor(storage): separate in-memory cache from persistence layer
