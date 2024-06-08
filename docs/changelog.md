@@ -377,3 +377,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-07 19:45: docs: add architecture overview and system flow diagram
 - 2024-06-07 20:00: refactor(storage): separate in-memory cache from persistence layer
 - 2024-06-07 20:21: feat(auth): add bearer token header validation helper
+- 2024-06-08 23:22: feat(storage): implement disk-backed key-value cache
