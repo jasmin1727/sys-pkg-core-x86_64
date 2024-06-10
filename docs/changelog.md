@@ -381,3 +381,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-09 20:09: fix(cache): resolve cache key collision for compound queries
 - 2024-06-10 10:52: fix(parser): resolve unexpected EOF when reading stream
 - 2024-06-10 12:00: chore: configure pre-commit hooks and linter rules
+- 2024-06-10 12:31: fix(logger): prevent sensitive token leakage in debug logs
