@@ -387,3 +387,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-10 18:06: feat(validator): add schema validation for incoming events
 - 2024-06-10 19:44: test(cache): assert eviction behavior under memory pressure
 - 2024-06-10 20:11: test(core): add coverage for worker crash recovery
+- 2024-06-10 22:52: test(parser): add test cases for malformed inputs
