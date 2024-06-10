@@ -379,3 +379,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-07 20:21: feat(auth): add bearer token header validation helper
 - 2024-06-08 23:22: feat(storage): implement disk-backed key-value cache
 - 2024-06-09 20:09: fix(cache): resolve cache key collision for compound queries
+- 2024-06-10 10:52: fix(parser): resolve unexpected EOF when reading stream
