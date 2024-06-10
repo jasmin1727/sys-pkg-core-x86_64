@@ -389,3 +389,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-10 20:11: test(core): add coverage for worker crash recovery
 - 2024-06-10 22:52: test(parser): add test cases for malformed inputs
 - 2024-06-10 23:00: docs: document configuration parameters and overrides
+- 2024-06-10 23:14: feat(cache): implement adaptive LRU cache with TTL expiry
