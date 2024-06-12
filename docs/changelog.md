@@ -391,3 +391,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-10 23:00: docs: document configuration parameters and overrides
 - 2024-06-10 23:14: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-06-12 11:53: test(storage): verify concurrency safety with thread pool
+- 2024-06-12 12:16: test(core): add coverage for worker crash recovery
