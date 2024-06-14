@@ -396,3 +396,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-13 16:54: refactor(core): streamline worker initialization sequence
 - 2024-06-14 10:03: fix(core): handle race condition during worker shutdown
 - 2024-06-14 16:27: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2024-06-14 18:28: feat(scheduler): support cron-like job scheduling intervals
