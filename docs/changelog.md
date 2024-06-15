@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-15 20:41: fix(parser): resolve unexpected EOF when reading stream
 - 2024-06-15 20:41: refactor(core): streamline worker initialization sequence
 - 2024-06-15 21:04: feat(scheduler): support cron-like job scheduling intervals
+- 2024-06-15 21:34: refactor(storage): separate in-memory cache from persistence layer
