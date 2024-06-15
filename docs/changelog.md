@@ -262,3 +262,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-15 17:04: style: enforce consistent docstring and code formatting
 - 2024-06-15 17:11: refactor(utils): decompose monolithic string processing utility
 - 2024-06-15 19:00: feat(auth): add bearer token header validation helper
+- 2024-06-15 19:08: docs: update API endpoints reference and sample requests
