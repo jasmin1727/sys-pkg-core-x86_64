@@ -265,3 +265,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-15 19:08: docs: update API endpoints reference and sample requests
 - 2024-06-15 20:06: fix(queue): acknowledge message after successful processing
 - 2024-06-15 20:41: fix(parser): resolve unexpected EOF when reading stream
+- 2024-06-15 20:41: refactor(core): streamline worker initialization sequence
