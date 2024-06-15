@@ -258,3 +258,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-14 18:28: feat(scheduler): support cron-like job scheduling intervals
 - 2024-06-14 20:36: feat(context): propagate request trace id across coroutines
 - 2024-06-15 10:07: fix(parser): resolve unexpected EOF when reading stream
+- 2024-06-15 11:41: feat(metrics): track request latency and error counters
