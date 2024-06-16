@@ -269,3 +269,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-15 21:04: feat(scheduler): support cron-like job scheduling intervals
 - 2024-06-15 21:34: refactor(storage): separate in-memory cache from persistence layer
 - 2024-06-16 12:31: fix(logger): prevent sensitive token leakage in debug logs
+- 2024-06-16 14:07: fix(schema): resolve null value parsing in payload
