@@ -278,3 +278,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-18 17:10: docs: update setup instructions and prerequisites
 - 2024-06-18 17:54: feat(validator): add schema validation for incoming events
 - 2024-06-18 18:38: fix(storage): correct file descriptor leak on close
+- 2024-06-18 20:38: feat(context): propagate request trace id across coroutines
