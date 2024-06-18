@@ -274,3 +274,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-16 21:51: feat(stream): add chunked data stream reader
 - 2024-06-18 10:36: refactor(core): streamline worker initialization sequence
 - 2024-06-18 12:06: feat(context): propagate request trace id across coroutines
+- 2024-06-18 14:23: feat(config): add dynamic environment variable resolver
