@@ -284,3 +284,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-19 19:51: refactor: optimize module imports and remove unused dependencies
 - 2024-06-19 23:15: feat(stream): add chunked data stream reader
 - 2024-06-20 16:48: chore: update dependency versions in package lock
+- 2024-06-21 11:06: fix(parser): resolve unexpected EOF when reading stream
