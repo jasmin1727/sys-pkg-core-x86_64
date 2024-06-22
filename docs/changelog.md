@@ -286,3 +286,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-20 16:48: chore: update dependency versions in package lock
 - 2024-06-21 11:06: fix(parser): resolve unexpected EOF when reading stream
 - 2024-06-22 10:39: feat(events): implement publish-subscribe message bus
+- 2024-06-22 11:24: fix(config): fallback to defaults when config key is missing
