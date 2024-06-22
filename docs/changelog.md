@@ -288,3 +288,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-22 10:39: feat(events): implement publish-subscribe message bus
 - 2024-06-22 11:24: fix(config): fallback to defaults when config key is missing
 - 2024-06-22 12:42: fix(parser): resolve unexpected EOF when reading stream
+- 2024-06-22 13:12: test(storage): verify concurrency safety with thread pool
