@@ -293,3 +293,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-22 14:21: feat(metrics): track request latency and error counters
 - 2024-06-22 17:09: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-06-22 18:36: feat(stream): add chunked data stream reader
+- 2024-06-22 19:39: feat(context): propagate request trace id across coroutines
