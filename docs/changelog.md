@@ -296,3 +296,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-22 19:39: feat(context): propagate request trace id across coroutines
 - 2024-06-22 20:00: feat(storage): implement disk-backed key-value cache
 - 2024-06-22 22:48: refactor(storage): separate in-memory cache from persistence layer
+- 2024-06-23 10:14: feat(events): implement publish-subscribe message bus
