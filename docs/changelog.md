@@ -302,3 +302,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-23 18:40: feat(logger): introduce structured json formatting
 - 2024-06-23 19:49: feat(parser): add support for nested json payloads
 - 2024-06-23 22:30: feat(events): implement publish-subscribe message bus
+- 2024-06-23 23:21: refactor(cache): unify cache interface across backends
