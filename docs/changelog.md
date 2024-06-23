@@ -301,3 +301,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-23 18:08: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-06-23 18:40: feat(logger): introduce structured json formatting
 - 2024-06-23 19:49: feat(parser): add support for nested json payloads
+- 2024-06-23 22:30: feat(events): implement publish-subscribe message bus
