@@ -307,3 +307,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-26 12:19: chore: configure pre-commit hooks and linter rules
 - 2024-06-26 13:29: feat(validator): add schema validation for incoming events
 - 2024-06-26 17:14: fix(core): handle race condition during worker shutdown
+- 2024-06-26 19:23: refactor(storage): separate in-memory cache from persistence layer
