@@ -304,3 +304,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-23 22:30: feat(events): implement publish-subscribe message bus
 - 2024-06-23 23:21: refactor(cache): unify cache interface across backends
 - 2024-06-25 16:07: feat(parser): add support for nested json payloads
+- 2024-06-26 12:19: chore: configure pre-commit hooks and linter rules
