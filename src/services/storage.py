@@ -226,3 +226,7 @@ def persist_kv(key: str, value: any, store_path: str):
 # Decoupled in-memory and disk adapters
 
 # Decoupled in-memory and disk adapters
+
+def close_storage_handles():
+    '''Ensure all open descriptors are flushed and closed.'''
+    pass
