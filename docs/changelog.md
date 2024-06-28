@@ -311,3 +311,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-27 18:30: fix(storage): correct file descriptor leak on close
 - 2024-06-28 16:41: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-06-28 17:40: refactor: optimize module imports and remove unused dependencies
+- 2024-06-28 21:42: feat(scheduler): support cron-like job scheduling intervals
