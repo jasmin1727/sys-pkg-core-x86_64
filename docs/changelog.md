@@ -317,3 +317,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-29 15:12: test(storage): verify concurrency safety with thread pool
 - 2024-06-29 16:51: refactor: optimize module imports and remove unused dependencies
 - 2024-06-30 11:44: fix(storage): correct file descriptor leak on close
+- 2024-06-30 16:04: refactor(cache): unify cache interface across backends
