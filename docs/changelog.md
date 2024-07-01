@@ -322,3 +322,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-30 20:46: feat(events): implement publish-subscribe message bus
 - 2024-07-01 10:34: feat(metrics): track request latency and error counters
 - 2024-07-01 17:48: docs: document configuration parameters and overrides
+- 2024-07-01 20:17: refactor(storage): separate in-memory cache from persistence layer
