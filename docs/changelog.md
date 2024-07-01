@@ -320,3 +320,4 @@ All notable changes and milestones are documented in this file.
 - 2024-06-30 16:04: refactor(cache): unify cache interface across backends
 - 2024-06-30 16:12: fix(schema): resolve null value parsing in payload
 - 2024-06-30 20:46: feat(events): implement publish-subscribe message bus
+- 2024-07-01 10:34: feat(metrics): track request latency and error counters
