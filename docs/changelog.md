@@ -324,3 +324,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-01 17:48: docs: document configuration parameters and overrides
 - 2024-07-01 20:17: refactor(storage): separate in-memory cache from persistence layer
 - 2024-07-01 21:24: feat(api): add retry policy with exponential backoff
+- 2024-07-02 11:09: refactor(cache): unify cache interface across backends
