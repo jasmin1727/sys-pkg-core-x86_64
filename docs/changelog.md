@@ -326,3 +326,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-01 21:24: feat(api): add retry policy with exponential backoff
 - 2024-07-02 11:09: refactor(cache): unify cache interface across backends
 - 2024-07-02 14:09: feat(scheduler): support cron-like job scheduling intervals
+- 2024-07-03 10:03: test(cache): assert eviction behavior under memory pressure
