@@ -328,3 +328,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-02 14:09: feat(scheduler): support cron-like job scheduling intervals
 - 2024-07-03 10:03: test(cache): assert eviction behavior under memory pressure
 - 2024-07-03 12:38: fix(schema): resolve null value parsing in payload
+- 2024-07-03 13:09: feat(metrics): track request latency and error counters
