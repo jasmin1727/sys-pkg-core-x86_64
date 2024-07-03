@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-03 13:45: refactor(cache): unify cache interface across backends
 - 2024-07-03 14:02: docs: add architecture overview and system flow diagram
 - 2024-07-03 15:21: feat(auth): add bearer token header validation helper
+- 2024-07-03 17:52: feat(storage): implement disk-backed key-value cache
