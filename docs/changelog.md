@@ -335,3 +335,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-03 17:52: feat(storage): implement disk-backed key-value cache
 - 2024-07-03 18:15: feat(stream): add chunked data stream reader
 - 2024-07-04 11:40: feat(storage): implement disk-backed key-value cache
+- 2024-07-04 17:09: feat(rate-limit): implement token bucket rate limiting algorithm
