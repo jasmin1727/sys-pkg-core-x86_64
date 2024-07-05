@@ -340,3 +340,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-04 18:58: feat(scheduler): support cron-like job scheduling intervals
 - 2024-07-05 11:18: test(core): add coverage for worker crash recovery
 - 2024-07-05 18:34: docs: add architecture overview and system flow diagram
+- 2024-07-05 19:26: feat(stream): add chunked data stream reader
