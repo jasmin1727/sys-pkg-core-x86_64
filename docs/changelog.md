@@ -338,3 +338,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-04 17:09: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-07-04 17:10: feat(events): implement publish-subscribe message bus
 - 2024-07-04 18:58: feat(scheduler): support cron-like job scheduling intervals
+- 2024-07-05 11:18: test(core): add coverage for worker crash recovery
