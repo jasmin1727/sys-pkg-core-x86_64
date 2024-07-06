@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-06 11:37: fix(schema): resolve null value parsing in payload
 - 2024-07-06 13:10: refactor(storage): separate in-memory cache from persistence layer
 - 2024-07-06 13:17: docs: update setup instructions and prerequisites
+- 2024-07-06 17:24: fix(config): fallback to defaults when config key is missing
