@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-05 22:24: refactor(core): streamline worker initialization sequence
 - 2024-07-05 23:10: feat(auth): add bearer token header validation helper
 - 2024-07-06 11:37: fix(schema): resolve null value parsing in payload
+- 2024-07-06 13:10: refactor(storage): separate in-memory cache from persistence layer
