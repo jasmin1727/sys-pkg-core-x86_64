@@ -350,3 +350,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-06 18:12: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-07-07 10:00: refactor(core): streamline worker initialization sequence
 - 2024-07-07 12:37: fix(storage): correct file descriptor leak on close
+- 2024-07-07 13:07: refactor(core): streamline worker initialization sequence
