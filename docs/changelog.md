@@ -349,3 +349,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-06 17:24: fix(config): fallback to defaults when config key is missing
 - 2024-07-06 18:12: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-07-07 10:00: refactor(core): streamline worker initialization sequence
+- 2024-07-07 12:37: fix(storage): correct file descriptor leak on close
