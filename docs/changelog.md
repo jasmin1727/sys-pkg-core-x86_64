@@ -362,3 +362,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-08 19:18: docs: add architecture overview and system flow diagram
 - 2024-07-08 23:00: refactor(cache): unify cache interface across backends
 - 2024-07-08 23:14: test(storage): verify concurrency safety with thread pool
+- 2024-07-08 23:24: fix(parser): resolve unexpected EOF when reading stream
