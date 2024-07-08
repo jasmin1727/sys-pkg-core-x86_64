@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-08 14:22: fix(cache): resolve cache key collision for compound queries
 - 2024-07-08 15:56: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-07-08 16:01: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2024-07-08 16:03: fix(logger): prevent sensitive token leakage in debug logs
