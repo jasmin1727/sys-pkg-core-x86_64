@@ -360,3 +360,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-08 16:03: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-07-08 16:33: chore: configure pre-commit hooks and linter rules
 - 2024-07-08 19:18: docs: add architecture overview and system flow diagram
+- 2024-07-08 23:00: refactor(cache): unify cache interface across backends
