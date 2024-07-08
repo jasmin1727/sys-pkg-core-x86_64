@@ -353,3 +353,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-07 13:07: refactor(core): streamline worker initialization sequence
 - 2024-07-07 16:54: docs: document configuration parameters and overrides
 - 2024-07-07 21:20: fix(parser): resolve unexpected EOF when reading stream
+- 2024-07-08 11:14: fix(core): handle race condition during worker shutdown
