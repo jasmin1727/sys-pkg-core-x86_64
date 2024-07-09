@@ -363,3 +363,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-08 23:00: refactor(cache): unify cache interface across backends
 - 2024-07-08 23:14: test(storage): verify concurrency safety with thread pool
 - 2024-07-08 23:24: fix(parser): resolve unexpected EOF when reading stream
+- 2024-07-09 12:02: feat(parser): add support for nested json payloads
