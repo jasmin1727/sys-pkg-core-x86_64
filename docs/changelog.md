@@ -366,3 +366,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-09 12:02: feat(parser): add support for nested json payloads
 - 2024-07-09 22:05: chore: update dependency versions in package lock
 - 2024-07-10 11:21: style: enforce consistent docstring and code formatting
+- 2024-07-10 14:21: docs: update API endpoints reference and sample requests
