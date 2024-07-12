@@ -371,3 +371,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-12 11:15: docs: document configuration parameters and overrides
 - 2024-07-12 11:59: fix(storage): correct file descriptor leak on close
 - 2024-07-12 12:50: docs: update setup instructions and prerequisites
+- 2024-07-12 12:50: fix(core): handle race condition during worker shutdown
