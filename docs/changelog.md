@@ -375,3 +375,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-12 15:42: feat(parser): add support for nested json payloads
 - 2024-07-12 15:57: test(storage): verify concurrency safety with thread pool
 - 2024-07-12 16:40: test(core): add coverage for worker crash recovery
+- 2024-07-12 18:21: feat(api): add retry policy with exponential backoff
