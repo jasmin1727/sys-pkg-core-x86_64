@@ -372,3 +372,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-12 11:59: fix(storage): correct file descriptor leak on close
 - 2024-07-12 12:50: docs: update setup instructions and prerequisites
 - 2024-07-12 12:50: fix(core): handle race condition during worker shutdown
+- 2024-07-12 15:42: feat(parser): add support for nested json payloads
