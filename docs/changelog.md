@@ -378,3 +378,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-12 18:21: feat(api): add retry policy with exponential backoff
 - 2024-07-12 19:53: feat(context): propagate request trace id across coroutines
 - 2024-07-12 20:07: feat(context): propagate request trace id across coroutines
+- 2024-07-12 21:17: feat(logger): introduce structured json formatting
