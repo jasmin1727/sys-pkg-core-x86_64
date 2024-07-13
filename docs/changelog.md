@@ -381,3 +381,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-12 21:17: feat(logger): introduce structured json formatting
 - 2024-07-12 23:12: docs: update setup instructions and prerequisites
 - 2024-07-13 18:00: fix(schema): resolve null value parsing in payload
+- 2024-07-13 21:44: feat(config): add dynamic environment variable resolver
