@@ -380,3 +380,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-12 20:07: feat(context): propagate request trace id across coroutines
 - 2024-07-12 21:17: feat(logger): introduce structured json formatting
 - 2024-07-12 23:12: docs: update setup instructions and prerequisites
+- 2024-07-13 18:00: fix(schema): resolve null value parsing in payload
