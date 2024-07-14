@@ -384,3 +384,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-13 21:44: feat(config): add dynamic environment variable resolver
 - 2024-07-13 22:45: feat(events): implement publish-subscribe message bus
 - 2024-07-14 11:45: refactor(core): streamline worker initialization sequence
+- 2024-07-14 12:21: fix(schema): resolve null value parsing in payload
