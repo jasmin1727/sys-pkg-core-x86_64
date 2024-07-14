@@ -388,3 +388,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-14 15:59: perf: reduce allocations in serialization hot path
 - 2024-07-14 17:23: refactor(core): streamline worker initialization sequence
 - 2024-07-14 17:29: fix(parser): resolve unexpected EOF when reading stream
+- 2024-07-14 18:33: refactor: optimize module imports and remove unused dependencies
