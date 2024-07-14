@@ -385,3 +385,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-13 22:45: feat(events): implement publish-subscribe message bus
 - 2024-07-14 11:45: refactor(core): streamline worker initialization sequence
 - 2024-07-14 12:21: fix(schema): resolve null value parsing in payload
+- 2024-07-14 15:59: perf: reduce allocations in serialization hot path
