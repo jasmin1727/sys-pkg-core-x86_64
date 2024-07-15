@@ -394,3 +394,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-14 22:48: docs: update setup instructions and prerequisites
 - 2024-07-15 12:13: fix(queue): acknowledge message after successful processing
 - 2024-07-15 13:09: refactor(core): streamline worker initialization sequence
+- 2024-07-15 18:14: feat(validator): add schema validation for incoming events
