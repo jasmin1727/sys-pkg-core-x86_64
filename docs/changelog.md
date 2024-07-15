@@ -393,3 +393,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-14 20:47: refactor(utils): decompose monolithic string processing utility
 - 2024-07-14 22:48: docs: update setup instructions and prerequisites
 - 2024-07-15 12:13: fix(queue): acknowledge message after successful processing
+- 2024-07-15 13:09: refactor(core): streamline worker initialization sequence
