@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-16 19:22: fix(storage): correct file descriptor leak on close
 - 2024-07-17 10:39: fix(config): fallback to defaults when config key is missing
 - 2024-07-17 14:21: test(core): add coverage for worker crash recovery
+- 2024-07-17 15:54: docs: update setup instructions and prerequisites
