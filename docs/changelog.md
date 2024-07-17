@@ -262,3 +262,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-17 15:54: docs: update setup instructions and prerequisites
 - 2024-07-17 18:12: style: enforce consistent docstring and code formatting
 - 2024-07-17 20:27: feat(logger): introduce structured json formatting
+- 2024-07-17 20:53: docs: add architecture overview and system flow diagram
