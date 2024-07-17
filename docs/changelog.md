@@ -258,3 +258,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-16 18:08: chore: configure pre-commit hooks and linter rules
 - 2024-07-16 19:22: fix(storage): correct file descriptor leak on close
 - 2024-07-17 10:39: fix(config): fallback to defaults when config key is missing
+- 2024-07-17 14:21: test(core): add coverage for worker crash recovery
