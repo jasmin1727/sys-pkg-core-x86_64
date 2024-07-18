@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-17 20:27: feat(logger): introduce structured json formatting
 - 2024-07-17 20:53: docs: add architecture overview and system flow diagram
 - 2024-07-17 22:16: chore: update dependency versions in package lock
+- 2024-07-18 10:45: docs: update API endpoints reference and sample requests
