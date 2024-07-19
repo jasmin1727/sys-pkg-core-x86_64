@@ -275,3 +275,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-19 20:22: feat(storage): implement disk-backed key-value cache
 - 2024-07-19 20:26: chore: configure pre-commit hooks and linter rules
 - 2024-07-19 22:12: test(parser): add test cases for malformed inputs
+- 2024-07-19 22:37: feat(auth): add bearer token header validation helper
