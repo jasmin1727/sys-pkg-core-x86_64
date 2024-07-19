@@ -270,3 +270,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-19 10:05: fix(schema): resolve null value parsing in payload
 - 2024-07-19 11:49: test(cache): assert eviction behavior under memory pressure
 - 2024-07-19 11:52: feat(parser): add support for nested json payloads
+- 2024-07-19 13:07: test(core): add coverage for worker crash recovery
