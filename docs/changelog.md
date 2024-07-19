@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-18 10:45: docs: update API endpoints reference and sample requests
 - 2024-07-18 16:04: test(core): add coverage for worker crash recovery
 - 2024-07-18 18:02: test(storage): verify concurrency safety with thread pool
+- 2024-07-19 10:05: fix(schema): resolve null value parsing in payload
