@@ -273,3 +273,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-19 13:07: test(core): add coverage for worker crash recovery
 - 2024-07-19 19:03: docs: update API endpoints reference and sample requests
 - 2024-07-19 20:22: feat(storage): implement disk-backed key-value cache
+- 2024-07-19 20:26: chore: configure pre-commit hooks and linter rules
