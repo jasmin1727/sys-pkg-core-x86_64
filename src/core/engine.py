@@ -190,3 +190,5 @@ class MetricsCollector:
 # Refactored worker lifecycle management
 
 # Refactored worker lifecycle management
+
+# Refactored worker lifecycle management
