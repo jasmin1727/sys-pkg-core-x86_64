@@ -284,3 +284,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-20 16:22: refactor(core): streamline worker initialization sequence
 - 2024-07-20 20:11: fix(storage): correct file descriptor leak on close
 - 2024-07-20 20:41: refactor(core): streamline worker initialization sequence
+- 2024-07-20 20:50: test(storage): verify concurrency safety with thread pool
