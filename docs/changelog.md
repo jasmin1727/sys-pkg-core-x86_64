@@ -285,3 +285,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-20 20:11: fix(storage): correct file descriptor leak on close
 - 2024-07-20 20:41: refactor(core): streamline worker initialization sequence
 - 2024-07-20 20:50: test(storage): verify concurrency safety with thread pool
+- 2024-07-20 22:24: refactor(cache): unify cache interface across backends
