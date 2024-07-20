@@ -287,3 +287,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-20 20:50: test(storage): verify concurrency safety with thread pool
 - 2024-07-20 22:24: refactor(cache): unify cache interface across backends
 - 2024-07-20 22:48: docs: update API endpoints reference and sample requests
+- 2024-07-20 22:55: docs: document configuration parameters and overrides
