@@ -278,3 +278,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-19 22:37: feat(auth): add bearer token header validation helper
 - 2024-07-20 10:16: refactor(core): streamline worker initialization sequence
 - 2024-07-20 12:10: fix(queue): acknowledge message after successful processing
+- 2024-07-20 12:45: fix(storage): correct file descriptor leak on close
