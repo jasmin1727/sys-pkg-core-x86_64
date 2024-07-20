@@ -276,3 +276,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-19 20:26: chore: configure pre-commit hooks and linter rules
 - 2024-07-19 22:12: test(parser): add test cases for malformed inputs
 - 2024-07-19 22:37: feat(auth): add bearer token header validation helper
+- 2024-07-20 10:16: refactor(core): streamline worker initialization sequence
