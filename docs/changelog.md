@@ -280,3 +280,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-20 12:10: fix(queue): acknowledge message after successful processing
 - 2024-07-20 12:45: fix(storage): correct file descriptor leak on close
 - 2024-07-20 13:25: test(parser): add test cases for malformed inputs
+- 2024-07-20 13:55: fix(logger): prevent sensitive token leakage in debug logs
