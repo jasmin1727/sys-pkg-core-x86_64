@@ -289,3 +289,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-20 22:48: docs: update API endpoints reference and sample requests
 - 2024-07-20 22:55: docs: document configuration parameters and overrides
 - 2024-07-23 17:39: fix(parser): resolve unexpected EOF when reading stream
+- 2024-07-23 22:17: refactor(cache): unify cache interface across backends
