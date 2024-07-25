@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-20 22:55: docs: document configuration parameters and overrides
 - 2024-07-23 17:39: fix(parser): resolve unexpected EOF when reading stream
 - 2024-07-23 22:17: refactor(cache): unify cache interface across backends
+- 2024-07-25 17:21: fix(queue): acknowledge message after successful processing
