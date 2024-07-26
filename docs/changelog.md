@@ -293,3 +293,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-25 17:21: fix(queue): acknowledge message after successful processing
 - 2024-07-25 20:59: fix(queue): acknowledge message after successful processing
 - 2024-07-25 23:08: fix(core): handle race condition during worker shutdown
+- 2024-07-26 15:16: test(storage): verify concurrency safety with thread pool
