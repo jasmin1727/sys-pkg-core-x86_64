@@ -296,3 +296,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-26 15:16: test(storage): verify concurrency safety with thread pool
 - 2024-07-26 15:40: refactor(utils): decompose monolithic string processing utility
 - 2024-07-26 17:26: test(parser): add test cases for malformed inputs
+- 2024-07-26 17:44: fix(cache): resolve cache key collision for compound queries
