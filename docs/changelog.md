@@ -306,3 +306,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-27 16:15: feat(events): implement publish-subscribe message bus
 - 2024-07-27 16:34: fix(schema): resolve null value parsing in payload
 - 2024-07-27 17:05: feat(events): implement publish-subscribe message bus
+- 2024-07-27 18:49: chore: update dependency versions in package lock
