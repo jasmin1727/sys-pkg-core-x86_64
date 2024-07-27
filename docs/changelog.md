@@ -304,3 +304,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-27 10:27: feat(events): implement publish-subscribe message bus
 - 2024-07-27 14:05: feat(metrics): track request latency and error counters
 - 2024-07-27 16:15: feat(events): implement publish-subscribe message bus
+- 2024-07-27 16:34: fix(schema): resolve null value parsing in payload
