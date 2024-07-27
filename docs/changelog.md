@@ -308,3 +308,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-27 17:05: feat(events): implement publish-subscribe message bus
 - 2024-07-27 18:49: chore: update dependency versions in package lock
 - 2024-07-27 19:03: refactor(core): streamline worker initialization sequence
+- 2024-07-27 19:20: feat(validator): add schema validation for incoming events
