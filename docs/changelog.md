@@ -310,3 +310,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-27 19:03: refactor(core): streamline worker initialization sequence
 - 2024-07-27 19:20: feat(validator): add schema validation for incoming events
 - 2024-07-27 21:26: fix(config): fallback to defaults when config key is missing
+- 2024-07-27 21:31: fix(storage): correct file descriptor leak on close
