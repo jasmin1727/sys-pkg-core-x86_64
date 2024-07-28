@@ -312,3 +312,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-27 21:26: fix(config): fallback to defaults when config key is missing
 - 2024-07-27 21:31: fix(storage): correct file descriptor leak on close
 - 2024-07-27 23:06: fix(schema): resolve null value parsing in payload
+- 2024-07-28 22:22: refactor(cache): unify cache interface across backends
