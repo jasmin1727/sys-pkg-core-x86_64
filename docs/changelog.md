@@ -314,3 +314,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-27 23:06: fix(schema): resolve null value parsing in payload
 - 2024-07-28 22:22: refactor(cache): unify cache interface across backends
 - 2024-07-28 23:00: feat(core): implement async task worker pool
+- 2024-07-28 23:06: test(storage): verify concurrency safety with thread pool
