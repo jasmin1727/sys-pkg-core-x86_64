@@ -318,3 +318,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-29 10:33: feat(auth): add bearer token header validation helper
 - 2024-07-29 15:16: chore: configure pre-commit hooks and linter rules
 - 2024-07-29 19:12: feat(context): propagate request trace id across coroutines
+- 2024-07-29 20:50: fix(schema): resolve null value parsing in payload
