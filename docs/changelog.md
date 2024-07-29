@@ -316,3 +316,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-28 23:00: feat(core): implement async task worker pool
 - 2024-07-28 23:06: test(storage): verify concurrency safety with thread pool
 - 2024-07-29 10:33: feat(auth): add bearer token header validation helper
+- 2024-07-29 15:16: chore: configure pre-commit hooks and linter rules
