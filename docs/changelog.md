@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-29 20:50: fix(schema): resolve null value parsing in payload
 - 2024-07-30 11:09: feat(stream): add chunked data stream reader
 - 2024-07-30 12:23: refactor(core): streamline worker initialization sequence
+- 2024-07-30 17:16: fix(cache): resolve cache key collision for compound queries
