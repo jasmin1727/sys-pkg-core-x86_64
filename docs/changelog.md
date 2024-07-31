@@ -322,3 +322,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-30 11:09: feat(stream): add chunked data stream reader
 - 2024-07-30 12:23: refactor(core): streamline worker initialization sequence
 - 2024-07-30 17:16: fix(cache): resolve cache key collision for compound queries
+- 2024-07-31 10:57: feat(stream): add chunked data stream reader
