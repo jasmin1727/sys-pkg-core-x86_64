@@ -330,3 +330,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-01 13:08: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-08-01 14:33: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-08-01 15:14: feat(storage): implement disk-backed key-value cache
+- 2024-08-01 19:31: feat(stream): add chunked data stream reader
