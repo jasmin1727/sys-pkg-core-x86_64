@@ -327,3 +327,4 @@ All notable changes and milestones are documented in this file.
 - 2024-07-31 15:37: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-08-01 10:10: test(storage): verify concurrency safety with thread pool
 - 2024-08-01 10:50: refactor: optimize module imports and remove unused dependencies
+- 2024-08-01 13:08: fix(logger): prevent sensitive token leakage in debug logs
