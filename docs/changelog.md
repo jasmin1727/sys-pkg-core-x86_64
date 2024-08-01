@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-01 15:14: feat(storage): implement disk-backed key-value cache
 - 2024-08-01 19:31: feat(stream): add chunked data stream reader
 - 2024-08-01 20:52: docs: document configuration parameters and overrides
+- 2024-08-01 22:03: feat(core): implement async task worker pool
