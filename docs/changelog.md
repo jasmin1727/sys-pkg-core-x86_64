@@ -335,3 +335,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-01 22:03: feat(core): implement async task worker pool
 - 2024-08-02 20:49: chore: update dependency versions in package lock
 - 2024-08-03 12:55: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2024-08-03 14:00: fix(core): handle race condition during worker shutdown
