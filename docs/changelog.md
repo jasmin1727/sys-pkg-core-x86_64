@@ -345,3 +345,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-03 22:24: feat(logger): introduce structured json formatting
 - 2024-08-03 23:04: fix(queue): acknowledge message after successful processing
 - 2024-08-04 10:29: test(parser): add test cases for malformed inputs
+- 2024-08-04 18:43: feat(config): add dynamic environment variable resolver
