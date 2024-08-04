@@ -348,3 +348,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-04 18:43: feat(config): add dynamic environment variable resolver
 - 2024-08-04 19:19: fix(config): fallback to defaults when config key is missing
 - 2024-08-04 21:31: test(storage): verify concurrency safety with thread pool
+- 2024-08-04 22:29: docs: add architecture overview and system flow diagram
