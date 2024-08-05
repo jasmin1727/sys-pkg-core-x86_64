@@ -354,3 +354,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-05 14:04: refactor(cache): unify cache interface across backends
 - 2024-08-05 16:56: docs: document configuration parameters and overrides
 - 2024-08-05 17:02: feat(logger): introduce structured json formatting
+- 2024-08-05 19:33: feat(api): add retry policy with exponential backoff
