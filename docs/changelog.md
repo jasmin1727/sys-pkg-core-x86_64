@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-05 19:33: feat(api): add retry policy with exponential backoff
 - 2024-08-05 22:25: feat(storage): implement disk-backed key-value cache
 - 2024-08-05 22:34: fix(logger): prevent sensitive token leakage in debug logs
+- 2024-08-05 23:21: refactor(storage): separate in-memory cache from persistence layer
