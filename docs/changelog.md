@@ -353,3 +353,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-05 13:03: refactor(storage): separate in-memory cache from persistence layer
 - 2024-08-05 14:04: refactor(cache): unify cache interface across backends
 - 2024-08-05 16:56: docs: document configuration parameters and overrides
+- 2024-08-05 17:02: feat(logger): introduce structured json formatting
