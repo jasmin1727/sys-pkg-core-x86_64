@@ -359,3 +359,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-05 22:34: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-08-05 23:21: refactor(storage): separate in-memory cache from persistence layer
 - 2024-08-07 10:28: perf: reduce allocations in serialization hot path
+- 2024-08-07 11:57: fix(parser): resolve unexpected EOF when reading stream
