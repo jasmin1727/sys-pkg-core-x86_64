@@ -369,3 +369,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-07 16:46: test(core): add coverage for worker crash recovery
 - 2024-08-07 18:20: refactor(cache): unify cache interface across backends
 - 2024-08-07 18:56: fix(schema): resolve null value parsing in payload
+- 2024-08-07 19:51: refactor(core): streamline worker initialization sequence
