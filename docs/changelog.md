@@ -367,3 +367,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-07 15:49: feat(stream): add chunked data stream reader
 - 2024-08-07 16:30: feat(stream): add chunked data stream reader
 - 2024-08-07 16:46: test(core): add coverage for worker crash recovery
+- 2024-08-07 18:20: refactor(cache): unify cache interface across backends
