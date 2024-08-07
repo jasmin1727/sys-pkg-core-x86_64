@@ -366,3 +366,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-07 15:16: docs: update API endpoints reference and sample requests
 - 2024-08-07 15:49: feat(stream): add chunked data stream reader
 - 2024-08-07 16:30: feat(stream): add chunked data stream reader
+- 2024-08-07 16:46: test(core): add coverage for worker crash recovery
