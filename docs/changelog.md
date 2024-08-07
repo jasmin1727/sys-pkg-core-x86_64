@@ -364,3 +364,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-07 12:15: feat(logger): introduce structured json formatting
 - 2024-08-07 12:45: feat(parser): add support for nested json payloads
 - 2024-08-07 15:16: docs: update API endpoints reference and sample requests
+- 2024-08-07 15:49: feat(stream): add chunked data stream reader
