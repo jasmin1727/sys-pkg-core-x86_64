@@ -362,3 +362,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-07 11:57: fix(parser): resolve unexpected EOF when reading stream
 - 2024-08-07 11:58: feat(scheduler): support cron-like job scheduling intervals
 - 2024-08-07 12:15: feat(logger): introduce structured json formatting
+- 2024-08-07 12:45: feat(parser): add support for nested json payloads
