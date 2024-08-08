@@ -372,3 +372,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-07 19:51: refactor(core): streamline worker initialization sequence
 - 2024-08-07 22:11: feat(parser): add support for nested json payloads
 - 2024-08-07 22:42: feat(config): add dynamic environment variable resolver
+- 2024-08-08 16:05: test(core): add coverage for worker crash recovery
