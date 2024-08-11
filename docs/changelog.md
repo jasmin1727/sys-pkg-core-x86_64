@@ -383,3 +383,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-11 16:44: fix(parser): resolve unexpected EOF when reading stream
 - 2024-08-11 17:14: feat(api): add retry policy with exponential backoff
 - 2024-08-11 17:50: fix(schema): resolve null value parsing in payload
+- 2024-08-11 20:31: feat(api): add retry policy with exponential backoff
