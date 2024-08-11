@@ -379,3 +379,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-11 12:18: feat(stream): add chunked data stream reader
 - 2024-08-11 12:50: fix(schema): resolve null value parsing in payload
 - 2024-08-11 13:20: test(parser): add test cases for malformed inputs
+- 2024-08-11 16:17: fix(parser): resolve unexpected EOF when reading stream
