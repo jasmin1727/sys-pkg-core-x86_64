@@ -381,3 +381,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-11 13:20: test(parser): add test cases for malformed inputs
 - 2024-08-11 16:17: fix(parser): resolve unexpected EOF when reading stream
 - 2024-08-11 16:44: fix(parser): resolve unexpected EOF when reading stream
+- 2024-08-11 17:14: feat(api): add retry policy with exponential backoff
