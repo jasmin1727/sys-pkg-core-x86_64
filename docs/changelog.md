@@ -386,3 +386,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-11 20:31: feat(api): add retry policy with exponential backoff
 - 2024-08-11 21:03: feat(config): add dynamic environment variable resolver
 - 2024-08-11 21:48: docs: update setup instructions and prerequisites
+- 2024-08-12 16:01: test(cache): assert eviction behavior under memory pressure
