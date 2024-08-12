@@ -388,3 +388,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-11 21:48: docs: update setup instructions and prerequisites
 - 2024-08-12 16:01: test(cache): assert eviction behavior under memory pressure
 - 2024-08-12 18:00: refactor(utils): decompose monolithic string processing utility
+- 2024-08-12 19:28: feat(auth): add bearer token header validation helper
