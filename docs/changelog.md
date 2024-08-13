@@ -390,3 +390,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-12 18:00: refactor(utils): decompose monolithic string processing utility
 - 2024-08-12 19:28: feat(auth): add bearer token header validation helper
 - 2024-08-13 10:24: refactor: optimize module imports and remove unused dependencies
+- 2024-08-13 12:43: refactor(core): streamline worker initialization sequence
