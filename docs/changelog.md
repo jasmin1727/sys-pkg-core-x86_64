@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-14 11:29: refactor(storage): separate in-memory cache from persistence layer
 - 2024-08-14 11:51: test(core): add coverage for worker crash recovery
 - 2024-08-14 18:18: feat(logger): introduce structured json formatting
+- 2024-08-14 22:03: docs: document configuration parameters and overrides
