@@ -394,3 +394,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-13 13:04: feat(metrics): track request latency and error counters
 - 2024-08-13 21:01: test(storage): verify concurrency safety with thread pool
 - 2024-08-13 21:51: feat(stream): add chunked data stream reader
+- 2024-08-14 11:29: refactor(storage): separate in-memory cache from persistence layer
