@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-15 15:31: refactor(utils): decompose monolithic string processing utility
 - 2024-08-16 12:37: feat(stream): add chunked data stream reader
 - 2024-08-16 15:34: feat(logger): introduce structured json formatting
+- 2024-08-16 20:26: fix(schema): resolve null value parsing in payload
