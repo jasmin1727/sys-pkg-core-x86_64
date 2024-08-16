@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-14 22:03: docs: document configuration parameters and overrides
 - 2024-08-15 13:32: fix(schema): resolve null value parsing in payload
 - 2024-08-15 15:31: refactor(utils): decompose monolithic string processing utility
+- 2024-08-16 12:37: feat(stream): add chunked data stream reader
