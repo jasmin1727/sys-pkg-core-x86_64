@@ -262,3 +262,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-16 12:37: feat(stream): add chunked data stream reader
 - 2024-08-16 15:34: feat(logger): introduce structured json formatting
 - 2024-08-16 20:26: fix(schema): resolve null value parsing in payload
+- 2024-08-16 22:28: refactor(core): streamline worker initialization sequence
