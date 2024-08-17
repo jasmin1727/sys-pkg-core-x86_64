@@ -268,3 +268,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-17 12:52: perf: reduce allocations in serialization hot path
 - 2024-08-17 13:20: fix(cache): resolve cache key collision for compound queries
 - 2024-08-17 20:15: fix(parser): resolve unexpected EOF when reading stream
+- 2024-08-17 21:10: refactor(storage): separate in-memory cache from persistence layer
