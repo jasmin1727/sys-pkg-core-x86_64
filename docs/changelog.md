@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-16 20:26: fix(schema): resolve null value parsing in payload
 - 2024-08-16 22:28: refactor(core): streamline worker initialization sequence
 - 2024-08-16 22:28: feat(config): add dynamic environment variable resolver
+- 2024-08-17 12:06: refactor(cache): unify cache interface across backends
