@@ -272,3 +272,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-17 23:25: refactor(storage): separate in-memory cache from persistence layer
 - 2024-08-18 11:43: fix(schema): resolve null value parsing in payload
 - 2024-08-18 17:12: test(storage): verify concurrency safety with thread pool
+- 2024-08-19 11:18: docs: document configuration parameters and overrides
