@@ -275,3 +275,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-19 11:18: docs: document configuration parameters and overrides
 - 2024-08-19 11:20: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-08-19 14:41: fix(queue): acknowledge message after successful processing
+- 2024-08-19 19:29: fix(config): fallback to defaults when config key is missing
