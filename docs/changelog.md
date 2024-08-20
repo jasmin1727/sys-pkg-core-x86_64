@@ -282,3 +282,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-20 14:17: feat(metrics): track request latency and error counters
 - 2024-08-20 15:49: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-08-20 21:32: feat(auth): add bearer token header validation helper
+- 2024-08-20 21:42: fix(queue): acknowledge message after successful processing
