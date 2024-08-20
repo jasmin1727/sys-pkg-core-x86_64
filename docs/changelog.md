@@ -284,3 +284,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-20 21:32: feat(auth): add bearer token header validation helper
 - 2024-08-20 21:42: fix(queue): acknowledge message after successful processing
 - 2024-08-20 23:13: refactor(utils): decompose monolithic string processing utility
+- 2024-08-20 23:17: docs: update setup instructions and prerequisites
