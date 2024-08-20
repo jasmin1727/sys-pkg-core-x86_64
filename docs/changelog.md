@@ -279,3 +279,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-19 19:52: docs: document configuration parameters and overrides
 - 2024-08-20 10:13: feat(stream): add chunked data stream reader
 - 2024-08-20 13:11: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2024-08-20 14:17: feat(metrics): track request latency and error counters
