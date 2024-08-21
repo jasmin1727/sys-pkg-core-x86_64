@@ -292,3 +292,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-21 14:18: feat(core): implement async task worker pool
 - 2024-08-21 15:09: test(core): add coverage for worker crash recovery
 - 2024-08-21 18:19: feat(scheduler): support cron-like job scheduling intervals
+- 2024-08-21 20:06: feat(storage): implement disk-backed key-value cache
