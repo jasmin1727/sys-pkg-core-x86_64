@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-21 13:28: refactor(core): streamline worker initialization sequence
 - 2024-08-21 13:37: docs: document configuration parameters and overrides
 - 2024-08-21 14:18: feat(core): implement async task worker pool
+- 2024-08-21 15:09: test(core): add coverage for worker crash recovery
