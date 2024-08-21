@@ -288,3 +288,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-21 10:42: fix(queue): acknowledge message after successful processing
 - 2024-08-21 11:02: feat(logger): introduce structured json formatting
 - 2024-08-21 13:28: refactor(core): streamline worker initialization sequence
+- 2024-08-21 13:37: docs: document configuration parameters and overrides
