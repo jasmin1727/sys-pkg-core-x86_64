@@ -294,3 +294,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-21 18:19: feat(scheduler): support cron-like job scheduling intervals
 - 2024-08-21 20:06: feat(storage): implement disk-backed key-value cache
 - 2024-08-21 22:56: refactor(utils): decompose monolithic string processing utility
+- 2024-08-22 12:11: docs: update setup instructions and prerequisites
