@@ -310,3 +310,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-26 17:42: feat(stream): add chunked data stream reader
 - 2024-08-26 18:39: feat(events): implement publish-subscribe message bus
 - 2024-08-26 19:30: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2024-08-26 23:19: feat(scheduler): support cron-like job scheduling intervals
