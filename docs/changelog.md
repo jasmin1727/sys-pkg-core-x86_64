@@ -308,3 +308,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-26 14:32: fix(core): handle race condition during worker shutdown
 - 2024-08-26 15:30: test(storage): verify concurrency safety with thread pool
 - 2024-08-26 17:42: feat(stream): add chunked data stream reader
+- 2024-08-26 18:39: feat(events): implement publish-subscribe message bus
