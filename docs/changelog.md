@@ -306,3 +306,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-26 10:39: fix(config): fallback to defaults when config key is missing
 - 2024-08-26 11:40: fix(config): fallback to defaults when config key is missing
 - 2024-08-26 14:32: fix(core): handle race condition during worker shutdown
+- 2024-08-26 15:30: test(storage): verify concurrency safety with thread pool
