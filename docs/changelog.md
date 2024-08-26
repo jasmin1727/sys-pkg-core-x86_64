@@ -304,3 +304,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-25 22:23: feat(scheduler): support cron-like job scheduling intervals
 - 2024-08-25 22:38: feat(context): propagate request trace id across coroutines
 - 2024-08-26 10:39: fix(config): fallback to defaults when config key is missing
+- 2024-08-26 11:40: fix(config): fallback to defaults when config key is missing
