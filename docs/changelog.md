@@ -313,3 +313,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-26 23:19: feat(scheduler): support cron-like job scheduling intervals
 - 2024-08-27 11:48: test(cache): assert eviction behavior under memory pressure
 - 2024-08-27 13:50: test(storage): verify concurrency safety with thread pool
+- 2024-08-27 19:15: feat(cache): implement adaptive LRU cache with TTL expiry
