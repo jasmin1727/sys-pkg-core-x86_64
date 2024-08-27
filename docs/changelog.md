@@ -311,3 +311,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-26 18:39: feat(events): implement publish-subscribe message bus
 - 2024-08-26 19:30: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-08-26 23:19: feat(scheduler): support cron-like job scheduling intervals
+- 2024-08-27 11:48: test(cache): assert eviction behavior under memory pressure
