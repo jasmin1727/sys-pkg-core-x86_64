@@ -314,3 +314,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-27 11:48: test(cache): assert eviction behavior under memory pressure
 - 2024-08-27 13:50: test(storage): verify concurrency safety with thread pool
 - 2024-08-27 19:15: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2024-08-27 19:16: feat(auth): add bearer token header validation helper
