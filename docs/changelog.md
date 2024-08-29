@@ -316,3 +316,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-27 19:15: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-08-27 19:16: feat(auth): add bearer token header validation helper
 - 2024-08-27 19:24: test(storage): verify concurrency safety with thread pool
+- 2024-08-29 15:48: test(parser): add test cases for malformed inputs
