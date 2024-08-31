@@ -323,3 +323,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-31 13:05: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-08-31 15:26: feat(api): add retry policy with exponential backoff
 - 2024-08-31 17:24: feat(stream): add chunked data stream reader
+- 2024-08-31 17:37: fix(queue): acknowledge message after successful processing
