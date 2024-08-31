@@ -318,3 +318,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-27 19:24: test(storage): verify concurrency safety with thread pool
 - 2024-08-29 15:48: test(parser): add test cases for malformed inputs
 - 2024-08-29 19:34: feat(logger): introduce structured json formatting
+- 2024-08-31 11:01: feat(context): propagate request trace id across coroutines
