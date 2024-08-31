@@ -282,3 +282,7 @@ def safe_shutdown(pool):
 class EventBus:
     '''In-memory publish-subscribe bus.'''
     pass
+
+class TokenBucket:
+    '''Token bucket rate limiter implementation.'''
+    pass

@@ -319,3 +319,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-29 15:48: test(parser): add test cases for malformed inputs
 - 2024-08-29 19:34: feat(logger): introduce structured json formatting
 - 2024-08-31 11:01: feat(context): propagate request trace id across coroutines
+- 2024-08-31 12:17: feat(rate-limit): implement token bucket rate limiting algorithm
