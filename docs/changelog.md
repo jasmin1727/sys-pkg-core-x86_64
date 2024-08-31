@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2024-08-31 11:01: feat(context): propagate request trace id across coroutines
 - 2024-08-31 12:17: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-08-31 13:05: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2024-08-31 15:26: feat(api): add retry policy with exponential backoff
