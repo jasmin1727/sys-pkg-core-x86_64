@@ -327,3 +327,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-01 13:02: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-09-01 18:52: style: enforce consistent docstring and code formatting
 - 2024-09-02 21:13: refactor: optimize module imports and remove unused dependencies
+- 2024-09-03 16:49: fix(storage): correct file descriptor leak on close
