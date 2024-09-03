@@ -329,3 +329,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-02 21:13: refactor: optimize module imports and remove unused dependencies
 - 2024-09-03 16:49: fix(storage): correct file descriptor leak on close
 - 2024-09-03 18:42: fix(queue): acknowledge message after successful processing
+- 2024-09-03 20:55: test(parser): add test cases for malformed inputs
