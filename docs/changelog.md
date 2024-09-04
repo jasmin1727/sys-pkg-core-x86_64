@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-03 20:55: test(parser): add test cases for malformed inputs
 - 2024-09-04 12:57: feat(parser): add support for nested json payloads
 - 2024-09-04 16:22: refactor(utils): decompose monolithic string processing utility
+- 2024-09-04 17:52: chore: update dependency versions in package lock
