@@ -333,3 +333,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-04 12:57: feat(parser): add support for nested json payloads
 - 2024-09-04 16:22: refactor(utils): decompose monolithic string processing utility
 - 2024-09-04 17:52: chore: update dependency versions in package lock
+- 2024-09-04 19:05: feat(metrics): track request latency and error counters
