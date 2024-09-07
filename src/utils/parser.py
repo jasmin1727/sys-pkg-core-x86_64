@@ -225,3 +225,10 @@ def validate_bearer_token(header: str) -> bool:
 # Performance optimization: buffer reuse
 
 # Decomposed string processing helpers
+
+def parse_stream_safe(stream):
+    '''Parse stream with graceful EOF handling.'''
+    try:
+        return stream.read()
+    except EOFError:
+        return None

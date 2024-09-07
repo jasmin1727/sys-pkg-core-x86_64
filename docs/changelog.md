@@ -348,3 +348,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-07 15:53: feat(logger): introduce structured json formatting
 - 2024-09-07 20:31: refactor(utils): decompose monolithic string processing utility
 - 2024-09-07 20:37: refactor(core): streamline worker initialization sequence
+- 2024-09-07 21:16: fix(parser): resolve unexpected EOF when reading stream
