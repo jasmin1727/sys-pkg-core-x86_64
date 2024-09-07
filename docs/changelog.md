@@ -350,3 +350,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-07 20:37: refactor(core): streamline worker initialization sequence
 - 2024-09-07 21:16: fix(parser): resolve unexpected EOF when reading stream
 - 2024-09-07 21:38: fix(config): fallback to defaults when config key is missing
+- 2024-09-07 22:04: test(core): add coverage for worker crash recovery
