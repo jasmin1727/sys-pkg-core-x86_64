@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-07 11:42: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-09-07 13:00: perf: reduce allocations in serialization hot path
 - 2024-09-07 14:42: fix(queue): acknowledge message after successful processing
+- 2024-09-07 15:12: test(cache): assert eviction behavior under memory pressure
