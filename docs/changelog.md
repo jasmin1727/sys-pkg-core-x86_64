@@ -342,3 +342,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-07 11:10: docs: document configuration parameters and overrides
 - 2024-09-07 11:21: feat(auth): add bearer token header validation helper
 - 2024-09-07 11:42: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2024-09-07 13:00: perf: reduce allocations in serialization hot path
