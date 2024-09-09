@@ -354,3 +354,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-08 19:11: fix(config): fallback to defaults when config key is missing
 - 2024-09-09 10:51: refactor(utils): decompose monolithic string processing utility
 - 2024-09-09 13:29: refactor: optimize module imports and remove unused dependencies
+- 2024-09-09 15:29: test(core): add coverage for worker crash recovery
