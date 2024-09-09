@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-09 15:29: test(core): add coverage for worker crash recovery
 - 2024-09-09 15:40: refactor(core): streamline worker initialization sequence
 - 2024-09-09 19:29: feat(context): propagate request trace id across coroutines
+- 2024-09-09 22:28: fix(config): fallback to defaults when config key is missing
