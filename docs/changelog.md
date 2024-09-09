@@ -352,3 +352,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-07 21:38: fix(config): fallback to defaults when config key is missing
 - 2024-09-07 22:04: test(core): add coverage for worker crash recovery
 - 2024-09-08 19:11: fix(config): fallback to defaults when config key is missing
+- 2024-09-09 10:51: refactor(utils): decompose monolithic string processing utility
