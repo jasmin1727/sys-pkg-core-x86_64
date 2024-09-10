@@ -363,3 +363,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-10 16:00: refactor(storage): separate in-memory cache from persistence layer
 - 2024-09-10 16:54: refactor: optimize module imports and remove unused dependencies
 - 2024-09-10 21:24: fix(parser): resolve unexpected EOF when reading stream
+- 2024-09-10 21:36: refactor(core): streamline worker initialization sequence
