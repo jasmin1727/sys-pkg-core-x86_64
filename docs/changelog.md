@@ -371,3 +371,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-11 19:47: refactor(utils): decompose monolithic string processing utility
 - 2024-09-11 22:12: refactor(storage): separate in-memory cache from persistence layer
 - 2024-09-11 23:03: fix(queue): acknowledge message after successful processing
+- 2024-09-11 23:15: docs: document configuration parameters and overrides
