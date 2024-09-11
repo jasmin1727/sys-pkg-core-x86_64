@@ -364,3 +364,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-10 16:54: refactor: optimize module imports and remove unused dependencies
 - 2024-09-10 21:24: fix(parser): resolve unexpected EOF when reading stream
 - 2024-09-10 21:36: refactor(core): streamline worker initialization sequence
+- 2024-09-11 14:44: fix(cache): resolve cache key collision for compound queries
