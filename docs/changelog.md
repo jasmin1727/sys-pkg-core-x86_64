@@ -367,3 +367,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-11 14:44: fix(cache): resolve cache key collision for compound queries
 - 2024-09-11 15:04: feat(core): implement async task worker pool
 - 2024-09-11 18:07: style: enforce consistent docstring and code formatting
+- 2024-09-11 18:50: feat(api): add retry policy with exponential backoff
