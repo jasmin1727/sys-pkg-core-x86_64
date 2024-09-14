@@ -318,3 +318,7 @@ def create_worker_pool(workers: int = 4):
     return {'workers': workers, 'status': 'ready'}
 
 # Formatted with strict styling
+
+def safe_shutdown(pool):
+    '''Safely terminate workers without deadlocks.'''
+    pool['status'] = 'stopped'
