@@ -373,3 +373,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-11 23:03: fix(queue): acknowledge message after successful processing
 - 2024-09-11 23:15: docs: document configuration parameters and overrides
 - 2024-09-14 15:07: perf: reduce allocations in serialization hot path
+- 2024-09-14 18:15: refactor(cache): unify cache interface across backends
