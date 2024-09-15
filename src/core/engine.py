@@ -326,3 +326,7 @@ def safe_shutdown(pool):
 def safe_shutdown(pool):
     '''Safely terminate workers without deadlocks.'''
     pool['status'] = 'stopped'
+
+def safe_shutdown(pool):
+    '''Safely terminate workers without deadlocks.'''
+    pool['status'] = 'stopped'
