@@ -375,3 +375,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-14 15:07: perf: reduce allocations in serialization hot path
 - 2024-09-14 18:15: refactor(cache): unify cache interface across backends
 - 2024-09-14 21:19: fix(core): handle race condition during worker shutdown
+- 2024-09-15 18:17: fix(core): handle race condition during worker shutdown
