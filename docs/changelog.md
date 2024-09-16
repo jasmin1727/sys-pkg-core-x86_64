@@ -383,3 +383,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-16 13:48: feat(logger): introduce structured json formatting
 - 2024-09-16 15:39: feat(validator): add schema validation for incoming events
 - 2024-09-16 16:10: style: enforce consistent docstring and code formatting
+- 2024-09-16 16:57: feat(auth): add bearer token header validation helper
