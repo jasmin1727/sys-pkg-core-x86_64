@@ -385,3 +385,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-16 16:10: style: enforce consistent docstring and code formatting
 - 2024-09-16 16:57: feat(auth): add bearer token header validation helper
 - 2024-09-16 17:41: test(storage): verify concurrency safety with thread pool
+- 2024-09-16 20:30: feat(auth): add bearer token header validation helper
