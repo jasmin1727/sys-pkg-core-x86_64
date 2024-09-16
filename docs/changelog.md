@@ -380,3 +380,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-15 23:16: feat(api): add retry policy with exponential backoff
 - 2024-09-16 11:12: fix(cache): resolve cache key collision for compound queries
 - 2024-09-16 11:49: test(parser): add test cases for malformed inputs
+- 2024-09-16 13:48: feat(logger): introduce structured json formatting
