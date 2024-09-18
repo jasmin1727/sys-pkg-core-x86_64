@@ -391,3 +391,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-17 21:06: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-09-18 12:43: feat(config): add dynamic environment variable resolver
 - 2024-09-18 16:16: feat(stream): add chunked data stream reader
+- 2024-09-18 19:38: feat(validator): add schema validation for incoming events
