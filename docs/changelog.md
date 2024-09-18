@@ -389,3 +389,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-17 12:30: fix(queue): acknowledge message after successful processing
 - 2024-09-17 13:07: docs: document configuration parameters and overrides
 - 2024-09-17 21:06: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2024-09-18 12:43: feat(config): add dynamic environment variable resolver
