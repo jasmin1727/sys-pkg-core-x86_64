@@ -394,3 +394,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-18 19:38: feat(validator): add schema validation for incoming events
 - 2024-09-20 14:24: feat(scheduler): support cron-like job scheduling intervals
 - 2024-09-20 15:35: docs: add architecture overview and system flow diagram
+- 2024-09-20 17:49: test(storage): verify concurrency safety with thread pool
