@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-21 10:15: feat(storage): implement disk-backed key-value cache
 - 2024-09-21 10:27: refactor(cache): unify cache interface across backends
 - 2024-09-21 15:50: fix(logger): prevent sensitive token leakage in debug logs
+- 2024-09-21 16:01: docs: add architecture overview and system flow diagram
