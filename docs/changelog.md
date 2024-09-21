@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-20 17:49: test(storage): verify concurrency safety with thread pool
 - 2024-09-20 18:24: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-09-20 19:01: fix(logger): prevent sensitive token leakage in debug logs
+- 2024-09-21 10:15: feat(storage): implement disk-backed key-value cache
