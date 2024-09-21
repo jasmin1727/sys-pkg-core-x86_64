@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-21 15:50: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-09-21 16:01: docs: add architecture overview and system flow diagram
 - 2024-09-21 16:10: refactor(utils): decompose monolithic string processing utility
+- 2024-09-21 16:27: fix(parser): resolve unexpected EOF when reading stream
