@@ -263,3 +263,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-21 16:10: refactor(utils): decompose monolithic string processing utility
 - 2024-09-21 16:27: fix(parser): resolve unexpected EOF when reading stream
 - 2024-09-21 19:47: test(core): add coverage for worker crash recovery
+- 2024-09-21 20:10: refactor(storage): separate in-memory cache from persistence layer
