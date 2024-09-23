@@ -265,3 +265,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-21 19:47: test(core): add coverage for worker crash recovery
 - 2024-09-21 20:10: refactor(storage): separate in-memory cache from persistence layer
 - 2024-09-21 20:22: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2024-09-23 16:39: feat(config): add dynamic environment variable resolver
