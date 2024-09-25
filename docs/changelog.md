@@ -271,3 +271,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-24 15:57: feat(auth): add bearer token header validation helper
 - 2024-09-24 21:50: docs: add architecture overview and system flow diagram
 - 2024-09-25 16:49: fix(queue): acknowledge message after successful processing
+- 2024-09-25 21:18: fix(parser): resolve unexpected EOF when reading stream
