@@ -274,3 +274,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-25 21:18: fix(parser): resolve unexpected EOF when reading stream
 - 2024-09-26 11:42: feat(scheduler): support cron-like job scheduling intervals
 - 2024-09-26 12:44: test(storage): verify concurrency safety with thread pool
+- 2024-09-26 14:25: feat(auth): add bearer token header validation helper
