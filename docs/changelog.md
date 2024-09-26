@@ -277,3 +277,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-26 14:25: feat(auth): add bearer token header validation helper
 - 2024-09-26 14:55: test(core): add coverage for worker crash recovery
 - 2024-09-26 15:15: refactor: optimize module imports and remove unused dependencies
+- 2024-09-26 15:39: feat(events): implement publish-subscribe message bus
