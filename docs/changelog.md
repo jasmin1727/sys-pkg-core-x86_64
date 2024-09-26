@@ -280,3 +280,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-26 15:39: feat(events): implement publish-subscribe message bus
 - 2024-09-26 15:44: feat(context): propagate request trace id across coroutines
 - 2024-09-26 16:36: feat(scheduler): support cron-like job scheduling intervals
+- 2024-09-26 16:44: docs: update API endpoints reference and sample requests
