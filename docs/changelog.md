@@ -272,3 +272,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-24 21:50: docs: add architecture overview and system flow diagram
 - 2024-09-25 16:49: fix(queue): acknowledge message after successful processing
 - 2024-09-25 21:18: fix(parser): resolve unexpected EOF when reading stream
+- 2024-09-26 11:42: feat(scheduler): support cron-like job scheduling intervals
