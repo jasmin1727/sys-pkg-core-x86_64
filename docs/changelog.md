@@ -275,3 +275,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-26 11:42: feat(scheduler): support cron-like job scheduling intervals
 - 2024-09-26 12:44: test(storage): verify concurrency safety with thread pool
 - 2024-09-26 14:25: feat(auth): add bearer token header validation helper
+- 2024-09-26 14:55: test(core): add coverage for worker crash recovery
