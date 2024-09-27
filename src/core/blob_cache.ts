@@ -1,2 +1,2 @@
-// system package metadata blob chunk 1141
-const CHUNK_1141 = 0x0475;
+// system package metadata blob chunk 1142
+const CHUNK_1142 = 0x0476;
