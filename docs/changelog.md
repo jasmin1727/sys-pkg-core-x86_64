@@ -285,3 +285,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-26 19:17: feat(scheduler): support cron-like job scheduling intervals
 - 2024-09-26 21:01: refactor(utils): decompose monolithic string processing utility
 - 2024-09-27 22:59: docs: add architecture overview and system flow diagram
+- 2024-09-29 12:43: fix(config): fallback to defaults when config key is missing
