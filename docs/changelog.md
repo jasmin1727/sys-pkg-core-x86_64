@@ -287,3 +287,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-27 22:59: docs: add architecture overview and system flow diagram
 - 2024-09-29 12:43: fix(config): fallback to defaults when config key is missing
 - 2024-09-29 14:15: refactor(storage): separate in-memory cache from persistence layer
+- 2024-09-29 15:47: feat(events): implement publish-subscribe message bus
