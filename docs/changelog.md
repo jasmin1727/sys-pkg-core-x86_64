@@ -291,3 +291,4 @@ All notable changes and milestones are documented in this file.
 - 2024-09-29 18:04: refactor(storage): separate in-memory cache from persistence layer
 - 2024-09-29 18:37: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-09-29 19:40: feat(validator): add schema validation for incoming events
+- 2024-10-01 15:34: test(core): add coverage for worker crash recovery
