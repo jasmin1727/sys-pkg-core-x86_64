@@ -294,3 +294,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-01 15:34: test(core): add coverage for worker crash recovery
 - 2024-10-01 16:50: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-10-01 18:42: test(storage): verify concurrency safety with thread pool
+- 2024-10-01 22:49: feat(core): implement async task worker pool
