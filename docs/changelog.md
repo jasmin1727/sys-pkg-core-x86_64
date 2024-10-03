@@ -298,3 +298,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-01 22:54: fix(queue): acknowledge message after successful processing
 - 2024-10-02 17:46: test(storage): verify concurrency safety with thread pool
 - 2024-10-03 10:07: fix(config): fallback to defaults when config key is missing
+- 2024-10-03 16:16: feat(core): implement async task worker pool
