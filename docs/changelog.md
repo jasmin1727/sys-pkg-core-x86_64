@@ -309,3 +309,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-05 13:55: fix(core): handle race condition during worker shutdown
 - 2024-10-05 14:19: feat(api): add retry policy with exponential backoff
 - 2024-10-05 15:21: feat(api): add retry policy with exponential backoff
+- 2024-10-05 18:24: refactor(core): streamline worker initialization sequence
