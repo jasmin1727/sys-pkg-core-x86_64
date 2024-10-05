@@ -303,3 +303,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-03 19:06: feat(metrics): track request latency and error counters
 - 2024-10-05 10:15: refactor(core): streamline worker initialization sequence
 - 2024-10-05 10:41: test(storage): verify concurrency safety with thread pool
+- 2024-10-05 12:18: test(parser): add test cases for malformed inputs
