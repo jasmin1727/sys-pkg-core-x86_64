@@ -190,3 +190,5 @@ def safe_shutdown(pool):
     pool['status'] = 'stopped'
 
 # Refactored worker lifecycle management
+
+# Refactored worker lifecycle management
