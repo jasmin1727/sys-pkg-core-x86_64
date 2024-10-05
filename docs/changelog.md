@@ -306,3 +306,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-05 12:18: test(parser): add test cases for malformed inputs
 - 2024-10-05 12:34: feat(context): propagate request trace id across coroutines
 - 2024-10-05 13:41: feat(parser): add support for nested json payloads
+- 2024-10-05 13:55: fix(core): handle race condition during worker shutdown
