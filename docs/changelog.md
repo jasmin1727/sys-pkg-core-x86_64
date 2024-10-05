@@ -301,3 +301,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-03 16:16: feat(core): implement async task worker pool
 - 2024-10-03 18:38: docs: document configuration parameters and overrides
 - 2024-10-03 19:06: feat(metrics): track request latency and error counters
+- 2024-10-05 10:15: refactor(core): streamline worker initialization sequence
