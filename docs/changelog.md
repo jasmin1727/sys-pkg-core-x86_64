@@ -317,3 +317,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-05 22:43: fix(core): handle race condition during worker shutdown
 - 2024-10-06 10:17: style: enforce consistent docstring and code formatting
 - 2024-10-06 19:30: fix(storage): correct file descriptor leak on close
+- 2024-10-07 22:40: test(cache): assert eviction behavior under memory pressure
