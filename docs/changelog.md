@@ -320,3 +320,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-07 22:40: test(cache): assert eviction behavior under memory pressure
 - 2024-10-08 12:41: refactor(cache): unify cache interface across backends
 - 2024-10-08 13:08: fix(core): handle race condition during worker shutdown
+- 2024-10-08 13:52: feat(cache): implement adaptive LRU cache with TTL expiry
