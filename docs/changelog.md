@@ -325,3 +325,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-09 11:13: refactor(core): streamline worker initialization sequence
 - 2024-10-09 13:10: test(cache): assert eviction behavior under memory pressure
 - 2024-10-09 16:59: fix(schema): resolve null value parsing in payload
+- 2024-10-09 18:20: fix(cache): resolve cache key collision for compound queries
