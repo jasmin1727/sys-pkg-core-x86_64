@@ -329,3 +329,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-09 18:39: fix(storage): correct file descriptor leak on close
 - 2024-10-09 20:26: feat(stream): add chunked data stream reader
 - 2024-10-09 21:24: test(core): add coverage for worker crash recovery
+- 2024-10-09 23:23: fix(parser): resolve unexpected EOF when reading stream
