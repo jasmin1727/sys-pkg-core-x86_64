@@ -339,3 +339,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-10 16:04: fix(schema): resolve null value parsing in payload
 - 2024-10-10 16:19: fix(cache): resolve cache key collision for compound queries
 - 2024-10-10 16:49: fix(storage): correct file descriptor leak on close
+- 2024-10-10 17:07: fix(config): fallback to defaults when config key is missing
