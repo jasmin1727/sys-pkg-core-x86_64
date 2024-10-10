@@ -342,3 +342,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-10 17:07: fix(config): fallback to defaults when config key is missing
 - 2024-10-10 17:29: feat(core): implement async task worker pool
 - 2024-10-10 19:57: feat(api): add retry policy with exponential backoff
+- 2024-10-10 21:07: docs: update API endpoints reference and sample requests
