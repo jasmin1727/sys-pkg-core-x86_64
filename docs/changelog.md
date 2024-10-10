@@ -335,3 +335,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-10 14:18: refactor(storage): separate in-memory cache from persistence layer
 - 2024-10-10 14:26: feat(storage): implement disk-backed key-value cache
 - 2024-10-10 14:59: test(core): add coverage for worker crash recovery
+- 2024-10-10 15:53: feat(stream): add chunked data stream reader
