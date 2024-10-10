@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-09 23:23: fix(parser): resolve unexpected EOF when reading stream
 - 2024-10-10 10:36: refactor: optimize module imports and remove unused dependencies
 - 2024-10-10 13:51: feat(storage): implement disk-backed key-value cache
+- 2024-10-10 14:18: refactor(storage): separate in-memory cache from persistence layer
