@@ -347,3 +347,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-11 10:43: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-10-11 11:25: fix(config): fallback to defaults when config key is missing
 - 2024-10-11 13:57: feat(validator): add schema validation for incoming events
+- 2024-10-11 22:37: chore: configure pre-commit hooks and linter rules
