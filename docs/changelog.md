@@ -349,3 +349,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-11 13:57: feat(validator): add schema validation for incoming events
 - 2024-10-11 22:37: chore: configure pre-commit hooks and linter rules
 - 2024-10-11 23:07: fix(queue): acknowledge message after successful processing
+- 2024-10-14 10:28: fix(config): fallback to defaults when config key is missing
