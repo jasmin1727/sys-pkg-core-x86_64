@@ -351,3 +351,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-11 23:07: fix(queue): acknowledge message after successful processing
 - 2024-10-14 10:28: fix(config): fallback to defaults when config key is missing
 - 2024-10-14 13:00: test(core): add coverage for worker crash recovery
+- 2024-10-14 13:18: fix(config): fallback to defaults when config key is missing
