@@ -353,3 +353,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-14 13:00: test(core): add coverage for worker crash recovery
 - 2024-10-14 13:18: fix(config): fallback to defaults when config key is missing
 - 2024-10-14 22:38: feat(storage): implement disk-backed key-value cache
+- 2024-10-15 15:42: feat(rate-limit): implement token bucket rate limiting algorithm
