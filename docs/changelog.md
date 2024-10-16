@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-16 10:22: feat(parser): add support for nested json payloads
 - 2024-10-16 13:11: feat(logger): introduce structured json formatting
 - 2024-10-16 13:58: refactor(utils): decompose monolithic string processing utility
+- 2024-10-16 14:27: refactor(cache): unify cache interface across backends
