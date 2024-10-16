@@ -358,3 +358,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-16 13:11: feat(logger): introduce structured json formatting
 - 2024-10-16 13:58: refactor(utils): decompose monolithic string processing utility
 - 2024-10-16 14:27: refactor(cache): unify cache interface across backends
+- 2024-10-16 14:40: fix(queue): acknowledge message after successful processing
