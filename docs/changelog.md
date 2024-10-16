@@ -360,3 +360,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-16 14:27: refactor(cache): unify cache interface across backends
 - 2024-10-16 14:40: fix(queue): acknowledge message after successful processing
 - 2024-10-16 16:14: fix(schema): resolve null value parsing in payload
+- 2024-10-16 16:22: feat(parser): add support for nested json payloads
