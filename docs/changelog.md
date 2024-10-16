@@ -363,3 +363,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-16 16:22: feat(parser): add support for nested json payloads
 - 2024-10-16 18:03: feat(parser): add support for nested json payloads
 - 2024-10-16 19:19: test(core): add coverage for worker crash recovery
+- 2024-10-16 20:24: docs: add architecture overview and system flow diagram

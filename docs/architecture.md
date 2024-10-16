@@ -307,3 +307,6 @@ All parameters can be overridden via system environment variables.
 
 ### API Reference
 Comprehensive reference for internal services and message formats.
+
+### System Architecture
+Modular event-driven architecture designed for high throughput.
