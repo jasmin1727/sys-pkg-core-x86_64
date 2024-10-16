@@ -362,3 +362,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-16 16:14: fix(schema): resolve null value parsing in payload
 - 2024-10-16 16:22: feat(parser): add support for nested json payloads
 - 2024-10-16 18:03: feat(parser): add support for nested json payloads
+- 2024-10-16 19:19: test(core): add coverage for worker crash recovery
