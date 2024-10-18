@@ -367,3 +367,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-16 22:10: feat(parser): add support for nested json payloads
 - 2024-10-16 23:26: test(storage): verify concurrency safety with thread pool
 - 2024-10-18 12:15: fix(core): handle race condition during worker shutdown
+- 2024-10-18 12:32: fix(core): handle race condition during worker shutdown
