@@ -382,3 +382,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-19 18:10: docs: document configuration parameters and overrides
 - 2024-10-19 19:59: test(storage): verify concurrency safety with thread pool
 - 2024-10-19 20:56: fix(cache): resolve cache key collision for compound queries
+- 2024-10-19 23:18: feat(metrics): track request latency and error counters
