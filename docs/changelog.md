@@ -372,3 +372,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-18 20:39: docs: update API endpoints reference and sample requests
 - 2024-10-19 10:39: feat(config): add dynamic environment variable resolver
 - 2024-10-19 10:58: fix(core): handle race condition during worker shutdown
+- 2024-10-19 11:17: feat(stream): add chunked data stream reader
