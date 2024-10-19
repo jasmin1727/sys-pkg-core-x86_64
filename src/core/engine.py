@@ -240,3 +240,7 @@ def safe_shutdown(pool):
     pool['status'] = 'stopped'
 
 # Refactored worker lifecycle management
+
+class EventBus:
+    '''In-memory publish-subscribe bus.'''
+    pass
