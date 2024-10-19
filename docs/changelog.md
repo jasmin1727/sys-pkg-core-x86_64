@@ -374,3 +374,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-19 10:58: fix(core): handle race condition during worker shutdown
 - 2024-10-19 11:17: feat(stream): add chunked data stream reader
 - 2024-10-19 11:47: fix(core): handle race condition during worker shutdown
+- 2024-10-19 12:04: fix(parser): resolve unexpected EOF when reading stream
