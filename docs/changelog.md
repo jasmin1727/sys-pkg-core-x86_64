@@ -378,3 +378,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-19 12:32: refactor(core): streamline worker initialization sequence
 - 2024-10-19 13:11: feat(events): implement publish-subscribe message bus
 - 2024-10-19 13:41: feat(api): add retry policy with exponential backoff
+- 2024-10-19 14:35: fix(cache): resolve cache key collision for compound queries
