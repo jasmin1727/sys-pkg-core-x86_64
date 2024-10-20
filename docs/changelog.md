@@ -383,3 +383,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-19 19:59: test(storage): verify concurrency safety with thread pool
 - 2024-10-19 20:56: fix(cache): resolve cache key collision for compound queries
 - 2024-10-19 23:18: feat(metrics): track request latency and error counters
+- 2024-10-20 14:43: perf: reduce allocations in serialization hot path
