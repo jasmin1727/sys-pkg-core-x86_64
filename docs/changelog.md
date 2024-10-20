@@ -386,3 +386,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-20 14:43: perf: reduce allocations in serialization hot path
 - 2024-10-20 19:31: refactor(utils): decompose monolithic string processing utility
 - 2024-10-20 20:03: perf: reduce allocations in serialization hot path
+- 2024-10-20 21:47: fix(parser): resolve unexpected EOF when reading stream
