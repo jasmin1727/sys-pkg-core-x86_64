@@ -391,3 +391,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-21 11:40: refactor(utils): decompose monolithic string processing utility
 - 2024-10-21 13:45: docs: update API endpoints reference and sample requests
 - 2024-10-21 15:45: test(core): add coverage for worker crash recovery
+- 2024-10-21 21:18: feat(cache): implement adaptive LRU cache with TTL expiry
