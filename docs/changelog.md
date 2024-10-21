@@ -389,3 +389,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-20 21:47: fix(parser): resolve unexpected EOF when reading stream
 - 2024-10-20 22:09: refactor: optimize module imports and remove unused dependencies
 - 2024-10-21 11:40: refactor(utils): decompose monolithic string processing utility
+- 2024-10-21 13:45: docs: update API endpoints reference and sample requests
