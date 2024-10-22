@@ -394,3 +394,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-21 21:18: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-10-21 22:31: feat(events): implement publish-subscribe message bus
 - 2024-10-22 17:15: docs: update API endpoints reference and sample requests
+- 2024-10-22 19:20: feat(context): propagate request trace id across coroutines
