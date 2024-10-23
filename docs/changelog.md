@@ -258,3 +258,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-22 22:05: feat(metrics): track request latency and error counters
 - 2024-10-23 10:37: test(storage): verify concurrency safety with thread pool
 - 2024-10-23 11:24: feat(stream): add chunked data stream reader
+- 2024-10-23 11:56: feat(config): add dynamic environment variable resolver
