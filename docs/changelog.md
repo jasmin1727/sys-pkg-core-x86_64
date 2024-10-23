@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-23 11:56: feat(config): add dynamic environment variable resolver
 - 2024-10-23 12:35: test(storage): verify concurrency safety with thread pool
 - 2024-10-23 18:42: refactor(core): streamline worker initialization sequence
+- 2024-10-23 21:27: feat(validator): add schema validation for incoming events
