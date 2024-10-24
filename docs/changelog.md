@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-23 21:27: feat(validator): add schema validation for incoming events
 - 2024-10-24 14:00: fix(queue): acknowledge message after successful processing
 - 2024-10-24 14:37: feat(scheduler): support cron-like job scheduling intervals
+- 2024-10-24 20:29: fix(logger): prevent sensitive token leakage in debug logs
