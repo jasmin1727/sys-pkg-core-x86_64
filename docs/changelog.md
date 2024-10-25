@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-24 20:29: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-10-24 21:05: refactor(utils): decompose monolithic string processing utility
 - 2024-10-24 21:55: docs: document configuration parameters and overrides
+- 2024-10-25 11:51: fix(schema): resolve null value parsing in payload
