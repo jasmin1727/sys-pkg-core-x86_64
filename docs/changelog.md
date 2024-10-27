@@ -273,3 +273,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-27 13:12: fix(storage): correct file descriptor leak on close
 - 2024-10-27 14:10: fix(parser): resolve unexpected EOF when reading stream
 - 2024-10-27 14:21: refactor(core): streamline worker initialization sequence
+- 2024-10-27 15:16: feat(parser): add support for nested json payloads
