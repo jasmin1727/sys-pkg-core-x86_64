@@ -271,3 +271,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-25 14:28: test(storage): verify concurrency safety with thread pool
 - 2024-10-25 16:32: feat(context): propagate request trace id across coroutines
 - 2024-10-27 13:12: fix(storage): correct file descriptor leak on close
+- 2024-10-27 14:10: fix(parser): resolve unexpected EOF when reading stream
