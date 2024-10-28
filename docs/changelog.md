@@ -277,3 +277,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-27 15:26: feat(metrics): track request latency and error counters
 - 2024-10-28 13:12: feat(scheduler): support cron-like job scheduling intervals
 - 2024-10-28 15:31: fix(logger): prevent sensitive token leakage in debug logs
+- 2024-10-28 16:17: feat(validator): add schema validation for incoming events
