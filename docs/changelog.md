@@ -275,3 +275,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-27 14:21: refactor(core): streamline worker initialization sequence
 - 2024-10-27 15:16: feat(parser): add support for nested json payloads
 - 2024-10-27 15:26: feat(metrics): track request latency and error counters
+- 2024-10-28 13:12: feat(scheduler): support cron-like job scheduling intervals
