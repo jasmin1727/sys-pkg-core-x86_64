@@ -281,3 +281,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-28 18:37: fix(parser): resolve unexpected EOF when reading stream
 - 2024-10-28 21:21: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-10-28 21:58: fix(logger): prevent sensitive token leakage in debug logs
+- 2024-10-28 22:20: fix(logger): prevent sensitive token leakage in debug logs
