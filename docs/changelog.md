@@ -286,3 +286,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-29 10:19: refactor(core): streamline worker initialization sequence
 - 2024-10-29 10:28: refactor(core): streamline worker initialization sequence
 - 2024-10-29 10:40: fix(queue): acknowledge message after successful processing
+- 2024-10-29 11:57: docs: update setup instructions and prerequisites
