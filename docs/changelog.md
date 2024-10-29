@@ -285,3 +285,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-28 22:34: feat(storage): implement disk-backed key-value cache
 - 2024-10-29 10:19: refactor(core): streamline worker initialization sequence
 - 2024-10-29 10:28: refactor(core): streamline worker initialization sequence
+- 2024-10-29 10:40: fix(queue): acknowledge message after successful processing
