@@ -291,3 +291,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-29 12:54: docs: add architecture overview and system flow diagram
 - 2024-10-29 14:24: refactor(utils): decompose monolithic string processing utility
 - 2024-10-29 15:57: feat(events): implement publish-subscribe message bus
+- 2024-10-29 16:06: feat(validator): add schema validation for incoming events
