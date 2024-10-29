@@ -288,3 +288,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-29 10:40: fix(queue): acknowledge message after successful processing
 - 2024-10-29 11:57: docs: update setup instructions and prerequisites
 - 2024-10-29 12:04: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2024-10-29 12:54: docs: add architecture overview and system flow diagram
