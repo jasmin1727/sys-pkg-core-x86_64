@@ -283,3 +283,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-28 21:58: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-10-28 22:20: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-10-28 22:34: feat(storage): implement disk-backed key-value cache
+- 2024-10-29 10:19: refactor(core): streamline worker initialization sequence
