@@ -295,3 +295,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-29 17:09: feat(stream): add chunked data stream reader
 - 2024-10-30 14:40: docs: document configuration parameters and overrides
 - 2024-10-30 21:16: feat(storage): implement disk-backed key-value cache
+- 2024-11-01 13:49: fix(schema): resolve null value parsing in payload
