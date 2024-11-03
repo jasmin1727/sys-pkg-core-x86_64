@@ -297,3 +297,4 @@ All notable changes and milestones are documented in this file.
 - 2024-10-30 21:16: feat(storage): implement disk-backed key-value cache
 - 2024-11-01 13:49: fix(schema): resolve null value parsing in payload
 - 2024-11-03 10:55: docs: update setup instructions and prerequisites
+- 2024-11-03 11:01: fix(logger): prevent sensitive token leakage in debug logs
