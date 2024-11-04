@@ -304,3 +304,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-03 18:39: fix(cache): resolve cache key collision for compound queries
 - 2024-11-03 22:23: refactor(core): streamline worker initialization sequence
 - 2024-11-04 11:29: feat(config): add dynamic environment variable resolver
+- 2024-11-04 12:57: test(parser): add test cases for malformed inputs
