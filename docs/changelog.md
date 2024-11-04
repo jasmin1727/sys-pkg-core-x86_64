@@ -303,3 +303,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-03 16:23: fix(schema): resolve null value parsing in payload
 - 2024-11-03 18:39: fix(cache): resolve cache key collision for compound queries
 - 2024-11-03 22:23: refactor(core): streamline worker initialization sequence
+- 2024-11-04 11:29: feat(config): add dynamic environment variable resolver
