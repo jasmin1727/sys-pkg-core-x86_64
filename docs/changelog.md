@@ -307,3 +307,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-04 12:57: test(parser): add test cases for malformed inputs
 - 2024-11-04 18:53: fix(parser): resolve unexpected EOF when reading stream
 - 2024-11-05 11:48: feat(parser): add support for nested json payloads
+- 2024-11-06 11:55: fix(config): fallback to defaults when config key is missing
