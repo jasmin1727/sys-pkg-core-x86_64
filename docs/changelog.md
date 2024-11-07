@@ -312,3 +312,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-06 19:26: test(core): add coverage for worker crash recovery
 - 2024-11-06 22:42: test(storage): verify concurrency safety with thread pool
 - 2024-11-07 13:46: fix(parser): resolve unexpected EOF when reading stream
+- 2024-11-07 13:54: chore: configure pre-commit hooks and linter rules
