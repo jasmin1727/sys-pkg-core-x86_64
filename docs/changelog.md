@@ -314,3 +314,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-07 13:46: fix(parser): resolve unexpected EOF when reading stream
 - 2024-11-07 13:54: chore: configure pre-commit hooks and linter rules
 - 2024-11-07 16:09: feat(auth): add bearer token header validation helper
+- 2024-11-07 21:33: fix(config): fallback to defaults when config key is missing
