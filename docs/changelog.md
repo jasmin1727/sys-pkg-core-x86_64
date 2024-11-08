@@ -319,3 +319,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-08 11:39: docs: update setup instructions and prerequisites
 - 2024-11-08 14:55: refactor(cache): unify cache interface across backends
 - 2024-11-08 15:48: feat(scheduler): support cron-like job scheduling intervals
+- 2024-11-08 16:30: feat(parser): add support for nested json payloads
