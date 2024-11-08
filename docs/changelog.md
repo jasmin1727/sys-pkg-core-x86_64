@@ -315,3 +315,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-07 13:54: chore: configure pre-commit hooks and linter rules
 - 2024-11-07 16:09: feat(auth): add bearer token header validation helper
 - 2024-11-07 21:33: fix(config): fallback to defaults when config key is missing
+- 2024-11-08 10:08: fix(storage): correct file descriptor leak on close
