@@ -322,3 +322,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-08 16:30: feat(parser): add support for nested json payloads
 - 2024-11-08 19:18: refactor(cache): unify cache interface across backends
 - 2024-11-08 22:18: refactor(storage): separate in-memory cache from persistence layer
+- 2024-11-08 22:33: feat(api): add retry policy with exponential backoff
