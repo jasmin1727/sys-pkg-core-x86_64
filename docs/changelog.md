@@ -325,3 +325,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-08 22:33: feat(api): add retry policy with exponential backoff
 - 2024-11-08 23:28: feat(events): implement publish-subscribe message bus
 - 2024-11-09 11:53: docs: update setup instructions and prerequisites
+- 2024-11-09 18:04: feat(config): add dynamic environment variable resolver
