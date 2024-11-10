@@ -329,3 +329,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-09 19:10: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-11-10 10:46: test(cache): assert eviction behavior under memory pressure
 - 2024-11-10 10:46: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2024-11-10 11:25: fix(parser): resolve unexpected EOF when reading stream
