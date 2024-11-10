@@ -327,3 +327,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-09 11:53: docs: update setup instructions and prerequisites
 - 2024-11-09 18:04: feat(config): add dynamic environment variable resolver
 - 2024-11-09 19:10: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2024-11-10 10:46: test(cache): assert eviction behavior under memory pressure
