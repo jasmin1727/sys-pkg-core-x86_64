@@ -330,3 +330,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-10 10:46: test(cache): assert eviction behavior under memory pressure
 - 2024-11-10 10:46: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2024-11-10 11:25: fix(parser): resolve unexpected EOF when reading stream
+- 2024-11-10 13:39: fix(core): handle race condition during worker shutdown
