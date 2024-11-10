@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-10 11:25: fix(parser): resolve unexpected EOF when reading stream
 - 2024-11-10 13:39: fix(core): handle race condition during worker shutdown
 - 2024-11-10 17:48: fix(schema): resolve null value parsing in payload
+- 2024-11-10 21:20: test(cache): assert eviction behavior under memory pressure
