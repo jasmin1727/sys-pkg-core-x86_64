@@ -336,3 +336,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-11 10:11: feat(events): implement publish-subscribe message bus
 - 2024-11-11 13:57: fix(storage): correct file descriptor leak on close
 - 2024-11-11 17:35: fix(config): fallback to defaults when config key is missing
+- 2024-11-11 21:01: chore: update dependency versions in package lock
