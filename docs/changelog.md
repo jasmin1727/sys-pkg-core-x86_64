@@ -338,3 +338,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-11 17:35: fix(config): fallback to defaults when config key is missing
 - 2024-11-11 21:01: chore: update dependency versions in package lock
 - 2024-11-13 10:09: fix(logger): prevent sensitive token leakage in debug logs
+- 2024-11-13 12:20: feat(rate-limit): implement token bucket rate limiting algorithm
