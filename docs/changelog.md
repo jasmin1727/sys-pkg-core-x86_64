@@ -340,3 +340,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-13 10:09: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-11-13 12:20: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-11-13 14:02: test(storage): verify concurrency safety with thread pool
+- 2024-11-13 15:52: fix(config): fallback to defaults when config key is missing
