@@ -337,3 +337,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-11 13:57: fix(storage): correct file descriptor leak on close
 - 2024-11-11 17:35: fix(config): fallback to defaults when config key is missing
 - 2024-11-11 21:01: chore: update dependency versions in package lock
+- 2024-11-13 10:09: fix(logger): prevent sensitive token leakage in debug logs
