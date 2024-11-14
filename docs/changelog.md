@@ -348,3 +348,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-14 14:41: feat(stream): add chunked data stream reader
 - 2024-11-14 16:01: feat(logger): introduce structured json formatting
 - 2024-11-14 17:24: feat(config): add dynamic environment variable resolver
+- 2024-11-14 18:11: test(parser): add test cases for malformed inputs
