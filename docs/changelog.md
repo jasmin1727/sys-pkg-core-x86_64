@@ -342,3 +342,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-13 14:02: test(storage): verify concurrency safety with thread pool
 - 2024-11-13 15:52: fix(config): fallback to defaults when config key is missing
 - 2024-11-13 20:10: feat(config): add dynamic environment variable resolver
+- 2024-11-14 11:00: feat(config): add dynamic environment variable resolver
