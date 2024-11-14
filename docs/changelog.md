@@ -352,3 +352,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-14 19:59: feat(events): implement publish-subscribe message bus
 - 2024-11-14 20:22: fix(storage): correct file descriptor leak on close
 - 2024-11-14 20:44: test(parser): add test cases for malformed inputs
+- 2024-11-14 22:49: test(cache): assert eviction behavior under memory pressure
