@@ -350,3 +350,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-14 17:24: feat(config): add dynamic environment variable resolver
 - 2024-11-14 18:11: test(parser): add test cases for malformed inputs
 - 2024-11-14 19:59: feat(events): implement publish-subscribe message bus
+- 2024-11-14 20:22: fix(storage): correct file descriptor leak on close
