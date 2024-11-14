@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-14 12:05: fix(logger): prevent sensitive token leakage in debug logs
 - 2024-11-14 13:02: fix(storage): correct file descriptor leak on close
 - 2024-11-14 14:41: feat(stream): add chunked data stream reader
+- 2024-11-14 16:01: feat(logger): introduce structured json formatting
