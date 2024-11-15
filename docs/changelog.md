@@ -356,3 +356,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-15 12:55: feat(scheduler): support cron-like job scheduling intervals
 - 2024-11-15 17:19: feat(metrics): track request latency and error counters
 - 2024-11-15 22:32: fix(core): handle race condition during worker shutdown
+- 2024-11-15 23:04: fix(parser): resolve unexpected EOF when reading stream
