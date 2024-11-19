@@ -360,3 +360,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-17 11:54: test(storage): verify concurrency safety with thread pool
 - 2024-11-17 15:14: fix(config): fallback to defaults when config key is missing
 - 2024-11-17 16:15: fix(core): handle race condition during worker shutdown
+- 2024-11-19 20:48: docs: add architecture overview and system flow diagram
