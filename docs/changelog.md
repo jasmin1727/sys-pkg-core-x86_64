@@ -367,3 +367,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-21 10:43: test(parser): add test cases for malformed inputs
 - 2024-11-21 11:06: docs: document configuration parameters and overrides
 - 2024-11-21 11:56: docs: document configuration parameters and overrides
+- 2024-11-21 13:25: test(cache): assert eviction behavior under memory pressure
