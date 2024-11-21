@@ -365,3 +365,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-21 10:28: feat(storage): implement disk-backed key-value cache
 - 2024-11-21 10:30: docs: add architecture overview and system flow diagram
 - 2024-11-21 10:43: test(parser): add test cases for malformed inputs
+- 2024-11-21 11:06: docs: document configuration parameters and overrides
