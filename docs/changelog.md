@@ -371,3 +371,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-21 13:46: refactor(utils): decompose monolithic string processing utility
 - 2024-11-21 14:46: refactor: optimize module imports and remove unused dependencies
 - 2024-11-21 14:55: fix(logger): prevent sensitive token leakage in debug logs
+- 2024-11-21 15:12: test(core): add coverage for worker crash recovery
