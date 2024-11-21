@@ -362,3 +362,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-17 16:15: fix(core): handle race condition during worker shutdown
 - 2024-11-19 20:48: docs: add architecture overview and system flow diagram
 - 2024-11-19 21:28: fix(config): fallback to defaults when config key is missing
+- 2024-11-21 10:28: feat(storage): implement disk-backed key-value cache
