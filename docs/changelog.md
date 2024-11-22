@@ -379,3 +379,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-22 11:45: fix(cache): resolve cache key collision for compound queries
 - 2024-11-22 14:15: feat(core): implement async task worker pool
 - 2024-11-22 14:37: fix(parser): resolve unexpected EOF when reading stream
+- 2024-11-22 16:29: style: enforce consistent docstring and code formatting
