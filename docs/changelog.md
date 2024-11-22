@@ -381,3 +381,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-22 14:37: fix(parser): resolve unexpected EOF when reading stream
 - 2024-11-22 16:29: style: enforce consistent docstring and code formatting
 - 2024-11-22 17:20: feat(logger): introduce structured json formatting
+- 2024-11-22 18:12: feat(auth): add bearer token header validation helper
