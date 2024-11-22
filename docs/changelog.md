@@ -382,3 +382,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-22 16:29: style: enforce consistent docstring and code formatting
 - 2024-11-22 17:20: feat(logger): introduce structured json formatting
 - 2024-11-22 18:12: feat(auth): add bearer token header validation helper
+- 2024-11-22 20:48: fix(config): fallback to defaults when config key is missing
