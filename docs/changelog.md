@@ -378,3 +378,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-22 11:34: refactor(cache): unify cache interface across backends
 - 2024-11-22 11:45: fix(cache): resolve cache key collision for compound queries
 - 2024-11-22 14:15: feat(core): implement async task worker pool
+- 2024-11-22 14:37: fix(parser): resolve unexpected EOF when reading stream
