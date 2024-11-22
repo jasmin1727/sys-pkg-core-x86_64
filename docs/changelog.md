@@ -376,3 +376,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-21 17:44: feat(logger): introduce structured json formatting
 - 2024-11-22 11:34: refactor(core): streamline worker initialization sequence
 - 2024-11-22 11:34: refactor(cache): unify cache interface across backends
+- 2024-11-22 11:45: fix(cache): resolve cache key collision for compound queries
