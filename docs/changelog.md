@@ -387,3 +387,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-23 17:18: docs: update API endpoints reference and sample requests
 - 2024-11-23 17:46: feat(api): add retry policy with exponential backoff
 - 2024-11-23 18:39: test(core): add coverage for worker crash recovery
+- 2024-11-24 17:01: docs: update setup instructions and prerequisites
