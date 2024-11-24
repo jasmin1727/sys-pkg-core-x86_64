@@ -389,3 +389,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-23 18:39: test(core): add coverage for worker crash recovery
 - 2024-11-24 17:01: docs: update setup instructions and prerequisites
 - 2024-11-24 17:45: fix(storage): correct file descriptor leak on close
+- 2024-11-24 20:05: feat(config): add dynamic environment variable resolver
