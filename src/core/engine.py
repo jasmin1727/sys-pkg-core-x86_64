@@ -324,3 +324,5 @@ def create_worker_pool(workers: int = 4):
     return {'workers': workers, 'status': 'ready'}
 
 # Formatted with strict styling
+
+# Refactored worker lifecycle management
