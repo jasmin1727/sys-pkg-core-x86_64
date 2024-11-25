@@ -392,3 +392,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-24 20:05: feat(config): add dynamic environment variable resolver
 - 2024-11-24 21:04: feat(auth): add bearer token header validation helper
 - 2024-11-25 13:08: refactor(core): streamline worker initialization sequence
+- 2024-11-25 13:59: feat(rate-limit): implement token bucket rate limiting algorithm
