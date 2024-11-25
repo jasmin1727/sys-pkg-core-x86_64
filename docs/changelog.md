@@ -396,3 +396,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-25 14:43: feat(stream): add chunked data stream reader
 - 2024-11-25 17:57: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-11-25 19:13: test(storage): verify concurrency safety with thread pool
+- 2024-11-25 20:52: feat(logger): introduce structured json formatting
