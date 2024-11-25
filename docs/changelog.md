@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-25 17:57: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-11-25 19:13: test(storage): verify concurrency safety with thread pool
 - 2024-11-25 20:52: feat(logger): introduce structured json formatting
+- 2024-11-25 20:59: test(cache): assert eviction behavior under memory pressure
