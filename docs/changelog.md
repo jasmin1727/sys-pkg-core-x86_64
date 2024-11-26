@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-25 20:59: test(cache): assert eviction behavior under memory pressure
 - 2024-11-26 13:05: test(cache): assert eviction behavior under memory pressure
 - 2024-11-26 13:35: test(parser): add test cases for malformed inputs
+- 2024-11-26 20:10: feat(api): add retry policy with exponential backoff
