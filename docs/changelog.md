@@ -263,3 +263,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-26 23:20: feat(core): implement async task worker pool
 - 2024-11-27 16:08: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-11-27 17:35: refactor(storage): separate in-memory cache from persistence layer
+- 2024-11-27 18:16: fix(core): handle race condition during worker shutdown
