@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-26 13:35: test(parser): add test cases for malformed inputs
 - 2024-11-26 20:10: feat(api): add retry policy with exponential backoff
 - 2024-11-26 23:20: feat(core): implement async task worker pool
+- 2024-11-27 16:08: feat(rate-limit): implement token bucket rate limiting algorithm
