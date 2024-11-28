@@ -266,3 +266,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-27 18:16: fix(core): handle race condition during worker shutdown
 - 2024-11-27 20:01: fix(parser): resolve unexpected EOF when reading stream
 - 2024-11-28 10:03: style: enforce consistent docstring and code formatting
+- 2024-11-28 10:31: fix(storage): correct file descriptor leak on close
