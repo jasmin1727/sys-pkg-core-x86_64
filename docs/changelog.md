@@ -268,3 +268,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-28 10:03: style: enforce consistent docstring and code formatting
 - 2024-11-28 10:31: fix(storage): correct file descriptor leak on close
 - 2024-11-28 11:51: feat(stream): add chunked data stream reader
+- 2024-11-28 12:46: refactor(utils): decompose monolithic string processing utility
