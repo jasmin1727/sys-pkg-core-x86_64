@@ -271,3 +271,4 @@ All notable changes and milestones are documented in this file.
 - 2024-11-28 12:46: refactor(utils): decompose monolithic string processing utility
 - 2024-11-28 16:23: feat(stream): add chunked data stream reader
 - 2024-11-28 18:37: fix(schema): resolve null value parsing in payload
+- 2024-11-28 20:21: perf: reduce allocations in serialization hot path
