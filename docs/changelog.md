@@ -279,3 +279,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-01 16:40: fix(storage): correct file descriptor leak on close
 - 2024-12-01 17:52: feat(auth): add bearer token header validation helper
 - 2024-12-01 22:20: feat(logger): introduce structured json formatting
+- 2024-12-01 22:53: feat(context): propagate request trace id across coroutines
