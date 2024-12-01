@@ -277,3 +277,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-01 13:08: feat(stream): add chunked data stream reader
 - 2024-12-01 15:17: docs: update setup instructions and prerequisites
 - 2024-12-01 16:40: fix(storage): correct file descriptor leak on close
+- 2024-12-01 17:52: feat(auth): add bearer token header validation helper
