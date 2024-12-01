@@ -276,3 +276,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-01 11:27: test(storage): verify concurrency safety with thread pool
 - 2024-12-01 13:08: feat(stream): add chunked data stream reader
 - 2024-12-01 15:17: docs: update setup instructions and prerequisites
+- 2024-12-01 16:40: fix(storage): correct file descriptor leak on close
