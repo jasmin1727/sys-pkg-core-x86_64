@@ -281,3 +281,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-01 22:20: feat(logger): introduce structured json formatting
 - 2024-12-01 22:53: feat(context): propagate request trace id across coroutines
 - 2024-12-01 23:24: feat(config): add dynamic environment variable resolver
+- 2024-12-02 15:26: fix(cache): resolve cache key collision for compound queries
