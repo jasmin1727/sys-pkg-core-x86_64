@@ -282,3 +282,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-01 22:53: feat(context): propagate request trace id across coroutines
 - 2024-12-01 23:24: feat(config): add dynamic environment variable resolver
 - 2024-12-02 15:26: fix(cache): resolve cache key collision for compound queries
+- 2024-12-03 11:06: docs: update setup instructions and prerequisites
