@@ -287,3 +287,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-04 13:33: refactor(storage): separate in-memory cache from persistence layer
 - 2024-12-04 14:24: feat(logger): introduce structured json formatting
 - 2024-12-04 17:09: docs: update API endpoints reference and sample requests
+- 2024-12-04 17:19: feat(validator): add schema validation for incoming events
