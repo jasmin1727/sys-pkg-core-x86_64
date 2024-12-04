@@ -338,3 +338,7 @@ def format_json_log(record: dict) -> str:
 def format_json_log(record: dict) -> str:
     '''Format log entry as single-line JSON.'''
     return json.dumps(record)
+
+def format_json_log(record: dict) -> str:
+    '''Format log entry as single-line JSON.'''
+    return json.dumps(record)

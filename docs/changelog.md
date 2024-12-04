@@ -285,3 +285,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-03 11:06: docs: update setup instructions and prerequisites
 - 2024-12-03 11:41: refactor(utils): decompose monolithic string processing utility
 - 2024-12-04 13:33: refactor(storage): separate in-memory cache from persistence layer
+- 2024-12-04 14:24: feat(logger): introduce structured json formatting
