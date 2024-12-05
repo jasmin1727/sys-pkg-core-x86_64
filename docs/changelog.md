@@ -292,3 +292,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-04 20:27: test(storage): verify concurrency safety with thread pool
 - 2024-12-05 12:43: feat(scheduler): support cron-like job scheduling intervals
 - 2024-12-05 18:40: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2024-12-05 20:57: feat(scheduler): support cron-like job scheduling intervals
