@@ -303,3 +303,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-06 17:12: refactor(cache): unify cache interface across backends
 - 2024-12-06 18:12: docs: update setup instructions and prerequisites
 - 2024-12-06 18:24: fix(config): fallback to defaults when config key is missing
+- 2024-12-06 19:42: feat(auth): add bearer token header validation helper
