@@ -301,3 +301,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-06 16:00: test(cache): assert eviction behavior under memory pressure
 - 2024-12-06 17:10: refactor(cache): unify cache interface across backends
 - 2024-12-06 17:12: refactor(cache): unify cache interface across backends
+- 2024-12-06 18:12: docs: update setup instructions and prerequisites
