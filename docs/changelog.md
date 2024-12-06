@@ -294,3 +294,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-05 18:40: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-12-05 20:57: feat(scheduler): support cron-like job scheduling intervals
 - 2024-12-06 10:23: test(cache): assert eviction behavior under memory pressure
+- 2024-12-06 11:00: test(parser): add test cases for malformed inputs
