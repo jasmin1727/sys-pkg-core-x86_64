@@ -298,3 +298,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-06 11:41: fix(schema): resolve null value parsing in payload
 - 2024-12-06 11:44: docs: document configuration parameters and overrides
 - 2024-12-06 14:31: refactor(utils): decompose monolithic string processing utility
+- 2024-12-06 16:00: test(cache): assert eviction behavior under memory pressure
