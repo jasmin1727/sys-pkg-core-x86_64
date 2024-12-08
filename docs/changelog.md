@@ -305,3 +305,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-06 18:24: fix(config): fallback to defaults when config key is missing
 - 2024-12-06 19:42: feat(auth): add bearer token header validation helper
 - 2024-12-06 22:58: feat(core): implement async task worker pool
+- 2024-12-08 13:10: test(core): add coverage for worker crash recovery
