@@ -186,3 +186,7 @@ class TokenBucket:
 def create_worker_pool(workers: int = 4):
     '''Initialize async worker pool.'''
     return {'workers': workers, 'status': 'ready'}
+
+def create_worker_pool(workers: int = 4):
+    '''Initialize async worker pool.'''
+    return {'workers': workers, 'status': 'ready'}
