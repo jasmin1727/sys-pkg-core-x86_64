@@ -307,3 +307,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-06 22:58: feat(core): implement async task worker pool
 - 2024-12-08 13:10: test(core): add coverage for worker crash recovery
 - 2024-12-08 17:35: test(cache): assert eviction behavior under memory pressure
+- 2024-12-08 18:02: feat(validator): add schema validation for incoming events
