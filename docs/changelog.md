@@ -311,3 +311,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-08 19:48: feat(core): implement async task worker pool
 - 2024-12-08 19:49: fix(core): handle race condition during worker shutdown
 - 2024-12-10 15:21: refactor(core): streamline worker initialization sequence
+- 2024-12-10 15:34: feat(logger): introduce structured json formatting
