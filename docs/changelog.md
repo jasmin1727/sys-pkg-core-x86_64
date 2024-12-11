@@ -319,3 +319,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-11 18:07: test(storage): verify concurrency safety with thread pool
 - 2024-12-11 20:38: feat(config): add dynamic environment variable resolver
 - 2024-12-11 20:47: style: enforce consistent docstring and code formatting
+- 2024-12-11 23:12: test(cache): assert eviction behavior under memory pressure
