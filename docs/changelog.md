@@ -317,3 +317,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-11 15:28: test(core): add coverage for worker crash recovery
 - 2024-12-11 16:37: refactor: optimize module imports and remove unused dependencies
 - 2024-12-11 18:07: test(storage): verify concurrency safety with thread pool
+- 2024-12-11 20:38: feat(config): add dynamic environment variable resolver
