@@ -322,3 +322,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-11 23:12: test(cache): assert eviction behavior under memory pressure
 - 2024-12-12 12:54: feat(metrics): track request latency and error counters
 - 2024-12-12 19:17: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2024-12-12 22:25: docs: add architecture overview and system flow diagram
