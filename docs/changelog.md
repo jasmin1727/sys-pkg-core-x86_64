@@ -326,3 +326,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-13 10:51: test(storage): verify concurrency safety with thread pool
 - 2024-12-13 12:40: feat(stream): add chunked data stream reader
 - 2024-12-13 13:35: test(core): add coverage for worker crash recovery
+- 2024-12-13 16:54: docs: document configuration parameters and overrides
