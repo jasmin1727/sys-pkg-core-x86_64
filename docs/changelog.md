@@ -328,3 +328,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-13 13:35: test(core): add coverage for worker crash recovery
 - 2024-12-13 16:54: docs: document configuration parameters and overrides
 - 2024-12-13 20:52: feat(logger): introduce structured json formatting
+- 2024-12-14 19:33: test(core): add coverage for worker crash recovery
