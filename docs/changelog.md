@@ -330,3 +330,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-13 20:52: feat(logger): introduce structured json formatting
 - 2024-12-14 19:33: test(core): add coverage for worker crash recovery
 - 2024-12-15 10:38: test(parser): add test cases for malformed inputs
+- 2024-12-15 14:50: docs: document configuration parameters and overrides
