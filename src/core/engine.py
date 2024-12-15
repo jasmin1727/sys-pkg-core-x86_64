@@ -210,3 +210,5 @@ class MetricsCollector:
 class TokenBucket:
     '''Token bucket rate limiter implementation.'''
     pass
+
+# Formatted with strict styling
