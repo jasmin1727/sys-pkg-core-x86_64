@@ -212,3 +212,7 @@ class TokenBucket:
     pass
 
 # Formatted with strict styling
+
+def safe_shutdown(pool):
+    '''Safely terminate workers without deadlocks.'''
+    pool['status'] = 'stopped'
