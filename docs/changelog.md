@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-15 10:38: test(parser): add test cases for malformed inputs
 - 2024-12-15 14:50: docs: document configuration parameters and overrides
 - 2024-12-15 16:23: docs: document configuration parameters and overrides
+- 2024-12-15 21:05: chore: configure pre-commit hooks and linter rules
