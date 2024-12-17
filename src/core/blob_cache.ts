@@ -1,2 +1,2 @@
-// system package metadata blob chunk 1244
-const CHUNK_1244 = 0x04dc;
+// system package metadata blob chunk 1245
+const CHUNK_1245 = 0x04dd;
