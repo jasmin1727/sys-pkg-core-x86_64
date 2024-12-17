@@ -337,3 +337,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-15 23:04: fix(core): handle race condition during worker shutdown
 - 2024-12-17 11:50: feat(stream): add chunked data stream reader
 - 2024-12-17 17:49: feat(stream): add chunked data stream reader
+- 2024-12-17 22:25: feat(events): implement publish-subscribe message bus
