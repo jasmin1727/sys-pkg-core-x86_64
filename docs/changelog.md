@@ -335,3 +335,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-15 21:05: chore: configure pre-commit hooks and linter rules
 - 2024-12-15 22:28: style: enforce consistent docstring and code formatting
 - 2024-12-15 23:04: fix(core): handle race condition during worker shutdown
+- 2024-12-17 11:50: feat(stream): add chunked data stream reader
