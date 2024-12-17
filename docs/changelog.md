@@ -338,3 +338,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-17 11:50: feat(stream): add chunked data stream reader
 - 2024-12-17 17:49: feat(stream): add chunked data stream reader
 - 2024-12-17 22:25: feat(events): implement publish-subscribe message bus
+- 2024-12-17 23:10: feat(parser): add support for nested json payloads
