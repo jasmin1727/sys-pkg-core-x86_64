@@ -347,3 +347,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-18 22:42: test(parser): add test cases for malformed inputs
 - 2024-12-19 10:19: feat(logger): introduce structured json formatting
 - 2024-12-19 16:31: fix(config): fallback to defaults when config key is missing
+- 2024-12-19 16:41: feat(auth): add bearer token header validation helper
