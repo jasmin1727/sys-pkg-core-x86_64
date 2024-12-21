@@ -349,3 +349,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-19 16:31: fix(config): fallback to defaults when config key is missing
 - 2024-12-19 16:41: feat(auth): add bearer token header validation helper
 - 2024-12-19 19:16: refactor(utils): decompose monolithic string processing utility
+- 2024-12-21 11:47: refactor(storage): separate in-memory cache from persistence layer
