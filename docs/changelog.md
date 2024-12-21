@@ -350,3 +350,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-19 16:41: feat(auth): add bearer token header validation helper
 - 2024-12-19 19:16: refactor(utils): decompose monolithic string processing utility
 - 2024-12-21 11:47: refactor(storage): separate in-memory cache from persistence layer
+- 2024-12-21 16:56: fix(schema): resolve null value parsing in payload
