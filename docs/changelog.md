@@ -358,3 +358,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-23 13:39: refactor(utils): decompose monolithic string processing utility
 - 2024-12-23 14:17: feat(config): add dynamic environment variable resolver
 - 2024-12-23 19:06: fix(schema): resolve null value parsing in payload
+- 2024-12-23 19:26: fix(storage): correct file descriptor leak on close
