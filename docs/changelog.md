@@ -352,3 +352,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-21 11:47: refactor(storage): separate in-memory cache from persistence layer
 - 2024-12-21 16:56: fix(schema): resolve null value parsing in payload
 - 2024-12-22 12:30: fix(config): fallback to defaults when config key is missing
+- 2024-12-23 10:58: refactor(cache): unify cache interface across backends
