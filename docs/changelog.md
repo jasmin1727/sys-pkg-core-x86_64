@@ -355,3 +355,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-23 10:58: refactor(cache): unify cache interface across backends
 - 2024-12-23 11:14: fix(config): fallback to defaults when config key is missing
 - 2024-12-23 12:02: fix(config): fallback to defaults when config key is missing
+- 2024-12-23 13:39: refactor(utils): decompose monolithic string processing utility
