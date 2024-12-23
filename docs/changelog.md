@@ -360,3 +360,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-23 19:06: fix(schema): resolve null value parsing in payload
 - 2024-12-23 19:26: fix(storage): correct file descriptor leak on close
 - 2024-12-23 21:35: feat(auth): add bearer token header validation helper
+- 2024-12-23 21:51: refactor(utils): decompose monolithic string processing utility
