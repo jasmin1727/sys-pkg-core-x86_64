@@ -366,3 +366,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-24 21:11: feat(core): implement async task worker pool
 - 2024-12-25 15:56: test(storage): verify concurrency safety with thread pool
 - 2024-12-26 17:20: refactor: optimize module imports and remove unused dependencies
+- 2024-12-26 22:46: test(parser): add test cases for malformed inputs
