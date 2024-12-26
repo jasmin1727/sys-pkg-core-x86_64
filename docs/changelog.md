@@ -367,3 +367,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-25 15:56: test(storage): verify concurrency safety with thread pool
 - 2024-12-26 17:20: refactor: optimize module imports and remove unused dependencies
 - 2024-12-26 22:46: test(parser): add test cases for malformed inputs
+- 2024-12-26 23:17: fix(logger): prevent sensitive token leakage in debug logs
