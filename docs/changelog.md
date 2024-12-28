@@ -376,3 +376,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-28 10:10: refactor: optimize module imports and remove unused dependencies
 - 2024-12-28 13:05: docs: add architecture overview and system flow diagram
 - 2024-12-28 13:24: fix(logger): prevent sensitive token leakage in debug logs
+- 2024-12-28 19:44: fix(storage): correct file descriptor leak on close
