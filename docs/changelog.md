@@ -374,3 +374,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-27 21:00: docs: update API endpoints reference and sample requests
 - 2024-12-27 22:51: docs: document configuration parameters and overrides
 - 2024-12-28 10:10: refactor: optimize module imports and remove unused dependencies
+- 2024-12-28 13:05: docs: add architecture overview and system flow diagram
