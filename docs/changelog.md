@@ -380,3 +380,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-29 17:42: chore: configure pre-commit hooks and linter rules
 - 2024-12-29 19:48: feat(storage): implement disk-backed key-value cache
 - 2024-12-29 20:39: docs: document configuration parameters and overrides
+- 2024-12-29 21:11: docs: document configuration parameters and overrides
