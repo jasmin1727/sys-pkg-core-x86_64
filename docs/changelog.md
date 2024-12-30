@@ -383,3 +383,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-29 21:11: docs: document configuration parameters and overrides
 - 2024-12-30 11:06: feat(api): add retry policy with exponential backoff
 - 2024-12-30 16:55: feat(storage): implement disk-backed key-value cache
+- 2024-12-30 19:27: feat(auth): add bearer token header validation helper
