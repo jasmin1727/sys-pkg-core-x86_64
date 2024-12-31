@@ -385,3 +385,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-30 16:55: feat(storage): implement disk-backed key-value cache
 - 2024-12-30 19:27: feat(auth): add bearer token header validation helper
 - 2024-12-31 10:53: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2024-12-31 12:58: fix(storage): correct file descriptor leak on close
