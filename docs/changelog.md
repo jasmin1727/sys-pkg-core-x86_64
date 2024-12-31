@@ -393,3 +393,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-31 19:11: refactor(core): streamline worker initialization sequence
 - 2024-12-31 19:42: feat(metrics): track request latency and error counters
 - 2024-12-31 20:28: test(storage): verify concurrency safety with thread pool
+- 2024-12-31 21:31: fix(schema): resolve null value parsing in payload
