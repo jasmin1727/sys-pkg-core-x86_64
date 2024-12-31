@@ -387,3 +387,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-31 10:53: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2024-12-31 12:58: fix(storage): correct file descriptor leak on close
 - 2024-12-31 13:42: chore: configure pre-commit hooks and linter rules
+- 2024-12-31 15:30: feat(stream): add chunked data stream reader
