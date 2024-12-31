@@ -391,3 +391,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-31 15:40: test(cache): assert eviction behavior under memory pressure
 - 2024-12-31 17:11: refactor: optimize module imports and remove unused dependencies
 - 2024-12-31 19:11: refactor(core): streamline worker initialization sequence
+- 2024-12-31 19:42: feat(metrics): track request latency and error counters
