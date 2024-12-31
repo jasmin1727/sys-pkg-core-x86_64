@@ -388,3 +388,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-31 12:58: fix(storage): correct file descriptor leak on close
 - 2024-12-31 13:42: chore: configure pre-commit hooks and linter rules
 - 2024-12-31 15:30: feat(stream): add chunked data stream reader
+- 2024-12-31 15:40: test(cache): assert eviction behavior under memory pressure
