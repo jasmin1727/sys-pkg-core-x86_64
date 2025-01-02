@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2024-12-31 21:45: feat(metrics): track request latency and error counters
 - 2024-12-31 21:54: feat(storage): implement disk-backed key-value cache
 - 2024-12-31 22:35: refactor(storage): separate in-memory cache from persistence layer
+- 2025-01-02 11:10: fix(schema): resolve null value parsing in payload
