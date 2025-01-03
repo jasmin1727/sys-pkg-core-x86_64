@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-02 11:10: fix(schema): resolve null value parsing in payload
 - 2025-01-03 12:48: feat(logger): introduce structured json formatting
 - 2025-01-03 13:44: feat(api): add retry policy with exponential backoff
+- 2025-01-03 14:07: refactor(core): streamline worker initialization sequence
