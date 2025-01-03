@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-03 13:44: feat(api): add retry policy with exponential backoff
 - 2025-01-03 14:07: refactor(core): streamline worker initialization sequence
 - 2025-01-03 16:50: refactor(storage): separate in-memory cache from persistence layer
+- 2025-01-03 17:27: chore: update dependency versions in package lock
