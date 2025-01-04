@@ -263,3 +263,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-03 16:50: refactor(storage): separate in-memory cache from persistence layer
 - 2025-01-03 17:27: chore: update dependency versions in package lock
 - 2025-01-03 18:04: fix(queue): acknowledge message after successful processing
+- 2025-01-04 10:03: feat(storage): implement disk-backed key-value cache
