@@ -266,3 +266,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-04 10:03: feat(storage): implement disk-backed key-value cache
 - 2025-01-04 11:58: feat(validator): add schema validation for incoming events
 - 2025-01-04 12:38: refactor: optimize module imports and remove unused dependencies
+- 2025-01-04 15:46: fix(logger): prevent sensitive token leakage in debug logs
