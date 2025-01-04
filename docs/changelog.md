@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-03 17:27: chore: update dependency versions in package lock
 - 2025-01-03 18:04: fix(queue): acknowledge message after successful processing
 - 2025-01-04 10:03: feat(storage): implement disk-backed key-value cache
+- 2025-01-04 11:58: feat(validator): add schema validation for incoming events
