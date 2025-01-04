@@ -269,3 +269,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-04 15:46: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-01-04 16:02: feat(parser): add support for nested json payloads
 - 2025-01-04 19:23: feat(logger): introduce structured json formatting
+- 2025-01-04 20:25: docs: update API endpoints reference and sample requests
