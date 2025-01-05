@@ -272,3 +272,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-04 20:25: docs: update API endpoints reference and sample requests
 - 2025-01-05 10:58: feat(config): add dynamic environment variable resolver
 - 2025-01-05 16:18: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2025-01-05 21:03: feat(rate-limit): implement token bucket rate limiting algorithm
