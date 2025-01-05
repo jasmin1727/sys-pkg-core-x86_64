@@ -244,3 +244,7 @@ class MetricsCollector:
     pass
 
 # Refactored worker lifecycle management
+
+class TokenBucket:
+    '''Token bucket rate limiter implementation.'''
+    pass
