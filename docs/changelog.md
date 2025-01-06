@@ -274,3 +274,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-05 16:18: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2025-01-05 21:03: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2025-01-05 22:59: fix(schema): resolve null value parsing in payload
+- 2025-01-06 10:15: feat(logger): introduce structured json formatting
