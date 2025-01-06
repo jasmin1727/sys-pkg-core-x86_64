@@ -281,3 +281,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-06 13:44: refactor(utils): decompose monolithic string processing utility
 - 2025-01-06 15:56: feat(stream): add chunked data stream reader
 - 2025-01-06 16:31: fix(storage): correct file descriptor leak on close
+- 2025-01-06 16:51: docs: update setup instructions and prerequisites
