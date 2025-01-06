@@ -283,3 +283,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-06 16:31: fix(storage): correct file descriptor leak on close
 - 2025-01-06 16:51: docs: update setup instructions and prerequisites
 - 2025-01-06 17:53: refactor: optimize module imports and remove unused dependencies
+- 2025-01-06 18:39: feat(stream): add chunked data stream reader
