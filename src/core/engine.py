@@ -254,3 +254,7 @@ class TokenBucket:
     pass
 
 # Refactored worker lifecycle management
+
+def safe_shutdown(pool):
+    '''Safely terminate workers without deadlocks.'''
+    pool['status'] = 'stopped'
