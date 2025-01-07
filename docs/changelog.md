@@ -285,3 +285,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-06 17:53: refactor: optimize module imports and remove unused dependencies
 - 2025-01-06 18:39: feat(stream): add chunked data stream reader
 - 2025-01-07 11:17: fix(config): fallback to defaults when config key is missing
+- 2025-01-07 18:32: docs: add architecture overview and system flow diagram
