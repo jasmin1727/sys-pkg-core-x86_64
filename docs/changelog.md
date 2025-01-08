@@ -292,3 +292,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-08 21:11: test(parser): add test cases for malformed inputs
 - 2025-01-08 21:26: test(parser): add test cases for malformed inputs
 - 2025-01-08 21:42: fix(queue): acknowledge message after successful processing
+- 2025-01-08 22:21: fix(logger): prevent sensitive token leakage in debug logs
