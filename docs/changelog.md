@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-08 12:51: feat(storage): implement disk-backed key-value cache
 - 2025-01-08 19:13: fix(config): fallback to defaults when config key is missing
 - 2025-01-08 21:11: test(parser): add test cases for malformed inputs
+- 2025-01-08 21:26: test(parser): add test cases for malformed inputs
