@@ -288,3 +288,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-07 18:32: docs: add architecture overview and system flow diagram
 - 2025-01-08 11:39: docs: add architecture overview and system flow diagram
 - 2025-01-08 12:51: feat(storage): implement disk-backed key-value cache
+- 2025-01-08 19:13: fix(config): fallback to defaults when config key is missing
