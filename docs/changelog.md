@@ -294,3 +294,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-08 21:42: fix(queue): acknowledge message after successful processing
 - 2025-01-08 22:21: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-01-08 22:29: feat(config): add dynamic environment variable resolver
+- 2025-01-09 14:50: feat(context): propagate request trace id across coroutines
