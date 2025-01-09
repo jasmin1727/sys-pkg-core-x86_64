@@ -296,3 +296,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-08 22:29: feat(config): add dynamic environment variable resolver
 - 2025-01-09 14:50: feat(context): propagate request trace id across coroutines
 - 2025-01-09 17:32: fix(schema): resolve null value parsing in payload
+- 2025-01-09 21:00: test(parser): add test cases for malformed inputs
