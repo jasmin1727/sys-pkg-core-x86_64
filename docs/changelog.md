@@ -300,3 +300,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-11 11:08: feat(scheduler): support cron-like job scheduling intervals
 - 2025-01-11 14:28: fix(parser): resolve unexpected EOF when reading stream
 - 2025-01-11 16:45: feat(context): propagate request trace id across coroutines
+- 2025-01-11 16:51: feat(cache): implement adaptive LRU cache with TTL expiry
