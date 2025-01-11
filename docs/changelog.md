@@ -303,3 +303,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-11 16:51: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-01-11 18:03: test(parser): add test cases for malformed inputs
 - 2025-01-11 19:58: test(parser): add test cases for malformed inputs
+- 2025-01-11 21:13: fix(storage): correct file descriptor leak on close
