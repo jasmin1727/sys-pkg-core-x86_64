@@ -297,3 +297,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-09 14:50: feat(context): propagate request trace id across coroutines
 - 2025-01-09 17:32: fix(schema): resolve null value parsing in payload
 - 2025-01-09 21:00: test(parser): add test cases for malformed inputs
+- 2025-01-11 11:08: feat(scheduler): support cron-like job scheduling intervals
