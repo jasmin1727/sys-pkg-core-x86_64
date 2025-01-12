@@ -305,3 +305,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-11 19:58: test(parser): add test cases for malformed inputs
 - 2025-01-11 21:13: fix(storage): correct file descriptor leak on close
 - 2025-01-11 21:30: feat(auth): add bearer token header validation helper
+- 2025-01-12 11:45: feat(metrics): track request latency and error counters
