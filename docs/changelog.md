@@ -310,3 +310,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-13 18:46: feat(stream): add chunked data stream reader
 - 2025-01-13 20:16: fix(config): fallback to defaults when config key is missing
 - 2025-01-13 21:12: fix(storage): correct file descriptor leak on close
+- 2025-01-13 21:27: fix(schema): resolve null value parsing in payload
