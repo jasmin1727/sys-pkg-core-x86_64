@@ -312,3 +312,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-13 21:12: fix(storage): correct file descriptor leak on close
 - 2025-01-13 21:27: fix(schema): resolve null value parsing in payload
 - 2025-01-13 21:38: feat(validator): add schema validation for incoming events
+- 2025-01-13 23:12: fix(config): fallback to defaults when config key is missing
