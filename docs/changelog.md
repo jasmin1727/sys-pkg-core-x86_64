@@ -318,3 +318,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-15 11:36: feat(config): add dynamic environment variable resolver
 - 2025-01-15 18:29: feat(context): propagate request trace id across coroutines
 - 2025-01-15 20:13: feat(logger): introduce structured json formatting
+- 2025-01-15 22:15: fix(logger): prevent sensitive token leakage in debug logs
