@@ -316,3 +316,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-13 23:24: feat(metrics): track request latency and error counters
 - 2025-01-14 19:11: fix(config): fallback to defaults when config key is missing
 - 2025-01-15 11:36: feat(config): add dynamic environment variable resolver
+- 2025-01-15 18:29: feat(context): propagate request trace id across coroutines
