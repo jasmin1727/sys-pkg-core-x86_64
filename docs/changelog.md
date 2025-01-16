@@ -324,3 +324,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-16 17:02: fix(core): handle race condition during worker shutdown
 - 2025-01-16 17:31: feat(metrics): track request latency and error counters
 - 2025-01-16 17:42: feat(scheduler): support cron-like job scheduling intervals
+- 2025-01-16 19:05: fix(storage): correct file descriptor leak on close
