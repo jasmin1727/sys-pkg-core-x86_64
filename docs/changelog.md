@@ -322,3 +322,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-16 11:26: fix(storage): correct file descriptor leak on close
 - 2025-01-16 13:11: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-01-16 17:02: fix(core): handle race condition during worker shutdown
+- 2025-01-16 17:31: feat(metrics): track request latency and error counters
