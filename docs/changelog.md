@@ -330,3 +330,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-16 22:41: docs: document configuration parameters and overrides
 - 2025-01-17 11:17: feat(context): propagate request trace id across coroutines
 - 2025-01-17 21:02: feat(events): implement publish-subscribe message bus
+- 2025-01-18 11:11: fix(storage): correct file descriptor leak on close
