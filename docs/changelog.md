@@ -338,3 +338,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-18 17:50: feat(stream): add chunked data stream reader
 - 2025-01-18 18:57: feat(context): propagate request trace id across coroutines
 - 2025-01-18 20:40: fix(config): fallback to defaults when config key is missing
+- 2025-01-18 21:44: fix(cache): resolve cache key collision for compound queries
