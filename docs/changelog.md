@@ -333,3 +333,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-18 11:11: fix(storage): correct file descriptor leak on close
 - 2025-01-18 11:41: test(storage): verify concurrency safety with thread pool
 - 2025-01-18 11:47: refactor: optimize module imports and remove unused dependencies
+- 2025-01-18 12:02: fix(config): fallback to defaults when config key is missing
