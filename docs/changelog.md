@@ -341,3 +341,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-18 21:44: fix(cache): resolve cache key collision for compound queries
 - 2025-01-18 22:17: feat(events): implement publish-subscribe message bus
 - 2025-01-19 13:00: feat(auth): add bearer token header validation helper
+- 2025-01-19 13:04: feat(logger): introduce structured json formatting
