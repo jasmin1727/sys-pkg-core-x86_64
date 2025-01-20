@@ -345,3 +345,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-19 22:24: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-01-20 12:41: refactor(cache): unify cache interface across backends
 - 2025-01-20 18:25: docs: add architecture overview and system flow diagram
+- 2025-01-20 22:56: feat(core): implement async task worker pool
