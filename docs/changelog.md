@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-19 13:04: feat(logger): introduce structured json formatting
 - 2025-01-19 22:24: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-01-20 12:41: refactor(cache): unify cache interface across backends
+- 2025-01-20 18:25: docs: add architecture overview and system flow diagram
