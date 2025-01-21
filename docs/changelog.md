@@ -347,3 +347,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-20 18:25: docs: add architecture overview and system flow diagram
 - 2025-01-20 22:56: feat(core): implement async task worker pool
 - 2025-01-20 23:26: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2025-01-21 11:19: feat(metrics): track request latency and error counters
