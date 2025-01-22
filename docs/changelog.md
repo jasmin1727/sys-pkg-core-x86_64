@@ -355,3 +355,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-22 15:25: docs: update API endpoints reference and sample requests
 - 2025-01-22 19:30: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2025-01-22 21:09: feat(core): implement async task worker pool
+- 2025-01-22 22:06: test(parser): add test cases for malformed inputs
