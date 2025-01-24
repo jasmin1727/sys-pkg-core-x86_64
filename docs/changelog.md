@@ -356,3 +356,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-22 19:30: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2025-01-22 21:09: feat(core): implement async task worker pool
 - 2025-01-22 22:06: test(parser): add test cases for malformed inputs
+- 2025-01-24 10:30: feat(scheduler): support cron-like job scheduling intervals
