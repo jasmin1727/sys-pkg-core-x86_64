@@ -358,3 +358,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-22 22:06: test(parser): add test cases for malformed inputs
 - 2025-01-24 10:30: feat(scheduler): support cron-like job scheduling intervals
 - 2025-01-24 10:47: refactor: optimize module imports and remove unused dependencies
+- 2025-01-24 12:07: feat(storage): implement disk-backed key-value cache
