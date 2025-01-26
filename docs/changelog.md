@@ -363,3 +363,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-24 18:21: feat(storage): implement disk-backed key-value cache
 - 2025-01-26 12:30: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-01-26 17:01: test(cache): assert eviction behavior under memory pressure
+- 2025-01-26 20:32: feat(storage): implement disk-backed key-value cache
