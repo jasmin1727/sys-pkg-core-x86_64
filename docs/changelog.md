@@ -366,3 +366,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-26 20:32: feat(storage): implement disk-backed key-value cache
 - 2025-01-27 11:42: refactor(utils): decompose monolithic string processing utility
 - 2025-01-27 13:39: test(core): add coverage for worker crash recovery
+- 2025-01-27 17:22: feat(logger): introduce structured json formatting
