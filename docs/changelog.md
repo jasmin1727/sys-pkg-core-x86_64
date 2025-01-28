@@ -368,3 +368,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-27 13:39: test(core): add coverage for worker crash recovery
 - 2025-01-27 17:22: feat(logger): introduce structured json formatting
 - 2025-01-28 13:16: docs: update API endpoints reference and sample requests
+- 2025-01-28 13:39: feat(storage): implement disk-backed key-value cache
