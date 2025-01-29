@@ -375,3 +375,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-29 13:15: docs: add architecture overview and system flow diagram
 - 2025-01-29 15:03: feat(parser): add support for nested json payloads
 - 2025-01-29 16:51: docs: document configuration parameters and overrides
+- 2025-01-29 17:46: feat(config): add dynamic environment variable resolver
