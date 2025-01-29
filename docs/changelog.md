@@ -371,3 +371,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-28 13:39: feat(storage): implement disk-backed key-value cache
 - 2025-01-28 14:27: docs: document configuration parameters and overrides
 - 2025-01-29 10:52: feat(events): implement publish-subscribe message bus
+- 2025-01-29 11:02: refactor(core): streamline worker initialization sequence
