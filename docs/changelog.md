@@ -388,3 +388,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-30 21:21: feat(logger): introduce structured json formatting
 - 2025-01-30 22:08: feat(storage): implement disk-backed key-value cache
 - 2025-01-30 22:29: fix(schema): resolve null value parsing in payload
+- 2025-01-30 23:24: feat(core): implement async task worker pool
