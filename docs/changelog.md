@@ -377,3 +377,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-29 16:51: docs: document configuration parameters and overrides
 - 2025-01-29 17:46: feat(config): add dynamic environment variable resolver
 - 2025-01-29 21:13: feat(scheduler): support cron-like job scheduling intervals
+- 2025-01-30 10:06: fix(parser): resolve unexpected EOF when reading stream
