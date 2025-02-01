@@ -395,3 +395,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-01 15:11: feat(stream): add chunked data stream reader
 - 2025-02-01 15:17: refactor(core): streamline worker initialization sequence
 - 2025-02-01 19:02: feat(validator): add schema validation for incoming events
+- 2025-02-01 20:35: fix(schema): resolve null value parsing in payload
