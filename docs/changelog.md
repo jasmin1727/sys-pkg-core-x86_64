@@ -393,3 +393,4 @@ All notable changes and milestones are documented in this file.
 - 2025-01-31 20:39: refactor(cache): unify cache interface across backends
 - 2025-02-01 12:54: feat(core): implement async task worker pool
 - 2025-02-01 15:11: feat(stream): add chunked data stream reader
+- 2025-02-01 15:17: refactor(core): streamline worker initialization sequence
