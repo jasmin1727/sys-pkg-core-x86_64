@@ -258,3 +258,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-01 20:43: docs: update API endpoints reference and sample requests
 - 2025-02-02 19:23: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-02-02 20:27: refactor: optimize module imports and remove unused dependencies
+- 2025-02-02 21:21: feat(auth): add bearer token header validation helper
