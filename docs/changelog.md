@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-01 19:02: feat(validator): add schema validation for incoming events
 - 2025-02-01 20:35: fix(schema): resolve null value parsing in payload
 - 2025-02-01 20:43: docs: update API endpoints reference and sample requests
+- 2025-02-02 19:23: feat(cache): implement adaptive LRU cache with TTL expiry
