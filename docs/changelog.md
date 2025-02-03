@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-02 21:21: feat(auth): add bearer token header validation helper
 - 2025-02-03 10:11: feat(api): add retry policy with exponential backoff
 - 2025-02-03 15:26: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2025-02-03 19:41: docs: add architecture overview and system flow diagram
