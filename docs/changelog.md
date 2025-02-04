@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-03 21:30: refactor: optimize module imports and remove unused dependencies
 - 2025-02-04 11:25: fix(queue): acknowledge message after successful processing
 - 2025-02-04 16:21: refactor(utils): decompose monolithic string processing utility
+- 2025-02-04 17:13: feat(cache): implement adaptive LRU cache with TTL expiry
