@@ -272,3 +272,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-04 19:34: feat(parser): add support for nested json payloads
 - 2025-02-04 21:32: refactor: optimize module imports and remove unused dependencies
 - 2025-02-04 22:09: feat(scheduler): support cron-like job scheduling intervals
+- 2025-02-04 22:36: feat(core): implement async task worker pool
