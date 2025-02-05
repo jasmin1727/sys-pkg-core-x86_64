@@ -274,3 +274,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-04 22:09: feat(scheduler): support cron-like job scheduling intervals
 - 2025-02-04 22:36: feat(core): implement async task worker pool
 - 2025-02-05 20:12: feat(storage): implement disk-backed key-value cache
+- 2025-02-05 22:30: feat(context): propagate request trace id across coroutines
