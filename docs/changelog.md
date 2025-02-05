@@ -273,3 +273,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-04 21:32: refactor: optimize module imports and remove unused dependencies
 - 2025-02-04 22:09: feat(scheduler): support cron-like job scheduling intervals
 - 2025-02-04 22:36: feat(core): implement async task worker pool
+- 2025-02-05 20:12: feat(storage): implement disk-backed key-value cache
