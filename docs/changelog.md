@@ -280,3 +280,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-06 11:29: docs: update API endpoints reference and sample requests
 - 2025-02-06 11:55: feat(core): implement async task worker pool
 - 2025-02-06 14:36: docs: document configuration parameters and overrides
+- 2025-02-06 16:37: fix(storage): correct file descriptor leak on close
