@@ -283,3 +283,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-06 16:37: fix(storage): correct file descriptor leak on close
 - 2025-02-06 17:03: test(core): add coverage for worker crash recovery
 - 2025-02-06 18:55: test(cache): assert eviction behavior under memory pressure
+- 2025-02-06 22:53: refactor(core): streamline worker initialization sequence
