@@ -276,3 +276,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-05 20:12: feat(storage): implement disk-backed key-value cache
 - 2025-02-05 22:30: feat(context): propagate request trace id across coroutines
 - 2025-02-05 22:42: style: enforce consistent docstring and code formatting
+- 2025-02-06 10:51: feat(context): propagate request trace id across coroutines
