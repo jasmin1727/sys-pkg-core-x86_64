@@ -285,3 +285,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-06 18:55: test(cache): assert eviction behavior under memory pressure
 - 2025-02-06 22:53: refactor(core): streamline worker initialization sequence
 - 2025-02-07 10:19: test(parser): add test cases for malformed inputs
+- 2025-02-07 11:03: fix(parser): resolve unexpected EOF when reading stream
