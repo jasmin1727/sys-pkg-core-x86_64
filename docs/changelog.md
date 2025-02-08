@@ -292,3 +292,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-08 15:15: refactor(cache): unify cache interface across backends
 - 2025-02-08 19:15: refactor: optimize module imports and remove unused dependencies
 - 2025-02-08 21:39: fix(logger): prevent sensitive token leakage in debug logs
+- 2025-02-08 23:25: fix(config): fallback to defaults when config key is missing
