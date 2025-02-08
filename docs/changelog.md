@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-07 20:54: docs: document configuration parameters and overrides
 - 2025-02-08 14:48: fix(parser): resolve unexpected EOF when reading stream
 - 2025-02-08 15:15: refactor(cache): unify cache interface across backends
+- 2025-02-08 19:15: refactor: optimize module imports and remove unused dependencies
