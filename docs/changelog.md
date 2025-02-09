@@ -297,3 +297,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-09 11:17: test(storage): verify concurrency safety with thread pool
 - 2025-02-09 12:44: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2025-02-09 15:42: test(storage): verify concurrency safety with thread pool
+- 2025-02-09 16:12: fix(core): handle race condition during worker shutdown
