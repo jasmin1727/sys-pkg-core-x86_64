@@ -300,3 +300,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-09 16:12: fix(core): handle race condition during worker shutdown
 - 2025-02-09 17:18: fix(cache): resolve cache key collision for compound queries
 - 2025-02-09 19:13: fix(parser): resolve unexpected EOF when reading stream
+- 2025-02-09 19:35: fix(queue): acknowledge message after successful processing
