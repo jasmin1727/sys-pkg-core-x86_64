@@ -302,3 +302,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-09 19:13: fix(parser): resolve unexpected EOF when reading stream
 - 2025-02-09 19:35: fix(queue): acknowledge message after successful processing
 - 2025-02-09 21:08: fix(logger): prevent sensitive token leakage in debug logs
+- 2025-02-09 21:12: docs: update setup instructions and prerequisites
