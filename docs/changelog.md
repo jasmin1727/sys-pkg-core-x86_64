@@ -307,3 +307,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-09 22:18: fix(core): handle race condition during worker shutdown
 - 2025-02-10 10:52: docs: document configuration parameters and overrides
 - 2025-02-10 12:57: test(core): add coverage for worker crash recovery
+- 2025-02-10 13:20: test(storage): verify concurrency safety with thread pool
