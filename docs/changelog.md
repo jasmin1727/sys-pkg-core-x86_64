@@ -305,3 +305,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-09 21:12: docs: update setup instructions and prerequisites
 - 2025-02-09 21:29: test(cache): assert eviction behavior under memory pressure
 - 2025-02-09 22:18: fix(core): handle race condition during worker shutdown
+- 2025-02-10 10:52: docs: document configuration parameters and overrides
