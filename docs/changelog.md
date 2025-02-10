@@ -311,3 +311,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-10 16:17: fix(cache): resolve cache key collision for compound queries
 - 2025-02-10 16:31: fix(config): fallback to defaults when config key is missing
 - 2025-02-10 17:01: test(core): add coverage for worker crash recovery
+- 2025-02-10 20:35: fix(config): fallback to defaults when config key is missing
