@@ -309,3 +309,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-10 12:57: test(core): add coverage for worker crash recovery
 - 2025-02-10 13:20: test(storage): verify concurrency safety with thread pool
 - 2025-02-10 16:17: fix(cache): resolve cache key collision for compound queries
+- 2025-02-10 16:31: fix(config): fallback to defaults when config key is missing
