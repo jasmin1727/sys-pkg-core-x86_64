@@ -317,3 +317,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-11 12:14: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2025-02-11 14:50: refactor(utils): decompose monolithic string processing utility
 - 2025-02-11 14:54: refactor(utils): decompose monolithic string processing utility
+- 2025-02-11 14:57: test(core): add coverage for worker crash recovery
