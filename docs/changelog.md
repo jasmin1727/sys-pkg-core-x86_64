@@ -324,3 +324,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-11 19:34: fix(queue): acknowledge message after successful processing
 - 2025-02-11 20:00: feat(core): implement async task worker pool
 - 2025-02-11 20:56: feat(context): propagate request trace id across coroutines
+- 2025-02-11 21:15: fix(logger): prevent sensitive token leakage in debug logs
