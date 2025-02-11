@@ -314,3 +314,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-10 20:35: fix(config): fallback to defaults when config key is missing
 - 2025-02-10 21:41: feat(parser): add support for nested json payloads
 - 2025-02-10 23:20: docs: update API endpoints reference and sample requests
+- 2025-02-11 12:14: feat(rate-limit): implement token bucket rate limiting algorithm
