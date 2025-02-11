@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-11 15:50: refactor(cache): unify cache interface across backends
 - 2025-02-11 17:15: refactor(core): streamline worker initialization sequence
 - 2025-02-11 17:17: feat(stream): add chunked data stream reader
+- 2025-02-11 19:34: fix(queue): acknowledge message after successful processing
