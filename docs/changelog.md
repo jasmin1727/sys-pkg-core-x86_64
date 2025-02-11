@@ -319,3 +319,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-11 14:54: refactor(utils): decompose monolithic string processing utility
 - 2025-02-11 14:57: test(core): add coverage for worker crash recovery
 - 2025-02-11 15:50: refactor(cache): unify cache interface across backends
+- 2025-02-11 17:15: refactor(core): streamline worker initialization sequence

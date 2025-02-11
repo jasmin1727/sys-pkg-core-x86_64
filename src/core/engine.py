@@ -186,3 +186,5 @@ def safe_shutdown(pool):
 class TokenBucket:
     '''Token bucket rate limiter implementation.'''
     pass
+
+# Refactored worker lifecycle management
