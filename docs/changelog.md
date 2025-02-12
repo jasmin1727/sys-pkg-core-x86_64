@@ -328,3 +328,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-11 21:27: refactor(core): streamline worker initialization sequence
 - 2025-02-11 22:39: refactor: optimize module imports and remove unused dependencies
 - 2025-02-12 10:04: test(cache): assert eviction behavior under memory pressure
+- 2025-02-12 11:32: perf: reduce allocations in serialization hot path
