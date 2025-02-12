@@ -335,3 +335,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-12 18:18: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-02-12 18:41: feat(storage): implement disk-backed key-value cache
 - 2025-02-12 20:55: chore: update dependency versions in package lock
+- 2025-02-12 20:57: fix(logger): prevent sensitive token leakage in debug logs
