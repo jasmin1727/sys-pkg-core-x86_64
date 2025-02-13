@@ -338,3 +338,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-12 20:57: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-02-12 23:14: fix(storage): correct file descriptor leak on close
 - 2025-02-13 10:23: fix(logger): prevent sensitive token leakage in debug logs
+- 2025-02-13 14:09: test(core): add coverage for worker crash recovery
