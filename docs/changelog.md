@@ -342,3 +342,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-13 15:43: fix(schema): resolve null value parsing in payload
 - 2025-02-13 20:00: feat(logger): introduce structured json formatting
 - 2025-02-13 20:32: docs: add architecture overview and system flow diagram
+- 2025-02-15 15:33: fix(storage): correct file descriptor leak on close
