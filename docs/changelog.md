@@ -343,3 +343,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-13 20:00: feat(logger): introduce structured json formatting
 - 2025-02-13 20:32: docs: add architecture overview and system flow diagram
 - 2025-02-15 15:33: fix(storage): correct file descriptor leak on close
+- 2025-02-15 20:17: docs: update API endpoints reference and sample requests
