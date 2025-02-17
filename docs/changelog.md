@@ -347,3 +347,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-15 22:15: feat(metrics): track request latency and error counters
 - 2025-02-17 13:32: refactor(core): streamline worker initialization sequence
 - 2025-02-17 15:04: refactor(core): streamline worker initialization sequence
+- 2025-02-17 16:42: feat(api): add retry policy with exponential backoff
