@@ -350,3 +350,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-17 16:42: feat(api): add retry policy with exponential backoff
 - 2025-02-17 19:34: docs: update setup instructions and prerequisites
 - 2025-02-17 19:35: fix(config): fallback to defaults when config key is missing
+- 2025-02-17 22:09: feat(scheduler): support cron-like job scheduling intervals
