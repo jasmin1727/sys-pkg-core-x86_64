@@ -352,3 +352,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-17 19:35: fix(config): fallback to defaults when config key is missing
 - 2025-02-17 22:09: feat(scheduler): support cron-like job scheduling intervals
 - 2025-02-17 23:26: test(cache): assert eviction behavior under memory pressure
+- 2025-02-18 11:55: test(cache): assert eviction behavior under memory pressure
