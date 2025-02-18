@@ -354,3 +354,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-17 23:26: test(cache): assert eviction behavior under memory pressure
 - 2025-02-18 11:55: test(cache): assert eviction behavior under memory pressure
 - 2025-02-18 12:20: chore: update dependency versions in package lock
+- 2025-02-18 16:28: test(core): add coverage for worker crash recovery
