@@ -359,3 +359,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-18 19:42: feat(context): propagate request trace id across coroutines
 - 2025-02-19 12:26: test(storage): verify concurrency safety with thread pool
 - 2025-02-19 14:04: feat(core): implement async task worker pool
+- 2025-02-19 14:13: test(cache): assert eviction behavior under memory pressure
