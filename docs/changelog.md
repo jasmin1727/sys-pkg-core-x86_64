@@ -366,3 +366,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-20 11:43: feat(events): implement publish-subscribe message bus
 - 2025-02-20 12:00: test(parser): add test cases for malformed inputs
 - 2025-02-20 12:37: docs: add architecture overview and system flow diagram
+- 2025-02-20 13:56: test(cache): assert eviction behavior under memory pressure
