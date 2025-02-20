@@ -368,3 +368,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-20 12:37: docs: add architecture overview and system flow diagram
 - 2025-02-20 13:56: test(cache): assert eviction behavior under memory pressure
 - 2025-02-20 13:58: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2025-02-20 14:11: refactor(core): streamline worker initialization sequence
