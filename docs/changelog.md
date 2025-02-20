@@ -371,3 +371,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-20 14:11: refactor(core): streamline worker initialization sequence
 - 2025-02-20 14:45: fix(schema): resolve null value parsing in payload
 - 2025-02-20 22:55: fix(parser): resolve unexpected EOF when reading stream
+- 2025-02-20 22:57: docs: document configuration parameters and overrides
