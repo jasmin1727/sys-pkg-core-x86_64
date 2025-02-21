@@ -372,3 +372,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-20 14:45: fix(schema): resolve null value parsing in payload
 - 2025-02-20 22:55: fix(parser): resolve unexpected EOF when reading stream
 - 2025-02-20 22:57: docs: document configuration parameters and overrides
+- 2025-02-21 18:15: feat(validator): add schema validation for incoming events
