@@ -374,3 +374,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-20 22:57: docs: document configuration parameters and overrides
 - 2025-02-21 18:15: feat(validator): add schema validation for incoming events
 - 2025-02-23 14:27: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2025-02-24 14:05: feat(metrics): track request latency and error counters
