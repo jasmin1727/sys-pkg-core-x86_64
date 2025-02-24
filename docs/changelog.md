@@ -377,3 +377,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-24 14:05: feat(metrics): track request latency and error counters
 - 2025-02-24 16:19: feat(scheduler): support cron-like job scheduling intervals
 - 2025-02-24 16:39: refactor(storage): separate in-memory cache from persistence layer
+- 2025-02-24 19:49: fix(storage): correct file descriptor leak on close
