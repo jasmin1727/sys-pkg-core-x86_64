@@ -378,3 +378,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-24 16:19: feat(scheduler): support cron-like job scheduling intervals
 - 2025-02-24 16:39: refactor(storage): separate in-memory cache from persistence layer
 - 2025-02-24 19:49: fix(storage): correct file descriptor leak on close
+- 2025-02-25 12:52: feat(cache): implement adaptive LRU cache with TTL expiry
