@@ -381,3 +381,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-25 12:52: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-02-25 13:06: fix(queue): acknowledge message after successful processing
 - 2025-02-25 14:14: fix(config): fallback to defaults when config key is missing
+- 2025-02-25 19:58: test(parser): add test cases for malformed inputs
