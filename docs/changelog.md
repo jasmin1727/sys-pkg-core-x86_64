@@ -383,3 +383,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-25 14:14: fix(config): fallback to defaults when config key is missing
 - 2025-02-25 19:58: test(parser): add test cases for malformed inputs
 - 2025-02-25 21:44: refactor(core): streamline worker initialization sequence
+- 2025-02-27 10:57: feat(stream): add chunked data stream reader
