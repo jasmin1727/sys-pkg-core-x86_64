@@ -240,3 +240,7 @@ class LRUTtlCache:
 class LRUTtlCache:
     '''LRU cache with time-to-live expiration.'''
     pass
+
+class LRUTtlCache:
+    '''LRU cache with time-to-live expiration.'''
+    pass
