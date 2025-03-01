@@ -385,3 +385,4 @@ All notable changes and milestones are documented in this file.
 - 2025-02-25 21:44: refactor(core): streamline worker initialization sequence
 - 2025-02-27 10:57: feat(stream): add chunked data stream reader
 - 2025-02-27 15:47: feat(metrics): track request latency and error counters
+- 2025-03-01 13:59: fix(schema): resolve null value parsing in payload
