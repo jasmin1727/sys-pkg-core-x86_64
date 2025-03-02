@@ -190,3 +190,10 @@ def sanitize_null_fields(obj):
 def parse_nested_payload(raw: str) -> dict:
     '''Safely decode nested JSON structures.'''
     return json.loads(raw)
+
+def parse_stream_safe(stream):
+    '''Parse stream with graceful EOF handling.'''
+    try:
+        return stream.read()
+    except EOFError:
+        return None

@@ -392,3 +392,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-02 17:07: fix(queue): acknowledge message after successful processing
 - 2025-03-02 17:12: feat(parser): add support for nested json payloads
 - 2025-03-02 17:28: feat(scheduler): support cron-like job scheduling intervals
+- 2025-03-02 18:31: fix(parser): resolve unexpected EOF when reading stream
