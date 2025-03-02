@@ -393,3 +393,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-02 17:12: feat(parser): add support for nested json payloads
 - 2025-03-02 17:28: feat(scheduler): support cron-like job scheduling intervals
 - 2025-03-02 18:31: fix(parser): resolve unexpected EOF when reading stream
+- 2025-03-02 19:32: test(storage): verify concurrency safety with thread pool
