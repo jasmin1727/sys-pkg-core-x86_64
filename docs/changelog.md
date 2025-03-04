@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-04 10:15: feat(metrics): track request latency and error counters
 - 2025-03-04 10:16: fix(storage): correct file descriptor leak on close
 - 2025-03-04 13:29: refactor(cache): unify cache interface across backends
+- 2025-03-04 18:46: feat(cache): implement adaptive LRU cache with TTL expiry
