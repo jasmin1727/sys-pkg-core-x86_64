@@ -396,3 +396,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-02 19:32: test(storage): verify concurrency safety with thread pool
 - 2025-03-04 10:15: feat(metrics): track request latency and error counters
 - 2025-03-04 10:16: fix(storage): correct file descriptor leak on close
+- 2025-03-04 13:29: refactor(cache): unify cache interface across backends
