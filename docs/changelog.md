@@ -260,3 +260,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-04 23:13: docs: update setup instructions and prerequisites
 - 2025-03-05 10:12: style: enforce consistent docstring and code formatting
 - 2025-03-05 15:16: fix(config): fallback to defaults when config key is missing
+- 2025-03-05 17:27: docs: update setup instructions and prerequisites
