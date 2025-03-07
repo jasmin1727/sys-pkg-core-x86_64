@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-05 18:53: docs: update API endpoints reference and sample requests
 - 2025-03-06 20:21: feat(auth): add bearer token header validation helper
 - 2025-03-07 11:20: docs: update setup instructions and prerequisites
+- 2025-03-07 17:34: chore: update dependency versions in package lock
