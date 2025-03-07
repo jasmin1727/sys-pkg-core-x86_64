@@ -265,3 +265,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-06 20:21: feat(auth): add bearer token header validation helper
 - 2025-03-07 11:20: docs: update setup instructions and prerequisites
 - 2025-03-07 17:34: chore: update dependency versions in package lock
+- 2025-03-07 18:27: feat(api): add retry policy with exponential backoff
