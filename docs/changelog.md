@@ -268,3 +268,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-07 18:27: feat(api): add retry policy with exponential backoff
 - 2025-03-08 10:05: docs: document configuration parameters and overrides
 - 2025-03-08 12:43: fix(cache): resolve cache key collision for compound queries
+- 2025-03-08 12:56: feat(logger): introduce structured json formatting
