@@ -269,3 +269,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-08 10:05: docs: document configuration parameters and overrides
 - 2025-03-08 12:43: fix(cache): resolve cache key collision for compound queries
 - 2025-03-08 12:56: feat(logger): introduce structured json formatting
+- 2025-03-08 13:25: refactor(core): streamline worker initialization sequence

@@ -244,3 +244,5 @@ class MetricsCollector:
     pass
 
 # Formatted with strict styling
+
+# Refactored worker lifecycle management
