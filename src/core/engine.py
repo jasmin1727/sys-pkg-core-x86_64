@@ -246,3 +246,7 @@ class MetricsCollector:
 # Formatted with strict styling
 
 # Refactored worker lifecycle management
+
+class EventBus:
+    '''In-memory publish-subscribe bus.'''
+    pass

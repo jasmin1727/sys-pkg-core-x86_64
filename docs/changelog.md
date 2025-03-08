@@ -275,3 +275,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-08 14:56: fix(queue): acknowledge message after successful processing
 - 2025-03-08 17:19: docs: add architecture overview and system flow diagram
 - 2025-03-08 18:20: test(cache): assert eviction behavior under memory pressure
+- 2025-03-08 21:09: feat(events): implement publish-subscribe message bus
