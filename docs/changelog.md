@@ -280,3 +280,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-09 11:51: refactor(utils): decompose monolithic string processing utility
 - 2025-03-09 15:37: fix(schema): resolve null value parsing in payload
 - 2025-03-09 15:57: feat(scheduler): support cron-like job scheduling intervals
+- 2025-03-09 17:38: refactor(cache): unify cache interface across backends
