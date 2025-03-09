@@ -278,3 +278,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-08 21:09: feat(events): implement publish-subscribe message bus
 - 2025-03-09 10:34: style: enforce consistent docstring and code formatting
 - 2025-03-09 11:51: refactor(utils): decompose monolithic string processing utility
+- 2025-03-09 15:37: fix(schema): resolve null value parsing in payload
