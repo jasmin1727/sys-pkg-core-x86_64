@@ -282,3 +282,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-09 15:57: feat(scheduler): support cron-like job scheduling intervals
 - 2025-03-09 17:38: refactor(cache): unify cache interface across backends
 - 2025-03-09 20:49: feat(config): add dynamic environment variable resolver
+- 2025-03-10 10:19: feat(metrics): track request latency and error counters
