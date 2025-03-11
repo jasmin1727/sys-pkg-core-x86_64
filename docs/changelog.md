@@ -287,3 +287,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-11 12:46: feat(scheduler): support cron-like job scheduling intervals
 - 2025-03-11 17:33: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-03-11 20:25: feat(events): implement publish-subscribe message bus
+- 2025-03-11 23:14: refactor(cache): unify cache interface across backends
