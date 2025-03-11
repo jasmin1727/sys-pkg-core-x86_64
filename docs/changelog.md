@@ -286,3 +286,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-10 14:20: fix(queue): acknowledge message after successful processing
 - 2025-03-11 12:46: feat(scheduler): support cron-like job scheduling intervals
 - 2025-03-11 17:33: fix(logger): prevent sensitive token leakage in debug logs
+- 2025-03-11 20:25: feat(events): implement publish-subscribe message bus
