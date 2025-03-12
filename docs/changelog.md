@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-11 23:14: refactor(cache): unify cache interface across backends
 - 2025-03-12 16:39: chore: configure pre-commit hooks and linter rules
 - 2025-03-12 21:46: refactor(utils): decompose monolithic string processing utility
+- 2025-03-12 23:12: feat(metrics): track request latency and error counters
