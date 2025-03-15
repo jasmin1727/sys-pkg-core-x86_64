@@ -293,3 +293,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-12 23:12: feat(metrics): track request latency and error counters
 - 2025-03-14 20:18: perf: reduce allocations in serialization hot path
 - 2025-03-15 12:15: test(parser): add test cases for malformed inputs
+- 2025-03-15 15:58: refactor(cache): unify cache interface across backends
