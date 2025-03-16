@@ -297,3 +297,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-15 16:57: fix(storage): correct file descriptor leak on close
 - 2025-03-16 10:38: test(cache): assert eviction behavior under memory pressure
 - 2025-03-16 11:17: test(parser): add test cases for malformed inputs
+- 2025-03-16 15:58: feat(api): add retry policy with exponential backoff
