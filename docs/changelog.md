@@ -302,3 +302,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-17 14:25: fix(schema): resolve null value parsing in payload
 - 2025-03-17 16:10: refactor(core): streamline worker initialization sequence
 - 2025-03-17 16:41: feat(context): propagate request trace id across coroutines
+- 2025-03-17 19:09: docs: update API endpoints reference and sample requests
