@@ -299,3 +299,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-16 11:17: test(parser): add test cases for malformed inputs
 - 2025-03-16 15:58: feat(api): add retry policy with exponential backoff
 - 2025-03-16 18:10: refactor(cache): unify cache interface across backends
+- 2025-03-17 14:25: fix(schema): resolve null value parsing in payload
