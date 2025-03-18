@@ -305,3 +305,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-17 19:09: docs: update API endpoints reference and sample requests
 - 2025-03-18 14:56: fix(cache): resolve cache key collision for compound queries
 - 2025-03-18 17:29: test(storage): verify concurrency safety with thread pool
+- 2025-03-18 18:14: fix(config): fallback to defaults when config key is missing
