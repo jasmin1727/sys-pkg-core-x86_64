@@ -307,3 +307,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-18 17:29: test(storage): verify concurrency safety with thread pool
 - 2025-03-18 18:14: fix(config): fallback to defaults when config key is missing
 - 2025-03-18 20:28: feat(events): implement publish-subscribe message bus
+- 2025-03-18 21:13: docs: update setup instructions and prerequisites
