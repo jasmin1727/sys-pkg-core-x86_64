@@ -270,3 +270,7 @@ class MetricsCollector:
 class EventBus:
     '''In-memory publish-subscribe bus.'''
     pass
+
+class MetricsCollector:
+    '''Tracks latency and counter metrics.'''
+    pass
