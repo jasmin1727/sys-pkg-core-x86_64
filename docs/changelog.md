@@ -317,3 +317,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-20 15:58: test(storage): verify concurrency safety with thread pool
 - 2025-03-20 16:28: refactor(storage): separate in-memory cache from persistence layer
 - 2025-03-20 18:23: feat(api): add retry policy with exponential backoff
+- 2025-03-20 18:34: feat(cache): implement adaptive LRU cache with TTL expiry
