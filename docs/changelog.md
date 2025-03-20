@@ -313,3 +313,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-20 10:12: feat(core): implement async task worker pool
 - 2025-03-20 10:26: fix(parser): resolve unexpected EOF when reading stream
 - 2025-03-20 12:10: feat(stream): add chunked data stream reader
+- 2025-03-20 13:41: test(storage): verify concurrency safety with thread pool
