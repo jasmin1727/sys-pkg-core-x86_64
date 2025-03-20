@@ -310,3 +310,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-18 21:13: docs: update setup instructions and prerequisites
 - 2025-03-19 17:42: refactor: optimize module imports and remove unused dependencies
 - 2025-03-19 21:33: feat(metrics): track request latency and error counters
+- 2025-03-20 10:12: feat(core): implement async task worker pool
