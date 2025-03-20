@@ -315,3 +315,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-20 12:10: feat(stream): add chunked data stream reader
 - 2025-03-20 13:41: test(storage): verify concurrency safety with thread pool
 - 2025-03-20 15:58: test(storage): verify concurrency safety with thread pool
+- 2025-03-20 16:28: refactor(storage): separate in-memory cache from persistence layer
