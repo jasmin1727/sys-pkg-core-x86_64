@@ -320,3 +320,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-20 18:34: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-03-20 22:03: feat(auth): add bearer token header validation helper
 - 2025-03-20 22:27: feat(auth): add bearer token header validation helper
+- 2025-03-22 11:26: feat(core): implement async task worker pool
