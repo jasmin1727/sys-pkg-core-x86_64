@@ -324,3 +324,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-22 13:26: refactor(utils): decompose monolithic string processing utility
 - 2025-03-22 17:21: feat(logger): introduce structured json formatting
 - 2025-03-22 20:14: feat(parser): add support for nested json payloads
+- 2025-03-23 15:08: fix(config): fallback to defaults when config key is missing
