@@ -326,3 +326,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-22 20:14: feat(parser): add support for nested json payloads
 - 2025-03-23 15:08: fix(config): fallback to defaults when config key is missing
 - 2025-03-24 12:27: chore: update dependency versions in package lock
+- 2025-03-24 22:25: feat(parser): add support for nested json payloads
