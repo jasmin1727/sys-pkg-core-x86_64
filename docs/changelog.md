@@ -328,3 +328,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-24 12:27: chore: update dependency versions in package lock
 - 2025-03-24 22:25: feat(parser): add support for nested json payloads
 - 2025-03-25 12:38: fix(parser): resolve unexpected EOF when reading stream
+- 2025-03-25 13:23: feat(api): add retry policy with exponential backoff
