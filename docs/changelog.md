@@ -337,3 +337,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-25 19:48: feat(auth): add bearer token header validation helper
 - 2025-03-25 20:19: docs: document configuration parameters and overrides
 - 2025-03-25 21:40: fix(logger): prevent sensitive token leakage in debug logs
+- 2025-03-25 22:08: feat(parser): add support for nested json payloads
