@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-25 13:56: chore: update dependency versions in package lock
 - 2025-03-25 14:08: test(core): add coverage for worker crash recovery
 - 2025-03-25 16:37: fix(logger): prevent sensitive token leakage in debug logs
+- 2025-03-25 17:41: fix(logger): prevent sensitive token leakage in debug logs
