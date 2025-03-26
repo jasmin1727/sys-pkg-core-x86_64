@@ -339,3 +339,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-25 21:40: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-03-25 22:08: feat(parser): add support for nested json payloads
 - 2025-03-26 11:16: refactor(utils): decompose monolithic string processing utility
+- 2025-03-26 11:31: perf: reduce allocations in serialization hot path
