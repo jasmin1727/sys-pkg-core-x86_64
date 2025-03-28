@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-28 12:07: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-03-28 12:14: feat(storage): implement disk-backed key-value cache
 - 2025-03-28 15:58: fix(schema): resolve null value parsing in payload
+- 2025-03-28 17:35: docs: document configuration parameters and overrides
