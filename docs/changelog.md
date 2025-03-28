@@ -341,3 +341,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-26 11:16: refactor(utils): decompose monolithic string processing utility
 - 2025-03-26 11:31: perf: reduce allocations in serialization hot path
 - 2025-03-28 10:42: fix(cache): resolve cache key collision for compound queries
+- 2025-03-28 12:07: feat(cache): implement adaptive LRU cache with TTL expiry
