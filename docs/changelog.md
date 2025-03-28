@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-28 15:58: fix(schema): resolve null value parsing in payload
 - 2025-03-28 17:35: docs: document configuration parameters and overrides
 - 2025-03-28 18:56: chore: update dependency versions in package lock
+- 2025-03-28 20:46: test(storage): verify concurrency safety with thread pool
