@@ -351,3 +351,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-29 15:38: feat(validator): add schema validation for incoming events
 - 2025-03-29 19:58: feat(logger): introduce structured json formatting
 - 2025-03-29 20:40: feat(metrics): track request latency and error counters
+- 2025-03-29 20:43: feat(parser): add support for nested json payloads
