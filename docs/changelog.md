@@ -349,3 +349,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-28 20:46: test(storage): verify concurrency safety with thread pool
 - 2025-03-29 11:26: fix(storage): correct file descriptor leak on close
 - 2025-03-29 15:38: feat(validator): add schema validation for incoming events
+- 2025-03-29 19:58: feat(logger): introduce structured json formatting
