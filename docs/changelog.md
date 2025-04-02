@@ -355,3 +355,4 @@ All notable changes and milestones are documented in this file.
 - 2025-03-30 19:58: test(storage): verify concurrency safety with thread pool
 - 2025-03-31 14:29: test(core): add coverage for worker crash recovery
 - 2025-04-01 18:03: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2025-04-02 10:49: feat(parser): add support for nested json payloads
