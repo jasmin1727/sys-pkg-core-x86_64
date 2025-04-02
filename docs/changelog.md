@@ -359,3 +359,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-02 11:57: perf: reduce allocations in serialization hot path
 - 2025-04-02 12:56: test(parser): add test cases for malformed inputs
 - 2025-04-02 19:52: fix(config): fallback to defaults when config key is missing
+- 2025-04-02 20:27: feat(core): implement async task worker pool
