@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-01 18:03: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-04-02 10:49: feat(parser): add support for nested json payloads
 - 2025-04-02 11:57: perf: reduce allocations in serialization hot path
+- 2025-04-02 12:56: test(parser): add test cases for malformed inputs
