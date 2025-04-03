@@ -368,3 +368,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-03 15:15: fix(schema): resolve null value parsing in payload
 - 2025-04-03 17:08: style: enforce consistent docstring and code formatting
 - 2025-04-03 18:10: refactor(storage): separate in-memory cache from persistence layer
+- 2025-04-03 18:11: fix(config): fallback to defaults when config key is missing
