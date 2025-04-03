@@ -365,3 +365,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-03 11:48: fix(core): handle race condition during worker shutdown
 - 2025-04-03 13:42: feat(context): propagate request trace id across coroutines
 - 2025-04-03 13:51: feat(events): implement publish-subscribe message bus
+- 2025-04-03 15:15: fix(schema): resolve null value parsing in payload
