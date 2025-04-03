@@ -361,3 +361,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-02 19:52: fix(config): fallback to defaults when config key is missing
 - 2025-04-02 20:27: feat(core): implement async task worker pool
 - 2025-04-03 10:45: fix(cache): resolve cache key collision for compound queries
+- 2025-04-03 11:06: fix(queue): acknowledge message after successful processing
