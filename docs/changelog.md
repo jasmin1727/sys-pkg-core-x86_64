@@ -374,3 +374,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-04 12:55: test(storage): verify concurrency safety with thread pool
 - 2025-04-04 14:50: fix(storage): correct file descriptor leak on close
 - 2025-04-04 18:12: chore: configure pre-commit hooks and linter rules
+- 2025-04-04 18:16: refactor(storage): separate in-memory cache from persistence layer
