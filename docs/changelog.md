@@ -371,3 +371,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-03 18:11: fix(config): fallback to defaults when config key is missing
 - 2025-04-03 19:10: fix(schema): resolve null value parsing in payload
 - 2025-04-03 22:08: docs: update API endpoints reference and sample requests
+- 2025-04-04 12:55: test(storage): verify concurrency safety with thread pool
