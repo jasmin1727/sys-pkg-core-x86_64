@@ -379,3 +379,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-05 12:47: feat(auth): add bearer token header validation helper
 - 2025-04-05 13:06: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2025-04-05 14:14: fix(schema): resolve null value parsing in payload
+- 2025-04-05 17:56: refactor(storage): separate in-memory cache from persistence layer
