@@ -384,3 +384,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-06 12:57: fix(parser): resolve unexpected EOF when reading stream
 - 2025-04-06 14:00: feat(api): add retry policy with exponential backoff
 - 2025-04-06 16:26: fix(parser): resolve unexpected EOF when reading stream
+- 2025-04-06 20:15: feat(storage): implement disk-backed key-value cache
