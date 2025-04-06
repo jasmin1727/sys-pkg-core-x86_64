@@ -382,3 +382,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-05 17:56: refactor(storage): separate in-memory cache from persistence layer
 - 2025-04-06 12:28: feat(logger): introduce structured json formatting
 - 2025-04-06 12:57: fix(parser): resolve unexpected EOF when reading stream
+- 2025-04-06 14:00: feat(api): add retry policy with exponential backoff
