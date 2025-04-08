@@ -388,3 +388,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-06 20:45: test(cache): assert eviction behavior under memory pressure
 - 2025-04-06 23:12: refactor(cache): unify cache interface across backends
 - 2025-04-08 11:58: fix(parser): resolve unexpected EOF when reading stream
+- 2025-04-08 15:53: test(parser): add test cases for malformed inputs
