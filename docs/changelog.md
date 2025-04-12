@@ -394,3 +394,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-10 17:08: refactor(utils): decompose monolithic string processing utility
 - 2025-04-12 14:04: chore: configure pre-commit hooks and linter rules
 - 2025-04-12 17:20: chore: update dependency versions in package lock
+- 2025-04-12 18:27: test(parser): add test cases for malformed inputs
