@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-13 12:36: feat(validator): add schema validation for incoming events
 - 2025-04-13 14:05: fix(storage): correct file descriptor leak on close
 - 2025-04-13 15:41: fix(queue): acknowledge message after successful processing
+- 2025-04-13 17:25: feat(cache): implement adaptive LRU cache with TTL expiry
