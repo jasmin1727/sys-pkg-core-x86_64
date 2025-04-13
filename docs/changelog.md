@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-13 11:50: test(core): add coverage for worker crash recovery
 - 2025-04-13 12:01: docs: update setup instructions and prerequisites
 - 2025-04-13 12:36: feat(validator): add schema validation for incoming events
+- 2025-04-13 14:05: fix(storage): correct file descriptor leak on close
