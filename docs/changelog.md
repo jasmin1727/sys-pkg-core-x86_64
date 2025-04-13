@@ -263,3 +263,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-13 15:41: fix(queue): acknowledge message after successful processing
 - 2025-04-13 17:25: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-04-13 18:00: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2025-04-13 18:10: test(cache): assert eviction behavior under memory pressure
