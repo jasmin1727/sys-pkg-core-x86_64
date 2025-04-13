@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-12 18:27: test(parser): add test cases for malformed inputs
 - 2025-04-13 10:27: style: enforce consistent docstring and code formatting
 - 2025-04-13 11:32: feat(api): add retry policy with exponential backoff
+- 2025-04-13 11:50: test(core): add coverage for worker crash recovery
