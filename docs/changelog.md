@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-14 13:25: docs: add architecture overview and system flow diagram
 - 2025-04-14 16:05: fix(cache): resolve cache key collision for compound queries
 - 2025-04-14 16:54: refactor: optimize module imports and remove unused dependencies
+- 2025-04-14 21:41: docs: add architecture overview and system flow diagram
