@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-13 17:25: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-04-13 18:00: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-04-13 18:10: test(cache): assert eviction behavior under memory pressure
+- 2025-04-14 13:25: docs: add architecture overview and system flow diagram
