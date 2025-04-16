@@ -275,3 +275,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-16 11:21: fix(storage): correct file descriptor leak on close
 - 2025-04-16 15:41: docs: update API endpoints reference and sample requests
 - 2025-04-16 15:43: test(cache): assert eviction behavior under memory pressure
+- 2025-04-16 20:58: feat(metrics): track request latency and error counters
