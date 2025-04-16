@@ -274,3 +274,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-15 21:32: test(storage): verify concurrency safety with thread pool
 - 2025-04-16 11:21: fix(storage): correct file descriptor leak on close
 - 2025-04-16 15:41: docs: update API endpoints reference and sample requests
+- 2025-04-16 15:43: test(cache): assert eviction behavior under memory pressure
