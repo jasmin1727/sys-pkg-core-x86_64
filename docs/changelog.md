@@ -287,3 +287,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-18 17:52: fix(storage): correct file descriptor leak on close
 - 2025-04-18 20:16: fix(cache): resolve cache key collision for compound queries
 - 2025-04-18 20:20: docs: update API endpoints reference and sample requests
+- 2025-04-18 20:38: docs: add architecture overview and system flow diagram
