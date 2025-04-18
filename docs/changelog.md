@@ -284,3 +284,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-18 14:07: refactor(core): streamline worker initialization sequence
 - 2025-04-18 14:25: refactor(utils): decompose monolithic string processing utility
 - 2025-04-18 17:43: test(cache): assert eviction behavior under memory pressure
+- 2025-04-18 17:52: fix(storage): correct file descriptor leak on close
