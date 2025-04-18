@@ -279,3 +279,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-16 23:15: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-04-18 10:23: fix(cache): resolve cache key collision for compound queries
 - 2025-04-18 11:23: feat(auth): add bearer token header validation helper
+- 2025-04-18 13:24: chore: configure pre-commit hooks and linter rules
