@@ -277,3 +277,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-16 15:43: test(cache): assert eviction behavior under memory pressure
 - 2025-04-16 20:58: feat(metrics): track request latency and error counters
 - 2025-04-16 23:15: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2025-04-18 10:23: fix(cache): resolve cache key collision for compound queries
