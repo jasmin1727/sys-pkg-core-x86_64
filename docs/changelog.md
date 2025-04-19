@@ -294,3 +294,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-19 10:55: feat(scheduler): support cron-like job scheduling intervals
 - 2025-04-19 15:40: feat(logger): introduce structured json formatting
 - 2025-04-19 15:53: refactor(storage): separate in-memory cache from persistence layer
+- 2025-04-19 16:49: feat(rate-limit): implement token bucket rate limiting algorithm
