@@ -300,3 +300,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-20 10:57: fix(parser): resolve unexpected EOF when reading stream
 - 2025-04-20 13:14: perf: reduce allocations in serialization hot path
 - 2025-04-20 16:26: fix(cache): resolve cache key collision for compound queries
+- 2025-04-20 17:38: fix(parser): resolve unexpected EOF when reading stream
