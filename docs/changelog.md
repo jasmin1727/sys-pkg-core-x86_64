@@ -298,3 +298,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-19 18:03: feat(config): add dynamic environment variable resolver
 - 2025-04-19 20:28: refactor(core): streamline worker initialization sequence
 - 2025-04-20 10:57: fix(parser): resolve unexpected EOF when reading stream
+- 2025-04-20 13:14: perf: reduce allocations in serialization hot path
