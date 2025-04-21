@@ -305,3 +305,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-21 10:13: docs: update API endpoints reference and sample requests
 - 2025-04-21 15:16: feat(core): implement async task worker pool
 - 2025-04-21 16:57: feat(stream): add chunked data stream reader
+- 2025-04-21 17:38: refactor: optimize module imports and remove unused dependencies
