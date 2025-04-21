@@ -309,3 +309,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-21 18:02: docs: update API endpoints reference and sample requests
 - 2025-04-21 18:19: test(cache): assert eviction behavior under memory pressure
 - 2025-04-21 20:19: refactor(storage): separate in-memory cache from persistence layer
+- 2025-04-21 21:06: feat(rate-limit): implement token bucket rate limiting algorithm
