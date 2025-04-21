@@ -302,3 +302,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-20 16:26: fix(cache): resolve cache key collision for compound queries
 - 2025-04-20 17:38: fix(parser): resolve unexpected EOF when reading stream
 - 2025-04-20 21:45: refactor(storage): separate in-memory cache from persistence layer
+- 2025-04-21 10:13: docs: update API endpoints reference and sample requests
