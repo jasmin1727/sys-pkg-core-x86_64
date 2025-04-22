@@ -311,3 +311,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-21 20:19: refactor(storage): separate in-memory cache from persistence layer
 - 2025-04-21 21:06: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2025-04-21 21:20: fix(logger): prevent sensitive token leakage in debug logs
+- 2025-04-22 13:18: feat(scheduler): support cron-like job scheduling intervals
