@@ -314,3 +314,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-22 13:18: feat(scheduler): support cron-like job scheduling intervals
 - 2025-04-22 17:28: fix(core): handle race condition during worker shutdown
 - 2025-04-22 17:42: fix(schema): resolve null value parsing in payload
+- 2025-04-22 17:53: feat(validator): add schema validation for incoming events
