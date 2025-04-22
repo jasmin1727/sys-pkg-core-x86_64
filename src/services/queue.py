@@ -278,3 +278,7 @@ class JobScheduler:
 class JobScheduler:
     '''Periodic job scheduler.'''
     pass
+
+class JobScheduler:
+    '''Periodic job scheduler.'''
+    pass
