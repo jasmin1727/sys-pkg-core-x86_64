@@ -313,3 +313,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-21 21:20: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-04-22 13:18: feat(scheduler): support cron-like job scheduling intervals
 - 2025-04-22 17:28: fix(core): handle race condition during worker shutdown
+- 2025-04-22 17:42: fix(schema): resolve null value parsing in payload
