@@ -320,3 +320,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-22 23:29: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-04-23 10:57: refactor(storage): separate in-memory cache from persistence layer
 - 2025-04-23 14:17: refactor: optimize module imports and remove unused dependencies
+- 2025-04-23 15:45: fix(parser): resolve unexpected EOF when reading stream
