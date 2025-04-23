@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-23 10:57: refactor(storage): separate in-memory cache from persistence layer
 - 2025-04-23 14:17: refactor: optimize module imports and remove unused dependencies
 - 2025-04-23 15:45: fix(parser): resolve unexpected EOF when reading stream
+- 2025-04-23 18:44: fix(logger): prevent sensitive token leakage in debug logs
