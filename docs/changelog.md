@@ -323,3 +323,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-23 15:45: fix(parser): resolve unexpected EOF when reading stream
 - 2025-04-23 18:44: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-04-24 18:39: docs: update API endpoints reference and sample requests
+- 2025-04-25 12:50: feat(api): add retry policy with exponential backoff
