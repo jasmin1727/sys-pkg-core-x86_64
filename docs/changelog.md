@@ -328,3 +328,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-25 14:41: docs: document configuration parameters and overrides
 - 2025-04-25 15:19: chore: update dependency versions in package lock
 - 2025-04-25 15:53: test(cache): assert eviction behavior under memory pressure
+- 2025-04-25 16:04: test(core): add coverage for worker crash recovery
