@@ -326,3 +326,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-25 12:50: feat(api): add retry policy with exponential backoff
 - 2025-04-25 14:26: docs: add architecture overview and system flow diagram
 - 2025-04-25 14:41: docs: document configuration parameters and overrides
+- 2025-04-25 15:19: chore: update dependency versions in package lock
