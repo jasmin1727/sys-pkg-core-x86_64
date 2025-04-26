@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-25 19:15: fix(parser): resolve unexpected EOF when reading stream
 - 2025-04-26 12:59: test(parser): add test cases for malformed inputs
 - 2025-04-26 13:17: docs: add architecture overview and system flow diagram
+- 2025-04-26 15:48: fix(config): fallback to defaults when config key is missing
