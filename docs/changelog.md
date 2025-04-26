@@ -334,3 +334,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-26 13:17: docs: add architecture overview and system flow diagram
 - 2025-04-26 15:48: fix(config): fallback to defaults when config key is missing
 - 2025-04-26 20:58: feat(storage): implement disk-backed key-value cache
+- 2025-04-26 21:25: refactor(utils): decompose monolithic string processing utility
