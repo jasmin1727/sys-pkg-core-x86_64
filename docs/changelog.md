@@ -341,3 +341,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-28 18:53: docs: update API endpoints reference and sample requests
 - 2025-04-29 13:25: feat(core): implement async task worker pool
 - 2025-04-29 19:00: fix(cache): resolve cache key collision for compound queries
+- 2025-04-29 20:27: fix(config): fallback to defaults when config key is missing
