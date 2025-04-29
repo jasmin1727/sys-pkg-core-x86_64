@@ -343,3 +343,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-29 19:00: fix(cache): resolve cache key collision for compound queries
 - 2025-04-29 20:27: fix(config): fallback to defaults when config key is missing
 - 2025-04-29 20:41: feat(parser): add support for nested json payloads
+- 2025-04-29 21:07: feat(validator): add schema validation for incoming events
