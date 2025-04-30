@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-29 21:07: feat(validator): add schema validation for incoming events
 - 2025-04-30 12:01: docs: add architecture overview and system flow diagram
 - 2025-04-30 14:21: refactor(core): streamline worker initialization sequence
+- 2025-04-30 14:22: fix(logger): prevent sensitive token leakage in debug logs
