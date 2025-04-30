@@ -348,3 +348,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-30 14:21: refactor(core): streamline worker initialization sequence
 - 2025-04-30 14:22: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-04-30 16:52: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2025-04-30 19:23: feat(cache): implement adaptive LRU cache with TTL expiry
