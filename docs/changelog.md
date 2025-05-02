@@ -352,3 +352,4 @@ All notable changes and milestones are documented in this file.
 - 2025-04-30 21:20: feat(core): implement async task worker pool
 - 2025-05-02 10:56: test(cache): assert eviction behavior under memory pressure
 - 2025-05-02 13:48: docs: update setup instructions and prerequisites
+- 2025-05-02 14:35: chore: configure pre-commit hooks and linter rules
