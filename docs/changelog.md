@@ -356,3 +356,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-02 23:00: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-05-02 23:01: feat(storage): implement disk-backed key-value cache
 - 2025-05-03 10:42: fix(queue): acknowledge message after successful processing
+- 2025-05-03 13:53: docs: update API endpoints reference and sample requests
