@@ -364,3 +364,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-04 13:11: fix(queue): acknowledge message after successful processing
 - 2025-05-04 16:41: test(storage): verify concurrency safety with thread pool
 - 2025-05-04 17:15: style: enforce consistent docstring and code formatting
+- 2025-05-04 18:23: fix(queue): acknowledge message after successful processing
