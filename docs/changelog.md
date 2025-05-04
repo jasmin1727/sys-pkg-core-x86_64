@@ -360,3 +360,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-03 19:30: docs: update setup instructions and prerequisites
 - 2025-05-03 20:04: fix(cache): resolve cache key collision for compound queries
 - 2025-05-04 11:49: docs: document configuration parameters and overrides
+- 2025-05-04 12:01: test(parser): add test cases for malformed inputs
