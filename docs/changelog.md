@@ -366,3 +366,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-04 17:15: style: enforce consistent docstring and code formatting
 - 2025-05-04 18:23: fix(queue): acknowledge message after successful processing
 - 2025-05-04 19:05: feat(auth): add bearer token header validation helper
+- 2025-05-04 23:13: test(storage): verify concurrency safety with thread pool
