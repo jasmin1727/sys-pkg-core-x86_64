@@ -359,3 +359,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-03 13:53: docs: update API endpoints reference and sample requests
 - 2025-05-03 19:30: docs: update setup instructions and prerequisites
 - 2025-05-03 20:04: fix(cache): resolve cache key collision for compound queries
+- 2025-05-04 11:49: docs: document configuration parameters and overrides
