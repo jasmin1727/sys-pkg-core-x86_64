@@ -367,3 +367,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-04 18:23: fix(queue): acknowledge message after successful processing
 - 2025-05-04 19:05: feat(auth): add bearer token header validation helper
 - 2025-05-04 23:13: test(storage): verify concurrency safety with thread pool
+- 2025-05-05 23:03: perf: reduce allocations in serialization hot path
