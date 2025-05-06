@@ -370,3 +370,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-05 23:03: perf: reduce allocations in serialization hot path
 - 2025-05-06 13:23: fix(cache): resolve cache key collision for compound queries
 - 2025-05-06 20:31: feat(context): propagate request trace id across coroutines
+- 2025-05-06 23:15: test(storage): verify concurrency safety with thread pool
