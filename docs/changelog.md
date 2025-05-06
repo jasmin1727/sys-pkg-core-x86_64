@@ -368,3 +368,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-04 19:05: feat(auth): add bearer token header validation helper
 - 2025-05-04 23:13: test(storage): verify concurrency safety with thread pool
 - 2025-05-05 23:03: perf: reduce allocations in serialization hot path
+- 2025-05-06 13:23: fix(cache): resolve cache key collision for compound queries
