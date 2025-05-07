@@ -373,3 +373,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-06 23:15: test(storage): verify concurrency safety with thread pool
 - 2025-05-07 10:42: test(storage): verify concurrency safety with thread pool
 - 2025-05-07 11:18: feat(auth): add bearer token header validation helper
+- 2025-05-07 13:51: feat(metrics): track request latency and error counters
