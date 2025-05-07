@@ -376,3 +376,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-07 13:51: feat(metrics): track request latency and error counters
 - 2025-05-07 13:58: fix(config): fallback to defaults when config key is missing
 - 2025-05-07 15:12: feat(config): add dynamic environment variable resolver
+- 2025-05-07 15:14: fix(core): handle race condition during worker shutdown
