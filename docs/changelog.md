@@ -372,3 +372,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-06 20:31: feat(context): propagate request trace id across coroutines
 - 2025-05-06 23:15: test(storage): verify concurrency safety with thread pool
 - 2025-05-07 10:42: test(storage): verify concurrency safety with thread pool
+- 2025-05-07 11:18: feat(auth): add bearer token header validation helper
