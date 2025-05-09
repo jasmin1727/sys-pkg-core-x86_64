@@ -380,3 +380,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-07 16:03: fix(queue): acknowledge message after successful processing
 - 2025-05-07 20:01: chore: update dependency versions in package lock
 - 2025-05-09 10:16: fix(queue): acknowledge message after successful processing
+- 2025-05-09 18:17: feat(api): add retry policy with exponential backoff
