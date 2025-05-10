@@ -383,3 +383,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-09 18:17: feat(api): add retry policy with exponential backoff
 - 2025-05-09 18:35: fix(core): handle race condition during worker shutdown
 - 2025-05-09 20:17: docs: update API endpoints reference and sample requests
+- 2025-05-10 14:25: fix(storage): correct file descriptor leak on close
