@@ -386,3 +386,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-10 14:25: fix(storage): correct file descriptor leak on close
 - 2025-05-10 17:46: refactor(cache): unify cache interface across backends
 - 2025-05-10 19:40: test(storage): verify concurrency safety with thread pool
+- 2025-05-11 10:37: docs: document configuration parameters and overrides
