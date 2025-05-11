@@ -389,3 +389,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-11 10:37: docs: document configuration parameters and overrides
 - 2025-05-11 11:51: fix(config): fallback to defaults when config key is missing
 - 2025-05-11 16:00: test(core): add coverage for worker crash recovery
+- 2025-05-11 18:21: refactor: optimize module imports and remove unused dependencies
