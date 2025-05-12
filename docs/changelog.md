@@ -392,3 +392,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-11 18:21: refactor: optimize module imports and remove unused dependencies
 - 2025-05-11 18:44: docs: update API endpoints reference and sample requests
 - 2025-05-12 12:46: refactor(storage): separate in-memory cache from persistence layer
+- 2025-05-12 18:37: feat(validator): add schema validation for incoming events
