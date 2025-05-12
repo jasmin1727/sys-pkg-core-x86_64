@@ -396,3 +396,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-12 20:55: feat(storage): implement disk-backed key-value cache
 - 2025-05-12 21:17: docs: update setup instructions and prerequisites
 - 2025-05-12 21:23: test(cache): assert eviction behavior under memory pressure
+- 2025-05-12 23:10: fix(parser): resolve unexpected EOF when reading stream
