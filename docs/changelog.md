@@ -395,3 +395,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-12 18:37: feat(validator): add schema validation for incoming events
 - 2025-05-12 20:55: feat(storage): implement disk-backed key-value cache
 - 2025-05-12 21:17: docs: update setup instructions and prerequisites
+- 2025-05-12 21:23: test(cache): assert eviction behavior under memory pressure
