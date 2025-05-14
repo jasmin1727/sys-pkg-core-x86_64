@@ -258,3 +258,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-12 23:10: fix(parser): resolve unexpected EOF when reading stream
 - 2025-05-12 23:20: test(parser): add test cases for malformed inputs
 - 2025-05-13 16:01: fix(parser): resolve unexpected EOF when reading stream
+- 2025-05-14 12:23: feat(auth): add bearer token header validation helper
