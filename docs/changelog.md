@@ -262,3 +262,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-14 15:36: feat(scheduler): support cron-like job scheduling intervals
 - 2025-05-14 20:39: fix(parser): resolve unexpected EOF when reading stream
 - 2025-05-14 23:09: feat(stream): add chunked data stream reader
+- 2025-05-15 11:29: docs: document configuration parameters and overrides
