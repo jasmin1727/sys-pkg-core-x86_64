@@ -266,3 +266,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-15 12:12: feat(events): implement publish-subscribe message bus
 - 2025-05-15 14:27: test(parser): add test cases for malformed inputs
 - 2025-05-15 22:52: test(parser): add test cases for malformed inputs
+- 2025-05-16 12:30: feat(cache): implement adaptive LRU cache with TTL expiry
