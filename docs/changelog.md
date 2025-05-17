@@ -268,3 +268,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-15 22:52: test(parser): add test cases for malformed inputs
 - 2025-05-16 12:30: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-05-17 10:05: chore: update dependency versions in package lock
+- 2025-05-17 10:56: feat(storage): implement disk-backed key-value cache
