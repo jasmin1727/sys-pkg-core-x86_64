@@ -278,3 +278,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-17 20:57: docs: document configuration parameters and overrides
 - 2025-05-17 20:58: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-05-17 22:47: test(cache): assert eviction behavior under memory pressure
+- 2025-05-17 22:52: feat(cache): implement adaptive LRU cache with TTL expiry
