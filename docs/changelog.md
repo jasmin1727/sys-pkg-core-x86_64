@@ -274,3 +274,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-17 15:25: feat(scheduler): support cron-like job scheduling intervals
 - 2025-05-17 17:50: fix(schema): resolve null value parsing in payload
 - 2025-05-17 20:20: fix(parser): resolve unexpected EOF when reading stream
+- 2025-05-17 20:41: refactor(utils): decompose monolithic string processing utility
