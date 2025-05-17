@@ -272,3 +272,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-17 11:38: test(storage): verify concurrency safety with thread pool
 - 2025-05-17 14:46: fix(schema): resolve null value parsing in payload
 - 2025-05-17 15:25: feat(scheduler): support cron-like job scheduling intervals
+- 2025-05-17 17:50: fix(schema): resolve null value parsing in payload
