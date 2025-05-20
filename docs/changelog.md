@@ -284,3 +284,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-18 18:49: feat(validator): add schema validation for incoming events
 - 2025-05-18 21:13: fix(queue): acknowledge message after successful processing
 - 2025-05-20 13:23: refactor(core): streamline worker initialization sequence
+- 2025-05-20 14:18: fix(queue): acknowledge message after successful processing
