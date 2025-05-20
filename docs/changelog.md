@@ -286,3 +286,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-20 13:23: refactor(core): streamline worker initialization sequence
 - 2025-05-20 14:18: fix(queue): acknowledge message after successful processing
 - 2025-05-20 14:34: docs: add architecture overview and system flow diagram
+- 2025-05-20 23:02: perf: reduce allocations in serialization hot path
