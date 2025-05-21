@@ -288,3 +288,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-20 14:34: docs: add architecture overview and system flow diagram
 - 2025-05-20 23:02: perf: reduce allocations in serialization hot path
 - 2025-05-21 11:20: feat(core): implement async task worker pool
+- 2025-05-21 12:00: test(cache): assert eviction behavior under memory pressure
