@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-21 11:20: feat(core): implement async task worker pool
 - 2025-05-21 12:00: test(cache): assert eviction behavior under memory pressure
 - 2025-05-21 16:21: fix(core): handle race condition during worker shutdown
+- 2025-05-21 16:26: feat(config): add dynamic environment variable resolver
