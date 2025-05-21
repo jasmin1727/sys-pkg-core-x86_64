@@ -280,3 +280,10 @@ def validate_event_schema(event: dict) -> bool:
     return 'id' in event and 'type' in event
 
 # Performance optimization: buffer reuse
+
+def parse_stream_safe(stream):
+    '''Parse stream with graceful EOF handling.'''
+    try:
+        return stream.read()
+    except EOFError:
+        return None
