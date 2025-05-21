@@ -295,3 +295,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-21 18:37: docs: add architecture overview and system flow diagram
 - 2025-05-21 19:43: fix(parser): resolve unexpected EOF when reading stream
 - 2025-05-21 21:09: style: enforce consistent docstring and code formatting
+- 2025-05-21 22:53: feat(rate-limit): implement token bucket rate limiting algorithm
