@@ -298,3 +298,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-21 22:53: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2025-05-22 15:06: feat(context): propagate request trace id across coroutines
 - 2025-05-23 11:23: test(core): add coverage for worker crash recovery
+- 2025-05-23 12:34: refactor: optimize module imports and remove unused dependencies
