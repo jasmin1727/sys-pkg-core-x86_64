@@ -301,3 +301,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-23 12:34: refactor: optimize module imports and remove unused dependencies
 - 2025-05-23 14:55: feat(auth): add bearer token header validation helper
 - 2025-05-23 16:39: fix(parser): resolve unexpected EOF when reading stream
+- 2025-05-25 10:11: fix(core): handle race condition during worker shutdown
