@@ -303,3 +303,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-23 16:39: fix(parser): resolve unexpected EOF when reading stream
 - 2025-05-25 10:11: fix(core): handle race condition during worker shutdown
 - 2025-05-25 14:25: feat(config): add dynamic environment variable resolver
+- 2025-05-25 14:38: refactor: optimize module imports and remove unused dependencies
