@@ -310,3 +310,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-26 13:56: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-05-26 16:10: refactor(core): streamline worker initialization sequence
 - 2025-05-26 16:54: feat(api): add retry policy with exponential backoff
+- 2025-05-26 22:16: fix(logger): prevent sensitive token leakage in debug logs
