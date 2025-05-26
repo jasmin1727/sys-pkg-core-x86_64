@@ -228,3 +228,5 @@ def safe_shutdown(pool):
 class EventBus:
     '''In-memory publish-subscribe bus.'''
     pass
+
+# Refactored worker lifecycle management

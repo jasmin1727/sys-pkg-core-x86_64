@@ -308,3 +308,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-26 10:11: fix(config): fallback to defaults when config key is missing
 - 2025-05-26 12:12: feat(events): implement publish-subscribe message bus
 - 2025-05-26 13:56: fix(logger): prevent sensitive token leakage in debug logs
+- 2025-05-26 16:10: refactor(core): streamline worker initialization sequence
