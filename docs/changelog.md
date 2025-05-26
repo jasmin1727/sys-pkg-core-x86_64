@@ -305,3 +305,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-25 14:25: feat(config): add dynamic environment variable resolver
 - 2025-05-25 14:38: refactor: optimize module imports and remove unused dependencies
 - 2025-05-25 21:06: docs: add architecture overview and system flow diagram
+- 2025-05-26 10:11: fix(config): fallback to defaults when config key is missing
