@@ -312,3 +312,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-26 16:54: feat(api): add retry policy with exponential backoff
 - 2025-05-26 22:16: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-05-26 22:44: refactor(storage): separate in-memory cache from persistence layer
+- 2025-05-27 10:51: feat(api): add retry policy with exponential backoff
