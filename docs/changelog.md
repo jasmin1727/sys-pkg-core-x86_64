@@ -326,3 +326,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-28 16:20: refactor(utils): decompose monolithic string processing utility
 - 2025-05-28 17:24: refactor(utils): decompose monolithic string processing utility
 - 2025-05-28 18:45: refactor(core): streamline worker initialization sequence
+- 2025-05-28 20:54: feat(scheduler): support cron-like job scheduling intervals
