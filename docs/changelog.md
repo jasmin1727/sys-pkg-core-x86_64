@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-28 10:43: fix(cache): resolve cache key collision for compound queries
 - 2025-05-28 12:16: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-05-28 12:31: fix(parser): resolve unexpected EOF when reading stream
+- 2025-05-28 13:29: refactor: optimize module imports and remove unused dependencies
