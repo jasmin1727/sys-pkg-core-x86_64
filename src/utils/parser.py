@@ -302,3 +302,10 @@ def parse_stream_safe(stream):
 # Performance optimization: buffer reuse
 
 # Decomposed string processing helpers
+
+def parse_stream_safe(stream):
+    '''Parse stream with graceful EOF handling.'''
+    try:
+        return stream.read()
+    except EOFError:
+        return None
