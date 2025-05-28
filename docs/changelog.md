@@ -316,3 +316,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-27 16:41: test(storage): verify concurrency safety with thread pool
 - 2025-05-27 20:05: perf: reduce allocations in serialization hot path
 - 2025-05-27 22:53: refactor: optimize module imports and remove unused dependencies
+- 2025-05-28 10:10: test(cache): assert eviction behavior under memory pressure
