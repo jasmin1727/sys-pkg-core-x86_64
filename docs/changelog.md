@@ -319,3 +319,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-28 10:10: test(cache): assert eviction behavior under memory pressure
 - 2025-05-28 10:34: refactor(utils): decompose monolithic string processing utility
 - 2025-05-28 10:43: fix(cache): resolve cache key collision for compound queries
+- 2025-05-28 12:16: feat(cache): implement adaptive LRU cache with TTL expiry
