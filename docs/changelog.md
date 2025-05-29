@@ -330,3 +330,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-28 22:27: fix(storage): correct file descriptor leak on close
 - 2025-05-28 22:29: refactor(storage): separate in-memory cache from persistence layer
 - 2025-05-29 12:09: feat(events): implement publish-subscribe message bus
+- 2025-05-29 15:23: refactor(cache): unify cache interface across backends
