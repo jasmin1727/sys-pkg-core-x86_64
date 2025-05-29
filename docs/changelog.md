@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-29 12:09: feat(events): implement publish-subscribe message bus
 - 2025-05-29 15:23: refactor(cache): unify cache interface across backends
 - 2025-05-29 19:57: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2025-05-29 23:00: fix(config): fallback to defaults when config key is missing
