@@ -329,3 +329,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-28 20:54: feat(scheduler): support cron-like job scheduling intervals
 - 2025-05-28 22:27: fix(storage): correct file descriptor leak on close
 - 2025-05-28 22:29: refactor(storage): separate in-memory cache from persistence layer
+- 2025-05-29 12:09: feat(events): implement publish-subscribe message bus
