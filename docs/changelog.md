@@ -331,3 +331,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-28 22:29: refactor(storage): separate in-memory cache from persistence layer
 - 2025-05-29 12:09: feat(events): implement publish-subscribe message bus
 - 2025-05-29 15:23: refactor(cache): unify cache interface across backends
+- 2025-05-29 19:57: feat(rate-limit): implement token bucket rate limiting algorithm
