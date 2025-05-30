@@ -338,3 +338,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-30 13:01: fix(schema): resolve null value parsing in payload
 - 2025-05-30 13:50: refactor(storage): separate in-memory cache from persistence layer
 - 2025-05-30 14:32: docs: update API endpoints reference and sample requests
+- 2025-05-30 16:15: feat(auth): add bearer token header validation helper
