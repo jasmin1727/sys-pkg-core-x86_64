@@ -340,3 +340,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-30 14:32: docs: update API endpoints reference and sample requests
 - 2025-05-30 16:15: feat(auth): add bearer token header validation helper
 - 2025-05-30 18:01: refactor(utils): decompose monolithic string processing utility
+- 2025-05-30 19:42: perf: reduce allocations in serialization hot path
