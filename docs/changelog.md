@@ -342,3 +342,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-30 18:01: refactor(utils): decompose monolithic string processing utility
 - 2025-05-30 19:42: perf: reduce allocations in serialization hot path
 - 2025-05-30 19:52: test(parser): add test cases for malformed inputs
+- 2025-05-30 20:38: feat(config): add dynamic environment variable resolver
