@@ -336,3 +336,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-30 12:24: test(core): add coverage for worker crash recovery
 - 2025-05-30 12:39: refactor(cache): unify cache interface across backends
 - 2025-05-30 13:01: fix(schema): resolve null value parsing in payload
+- 2025-05-30 13:50: refactor(storage): separate in-memory cache from persistence layer
