@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2025-05-30 21:28: fix(cache): resolve cache key collision for compound queries
 - 2025-05-30 22:48: fix(config): fallback to defaults when config key is missing
 - 2025-05-31 14:50: refactor(core): streamline worker initialization sequence
+- 2025-05-31 17:13: refactor(core): streamline worker initialization sequence
