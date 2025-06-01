@@ -358,3 +358,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-01 19:33: feat(events): implement publish-subscribe message bus
 - 2025-06-01 19:37: feat(auth): add bearer token header validation helper
 - 2025-06-01 20:09: style: enforce consistent docstring and code formatting
+- 2025-06-01 20:33: fix(logger): prevent sensitive token leakage in debug logs
