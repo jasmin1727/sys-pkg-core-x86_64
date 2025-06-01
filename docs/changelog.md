@@ -355,3 +355,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-01 14:10: fix(core): handle race condition during worker shutdown
 - 2025-06-01 15:43: feat(parser): add support for nested json payloads
 - 2025-06-01 18:13: test(cache): assert eviction behavior under memory pressure
+- 2025-06-01 19:33: feat(events): implement publish-subscribe message bus
