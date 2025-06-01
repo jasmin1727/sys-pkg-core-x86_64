@@ -353,3 +353,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-01 12:06: feat(scheduler): support cron-like job scheduling intervals
 - 2025-06-01 13:51: refactor(utils): decompose monolithic string processing utility
 - 2025-06-01 14:10: fix(core): handle race condition during worker shutdown
+- 2025-06-01 15:43: feat(parser): add support for nested json payloads
