@@ -363,3 +363,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-02 13:54: docs: update setup instructions and prerequisites
 - 2025-06-02 16:02: feat(auth): add bearer token header validation helper
 - 2025-06-02 16:38: feat(core): implement async task worker pool
+- 2025-06-02 22:38: refactor(cache): unify cache interface across backends
