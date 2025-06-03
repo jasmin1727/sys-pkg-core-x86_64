@@ -373,3 +373,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-03 16:07: feat(api): add retry policy with exponential backoff
 - 2025-06-03 16:08: feat(api): add retry policy with exponential backoff
 - 2025-06-03 16:23: test(cache): assert eviction behavior under memory pressure
+- 2025-06-03 20:17: test(cache): assert eviction behavior under memory pressure
