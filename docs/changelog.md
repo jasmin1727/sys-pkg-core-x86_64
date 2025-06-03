@@ -369,3 +369,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-03 12:02: fix(core): handle race condition during worker shutdown
 - 2025-06-03 12:57: feat(events): implement publish-subscribe message bus
 - 2025-06-03 12:58: refactor: optimize module imports and remove unused dependencies
+- 2025-06-03 14:15: fix(storage): correct file descriptor leak on close
