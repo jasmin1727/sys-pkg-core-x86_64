@@ -367,3 +367,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-03 10:40: refactor(cache): unify cache interface across backends
 - 2025-06-03 11:53: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-06-03 12:02: fix(core): handle race condition during worker shutdown
+- 2025-06-03 12:57: feat(events): implement publish-subscribe message bus
