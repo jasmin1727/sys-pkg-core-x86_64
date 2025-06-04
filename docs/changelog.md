@@ -378,3 +378,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-03 22:21: refactor(cache): unify cache interface across backends
 - 2025-06-04 10:04: docs: update API endpoints reference and sample requests
 - 2025-06-04 13:37: fix(core): handle race condition during worker shutdown
+- 2025-06-04 14:15: fix(config): fallback to defaults when config key is missing
