@@ -383,3 +383,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-04 15:32: feat(api): add retry policy with exponential backoff
 - 2025-06-04 16:14: refactor: optimize module imports and remove unused dependencies
 - 2025-06-04 17:34: feat(core): implement async task worker pool
+- 2025-06-04 20:41: fix(parser): resolve unexpected EOF when reading stream
