@@ -380,3 +380,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-04 13:37: fix(core): handle race condition during worker shutdown
 - 2025-06-04 14:15: fix(config): fallback to defaults when config key is missing
 - 2025-06-04 14:24: feat(validator): add schema validation for incoming events
+- 2025-06-04 15:32: feat(api): add retry policy with exponential backoff
