@@ -376,3 +376,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-03 20:17: test(cache): assert eviction behavior under memory pressure
 - 2025-06-03 21:57: refactor(utils): decompose monolithic string processing utility
 - 2025-06-03 22:21: refactor(cache): unify cache interface across backends
+- 2025-06-04 10:04: docs: update API endpoints reference and sample requests
