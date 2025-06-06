@@ -385,3 +385,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-04 17:34: feat(core): implement async task worker pool
 - 2025-06-04 20:41: fix(parser): resolve unexpected EOF when reading stream
 - 2025-06-04 22:16: fix(queue): acknowledge message after successful processing
+- 2025-06-06 10:16: refactor(core): streamline worker initialization sequence
