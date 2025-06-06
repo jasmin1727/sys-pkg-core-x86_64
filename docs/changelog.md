@@ -387,3 +387,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-04 22:16: fix(queue): acknowledge message after successful processing
 - 2025-06-06 10:16: refactor(core): streamline worker initialization sequence
 - 2025-06-06 15:03: refactor(storage): separate in-memory cache from persistence layer
+- 2025-06-06 15:07: feat(context): propagate request trace id across coroutines
