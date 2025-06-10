@@ -393,3 +393,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-06 17:02: style: enforce consistent docstring and code formatting
 - 2025-06-06 17:10: test(cache): assert eviction behavior under memory pressure
 - 2025-06-10 10:22: refactor(core): streamline worker initialization sequence
+- 2025-06-10 12:52: chore: update dependency versions in package lock
