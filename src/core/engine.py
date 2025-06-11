@@ -286,3 +286,7 @@ class TokenBucket:
     pass
 
 # Refactored worker lifecycle management
+
+class MetricsCollector:
+    '''Tracks latency and counter metrics.'''
+    pass
