@@ -396,3 +396,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-10 12:52: chore: update dependency versions in package lock
 - 2025-06-10 21:07: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2025-06-10 21:45: refactor(core): streamline worker initialization sequence
+- 2025-06-11 10:39: test(core): add coverage for worker crash recovery
