@@ -271,3 +271,6 @@ Install required runtime packages and configure environment.
 
 ### API Reference
 Comprehensive reference for internal services and message formats.
+
+### Setup & Prerequisites
+Install required runtime packages and configure environment.
