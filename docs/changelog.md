@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-11 12:57: docs: update setup instructions and prerequisites
 - 2025-06-11 16:44: feat(metrics): track request latency and error counters
 - 2025-06-11 20:57: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2025-06-11 22:39: fix(cache): resolve cache key collision for compound queries
