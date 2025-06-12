@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-11 20:57: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2025-06-11 22:39: fix(cache): resolve cache key collision for compound queries
 - 2025-06-12 16:03: feat(api): add retry policy with exponential backoff
+- 2025-06-12 17:05: fix(queue): acknowledge message after successful processing
