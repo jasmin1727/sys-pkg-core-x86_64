@@ -265,3 +265,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-12 19:59: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2025-06-12 21:35: feat(api): add retry policy with exponential backoff
 - 2025-06-12 23:25: docs: document configuration parameters and overrides
+- 2025-06-13 11:28: feat(validator): add schema validation for incoming events
