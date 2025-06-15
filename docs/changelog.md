@@ -271,3 +271,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-15 14:40: refactor(utils): decompose monolithic string processing utility
 - 2025-06-15 18:53: feat(config): add dynamic environment variable resolver
 - 2025-06-15 19:55: fix(parser): resolve unexpected EOF when reading stream
+- 2025-06-15 21:29: fix(schema): resolve null value parsing in payload
