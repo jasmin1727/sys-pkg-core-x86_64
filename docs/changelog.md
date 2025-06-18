@@ -275,3 +275,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-16 19:32: feat(api): add retry policy with exponential backoff
 - 2025-06-18 13:25: feat(logger): introduce structured json formatting
 - 2025-06-18 20:50: feat(auth): add bearer token header validation helper
+- 2025-06-18 23:17: docs: document configuration parameters and overrides
