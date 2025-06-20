@@ -277,3 +277,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-18 20:50: feat(auth): add bearer token header validation helper
 - 2025-06-18 23:17: docs: document configuration parameters and overrides
 - 2025-06-19 23:19: chore: configure pre-commit hooks and linter rules
+- 2025-06-20 12:06: refactor(core): streamline worker initialization sequence
