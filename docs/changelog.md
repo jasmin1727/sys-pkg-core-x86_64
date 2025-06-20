@@ -281,3 +281,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-20 15:21: feat(scheduler): support cron-like job scheduling intervals
 - 2025-06-20 19:12: feat(auth): add bearer token header validation helper
 - 2025-06-20 19:50: refactor(cache): unify cache interface across backends
+- 2025-06-20 20:54: feat(context): propagate request trace id across coroutines
