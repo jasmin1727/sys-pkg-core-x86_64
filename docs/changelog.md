@@ -285,3 +285,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-20 21:49: docs: add architecture overview and system flow diagram
 - 2025-06-20 22:01: docs: add architecture overview and system flow diagram
 - 2025-06-21 10:34: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2025-06-21 17:35: feat(config): add dynamic environment variable resolver
