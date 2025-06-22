@@ -292,3 +292,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-22 10:23: test(core): add coverage for worker crash recovery
 - 2025-06-22 12:07: feat(events): implement publish-subscribe message bus
 - 2025-06-22 13:34: feat(core): implement async task worker pool
+- 2025-06-22 19:56: feat(rate-limit): implement token bucket rate limiting algorithm
