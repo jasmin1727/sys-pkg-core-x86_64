@@ -294,3 +294,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-22 13:34: feat(core): implement async task worker pool
 - 2025-06-22 19:56: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2025-06-22 20:11: feat(metrics): track request latency and error counters
+- 2025-06-22 21:17: refactor(core): streamline worker initialization sequence
