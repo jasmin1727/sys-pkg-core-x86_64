@@ -300,3 +300,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-23 18:27: chore: update dependency versions in package lock
 - 2025-06-23 21:08: feat(config): add dynamic environment variable resolver
 - 2025-06-23 21:14: test(storage): verify concurrency safety with thread pool
+- 2025-06-24 13:37: test(parser): add test cases for malformed inputs
