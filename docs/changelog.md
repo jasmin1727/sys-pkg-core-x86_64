@@ -304,3 +304,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-24 13:44: refactor(storage): separate in-memory cache from persistence layer
 - 2025-06-24 13:51: fix(parser): resolve unexpected EOF when reading stream
 - 2025-06-24 14:36: feat(stream): add chunked data stream reader
+- 2025-06-24 19:38: refactor(storage): separate in-memory cache from persistence layer
