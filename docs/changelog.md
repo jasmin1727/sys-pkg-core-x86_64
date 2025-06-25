@@ -308,3 +308,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-25 15:12: feat(config): add dynamic environment variable resolver
 - 2025-06-25 16:41: fix(storage): correct file descriptor leak on close
 - 2025-06-25 17:10: fix(core): handle race condition during worker shutdown
+- 2025-06-25 17:48: chore: configure pre-commit hooks and linter rules
