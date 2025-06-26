@@ -313,3 +313,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-26 14:53: fix(parser): resolve unexpected EOF when reading stream
 - 2025-06-26 16:02: refactor(core): streamline worker initialization sequence
 - 2025-06-26 17:24: refactor(cache): unify cache interface across backends
+- 2025-06-26 17:52: feat(cache): implement adaptive LRU cache with TTL expiry
