@@ -311,3 +311,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-25 17:48: chore: configure pre-commit hooks and linter rules
 - 2025-06-26 11:22: feat(core): implement async task worker pool
 - 2025-06-26 14:53: fix(parser): resolve unexpected EOF when reading stream
+- 2025-06-26 16:02: refactor(core): streamline worker initialization sequence
