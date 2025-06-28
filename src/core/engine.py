@@ -338,3 +338,7 @@ def create_worker_pool(workers: int = 4):
 # Refactored worker lifecycle management
 
 # Refactored worker lifecycle management
+
+class EventBus:
+    '''In-memory publish-subscribe bus.'''
+    pass

@@ -318,3 +318,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-26 22:45: feat(config): add dynamic environment variable resolver
 - 2025-06-26 23:20: feat(logger): introduce structured json formatting
 - 2025-06-28 13:12: refactor(core): streamline worker initialization sequence
+- 2025-06-28 16:55: feat(events): implement publish-subscribe message bus
