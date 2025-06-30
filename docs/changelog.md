@@ -322,3 +322,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-28 19:11: feat(config): add dynamic environment variable resolver
 - 2025-06-30 12:04: feat(core): implement async task worker pool
 - 2025-06-30 14:58: fix(queue): acknowledge message after successful processing
+- 2025-06-30 18:53: fix(logger): prevent sensitive token leakage in debug logs
