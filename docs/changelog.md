@@ -325,3 +325,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-30 18:53: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-07-01 10:11: refactor(core): streamline worker initialization sequence
 - 2025-07-01 13:23: test(parser): add test cases for malformed inputs
+- 2025-07-01 22:18: test(storage): verify concurrency safety with thread pool
