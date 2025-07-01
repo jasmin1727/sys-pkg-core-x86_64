@@ -323,3 +323,4 @@ All notable changes and milestones are documented in this file.
 - 2025-06-30 12:04: feat(core): implement async task worker pool
 - 2025-06-30 14:58: fix(queue): acknowledge message after successful processing
 - 2025-06-30 18:53: fix(logger): prevent sensitive token leakage in debug logs
+- 2025-07-01 10:11: refactor(core): streamline worker initialization sequence
