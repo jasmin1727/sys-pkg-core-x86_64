@@ -327,3 +327,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-01 13:23: test(parser): add test cases for malformed inputs
 - 2025-07-01 22:18: test(storage): verify concurrency safety with thread pool
 - 2025-07-01 22:46: feat(context): propagate request trace id across coroutines
+- 2025-07-02 11:56: feat(config): add dynamic environment variable resolver
