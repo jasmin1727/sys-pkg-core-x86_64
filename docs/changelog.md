@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-02 17:36: docs: document configuration parameters and overrides
 - 2025-07-03 10:13: feat(validator): add schema validation for incoming events
 - 2025-07-03 10:19: perf: reduce allocations in serialization hot path
+- 2025-07-03 10:55: feat(rate-limit): implement token bucket rate limiting algorithm
