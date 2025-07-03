@@ -330,3 +330,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-02 11:56: feat(config): add dynamic environment variable resolver
 - 2025-07-02 12:47: fix(core): handle race condition during worker shutdown
 - 2025-07-02 17:36: docs: document configuration parameters and overrides
+- 2025-07-03 10:13: feat(validator): add schema validation for incoming events
