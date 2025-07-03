@@ -337,3 +337,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-03 13:53: fix(core): handle race condition during worker shutdown
 - 2025-07-03 14:01: feat(events): implement publish-subscribe message bus
 - 2025-07-03 14:46: feat(metrics): track request latency and error counters
+- 2025-07-03 16:14: feat(auth): add bearer token header validation helper
