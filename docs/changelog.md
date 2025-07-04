@@ -343,3 +343,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-03 21:43: fix(parser): resolve unexpected EOF when reading stream
 - 2025-07-03 21:57: fix(core): handle race condition during worker shutdown
 - 2025-07-03 22:10: feat(scheduler): support cron-like job scheduling intervals
+- 2025-07-04 14:15: docs: update API endpoints reference and sample requests
