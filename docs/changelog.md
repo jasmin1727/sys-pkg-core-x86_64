@@ -352,3 +352,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-06 15:08: feat(core): implement async task worker pool
 - 2025-07-06 17:34: feat(config): add dynamic environment variable resolver
 - 2025-07-06 18:04: refactor(utils): decompose monolithic string processing utility
+- 2025-07-06 18:25: fix(logger): prevent sensitive token leakage in debug logs
