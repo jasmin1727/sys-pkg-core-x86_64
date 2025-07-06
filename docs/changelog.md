@@ -354,3 +354,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-06 18:04: refactor(utils): decompose monolithic string processing utility
 - 2025-07-06 18:25: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-07-06 20:24: refactor(core): streamline worker initialization sequence
+- 2025-07-06 20:43: fix(storage): correct file descriptor leak on close
