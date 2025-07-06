@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-04 14:15: docs: update API endpoints reference and sample requests
 - 2025-07-05 14:04: feat(config): add dynamic environment variable resolver
 - 2025-07-06 10:45: refactor(cache): unify cache interface across backends
+- 2025-07-06 10:50: feat(rate-limit): implement token bucket rate limiting algorithm
