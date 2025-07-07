@@ -365,3 +365,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-07 16:58: feat(api): add retry policy with exponential backoff
 - 2025-07-07 20:29: fix(storage): correct file descriptor leak on close
 - 2025-07-07 21:14: docs: update setup instructions and prerequisites
+- 2025-07-07 21:27: fix(config): fallback to defaults when config key is missing
