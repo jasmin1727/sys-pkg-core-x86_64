@@ -362,3 +362,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-07 11:44: feat(validator): add schema validation for incoming events
 - 2025-07-07 16:30: docs: add architecture overview and system flow diagram
 - 2025-07-07 16:53: docs: update setup instructions and prerequisites
+- 2025-07-07 16:58: feat(api): add retry policy with exponential backoff
