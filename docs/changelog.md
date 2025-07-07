@@ -358,3 +358,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-06 22:03: feat(core): implement async task worker pool
 - 2025-07-06 22:36: feat(api): add retry policy with exponential backoff
 - 2025-07-06 22:51: chore: configure pre-commit hooks and linter rules
+- 2025-07-07 10:42: docs: update setup instructions and prerequisites
