@@ -371,3 +371,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-09 11:16: fix(cache): resolve cache key collision for compound queries
 - 2025-07-09 11:17: docs: update API endpoints reference and sample requests
 - 2025-07-09 19:01: test(storage): verify concurrency safety with thread pool
+- 2025-07-09 20:41: test(parser): add test cases for malformed inputs
