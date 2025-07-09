@@ -369,3 +369,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-09 10:13: feat(core): implement async task worker pool
 - 2025-07-09 11:10: chore: update dependency versions in package lock
 - 2025-07-09 11:16: fix(cache): resolve cache key collision for compound queries
+- 2025-07-09 11:17: docs: update API endpoints reference and sample requests
