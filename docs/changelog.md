@@ -372,3 +372,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-09 11:17: docs: update API endpoints reference and sample requests
 - 2025-07-09 19:01: test(storage): verify concurrency safety with thread pool
 - 2025-07-09 20:41: test(parser): add test cases for malformed inputs
+- 2025-07-11 12:43: feat(core): implement async task worker pool
