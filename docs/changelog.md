@@ -377,3 +377,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-11 14:45: feat(storage): implement disk-backed key-value cache
 - 2025-07-11 15:01: feat(validator): add schema validation for incoming events
 - 2025-07-11 16:12: refactor(storage): separate in-memory cache from persistence layer
+- 2025-07-11 22:09: docs: add architecture overview and system flow diagram
