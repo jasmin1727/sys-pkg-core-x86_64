@@ -382,3 +382,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-12 13:15: feat(stream): add chunked data stream reader
 - 2025-07-12 19:55: feat(api): add retry policy with exponential backoff
 - 2025-07-12 20:18: docs: update setup instructions and prerequisites
+- 2025-07-12 22:04: fix(config): fallback to defaults when config key is missing
