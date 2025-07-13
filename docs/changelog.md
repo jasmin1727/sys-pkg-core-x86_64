@@ -386,3 +386,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-12 22:09: feat(validator): add schema validation for incoming events
 - 2025-07-13 16:05: style: enforce consistent docstring and code formatting
 - 2025-07-13 16:20: test(core): add coverage for worker crash recovery
+- 2025-07-13 19:54: feat(scheduler): support cron-like job scheduling intervals
