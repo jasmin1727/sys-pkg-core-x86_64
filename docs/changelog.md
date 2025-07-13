@@ -387,3 +387,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-13 16:05: style: enforce consistent docstring and code formatting
 - 2025-07-13 16:20: test(core): add coverage for worker crash recovery
 - 2025-07-13 19:54: feat(scheduler): support cron-like job scheduling intervals
+- 2025-07-13 20:01: fix(queue): acknowledge message after successful processing
