@@ -391,3 +391,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-13 21:25: docs: add architecture overview and system flow diagram
 - 2025-07-13 21:44: fix(core): handle race condition during worker shutdown
 - 2025-07-14 13:28: fix(schema): resolve null value parsing in payload
+- 2025-07-14 17:33: refactor(cache): unify cache interface across backends
