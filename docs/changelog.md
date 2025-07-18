@@ -395,3 +395,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-14 19:48: fix(core): handle race condition during worker shutdown
 - 2025-07-14 22:42: feat(metrics): track request latency and error counters
 - 2025-07-17 12:30: feat(context): propagate request trace id across coroutines
+- 2025-07-18 10:08: feat(scheduler): support cron-like job scheduling intervals
