@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-18 12:57: docs: update setup instructions and prerequisites
 - 2025-07-18 13:24: refactor: optimize module imports and remove unused dependencies
 - 2025-07-18 14:15: feat(context): propagate request trace id across coroutines
+- 2025-07-18 16:22: feat(api): add retry policy with exponential backoff
