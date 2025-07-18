@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-17 12:30: feat(context): propagate request trace id across coroutines
 - 2025-07-18 10:08: feat(scheduler): support cron-like job scheduling intervals
 - 2025-07-18 11:13: feat(metrics): track request latency and error counters
+- 2025-07-18 12:57: docs: update setup instructions and prerequisites
