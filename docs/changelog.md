@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-18 14:15: feat(context): propagate request trace id across coroutines
 - 2025-07-18 16:22: feat(api): add retry policy with exponential backoff
 - 2025-07-18 18:32: refactor(cache): unify cache interface across backends
+- 2025-07-18 22:35: feat(events): implement publish-subscribe message bus
