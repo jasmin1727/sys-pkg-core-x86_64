@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-18 22:35: feat(events): implement publish-subscribe message bus
 - 2025-07-19 10:04: test(parser): add test cases for malformed inputs
 - 2025-07-19 14:42: feat(events): implement publish-subscribe message bus
+- 2025-07-19 16:13: fix(config): fallback to defaults when config key is missing
