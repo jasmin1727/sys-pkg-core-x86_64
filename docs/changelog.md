@@ -268,3 +268,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-19 19:20: feat(stream): add chunked data stream reader
 - 2025-07-20 10:05: test(storage): verify concurrency safety with thread pool
 - 2025-07-20 11:17: refactor: optimize module imports and remove unused dependencies
+- 2025-07-20 12:10: refactor(storage): separate in-memory cache from persistence layer
