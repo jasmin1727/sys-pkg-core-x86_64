@@ -270,3 +270,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-20 11:17: refactor: optimize module imports and remove unused dependencies
 - 2025-07-20 12:10: refactor(storage): separate in-memory cache from persistence layer
 - 2025-07-20 14:07: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2025-07-20 18:18: feat(parser): add support for nested json payloads
