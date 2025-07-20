@@ -266,3 +266,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-19 14:42: feat(events): implement publish-subscribe message bus
 - 2025-07-19 16:13: fix(config): fallback to defaults when config key is missing
 - 2025-07-19 19:20: feat(stream): add chunked data stream reader
+- 2025-07-20 10:05: test(storage): verify concurrency safety with thread pool
