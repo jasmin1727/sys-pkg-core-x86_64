@@ -272,3 +272,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-20 14:07: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-07-20 18:18: feat(parser): add support for nested json payloads
 - 2025-07-20 18:55: feat(storage): implement disk-backed key-value cache
+- 2025-07-20 19:14: feat(scheduler): support cron-like job scheduling intervals
