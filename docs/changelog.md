@@ -279,3 +279,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-20 22:19: feat(config): add dynamic environment variable resolver
 - 2025-07-21 12:19: feat(logger): introduce structured json formatting
 - 2025-07-21 15:35: perf: reduce allocations in serialization hot path
+- 2025-07-21 22:20: refactor(utils): decompose monolithic string processing utility
