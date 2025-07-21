@@ -277,3 +277,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-20 21:32: refactor(utils): decompose monolithic string processing utility
 - 2025-07-20 21:42: feat(core): implement async task worker pool
 - 2025-07-20 22:19: feat(config): add dynamic environment variable resolver
+- 2025-07-21 12:19: feat(logger): introduce structured json formatting
