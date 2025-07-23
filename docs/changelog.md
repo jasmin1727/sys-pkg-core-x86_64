@@ -283,3 +283,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-23 11:37: chore: update dependency versions in package lock
 - 2025-07-23 16:57: feat(logger): introduce structured json formatting
 - 2025-07-23 17:12: feat(validator): add schema validation for incoming events
+- 2025-07-23 20:14: feat(stream): add chunked data stream reader
