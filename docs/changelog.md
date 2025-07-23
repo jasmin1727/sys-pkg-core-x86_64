@@ -281,3 +281,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-21 15:35: perf: reduce allocations in serialization hot path
 - 2025-07-21 22:20: refactor(utils): decompose monolithic string processing utility
 - 2025-07-23 11:37: chore: update dependency versions in package lock
+- 2025-07-23 16:57: feat(logger): introduce structured json formatting
