@@ -288,3 +288,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-24 11:20: test(parser): add test cases for malformed inputs
 - 2025-07-24 11:33: docs: update setup instructions and prerequisites
 - 2025-07-24 14:53: feat(parser): add support for nested json payloads
+- 2025-07-24 15:20: feat(api): add retry policy with exponential backoff
