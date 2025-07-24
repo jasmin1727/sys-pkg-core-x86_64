@@ -287,3 +287,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-23 22:18: fix(schema): resolve null value parsing in payload
 - 2025-07-24 11:20: test(parser): add test cases for malformed inputs
 - 2025-07-24 11:33: docs: update setup instructions and prerequisites
+- 2025-07-24 14:53: feat(parser): add support for nested json payloads
