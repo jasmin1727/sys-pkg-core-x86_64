@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-24 14:53: feat(parser): add support for nested json payloads
 - 2025-07-24 15:20: feat(api): add retry policy with exponential backoff
 - 2025-07-24 21:51: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2025-07-24 22:17: fix(parser): resolve unexpected EOF when reading stream
