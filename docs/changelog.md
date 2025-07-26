@@ -303,3 +303,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-26 19:57: test(core): add coverage for worker crash recovery
 - 2025-07-26 21:19: test(cache): assert eviction behavior under memory pressure
 - 2025-07-26 22:14: feat(scheduler): support cron-like job scheduling intervals
+- 2025-07-26 23:02: feat(cache): implement adaptive LRU cache with TTL expiry
