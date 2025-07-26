@@ -297,3 +297,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-25 14:39: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2025-07-25 14:47: fix(schema): resolve null value parsing in payload
 - 2025-07-25 19:52: chore: configure pre-commit hooks and linter rules
+- 2025-07-26 14:56: feat(validator): add schema validation for incoming events
