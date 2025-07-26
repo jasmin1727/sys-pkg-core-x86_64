@@ -300,3 +300,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-26 14:56: feat(validator): add schema validation for incoming events
 - 2025-07-26 16:50: feat(stream): add chunked data stream reader
 - 2025-07-26 18:27: docs: update API endpoints reference and sample requests
+- 2025-07-26 19:57: test(core): add coverage for worker crash recovery
