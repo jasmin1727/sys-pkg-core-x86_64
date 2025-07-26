@@ -302,3 +302,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-26 18:27: docs: update API endpoints reference and sample requests
 - 2025-07-26 19:57: test(core): add coverage for worker crash recovery
 - 2025-07-26 21:19: test(cache): assert eviction behavior under memory pressure
+- 2025-07-26 22:14: feat(scheduler): support cron-like job scheduling intervals
