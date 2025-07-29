@@ -317,3 +317,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-29 14:34: refactor(utils): decompose monolithic string processing utility
 - 2025-07-29 16:37: refactor: optimize module imports and remove unused dependencies
 - 2025-07-29 18:05: refactor(utils): decompose monolithic string processing utility
+- 2025-07-29 19:52: refactor(core): streamline worker initialization sequence
