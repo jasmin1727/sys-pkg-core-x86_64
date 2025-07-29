@@ -314,3 +314,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-28 22:33: fix(parser): resolve unexpected EOF when reading stream
 - 2025-07-29 10:36: fix(cache): resolve cache key collision for compound queries
 - 2025-07-29 14:24: fix(schema): resolve null value parsing in payload
+- 2025-07-29 14:34: refactor(utils): decompose monolithic string processing utility
