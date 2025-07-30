@@ -320,3 +320,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-29 19:52: refactor(core): streamline worker initialization sequence
 - 2025-07-30 10:25: docs: update API endpoints reference and sample requests
 - 2025-07-30 10:54: refactor: optimize module imports and remove unused dependencies
+- 2025-07-30 11:09: feat(storage): implement disk-backed key-value cache
