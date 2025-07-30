@@ -324,3 +324,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-30 12:28: fix(queue): acknowledge message after successful processing
 - 2025-07-30 13:28: refactor: optimize module imports and remove unused dependencies
 - 2025-07-30 13:57: test(core): add coverage for worker crash recovery
+- 2025-07-30 13:59: refactor(core): streamline worker initialization sequence
