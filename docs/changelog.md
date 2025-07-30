@@ -326,3 +326,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-30 13:57: test(core): add coverage for worker crash recovery
 - 2025-07-30 13:59: refactor(core): streamline worker initialization sequence
 - 2025-07-30 16:48: refactor(cache): unify cache interface across backends
+- 2025-07-30 17:33: feat(stream): add chunked data stream reader
