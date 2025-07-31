@@ -335,3 +335,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-31 10:30: fix(schema): resolve null value parsing in payload
 - 2025-07-31 13:19: fix(storage): correct file descriptor leak on close
 - 2025-07-31 21:10: docs: add architecture overview and system flow diagram
+- 2025-07-31 22:41: fix(schema): resolve null value parsing in payload
