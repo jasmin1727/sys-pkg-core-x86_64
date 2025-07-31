@@ -331,3 +331,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-30 22:02: docs: add architecture overview and system flow diagram
 - 2025-07-30 22:50: fix(cache): resolve cache key collision for compound queries
 - 2025-07-30 23:07: fix(cache): resolve cache key collision for compound queries
+- 2025-07-31 10:18: refactor(cache): unify cache interface across backends
