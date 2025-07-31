@@ -333,3 +333,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-30 23:07: fix(cache): resolve cache key collision for compound queries
 - 2025-07-31 10:18: refactor(cache): unify cache interface across backends
 - 2025-07-31 10:30: fix(schema): resolve null value parsing in payload
+- 2025-07-31 13:19: fix(storage): correct file descriptor leak on close
