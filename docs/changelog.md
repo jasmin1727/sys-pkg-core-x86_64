@@ -337,3 +337,4 @@ All notable changes and milestones are documented in this file.
 - 2025-07-31 21:10: docs: add architecture overview and system flow diagram
 - 2025-07-31 22:41: fix(schema): resolve null value parsing in payload
 - 2025-08-01 10:15: feat(parser): add support for nested json payloads
+- 2025-08-01 12:21: feat(events): implement publish-subscribe message bus
