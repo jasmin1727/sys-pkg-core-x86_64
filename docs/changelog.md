@@ -339,3 +339,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-01 10:15: feat(parser): add support for nested json payloads
 - 2025-08-01 12:21: feat(events): implement publish-subscribe message bus
 - 2025-08-01 20:07: feat(api): add retry policy with exponential backoff
+- 2025-08-01 22:52: feat(core): implement async task worker pool
