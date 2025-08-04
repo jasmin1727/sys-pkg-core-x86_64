@@ -340,3 +340,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-01 12:21: feat(events): implement publish-subscribe message bus
 - 2025-08-01 20:07: feat(api): add retry policy with exponential backoff
 - 2025-08-01 22:52: feat(core): implement async task worker pool
+- 2025-08-04 15:05: fix(queue): acknowledge message after successful processing
