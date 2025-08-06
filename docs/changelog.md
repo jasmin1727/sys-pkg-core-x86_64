@@ -347,3 +347,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-06 13:03: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-08-06 18:41: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-08-06 19:32: feat(auth): add bearer token header validation helper
+- 2025-08-06 22:21: docs: update API endpoints reference and sample requests
