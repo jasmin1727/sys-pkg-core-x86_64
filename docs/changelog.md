@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-04 15:46: fix(core): handle race condition during worker shutdown
 - 2025-08-04 16:35: test(core): add coverage for worker crash recovery
 - 2025-08-04 18:33: test(storage): verify concurrency safety with thread pool
+- 2025-08-06 13:03: fix(logger): prevent sensitive token leakage in debug logs
