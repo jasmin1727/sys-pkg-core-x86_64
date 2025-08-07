@@ -352,3 +352,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-07 12:35: test(cache): assert eviction behavior under memory pressure
 - 2025-08-07 14:27: feat(validator): add schema validation for incoming events
 - 2025-08-07 17:03: fix(cache): resolve cache key collision for compound queries
+- 2025-08-07 20:55: fix(parser): resolve unexpected EOF when reading stream
