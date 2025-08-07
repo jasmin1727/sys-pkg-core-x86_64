@@ -350,3 +350,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-06 22:21: docs: update API endpoints reference and sample requests
 - 2025-08-07 10:14: docs: document configuration parameters and overrides
 - 2025-08-07 12:35: test(cache): assert eviction behavior under memory pressure
+- 2025-08-07 14:27: feat(validator): add schema validation for incoming events
