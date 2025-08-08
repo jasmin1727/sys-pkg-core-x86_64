@@ -353,3 +353,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-07 14:27: feat(validator): add schema validation for incoming events
 - 2025-08-07 17:03: fix(cache): resolve cache key collision for compound queries
 - 2025-08-07 20:55: fix(parser): resolve unexpected EOF when reading stream
+- 2025-08-08 10:29: feat(parser): add support for nested json payloads
