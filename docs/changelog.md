@@ -359,3 +359,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-08 16:49: feat(parser): add support for nested json payloads
 - 2025-08-09 10:08: feat(config): add dynamic environment variable resolver
 - 2025-08-09 13:12: fix(cache): resolve cache key collision for compound queries
+- 2025-08-09 18:50: feat(logger): introduce structured json formatting
