@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-08 10:42: test(cache): assert eviction behavior under memory pressure
 - 2025-08-08 15:03: refactor: optimize module imports and remove unused dependencies
 - 2025-08-08 16:49: feat(parser): add support for nested json payloads
+- 2025-08-09 10:08: feat(config): add dynamic environment variable resolver
