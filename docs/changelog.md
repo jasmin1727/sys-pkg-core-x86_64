@@ -361,3 +361,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-09 13:12: fix(cache): resolve cache key collision for compound queries
 - 2025-08-09 18:50: feat(logger): introduce structured json formatting
 - 2025-08-09 20:19: refactor: optimize module imports and remove unused dependencies
+- 2025-08-10 19:15: test(core): add coverage for worker crash recovery
