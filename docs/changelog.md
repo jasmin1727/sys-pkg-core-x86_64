@@ -367,3 +367,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-12 14:16: fix(schema): resolve null value parsing in payload
 - 2025-08-12 14:25: feat(api): add retry policy with exponential backoff
 - 2025-08-12 14:38: refactor(utils): decompose monolithic string processing utility
+- 2025-08-12 15:25: docs: update API endpoints reference and sample requests
