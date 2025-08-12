@@ -374,3 +374,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-12 17:44: docs: add architecture overview and system flow diagram
 - 2025-08-12 18:28: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-08-12 20:07: refactor: optimize module imports and remove unused dependencies
+- 2025-08-12 20:28: fix(storage): correct file descriptor leak on close
