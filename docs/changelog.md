@@ -372,3 +372,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-12 16:39: docs: document configuration parameters and overrides
 - 2025-08-12 17:35: feat(events): implement publish-subscribe message bus
 - 2025-08-12 17:44: docs: add architecture overview and system flow diagram
+- 2025-08-12 18:28: feat(cache): implement adaptive LRU cache with TTL expiry
