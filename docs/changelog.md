@@ -370,3 +370,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-12 15:25: docs: update API endpoints reference and sample requests
 - 2025-08-12 16:06: fix(schema): resolve null value parsing in payload
 - 2025-08-12 16:39: docs: document configuration parameters and overrides
+- 2025-08-12 17:35: feat(events): implement publish-subscribe message bus
