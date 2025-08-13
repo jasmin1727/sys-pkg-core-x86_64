@@ -380,3 +380,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-13 19:48: test(core): add coverage for worker crash recovery
 - 2025-08-13 20:27: refactor(utils): decompose monolithic string processing utility
 - 2025-08-13 21:16: fix(cache): resolve cache key collision for compound queries
+- 2025-08-13 22:57: feat(cache): implement adaptive LRU cache with TTL expiry
