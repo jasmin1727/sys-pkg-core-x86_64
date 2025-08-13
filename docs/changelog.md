@@ -376,3 +376,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-12 20:07: refactor: optimize module imports and remove unused dependencies
 - 2025-08-12 20:28: fix(storage): correct file descriptor leak on close
 - 2025-08-12 21:38: feat(api): add retry policy with exponential backoff
+- 2025-08-13 18:51: docs: add architecture overview and system flow diagram
