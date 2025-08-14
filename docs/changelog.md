@@ -382,3 +382,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-13 21:16: fix(cache): resolve cache key collision for compound queries
 - 2025-08-13 22:57: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-08-14 10:59: fix(config): fallback to defaults when config key is missing
+- 2025-08-14 12:46: chore: update dependency versions in package lock
