@@ -385,3 +385,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-14 12:46: chore: update dependency versions in package lock
 - 2025-08-14 14:39: fix(storage): correct file descriptor leak on close
 - 2025-08-14 19:50: fix(logger): prevent sensitive token leakage in debug logs
+- 2025-08-14 22:29: feat(parser): add support for nested json payloads
