@@ -388,3 +388,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-14 22:29: feat(parser): add support for nested json payloads
 - 2025-08-15 11:10: refactor(storage): separate in-memory cache from persistence layer
 - 2025-08-16 12:55: fix(logger): prevent sensitive token leakage in debug logs
+- 2025-08-16 20:06: fix(config): fallback to defaults when config key is missing
