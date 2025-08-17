@@ -390,3 +390,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-16 12:55: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-08-16 20:06: fix(config): fallback to defaults when config key is missing
 - 2025-08-17 10:59: feat(context): propagate request trace id across coroutines
+- 2025-08-17 12:33: fix(queue): acknowledge message after successful processing
