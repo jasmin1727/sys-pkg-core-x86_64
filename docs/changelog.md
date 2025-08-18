@@ -260,3 +260,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-18 13:53: refactor(storage): separate in-memory cache from persistence layer
 - 2025-08-18 14:10: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2025-08-18 17:11: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2025-08-18 19:42: fix(cache): resolve cache key collision for compound queries
