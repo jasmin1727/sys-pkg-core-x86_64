@@ -269,3 +269,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-19 14:40: fix(schema): resolve null value parsing in payload
 - 2025-08-20 14:29: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2025-08-20 16:17: fix(logger): prevent sensitive token leakage in debug logs
+- 2025-08-20 17:09: feat(events): implement publish-subscribe message bus
