@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-18 21:18: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-08-18 22:04: fix(cache): resolve cache key collision for compound queries
 - 2025-08-19 14:40: fix(schema): resolve null value parsing in payload
+- 2025-08-20 14:29: feat(rate-limit): implement token bucket rate limiting algorithm
