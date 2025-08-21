@@ -272,3 +272,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-20 17:09: feat(events): implement publish-subscribe message bus
 - 2025-08-20 21:44: docs: update setup instructions and prerequisites
 - 2025-08-20 22:26: test(cache): assert eviction behavior under memory pressure
+- 2025-08-21 13:17: docs: add architecture overview and system flow diagram
