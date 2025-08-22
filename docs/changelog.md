@@ -277,3 +277,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-21 18:23: fix(config): fallback to defaults when config key is missing
 - 2025-08-21 19:20: feat(storage): implement disk-backed key-value cache
 - 2025-08-21 22:09: test(parser): add test cases for malformed inputs
+- 2025-08-22 21:38: fix(schema): resolve null value parsing in payload
