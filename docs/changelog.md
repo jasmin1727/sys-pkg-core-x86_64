@@ -282,3 +282,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-23 13:53: docs: add architecture overview and system flow diagram
 - 2025-08-24 16:41: feat(events): implement publish-subscribe message bus
 - 2025-08-24 20:26: fix(logger): prevent sensitive token leakage in debug logs
+- 2025-08-24 22:53: feat(storage): implement disk-backed key-value cache
