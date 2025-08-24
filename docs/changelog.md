@@ -283,3 +283,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-24 16:41: feat(events): implement publish-subscribe message bus
 - 2025-08-24 20:26: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-08-24 22:53: feat(storage): implement disk-backed key-value cache
+- 2025-08-24 23:23: fix(core): handle race condition during worker shutdown
