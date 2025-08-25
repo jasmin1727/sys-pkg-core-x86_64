@@ -288,3 +288,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-25 10:30: feat(api): add retry policy with exponential backoff
 - 2025-08-25 10:36: docs: add architecture overview and system flow diagram
 - 2025-08-25 10:38: feat(logger): introduce structured json formatting
+- 2025-08-25 13:30: refactor(cache): unify cache interface across backends
