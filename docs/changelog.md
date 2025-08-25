@@ -285,3 +285,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-24 22:53: feat(storage): implement disk-backed key-value cache
 - 2025-08-24 23:23: fix(core): handle race condition during worker shutdown
 - 2025-08-25 10:20: feat(logger): introduce structured json formatting
+- 2025-08-25 10:30: feat(api): add retry policy with exponential backoff
