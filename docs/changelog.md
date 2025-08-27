@@ -295,3 +295,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-25 22:53: refactor: optimize module imports and remove unused dependencies
 - 2025-08-26 18:36: feat(storage): implement disk-backed key-value cache
 - 2025-08-27 12:47: docs: update API endpoints reference and sample requests
+- 2025-08-27 12:57: test(parser): add test cases for malformed inputs
