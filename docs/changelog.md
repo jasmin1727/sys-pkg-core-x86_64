@@ -297,3 +297,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-27 12:47: docs: update API endpoints reference and sample requests
 - 2025-08-27 12:57: test(parser): add test cases for malformed inputs
 - 2025-08-27 15:51: fix(cache): resolve cache key collision for compound queries
+- 2025-08-27 19:31: fix(schema): resolve null value parsing in payload
