@@ -301,3 +301,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-27 22:11: feat(parser): add support for nested json payloads
 - 2025-08-28 10:21: feat(config): add dynamic environment variable resolver
 - 2025-08-28 15:49: fix(config): fallback to defaults when config key is missing
+- 2025-08-28 22:11: docs: add architecture overview and system flow diagram
