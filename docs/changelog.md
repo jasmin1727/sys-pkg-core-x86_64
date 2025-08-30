@@ -303,3 +303,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-28 15:49: fix(config): fallback to defaults when config key is missing
 - 2025-08-28 22:11: docs: add architecture overview and system flow diagram
 - 2025-08-30 11:21: refactor: optimize module imports and remove unused dependencies
+- 2025-08-30 23:09: fix(parser): resolve unexpected EOF when reading stream
