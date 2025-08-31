@@ -307,3 +307,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-31 12:41: docs: update setup instructions and prerequisites
 - 2025-08-31 15:24: docs: document configuration parameters and overrides
 - 2025-08-31 18:50: style: enforce consistent docstring and code formatting
+- 2025-08-31 20:50: refactor(storage): separate in-memory cache from persistence layer
