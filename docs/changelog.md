@@ -304,3 +304,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-28 22:11: docs: add architecture overview and system flow diagram
 - 2025-08-30 11:21: refactor: optimize module imports and remove unused dependencies
 - 2025-08-30 23:09: fix(parser): resolve unexpected EOF when reading stream
+- 2025-08-31 12:41: docs: update setup instructions and prerequisites
