@@ -310,3 +310,4 @@ All notable changes and milestones are documented in this file.
 - 2025-08-31 20:50: refactor(storage): separate in-memory cache from persistence layer
 - 2025-09-01 11:32: refactor(storage): separate in-memory cache from persistence layer
 - 2025-09-01 11:56: fix(schema): resolve null value parsing in payload
+- 2025-09-01 15:59: fix(logger): prevent sensitive token leakage in debug logs
