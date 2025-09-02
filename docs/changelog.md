@@ -312,3 +312,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-01 11:56: fix(schema): resolve null value parsing in payload
 - 2025-09-01 15:59: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-09-01 22:25: docs: update API endpoints reference and sample requests
+- 2025-09-02 13:41: fix(queue): acknowledge message after successful processing
