@@ -317,3 +317,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-03 16:28: feat(events): implement publish-subscribe message bus
 - 2025-09-03 16:54: feat(auth): add bearer token header validation helper
 - 2025-09-03 17:13: refactor(cache): unify cache interface across backends
+- 2025-09-03 17:14: feat(api): add retry policy with exponential backoff
