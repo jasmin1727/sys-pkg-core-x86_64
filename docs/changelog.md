@@ -316,3 +316,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-02 20:55: feat(core): implement async task worker pool
 - 2025-09-03 16:28: feat(events): implement publish-subscribe message bus
 - 2025-09-03 16:54: feat(auth): add bearer token header validation helper
+- 2025-09-03 17:13: refactor(cache): unify cache interface across backends
