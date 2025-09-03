@@ -320,3 +320,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-03 17:14: feat(api): add retry policy with exponential backoff
 - 2025-09-03 18:05: perf: reduce allocations in serialization hot path
 - 2025-09-03 18:59: feat(context): propagate request trace id across coroutines
+- 2025-09-03 21:05: feat(context): propagate request trace id across coroutines
