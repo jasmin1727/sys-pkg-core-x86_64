@@ -315,3 +315,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-02 13:41: fix(queue): acknowledge message after successful processing
 - 2025-09-02 20:55: feat(core): implement async task worker pool
 - 2025-09-03 16:28: feat(events): implement publish-subscribe message bus
+- 2025-09-03 16:54: feat(auth): add bearer token header validation helper
