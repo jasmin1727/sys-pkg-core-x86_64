@@ -323,3 +323,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-03 21:05: feat(context): propagate request trace id across coroutines
 - 2025-09-04 10:33: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-09-04 12:14: refactor(core): streamline worker initialization sequence
+- 2025-09-04 13:59: perf: reduce allocations in serialization hot path
