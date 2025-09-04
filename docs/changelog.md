@@ -326,3 +326,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-04 13:59: perf: reduce allocations in serialization hot path
 - 2025-09-04 14:32: fix(core): handle race condition during worker shutdown
 - 2025-09-04 17:12: feat(config): add dynamic environment variable resolver
+- 2025-09-04 17:38: docs: add architecture overview and system flow diagram
