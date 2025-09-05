@@ -330,3 +330,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-04 18:07: feat(metrics): track request latency and error counters
 - 2025-09-04 21:16: refactor: optimize module imports and remove unused dependencies
 - 2025-09-05 14:22: feat(parser): add support for nested json payloads
+- 2025-09-05 14:52: feat(stream): add chunked data stream reader
