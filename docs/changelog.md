@@ -336,3 +336,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-05 21:38: chore: configure pre-commit hooks and linter rules
 - 2025-09-06 11:18: test(storage): verify concurrency safety with thread pool
 - 2025-09-06 12:51: test(cache): assert eviction behavior under memory pressure
+- 2025-09-06 14:31: feat(context): propagate request trace id across coroutines
