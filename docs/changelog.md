@@ -339,3 +339,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-06 14:31: feat(context): propagate request trace id across coroutines
 - 2025-09-07 10:56: style: enforce consistent docstring and code formatting
 - 2025-09-07 14:08: fix(parser): resolve unexpected EOF when reading stream
+- 2025-09-07 15:12: test(core): add coverage for worker crash recovery
