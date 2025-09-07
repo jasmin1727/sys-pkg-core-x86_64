@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-07 16:44: fix(schema): resolve null value parsing in payload
 - 2025-09-07 18:32: docs: document configuration parameters and overrides
 - 2025-09-07 20:01: feat(scheduler): support cron-like job scheduling intervals
+- 2025-09-07 20:26: test(parser): add test cases for malformed inputs
