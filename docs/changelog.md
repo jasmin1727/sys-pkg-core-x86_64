@@ -340,3 +340,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-07 10:56: style: enforce consistent docstring and code formatting
 - 2025-09-07 14:08: fix(parser): resolve unexpected EOF when reading stream
 - 2025-09-07 15:12: test(core): add coverage for worker crash recovery
+- 2025-09-07 15:49: refactor(utils): decompose monolithic string processing utility
