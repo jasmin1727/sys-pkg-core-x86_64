@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-07 20:01: feat(scheduler): support cron-like job scheduling intervals
 - 2025-09-07 20:26: test(parser): add test cases for malformed inputs
 - 2025-09-07 21:13: fix(storage): correct file descriptor leak on close
+- 2025-09-07 22:45: feat(metrics): track request latency and error counters
