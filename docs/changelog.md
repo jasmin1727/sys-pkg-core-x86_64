@@ -348,3 +348,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-07 21:13: fix(storage): correct file descriptor leak on close
 - 2025-09-07 22:45: feat(metrics): track request latency and error counters
 - 2025-09-09 19:34: test(core): add coverage for worker crash recovery
+- 2025-09-09 22:32: feat(validator): add schema validation for incoming events
