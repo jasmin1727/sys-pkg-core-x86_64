@@ -351,3 +351,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-09 22:32: feat(validator): add schema validation for incoming events
 - 2025-09-10 11:32: docs: add architecture overview and system flow diagram
 - 2025-09-10 11:39: fix(parser): resolve unexpected EOF when reading stream
+- 2025-09-10 12:38: fix(cache): resolve cache key collision for compound queries
