@@ -356,3 +356,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-11 15:21: test(parser): add test cases for malformed inputs
 - 2025-09-11 19:27: chore: update dependency versions in package lock
 - 2025-09-11 22:58: fix(cache): resolve cache key collision for compound queries
+- 2025-09-12 12:12: test(cache): assert eviction behavior under memory pressure
