@@ -359,3 +359,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-12 12:12: test(cache): assert eviction behavior under memory pressure
 - 2025-09-12 12:14: feat(storage): implement disk-backed key-value cache
 - 2025-09-12 19:21: feat(logger): introduce structured json formatting
+- 2025-09-13 11:24: refactor(cache): unify cache interface across backends
