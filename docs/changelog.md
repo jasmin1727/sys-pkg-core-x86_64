@@ -361,3 +361,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-12 19:21: feat(logger): introduce structured json formatting
 - 2025-09-13 11:24: refactor(cache): unify cache interface across backends
 - 2025-09-13 13:22: fix(logger): prevent sensitive token leakage in debug logs
+- 2025-09-14 10:12: fix(cache): resolve cache key collision for compound queries
