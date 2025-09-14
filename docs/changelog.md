@@ -364,3 +364,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-14 10:12: fix(cache): resolve cache key collision for compound queries
 - 2025-09-14 15:02: fix(schema): resolve null value parsing in payload
 - 2025-09-14 17:18: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2025-09-14 20:19: test(core): add coverage for worker crash recovery
