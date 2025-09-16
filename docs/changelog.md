@@ -367,3 +367,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-14 20:19: test(core): add coverage for worker crash recovery
 - 2025-09-14 20:34: feat(stream): add chunked data stream reader
 - 2025-09-14 22:05: refactor(cache): unify cache interface across backends
+- 2025-09-16 18:04: test(parser): add test cases for malformed inputs
