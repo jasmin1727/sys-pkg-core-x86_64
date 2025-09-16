@@ -369,3 +369,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-14 22:05: refactor(cache): unify cache interface across backends
 - 2025-09-16 18:04: test(parser): add test cases for malformed inputs
 - 2025-09-16 19:14: refactor(utils): decompose monolithic string processing utility
+- 2025-09-16 20:00: fix(queue): acknowledge message after successful processing
