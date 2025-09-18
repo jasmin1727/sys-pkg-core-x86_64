@@ -374,3 +374,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-16 21:48: fix(cache): resolve cache key collision for compound queries
 - 2025-09-18 18:36: feat(scheduler): support cron-like job scheduling intervals
 - 2025-09-18 21:47: fix(config): fallback to defaults when config key is missing
+- 2025-09-18 22:04: feat(rate-limit): implement token bucket rate limiting algorithm
