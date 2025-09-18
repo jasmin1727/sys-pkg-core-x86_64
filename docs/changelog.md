@@ -372,3 +372,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-16 20:00: fix(queue): acknowledge message after successful processing
 - 2025-09-16 21:01: test(cache): assert eviction behavior under memory pressure
 - 2025-09-16 21:48: fix(cache): resolve cache key collision for compound queries
+- 2025-09-18 18:36: feat(scheduler): support cron-like job scheduling intervals
