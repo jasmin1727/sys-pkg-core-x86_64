@@ -379,3 +379,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-18 22:23: fix(schema): resolve null value parsing in payload
 - 2025-09-19 12:59: refactor(utils): decompose monolithic string processing utility
 - 2025-09-20 14:25: test(core): add coverage for worker crash recovery
+- 2025-09-20 22:27: fix(cache): resolve cache key collision for compound queries
