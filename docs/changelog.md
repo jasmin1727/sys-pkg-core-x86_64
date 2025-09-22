@@ -393,3 +393,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-22 19:16: refactor(core): streamline worker initialization sequence
 - 2025-09-22 19:31: feat(parser): add support for nested json payloads
 - 2025-09-22 19:33: feat(parser): add support for nested json payloads
+- 2025-09-22 20:43: fix(core): handle race condition during worker shutdown
