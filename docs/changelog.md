@@ -383,3 +383,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-20 22:39: style: enforce consistent docstring and code formatting
 - 2025-09-22 10:19: chore: configure pre-commit hooks and linter rules
 - 2025-09-22 11:22: test(parser): add test cases for malformed inputs
+- 2025-09-22 14:38: feat(metrics): track request latency and error counters
