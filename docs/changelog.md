@@ -381,3 +381,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-20 14:25: test(core): add coverage for worker crash recovery
 - 2025-09-20 22:27: fix(cache): resolve cache key collision for compound queries
 - 2025-09-20 22:39: style: enforce consistent docstring and code formatting
+- 2025-09-22 10:19: chore: configure pre-commit hooks and linter rules
