@@ -386,3 +386,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-22 14:38: feat(metrics): track request latency and error counters
 - 2025-09-22 15:13: perf: reduce allocations in serialization hot path
 - 2025-09-22 15:23: refactor(core): streamline worker initialization sequence
+- 2025-09-22 15:50: fix(schema): resolve null value parsing in payload
