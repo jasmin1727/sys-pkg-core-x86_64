@@ -392,3 +392,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-22 18:44: fix(config): fallback to defaults when config key is missing
 - 2025-09-22 19:16: refactor(core): streamline worker initialization sequence
 - 2025-09-22 19:31: feat(parser): add support for nested json payloads
+- 2025-09-22 19:33: feat(parser): add support for nested json payloads
