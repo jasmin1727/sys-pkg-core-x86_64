@@ -388,3 +388,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-22 15:23: refactor(core): streamline worker initialization sequence
 - 2025-09-22 15:50: fix(schema): resolve null value parsing in payload
 - 2025-09-22 15:53: refactor(core): streamline worker initialization sequence
+- 2025-09-22 16:21: feat(config): add dynamic environment variable resolver
