@@ -385,3 +385,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-22 11:22: test(parser): add test cases for malformed inputs
 - 2025-09-22 14:38: feat(metrics): track request latency and error counters
 - 2025-09-22 15:13: perf: reduce allocations in serialization hot path
+- 2025-09-22 15:23: refactor(core): streamline worker initialization sequence
