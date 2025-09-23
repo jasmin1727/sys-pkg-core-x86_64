@@ -394,3 +394,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-22 19:31: feat(parser): add support for nested json payloads
 - 2025-09-22 19:33: feat(parser): add support for nested json payloads
 - 2025-09-22 20:43: fix(core): handle race condition during worker shutdown
+- 2025-09-23 15:46: fix(queue): acknowledge message after successful processing
