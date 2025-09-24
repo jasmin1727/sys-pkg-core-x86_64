@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-23 15:46: fix(queue): acknowledge message after successful processing
 - 2025-09-23 20:25: test(parser): add test cases for malformed inputs
 - 2025-09-23 20:59: feat(config): add dynamic environment variable resolver
+- 2025-09-24 10:28: feat(metrics): track request latency and error counters
