@@ -258,3 +258,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-23 20:59: feat(config): add dynamic environment variable resolver
 - 2025-09-24 10:28: feat(metrics): track request latency and error counters
 - 2025-09-24 14:14: fix(config): fallback to defaults when config key is missing
+- 2025-09-24 21:09: fix(storage): correct file descriptor leak on close
