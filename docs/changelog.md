@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-24 21:09: fix(storage): correct file descriptor leak on close
 - 2025-09-25 10:26: test(parser): add test cases for malformed inputs
 - 2025-09-25 11:10: docs: update API endpoints reference and sample requests
+- 2025-09-25 13:40: feat(api): add retry policy with exponential backoff
