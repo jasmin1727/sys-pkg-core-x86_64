@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-25 16:11: perf: reduce allocations in serialization hot path
 - 2025-09-25 16:19: docs: update API endpoints reference and sample requests
 - 2025-09-25 16:31: fix(parser): resolve unexpected EOF when reading stream
+- 2025-09-25 18:46: fix(logger): prevent sensitive token leakage in debug logs
