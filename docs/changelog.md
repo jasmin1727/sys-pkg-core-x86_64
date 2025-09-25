@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-25 13:40: feat(api): add retry policy with exponential backoff
 - 2025-09-25 13:53: docs: update setup instructions and prerequisites
 - 2025-09-25 14:51: test(parser): add test cases for malformed inputs
+- 2025-09-25 16:11: perf: reduce allocations in serialization hot path
