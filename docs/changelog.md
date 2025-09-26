@@ -271,3 +271,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-25 19:03: fix(parser): resolve unexpected EOF when reading stream
 - 2025-09-25 22:55: feat(context): propagate request trace id across coroutines
 - 2025-09-26 19:09: fix(config): fallback to defaults when config key is missing
+- 2025-09-26 19:23: feat(parser): add support for nested json payloads
