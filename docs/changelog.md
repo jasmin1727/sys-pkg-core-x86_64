@@ -273,3 +273,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-26 19:09: fix(config): fallback to defaults when config key is missing
 - 2025-09-26 19:23: feat(parser): add support for nested json payloads
 - 2025-09-29 15:14: docs: update setup instructions and prerequisites
+- 2025-09-29 21:22: feat(context): propagate request trace id across coroutines
