@@ -275,3 +275,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-29 15:14: docs: update setup instructions and prerequisites
 - 2025-09-29 21:22: feat(context): propagate request trace id across coroutines
 - 2025-09-30 10:16: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2025-09-30 12:19: test(parser): add test cases for malformed inputs
