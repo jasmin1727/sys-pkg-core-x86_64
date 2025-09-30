@@ -279,3 +279,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-30 12:39: test(storage): verify concurrency safety with thread pool
 - 2025-09-30 12:47: feat(parser): add support for nested json payloads
 - 2025-09-30 15:22: fix(core): handle race condition during worker shutdown
+- 2025-09-30 16:32: refactor(cache): unify cache interface across backends
