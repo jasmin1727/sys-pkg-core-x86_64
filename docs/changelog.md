@@ -286,3 +286,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-01 12:15: docs: update API endpoints reference and sample requests
 - 2025-10-01 13:32: fix(config): fallback to defaults when config key is missing
 - 2025-10-01 14:09: feat(scheduler): support cron-like job scheduling intervals
+- 2025-10-01 16:22: feat(parser): add support for nested json payloads
