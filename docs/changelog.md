@@ -283,3 +283,4 @@ All notable changes and milestones are documented in this file.
 - 2025-09-30 19:25: test(storage): verify concurrency safety with thread pool
 - 2025-09-30 20:02: test(storage): verify concurrency safety with thread pool
 - 2025-09-30 22:02: fix(parser): resolve unexpected EOF when reading stream
+- 2025-10-01 12:15: docs: update API endpoints reference and sample requests
