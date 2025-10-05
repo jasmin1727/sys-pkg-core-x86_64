@@ -292,3 +292,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-03 13:11: feat(scheduler): support cron-like job scheduling intervals
 - 2025-10-04 16:10: refactor(utils): decompose monolithic string processing utility
 - 2025-10-04 20:16: feat(events): implement publish-subscribe message bus
+- 2025-10-05 15:55: feat(cache): implement adaptive LRU cache with TTL expiry
