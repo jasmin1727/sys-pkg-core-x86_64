@@ -294,3 +294,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-04 20:16: feat(events): implement publish-subscribe message bus
 - 2025-10-05 15:55: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-10-06 11:23: fix(logger): prevent sensitive token leakage in debug logs
+- 2025-10-06 12:31: docs: update setup instructions and prerequisites
