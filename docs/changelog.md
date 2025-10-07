@@ -297,3 +297,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-06 12:31: docs: update setup instructions and prerequisites
 - 2025-10-06 12:58: feat(metrics): track request latency and error counters
 - 2025-10-06 21:03: refactor(utils): decompose monolithic string processing utility
+- 2025-10-07 14:34: fix(core): handle race condition during worker shutdown
