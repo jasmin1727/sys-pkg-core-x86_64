@@ -308,3 +308,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-08 17:46: chore: configure pre-commit hooks and linter rules
 - 2025-10-08 18:53: test(core): add coverage for worker crash recovery
 - 2025-10-08 19:41: feat(parser): add support for nested json payloads
+- 2025-10-08 20:41: feat(core): implement async task worker pool
