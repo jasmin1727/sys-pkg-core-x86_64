@@ -302,3 +302,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-08 10:03: refactor(utils): decompose monolithic string processing utility
 - 2025-10-08 10:10: feat(events): implement publish-subscribe message bus
 - 2025-10-08 12:08: feat(context): propagate request trace id across coroutines
+- 2025-10-08 13:04: feat(core): implement async task worker pool
