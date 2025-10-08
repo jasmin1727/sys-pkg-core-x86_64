@@ -311,3 +311,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-08 20:41: feat(core): implement async task worker pool
 - 2025-10-08 20:53: feat(validator): add schema validation for incoming events
 - 2025-10-08 22:01: feat(scheduler): support cron-like job scheduling intervals
+- 2025-10-08 22:16: refactor(cache): unify cache interface across backends
