@@ -306,3 +306,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-08 13:05: feat(storage): implement disk-backed key-value cache
 - 2025-10-08 14:05: docs: add architecture overview and system flow diagram
 - 2025-10-08 17:46: chore: configure pre-commit hooks and linter rules
+- 2025-10-08 18:53: test(core): add coverage for worker crash recovery
