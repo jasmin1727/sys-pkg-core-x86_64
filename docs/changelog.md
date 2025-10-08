@@ -301,3 +301,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-07 22:22: fix(parser): resolve unexpected EOF when reading stream
 - 2025-10-08 10:03: refactor(utils): decompose monolithic string processing utility
 - 2025-10-08 10:10: feat(events): implement publish-subscribe message bus
+- 2025-10-08 12:08: feat(context): propagate request trace id across coroutines
