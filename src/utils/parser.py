@@ -180,3 +180,7 @@ def parse_stream_safe(stream):
         return None
 
 # Decomposed string processing helpers
+
+def parse_nested_payload(raw: str) -> dict:
+    '''Safely decode nested JSON structures.'''
+    return json.loads(raw)
