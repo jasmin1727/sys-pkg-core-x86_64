@@ -315,3 +315,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-09 10:42: test(parser): add test cases for malformed inputs
 - 2025-10-09 15:01: test(storage): verify concurrency safety with thread pool
 - 2025-10-09 19:34: test(storage): verify concurrency safety with thread pool
+- 2025-10-09 21:20: fix(logger): prevent sensitive token leakage in debug logs
