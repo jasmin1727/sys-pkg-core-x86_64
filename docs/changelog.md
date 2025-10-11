@@ -318,3 +318,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-09 21:20: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-10-11 10:10: fix(parser): resolve unexpected EOF when reading stream
 - 2025-10-11 10:44: chore: configure pre-commit hooks and linter rules
+- 2025-10-11 20:37: feat(auth): add bearer token header validation helper
