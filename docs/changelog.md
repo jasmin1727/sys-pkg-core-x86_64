@@ -317,3 +317,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-09 19:34: test(storage): verify concurrency safety with thread pool
 - 2025-10-09 21:20: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-10-11 10:10: fix(parser): resolve unexpected EOF when reading stream
+- 2025-10-11 10:44: chore: configure pre-commit hooks and linter rules
