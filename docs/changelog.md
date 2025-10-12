@@ -323,3 +323,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-12 10:45: feat(stream): add chunked data stream reader
 - 2025-10-12 11:54: docs: update setup instructions and prerequisites
 - 2025-10-12 12:22: fix(schema): resolve null value parsing in payload
+- 2025-10-12 14:55: fix(parser): resolve unexpected EOF when reading stream
