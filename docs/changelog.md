@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-11 20:37: feat(auth): add bearer token header validation helper
 - 2025-10-11 21:06: refactor: optimize module imports and remove unused dependencies
 - 2025-10-12 10:45: feat(stream): add chunked data stream reader
+- 2025-10-12 11:54: docs: update setup instructions and prerequisites
