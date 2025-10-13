@@ -329,3 +329,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-13 21:36: fix(queue): acknowledge message after successful processing
 - 2025-10-13 21:40: fix(parser): resolve unexpected EOF when reading stream
 - 2025-10-13 22:39: fix(storage): correct file descriptor leak on close
+- 2025-10-13 22:52: fix(storage): correct file descriptor leak on close
