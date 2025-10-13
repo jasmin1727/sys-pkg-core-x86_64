@@ -326,3 +326,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-12 14:55: fix(parser): resolve unexpected EOF when reading stream
 - 2025-10-13 10:31: refactor(utils): decompose monolithic string processing utility
 - 2025-10-13 10:54: test(storage): verify concurrency safety with thread pool
+- 2025-10-13 21:36: fix(queue): acknowledge message after successful processing
