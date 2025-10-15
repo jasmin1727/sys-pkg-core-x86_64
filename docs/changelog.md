@@ -331,3 +331,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-13 22:39: fix(storage): correct file descriptor leak on close
 - 2025-10-13 22:52: fix(storage): correct file descriptor leak on close
 - 2025-10-15 11:13: feat(events): implement publish-subscribe message bus
+- 2025-10-15 21:55: fix(core): handle race condition during worker shutdown
