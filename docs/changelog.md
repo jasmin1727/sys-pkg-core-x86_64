@@ -337,3 +337,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-16 12:47: fix(cache): resolve cache key collision for compound queries
 - 2025-10-16 13:14: fix(config): fallback to defaults when config key is missing
 - 2025-10-16 19:48: feat(auth): add bearer token header validation helper
+- 2025-10-16 20:02: chore: configure pre-commit hooks and linter rules
