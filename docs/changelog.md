@@ -333,3 +333,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-15 11:13: feat(events): implement publish-subscribe message bus
 - 2025-10-15 21:55: fix(core): handle race condition during worker shutdown
 - 2025-10-15 22:51: chore: configure pre-commit hooks and linter rules
+- 2025-10-16 11:28: feat(validator): add schema validation for incoming events
