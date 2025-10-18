@@ -340,3 +340,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-16 20:02: chore: configure pre-commit hooks and linter rules
 - 2025-10-17 16:32: test(parser): add test cases for malformed inputs
 - 2025-10-17 19:14: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2025-10-18 21:21: docs: update API endpoints reference and sample requests
