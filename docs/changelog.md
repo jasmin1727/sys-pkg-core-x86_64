@@ -350,3 +350,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-20 15:16: docs: add architecture overview and system flow diagram
 - 2025-10-20 15:36: feat(parser): add support for nested json payloads
 - 2025-10-20 16:36: refactor(core): streamline worker initialization sequence
+- 2025-10-20 17:06: fix(core): handle race condition during worker shutdown
