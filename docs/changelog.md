@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-19 23:15: refactor(utils): decompose monolithic string processing utility
 - 2025-10-20 10:41: docs: update setup instructions and prerequisites
 - 2025-10-20 11:41: feat(core): implement async task worker pool
+- 2025-10-20 12:28: feat(auth): add bearer token header validation helper
