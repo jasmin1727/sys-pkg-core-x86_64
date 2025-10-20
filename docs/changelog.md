@@ -353,3 +353,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-20 17:06: fix(core): handle race condition during worker shutdown
 - 2025-10-20 17:43: feat(api): add retry policy with exponential backoff
 - 2025-10-20 19:17: refactor(cache): unify cache interface across backends
+- 2025-10-20 19:44: feat(context): propagate request trace id across coroutines
