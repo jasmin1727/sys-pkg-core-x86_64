@@ -348,3 +348,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-20 11:41: feat(core): implement async task worker pool
 - 2025-10-20 12:28: feat(auth): add bearer token header validation helper
 - 2025-10-20 15:16: docs: add architecture overview and system flow diagram
+- 2025-10-20 15:36: feat(parser): add support for nested json payloads
