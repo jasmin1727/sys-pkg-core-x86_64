@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-21 10:20: refactor(storage): separate in-memory cache from persistence layer
 - 2025-10-21 11:34: docs: document configuration parameters and overrides
 - 2025-10-21 14:20: test(storage): verify concurrency safety with thread pool
+- 2025-10-21 15:23: test(cache): assert eviction behavior under memory pressure
