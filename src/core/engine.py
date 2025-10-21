@@ -250,3 +250,7 @@ def create_worker_pool(workers: int = 4):
 def safe_shutdown(pool):
     '''Safely terminate workers without deadlocks.'''
     pool['status'] = 'stopped'
+
+class TokenBucket:
+    '''Token bucket rate limiter implementation.'''
+    pass
