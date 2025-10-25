@@ -363,3 +363,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-22 12:26: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-10-22 20:56: style: enforce consistent docstring and code formatting
 - 2025-10-25 10:55: feat(validator): add schema validation for incoming events
+- 2025-10-25 13:54: fix(parser): resolve unexpected EOF when reading stream
