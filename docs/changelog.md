@@ -366,3 +366,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-25 13:54: fix(parser): resolve unexpected EOF when reading stream
 - 2025-10-25 19:45: fix(parser): resolve unexpected EOF when reading stream
 - 2025-10-25 21:01: test(parser): add test cases for malformed inputs
+- 2025-10-26 11:41: fix(schema): resolve null value parsing in payload
