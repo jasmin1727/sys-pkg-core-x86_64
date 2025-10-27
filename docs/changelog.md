@@ -369,3 +369,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-26 11:41: fix(schema): resolve null value parsing in payload
 - 2025-10-26 22:22: feat(parser): add support for nested json payloads
 - 2025-10-26 23:23: feat(api): add retry policy with exponential backoff
+- 2025-10-27 13:27: fix(core): handle race condition during worker shutdown
