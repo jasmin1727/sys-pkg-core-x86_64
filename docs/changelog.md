@@ -371,3 +371,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-26 23:23: feat(api): add retry policy with exponential backoff
 - 2025-10-27 13:27: fix(core): handle race condition during worker shutdown
 - 2025-10-27 15:51: refactor(utils): decompose monolithic string processing utility
+- 2025-10-27 22:03: docs: add architecture overview and system flow diagram
