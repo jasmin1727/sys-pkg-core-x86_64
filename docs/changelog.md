@@ -373,3 +373,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-27 15:51: refactor(utils): decompose monolithic string processing utility
 - 2025-10-27 22:03: docs: add architecture overview and system flow diagram
 - 2025-10-27 23:07: docs: document configuration parameters and overrides
+- 2025-10-28 10:23: fix(schema): resolve null value parsing in payload
