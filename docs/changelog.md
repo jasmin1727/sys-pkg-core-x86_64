@@ -380,3 +380,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-28 19:22: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-10-28 19:33: fix(schema): resolve null value parsing in payload
 - 2025-10-28 20:13: refactor(cache): unify cache interface across backends
+- 2025-10-28 20:28: fix(config): fallback to defaults when config key is missing
