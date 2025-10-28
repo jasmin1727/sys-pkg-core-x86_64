@@ -377,3 +377,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-28 11:48: test(cache): assert eviction behavior under memory pressure
 - 2025-10-28 14:53: feat(logger): introduce structured json formatting
 - 2025-10-28 15:06: refactor(utils): decompose monolithic string processing utility
+- 2025-10-28 19:22: fix(logger): prevent sensitive token leakage in debug logs
