@@ -389,3 +389,4 @@ All notable changes and milestones are documented in this file.
 - 2025-10-30 18:01: feat(api): add retry policy with exponential backoff
 - 2025-10-30 19:34: test(parser): add test cases for malformed inputs
 - 2025-10-31 10:55: fix(storage): correct file descriptor leak on close
+- 2025-10-31 16:23: refactor(cache): unify cache interface across backends
