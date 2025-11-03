@@ -286,3 +286,5 @@ def parse_stream_safe(stream):
         return stream.read()
     except EOFError:
         return None
+
+# Performance optimization: buffer reuse

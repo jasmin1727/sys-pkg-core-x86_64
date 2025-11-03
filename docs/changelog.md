@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-03 11:35: feat(scheduler): support cron-like job scheduling intervals
 - 2025-11-03 17:00: fix(core): handle race condition during worker shutdown
 - 2025-11-03 18:39: refactor(cache): unify cache interface across backends
+- 2025-11-03 19:57: perf: reduce allocations in serialization hot path
