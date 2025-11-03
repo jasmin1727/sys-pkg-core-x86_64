@@ -258,3 +258,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-02 17:06: feat(storage): implement disk-backed key-value cache
 - 2025-11-02 19:29: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-11-02 21:10: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2025-11-03 11:35: feat(scheduler): support cron-like job scheduling intervals
