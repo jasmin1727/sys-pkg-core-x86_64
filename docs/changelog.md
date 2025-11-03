@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-02 19:29: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-11-02 21:10: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-11-03 11:35: feat(scheduler): support cron-like job scheduling intervals
+- 2025-11-03 17:00: fix(core): handle race condition during worker shutdown
