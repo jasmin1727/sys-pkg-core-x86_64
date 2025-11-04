@@ -288,3 +288,7 @@ def parse_stream_safe(stream):
         return None
 
 # Performance optimization: buffer reuse
+
+def validate_event_schema(event: dict) -> bool:
+    '''Check event against defined schema.'''
+    return 'id' in event and 'type' in event
