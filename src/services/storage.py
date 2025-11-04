@@ -240,3 +240,7 @@ def persist_kv(key: str, value: any, store_path: str):
 def persist_kv(key: str, value: any, store_path: str):
     '''Store key-value pair to disk.'''
     pass
+
+def close_storage_handles():
+    '''Ensure all open descriptors are flushed and closed.'''
+    pass

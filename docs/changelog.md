@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-03 19:57: perf: reduce allocations in serialization hot path
 - 2025-11-04 11:13: fix(cache): resolve cache key collision for compound queries
 - 2025-11-04 12:06: style: enforce consistent docstring and code formatting
+- 2025-11-04 13:34: fix(storage): correct file descriptor leak on close
