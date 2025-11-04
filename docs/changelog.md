@@ -263,3 +263,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-03 18:39: refactor(cache): unify cache interface across backends
 - 2025-11-03 19:57: perf: reduce allocations in serialization hot path
 - 2025-11-04 11:13: fix(cache): resolve cache key collision for compound queries
+- 2025-11-04 12:06: style: enforce consistent docstring and code formatting
