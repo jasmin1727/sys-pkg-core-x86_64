@@ -281,3 +281,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-05 16:29: fix(parser): resolve unexpected EOF when reading stream
 - 2025-11-05 17:02: fix(config): fallback to defaults when config key is missing
 - 2025-11-05 17:42: feat(api): add retry policy with exponential backoff
+- 2025-11-05 20:13: refactor(core): streamline worker initialization sequence
