@@ -272,3 +272,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-04 22:23: refactor(core): streamline worker initialization sequence
 - 2025-11-04 22:58: test(cache): assert eviction behavior under memory pressure
 - 2025-11-04 23:19: feat(validator): add schema validation for incoming events
+- 2025-11-05 12:21: feat(parser): add support for nested json payloads
