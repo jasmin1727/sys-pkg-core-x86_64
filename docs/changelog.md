@@ -278,3 +278,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-05 13:54: feat(context): propagate request trace id across coroutines
 - 2025-11-05 14:02: fix(cache): resolve cache key collision for compound queries
 - 2025-11-05 14:46: perf: reduce allocations in serialization hot path
+- 2025-11-05 16:29: fix(parser): resolve unexpected EOF when reading stream
