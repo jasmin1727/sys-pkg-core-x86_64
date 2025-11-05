@@ -274,3 +274,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-04 23:19: feat(validator): add schema validation for incoming events
 - 2025-11-05 12:21: feat(parser): add support for nested json payloads
 - 2025-11-05 13:06: feat(context): propagate request trace id across coroutines
+- 2025-11-05 13:07: feat(cache): implement adaptive LRU cache with TTL expiry
