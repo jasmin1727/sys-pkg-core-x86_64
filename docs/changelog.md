@@ -286,3 +286,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-05 22:39: docs: add architecture overview and system flow diagram
 - 2025-11-06 14:13: test(storage): verify concurrency safety with thread pool
 - 2025-11-06 18:00: fix(storage): correct file descriptor leak on close
+- 2025-11-06 18:26: refactor(cache): unify cache interface across backends
