@@ -288,3 +288,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-06 18:00: fix(storage): correct file descriptor leak on close
 - 2025-11-06 18:26: refactor(cache): unify cache interface across backends
 - 2025-11-06 18:33: feat(validator): add schema validation for incoming events
+- 2025-11-06 18:39: feat(metrics): track request latency and error counters
