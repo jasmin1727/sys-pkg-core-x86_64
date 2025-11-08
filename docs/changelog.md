@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-06 18:33: feat(validator): add schema validation for incoming events
 - 2025-11-06 18:39: feat(metrics): track request latency and error counters
 - 2025-11-07 15:08: feat(metrics): track request latency and error counters
+- 2025-11-08 12:52: fix(logger): prevent sensitive token leakage in debug logs
