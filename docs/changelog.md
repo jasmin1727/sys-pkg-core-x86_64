@@ -292,3 +292,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-07 15:08: feat(metrics): track request latency and error counters
 - 2025-11-08 12:52: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-11-08 13:08: feat(api): add retry policy with exponential backoff
+- 2025-11-08 19:07: refactor(storage): separate in-memory cache from persistence layer
