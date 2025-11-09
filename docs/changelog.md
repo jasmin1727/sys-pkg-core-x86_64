@@ -296,3 +296,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-08 19:25: refactor(cache): unify cache interface across backends
 - 2025-11-08 21:27: refactor(cache): unify cache interface across backends
 - 2025-11-08 22:32: fix(queue): acknowledge message after successful processing
+- 2025-11-09 19:35: fix(core): handle race condition during worker shutdown
