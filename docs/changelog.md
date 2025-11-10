@@ -303,3 +303,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-10 14:36: test(core): add coverage for worker crash recovery
 - 2025-11-10 15:29: fix(parser): resolve unexpected EOF when reading stream
 - 2025-11-10 17:00: fix(core): handle race condition during worker shutdown
+- 2025-11-10 17:56: refactor(cache): unify cache interface across backends
