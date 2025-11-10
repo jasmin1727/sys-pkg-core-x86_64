@@ -308,3 +308,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-10 19:49: feat(core): implement async task worker pool
 - 2025-11-10 21:23: feat(events): implement publish-subscribe message bus
 - 2025-11-10 22:20: docs: update setup instructions and prerequisites
+- 2025-11-10 22:47: fix(cache): resolve cache key collision for compound queries
