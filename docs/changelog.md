@@ -301,3 +301,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-09 21:55: style: enforce consistent docstring and code formatting
 - 2025-11-10 10:06: feat(auth): add bearer token header validation helper
 - 2025-11-10 14:36: test(core): add coverage for worker crash recovery
+- 2025-11-10 15:29: fix(parser): resolve unexpected EOF when reading stream
