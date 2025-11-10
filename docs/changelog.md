@@ -300,3 +300,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-09 20:33: test(storage): verify concurrency safety with thread pool
 - 2025-11-09 21:55: style: enforce consistent docstring and code formatting
 - 2025-11-10 10:06: feat(auth): add bearer token header validation helper
+- 2025-11-10 14:36: test(core): add coverage for worker crash recovery
