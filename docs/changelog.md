@@ -305,3 +305,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-10 17:00: fix(core): handle race condition during worker shutdown
 - 2025-11-10 17:56: refactor(cache): unify cache interface across backends
 - 2025-11-10 18:58: fix(core): handle race condition during worker shutdown
+- 2025-11-10 19:49: feat(core): implement async task worker pool
