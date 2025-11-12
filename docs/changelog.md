@@ -311,3 +311,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-10 22:47: fix(cache): resolve cache key collision for compound queries
 - 2025-11-12 13:07: test(storage): verify concurrency safety with thread pool
 - 2025-11-12 13:25: docs: add architecture overview and system flow diagram
+- 2025-11-12 13:37: chore: configure pre-commit hooks and linter rules
