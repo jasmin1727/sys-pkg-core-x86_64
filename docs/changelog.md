@@ -314,3 +314,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-12 13:37: chore: configure pre-commit hooks and linter rules
 - 2025-11-12 14:18: fix(core): handle race condition during worker shutdown
 - 2025-11-12 14:46: fix(cache): resolve cache key collision for compound queries
+- 2025-11-12 18:14: feat(logger): introduce structured json formatting
