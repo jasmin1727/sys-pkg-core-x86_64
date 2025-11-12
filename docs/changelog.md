@@ -312,3 +312,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-12 13:07: test(storage): verify concurrency safety with thread pool
 - 2025-11-12 13:25: docs: add architecture overview and system flow diagram
 - 2025-11-12 13:37: chore: configure pre-commit hooks and linter rules
+- 2025-11-12 14:18: fix(core): handle race condition during worker shutdown
