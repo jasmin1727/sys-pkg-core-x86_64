@@ -329,3 +329,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-13 14:34: refactor(core): streamline worker initialization sequence
 - 2025-11-13 15:20: test(storage): verify concurrency safety with thread pool
 - 2025-11-13 15:47: feat(auth): add bearer token header validation helper
+- 2025-11-13 16:44: docs: update API endpoints reference and sample requests
