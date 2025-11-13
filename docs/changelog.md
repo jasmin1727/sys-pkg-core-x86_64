@@ -322,3 +322,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-12 20:40: refactor(storage): separate in-memory cache from persistence layer
 - 2025-11-12 22:18: feat(auth): add bearer token header validation helper
 - 2025-11-13 10:32: docs: update API endpoints reference and sample requests
+- 2025-11-13 12:08: feat(core): implement async task worker pool

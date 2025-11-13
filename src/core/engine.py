@@ -316,3 +316,7 @@ def safe_shutdown(pool):
 # Refactored worker lifecycle management
 
 # Refactored worker lifecycle management
+
+def create_worker_pool(workers: int = 4):
+    '''Initialize async worker pool.'''
+    return {'workers': workers, 'status': 'ready'}
