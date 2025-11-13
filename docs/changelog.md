@@ -331,3 +331,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-13 15:47: feat(auth): add bearer token header validation helper
 - 2025-11-13 16:44: docs: update API endpoints reference and sample requests
 - 2025-11-13 17:12: fix(storage): correct file descriptor leak on close
+- 2025-11-13 20:43: fix(parser): resolve unexpected EOF when reading stream
