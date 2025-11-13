@@ -325,3 +325,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-13 12:08: feat(core): implement async task worker pool
 - 2025-11-13 12:51: fix(schema): resolve null value parsing in payload
 - 2025-11-13 13:08: docs: update API endpoints reference and sample requests
+- 2025-11-13 13:17: refactor(cache): unify cache interface across backends
