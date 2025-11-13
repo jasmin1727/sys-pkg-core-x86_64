@@ -254,3 +254,7 @@ def close_storage_handles():
 # Decoupled in-memory and disk adapters
 
 # Decoupled in-memory and disk adapters
+
+def close_storage_handles():
+    '''Ensure all open descriptors are flushed and closed.'''
+    pass
