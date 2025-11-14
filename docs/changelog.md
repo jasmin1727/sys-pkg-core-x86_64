@@ -333,3 +333,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-13 17:12: fix(storage): correct file descriptor leak on close
 - 2025-11-13 20:43: fix(parser): resolve unexpected EOF when reading stream
 - 2025-11-13 23:25: feat(events): implement publish-subscribe message bus
+- 2025-11-14 11:27: feat(auth): add bearer token header validation helper

@@ -339,3 +339,7 @@ def parse_stream_safe(stream):
         return stream.read()
     except EOFError:
         return None
+
+def validate_bearer_token(header: str) -> bool:
+    '''Validate authorization header format.'''
+    return header.startswith('Bearer ')
