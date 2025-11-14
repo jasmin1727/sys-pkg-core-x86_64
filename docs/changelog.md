@@ -336,3 +336,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-14 11:27: feat(auth): add bearer token header validation helper
 - 2025-11-14 11:35: test(cache): assert eviction behavior under memory pressure
 - 2025-11-14 14:16: refactor(utils): decompose monolithic string processing utility
+- 2025-11-14 14:25: fix(cache): resolve cache key collision for compound queries
