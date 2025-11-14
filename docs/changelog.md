@@ -340,3 +340,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-14 18:48: refactor(core): streamline worker initialization sequence
 - 2025-11-14 18:54: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-11-14 19:17: feat(auth): add bearer token header validation helper
+- 2025-11-14 19:41: chore: update dependency versions in package lock
