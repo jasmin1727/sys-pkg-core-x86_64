@@ -338,3 +338,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-14 14:16: refactor(utils): decompose monolithic string processing utility
 - 2025-11-14 14:25: fix(cache): resolve cache key collision for compound queries
 - 2025-11-14 18:48: refactor(core): streamline worker initialization sequence
+- 2025-11-14 18:54: fix(logger): prevent sensitive token leakage in debug logs
