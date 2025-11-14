@@ -343,3 +343,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-14 19:41: chore: update dependency versions in package lock
 - 2025-11-14 21:27: style: enforce consistent docstring and code formatting
 - 2025-11-14 22:03: feat(metrics): track request latency and error counters
+- 2025-11-14 22:55: chore: configure pre-commit hooks and linter rules
