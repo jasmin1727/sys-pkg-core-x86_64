@@ -345,3 +345,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-14 22:03: feat(metrics): track request latency and error counters
 - 2025-11-14 22:55: chore: configure pre-commit hooks and linter rules
 - 2025-11-15 16:16: docs: update API endpoints reference and sample requests
+- 2025-11-15 18:00: fix(queue): acknowledge message after successful processing
