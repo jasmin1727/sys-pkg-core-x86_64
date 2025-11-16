@@ -349,3 +349,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-15 18:30: test(parser): add test cases for malformed inputs
 - 2025-11-15 22:54: feat(auth): add bearer token header validation helper
 - 2025-11-16 11:38: refactor(storage): separate in-memory cache from persistence layer
+- 2025-11-16 13:18: refactor(cache): unify cache interface across backends
