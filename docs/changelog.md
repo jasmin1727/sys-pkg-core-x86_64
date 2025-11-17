@@ -354,3 +354,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-16 19:57: fix(parser): resolve unexpected EOF when reading stream
 - 2025-11-17 14:03: feat(auth): add bearer token header validation helper
 - 2025-11-17 18:16: feat(config): add dynamic environment variable resolver
+- 2025-11-17 21:30: chore: update dependency versions in package lock
