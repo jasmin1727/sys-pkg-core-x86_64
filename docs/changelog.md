@@ -352,3 +352,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-16 13:18: refactor(cache): unify cache interface across backends
 - 2025-11-16 16:14: fix(schema): resolve null value parsing in payload
 - 2025-11-16 19:57: fix(parser): resolve unexpected EOF when reading stream
+- 2025-11-17 14:03: feat(auth): add bearer token header validation helper
