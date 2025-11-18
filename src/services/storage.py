@@ -260,3 +260,7 @@ def close_storage_handles():
     pass
 
 # Decoupled in-memory and disk adapters
+
+def persist_kv(key: str, value: any, store_path: str):
+    '''Store key-value pair to disk.'''
+    pass
