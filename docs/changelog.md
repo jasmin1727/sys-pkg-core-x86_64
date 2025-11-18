@@ -362,3 +362,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-18 15:25: perf: reduce allocations in serialization hot path
 - 2025-11-18 16:03: refactor(cache): unify cache interface across backends
 - 2025-11-18 18:06: feat(scheduler): support cron-like job scheduling intervals
+- 2025-11-18 21:38: fix(queue): acknowledge message after successful processing
