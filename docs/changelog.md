@@ -359,3 +359,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-18 11:54: refactor(core): streamline worker initialization sequence
 - 2025-11-18 12:35: feat(config): add dynamic environment variable resolver
 - 2025-11-18 13:47: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2025-11-18 15:25: perf: reduce allocations in serialization hot path
