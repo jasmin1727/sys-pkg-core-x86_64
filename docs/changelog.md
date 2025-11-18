@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-17 21:30: chore: update dependency versions in package lock
 - 2025-11-18 11:06: refactor(cache): unify cache interface across backends
 - 2025-11-18 11:54: refactor(core): streamline worker initialization sequence
+- 2025-11-18 12:35: feat(config): add dynamic environment variable resolver
