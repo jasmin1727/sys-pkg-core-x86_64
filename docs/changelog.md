@@ -370,3 +370,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-19 21:03: refactor(cache): unify cache interface across backends
 - 2025-11-20 11:27: feat(api): add retry policy with exponential backoff
 - 2025-11-20 18:36: feat(metrics): track request latency and error counters
+- 2025-11-21 11:51: test(storage): verify concurrency safety with thread pool
