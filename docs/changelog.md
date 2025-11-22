@@ -375,3 +375,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-21 23:01: docs: document configuration parameters and overrides
 - 2025-11-22 11:14: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2025-11-22 12:50: fix(core): handle race condition during worker shutdown
+- 2025-11-22 17:00: feat(metrics): track request latency and error counters
