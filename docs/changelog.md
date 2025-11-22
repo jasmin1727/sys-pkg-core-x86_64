@@ -373,3 +373,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-21 11:51: test(storage): verify concurrency safety with thread pool
 - 2025-11-21 20:52: refactor(storage): separate in-memory cache from persistence layer
 - 2025-11-21 23:01: docs: document configuration parameters and overrides
+- 2025-11-22 11:14: feat(rate-limit): implement token bucket rate limiting algorithm
