@@ -379,3 +379,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-24 12:15: feat(events): implement publish-subscribe message bus
 - 2025-11-24 12:33: refactor(cache): unify cache interface across backends
 - 2025-11-24 14:52: feat(storage): implement disk-backed key-value cache
+- 2025-11-24 17:41: chore: update dependency versions in package lock
