@@ -381,3 +381,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-24 14:52: feat(storage): implement disk-backed key-value cache
 - 2025-11-24 17:41: chore: update dependency versions in package lock
 - 2025-11-24 18:17: docs: document configuration parameters and overrides
+- 2025-11-24 19:33: refactor: optimize module imports and remove unused dependencies
