@@ -199,3 +199,10 @@ def validate_bearer_token(header: str) -> bool:
     return header.startswith('Bearer ')
 
 # Performance optimization: buffer reuse
+
+def parse_stream_safe(stream):
+    '''Parse stream with graceful EOF handling.'''
+    try:
+        return stream.read()
+    except EOFError:
+        return None
