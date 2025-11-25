@@ -384,3 +384,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-24 19:33: refactor: optimize module imports and remove unused dependencies
 - 2025-11-24 22:06: test(cache): assert eviction behavior under memory pressure
 - 2025-11-25 10:03: docs: update setup instructions and prerequisites
+- 2025-11-25 14:21: feat(config): add dynamic environment variable resolver
