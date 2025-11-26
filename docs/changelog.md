@@ -388,3 +388,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-25 16:39: fix(parser): resolve unexpected EOF when reading stream
 - 2025-11-25 16:48: refactor(utils): decompose monolithic string processing utility
 - 2025-11-25 21:37: feat(core): implement async task worker pool
+- 2025-11-26 10:11: fix(queue): acknowledge message after successful processing
