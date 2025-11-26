@@ -394,3 +394,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-26 17:18: chore: configure pre-commit hooks and linter rules
 - 2025-11-26 18:13: feat(config): add dynamic environment variable resolver
 - 2025-11-26 21:24: perf: reduce allocations in serialization hot path
+- 2025-11-26 21:39: feat(validator): add schema validation for incoming events
