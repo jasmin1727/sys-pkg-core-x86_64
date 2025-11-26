@@ -391,3 +391,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-26 10:11: fix(queue): acknowledge message after successful processing
 - 2025-11-26 13:32: test(storage): verify concurrency safety with thread pool
 - 2025-11-26 16:23: refactor: optimize module imports and remove unused dependencies
+- 2025-11-26 17:18: chore: configure pre-commit hooks and linter rules
