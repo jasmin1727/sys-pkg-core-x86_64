@@ -263,3 +263,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-30 16:43: feat(storage): implement disk-backed key-value cache
 - 2025-11-30 17:29: refactor(utils): decompose monolithic string processing utility
 - 2025-11-30 18:11: test(storage): verify concurrency safety with thread pool
+- 2025-11-30 19:16: fix(config): fallback to defaults when config key is missing
