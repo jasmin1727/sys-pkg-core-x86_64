@@ -266,3 +266,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-30 19:16: fix(config): fallback to defaults when config key is missing
 - 2025-11-30 19:37: fix(schema): resolve null value parsing in payload
 - 2025-11-30 22:29: fix(core): handle race condition during worker shutdown
+- 2025-11-30 22:32: refactor(core): streamline worker initialization sequence
