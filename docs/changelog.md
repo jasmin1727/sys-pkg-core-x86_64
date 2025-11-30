@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-30 17:29: refactor(utils): decompose monolithic string processing utility
 - 2025-11-30 18:11: test(storage): verify concurrency safety with thread pool
 - 2025-11-30 19:16: fix(config): fallback to defaults when config key is missing
+- 2025-11-30 19:37: fix(schema): resolve null value parsing in payload
