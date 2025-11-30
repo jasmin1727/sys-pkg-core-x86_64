@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-29 20:52: refactor(utils): decompose monolithic string processing utility
 - 2025-11-30 11:19: fix(cache): resolve cache key collision for compound queries
 - 2025-11-30 14:06: refactor: optimize module imports and remove unused dependencies
+- 2025-11-30 14:33: test(core): add coverage for worker crash recovery
