@@ -268,3 +268,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-30 22:29: fix(core): handle race condition during worker shutdown
 - 2025-11-30 22:32: refactor(core): streamline worker initialization sequence
 - 2025-11-30 23:03: refactor(utils): decompose monolithic string processing utility
+- 2025-11-30 23:27: feat(parser): add support for nested json payloads
