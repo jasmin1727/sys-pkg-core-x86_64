@@ -270,3 +270,4 @@ All notable changes and milestones are documented in this file.
 - 2025-11-30 23:03: refactor(utils): decompose monolithic string processing utility
 - 2025-11-30 23:27: feat(parser): add support for nested json payloads
 - 2025-12-02 11:09: feat(core): implement async task worker pool
+- 2025-12-02 19:22: feat(events): implement publish-subscribe message bus
