@@ -272,3 +272,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-02 11:09: feat(core): implement async task worker pool
 - 2025-12-02 19:22: feat(events): implement publish-subscribe message bus
 - 2025-12-02 20:18: feat(scheduler): support cron-like job scheduling intervals
+- 2025-12-03 12:33: feat(storage): implement disk-backed key-value cache
