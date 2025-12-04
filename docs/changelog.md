@@ -275,3 +275,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-03 12:33: feat(storage): implement disk-backed key-value cache
 - 2025-12-03 13:57: refactor(utils): decompose monolithic string processing utility
 - 2025-12-03 15:15: fix(logger): prevent sensitive token leakage in debug logs
+- 2025-12-04 10:46: fix(cache): resolve cache key collision for compound queries
