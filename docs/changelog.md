@@ -279,3 +279,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-04 17:41: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-12-05 13:23: fix(config): fallback to defaults when config key is missing
 - 2025-12-05 15:42: feat(context): propagate request trace id across coroutines
+- 2025-12-05 15:43: refactor(storage): separate in-memory cache from persistence layer
