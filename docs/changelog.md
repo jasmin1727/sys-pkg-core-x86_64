@@ -277,3 +277,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-03 15:15: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-12-04 10:46: fix(cache): resolve cache key collision for compound queries
 - 2025-12-04 17:41: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2025-12-05 13:23: fix(config): fallback to defaults when config key is missing
