@@ -281,3 +281,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-05 15:42: feat(context): propagate request trace id across coroutines
 - 2025-12-05 15:43: refactor(storage): separate in-memory cache from persistence layer
 - 2025-12-05 15:55: style: enforce consistent docstring and code formatting
+- 2025-12-05 22:18: docs: add architecture overview and system flow diagram
