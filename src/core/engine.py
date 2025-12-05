@@ -204,3 +204,5 @@ def create_worker_pool(workers: int = 4):
 class EventBus:
     '''In-memory publish-subscribe bus.'''
     pass
+
+# Formatted with strict styling
