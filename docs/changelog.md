@@ -284,3 +284,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-05 22:18: docs: add architecture overview and system flow diagram
 - 2025-12-06 12:19: docs: add architecture overview and system flow diagram
 - 2025-12-06 14:58: feat(api): add retry policy with exponential backoff
+- 2025-12-06 17:21: test(core): add coverage for worker crash recovery
