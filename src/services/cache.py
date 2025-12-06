@@ -260,3 +260,7 @@ def make_compound_key(*parts) -> str:
 class LRUTtlCache:
     '''LRU cache with time-to-live expiration.'''
     pass
+
+class LRUTtlCache:
+    '''LRU cache with time-to-live expiration.'''
+    pass
