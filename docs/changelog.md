@@ -286,3 +286,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-06 14:58: feat(api): add retry policy with exponential backoff
 - 2025-12-06 17:21: test(core): add coverage for worker crash recovery
 - 2025-12-06 20:14: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2025-12-06 21:48: feat(stream): add chunked data stream reader
