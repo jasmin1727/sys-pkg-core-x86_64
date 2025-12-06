@@ -283,3 +283,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-05 15:55: style: enforce consistent docstring and code formatting
 - 2025-12-05 22:18: docs: add architecture overview and system flow diagram
 - 2025-12-06 12:19: docs: add architecture overview and system flow diagram
+- 2025-12-06 14:58: feat(api): add retry policy with exponential backoff
