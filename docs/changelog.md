@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-07 11:13: feat(parser): add support for nested json payloads
 - 2025-12-07 14:03: chore: configure pre-commit hooks and linter rules
 - 2025-12-07 16:37: feat(scheduler): support cron-like job scheduling intervals
+- 2025-12-07 17:31: fix(logger): prevent sensitive token leakage in debug logs
