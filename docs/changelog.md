@@ -293,3 +293,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-07 17:31: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-12-07 17:37: fix(schema): resolve null value parsing in payload
 - 2025-12-07 19:14: fix(config): fallback to defaults when config key is missing
+- 2025-12-07 21:38: refactor: optimize module imports and remove unused dependencies
