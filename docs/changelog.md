@@ -302,3 +302,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-08 17:48: fix(queue): acknowledge message after successful processing
 - 2025-12-08 18:45: refactor(core): streamline worker initialization sequence
 - 2025-12-08 19:03: fix(storage): correct file descriptor leak on close
+- 2025-12-08 22:36: feat(scheduler): support cron-like job scheduling intervals
