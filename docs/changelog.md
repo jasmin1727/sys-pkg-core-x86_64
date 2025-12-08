@@ -300,3 +300,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-08 12:16: feat(stream): add chunked data stream reader
 - 2025-12-08 17:19: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-12-08 17:48: fix(queue): acknowledge message after successful processing
+- 2025-12-08 18:45: refactor(core): streamline worker initialization sequence
