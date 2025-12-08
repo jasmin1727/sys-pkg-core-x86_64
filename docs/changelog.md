@@ -296,3 +296,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-07 21:38: refactor: optimize module imports and remove unused dependencies
 - 2025-12-07 22:05: test(storage): verify concurrency safety with thread pool
 - 2025-12-08 11:25: feat(validator): add schema validation for incoming events
+- 2025-12-08 11:39: feat(config): add dynamic environment variable resolver
