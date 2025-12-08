@@ -298,3 +298,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-08 11:25: feat(validator): add schema validation for incoming events
 - 2025-12-08 11:39: feat(config): add dynamic environment variable resolver
 - 2025-12-08 12:16: feat(stream): add chunked data stream reader
+- 2025-12-08 17:19: fix(logger): prevent sensitive token leakage in debug logs
