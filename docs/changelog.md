@@ -303,3 +303,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-08 18:45: refactor(core): streamline worker initialization sequence
 - 2025-12-08 19:03: fix(storage): correct file descriptor leak on close
 - 2025-12-08 22:36: feat(scheduler): support cron-like job scheduling intervals
+- 2025-12-09 18:34: test(storage): verify concurrency safety with thread pool
