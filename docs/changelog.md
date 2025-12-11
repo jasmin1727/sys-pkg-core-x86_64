@@ -307,3 +307,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-09 18:39: fix(queue): acknowledge message after successful processing
 - 2025-12-09 19:07: feat(auth): add bearer token header validation helper
 - 2025-12-09 23:03: style: enforce consistent docstring and code formatting
+- 2025-12-11 19:13: test(cache): assert eviction behavior under memory pressure
