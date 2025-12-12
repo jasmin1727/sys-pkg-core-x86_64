@@ -309,3 +309,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-09 23:03: style: enforce consistent docstring and code formatting
 - 2025-12-11 19:13: test(cache): assert eviction behavior under memory pressure
 - 2025-12-12 10:46: fix(cache): resolve cache key collision for compound queries
+- 2025-12-12 11:44: fix(queue): acknowledge message after successful processing
