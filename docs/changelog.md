@@ -311,3 +311,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-12 10:46: fix(cache): resolve cache key collision for compound queries
 - 2025-12-12 11:44: fix(queue): acknowledge message after successful processing
 - 2025-12-12 15:11: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2025-12-12 21:33: docs: document configuration parameters and overrides
