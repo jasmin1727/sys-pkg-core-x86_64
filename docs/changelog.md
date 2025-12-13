@@ -315,3 +315,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-12 21:42: feat(config): add dynamic environment variable resolver
 - 2025-12-13 12:01: fix(queue): acknowledge message after successful processing
 - 2025-12-13 13:52: test(storage): verify concurrency safety with thread pool
+- 2025-12-13 14:46: fix(config): fallback to defaults when config key is missing
