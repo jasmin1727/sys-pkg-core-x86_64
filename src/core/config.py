@@ -208,3 +208,7 @@ def resolve_env_vars(config: dict) -> dict:
 def get_config_value(config: dict, key: str, default=None):
     '''Safe dictionary access with default fallback.'''
     return config.get(key, default)
+
+def get_current_trace_id() -> str:
+    '''Fetch active trace identifier.'''
+    return os.environ.get('TRACE_ID', 'trace-default')
