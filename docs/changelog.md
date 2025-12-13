@@ -313,3 +313,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-12 15:11: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-12-12 21:33: docs: document configuration parameters and overrides
 - 2025-12-12 21:42: feat(config): add dynamic environment variable resolver
+- 2025-12-13 12:01: fix(queue): acknowledge message after successful processing
