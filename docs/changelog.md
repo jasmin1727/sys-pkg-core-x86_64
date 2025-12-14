@@ -318,3 +318,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-13 14:46: fix(config): fallback to defaults when config key is missing
 - 2025-12-13 16:36: feat(stream): add chunked data stream reader
 - 2025-12-13 19:48: feat(context): propagate request trace id across coroutines
+- 2025-12-14 15:21: docs: update setup instructions and prerequisites
