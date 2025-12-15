@@ -210,3 +210,7 @@ class EventBus:
 # Refactored worker lifecycle management
 
 # Formatted with strict styling
+
+class MetricsCollector:
+    '''Tracks latency and counter metrics.'''
+    pass

@@ -322,3 +322,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-15 10:47: feat(context): propagate request trace id across coroutines
 - 2025-12-15 12:25: feat(config): add dynamic environment variable resolver
 - 2025-12-15 13:18: feat(api): add retry policy with exponential backoff
+- 2025-12-15 13:49: feat(metrics): track request latency and error counters
