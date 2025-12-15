@@ -324,3 +324,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-15 13:18: feat(api): add retry policy with exponential backoff
 - 2025-12-15 13:49: feat(metrics): track request latency and error counters
 - 2025-12-15 15:20: fix(queue): acknowledge message after successful processing
+- 2025-12-15 17:24: fix(parser): resolve unexpected EOF when reading stream
