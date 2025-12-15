@@ -326,3 +326,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-15 15:20: fix(queue): acknowledge message after successful processing
 - 2025-12-15 17:24: fix(parser): resolve unexpected EOF when reading stream
 - 2025-12-15 19:49: style: enforce consistent docstring and code formatting
+- 2025-12-15 20:13: feat(config): add dynamic environment variable resolver
