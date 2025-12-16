@@ -328,3 +328,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-15 19:49: style: enforce consistent docstring and code formatting
 - 2025-12-15 20:13: feat(config): add dynamic environment variable resolver
 - 2025-12-15 22:09: refactor(storage): separate in-memory cache from persistence layer
+- 2025-12-16 21:45: test(cache): assert eviction behavior under memory pressure
