@@ -331,3 +331,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-16 21:45: test(cache): assert eviction behavior under memory pressure
 - 2025-12-17 13:50: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2025-12-17 22:25: fix(cache): resolve cache key collision for compound queries
+- 2025-12-18 13:58: feat(api): add retry policy with exponential backoff
