@@ -336,3 +336,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-18 15:29: fix(schema): resolve null value parsing in payload
 - 2025-12-18 18:06: fix(queue): acknowledge message after successful processing
 - 2025-12-18 22:20: fix(queue): acknowledge message after successful processing
+- 2025-12-18 22:31: docs: update setup instructions and prerequisites
