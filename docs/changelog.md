@@ -333,3 +333,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-17 22:25: fix(cache): resolve cache key collision for compound queries
 - 2025-12-18 13:58: feat(api): add retry policy with exponential backoff
 - 2025-12-18 14:52: feat(metrics): track request latency and error counters
+- 2025-12-18 15:29: fix(schema): resolve null value parsing in payload
