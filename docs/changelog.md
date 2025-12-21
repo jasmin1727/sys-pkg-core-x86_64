@@ -337,3 +337,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-18 18:06: fix(queue): acknowledge message after successful processing
 - 2025-12-18 22:20: fix(queue): acknowledge message after successful processing
 - 2025-12-18 22:31: docs: update setup instructions and prerequisites
+- 2025-12-21 10:03: fix(parser): resolve unexpected EOF when reading stream
