@@ -340,3 +340,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-21 10:03: fix(parser): resolve unexpected EOF when reading stream
 - 2025-12-21 21:43: refactor(core): streamline worker initialization sequence
 - 2025-12-22 10:17: feat(auth): add bearer token header validation helper
+- 2025-12-22 11:48: feat(rate-limit): implement token bucket rate limiting algorithm
