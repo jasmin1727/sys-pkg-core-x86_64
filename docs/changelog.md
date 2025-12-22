@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-22 13:12: test(storage): verify concurrency safety with thread pool
 - 2025-12-22 16:49: docs: add architecture overview and system flow diagram
 - 2025-12-22 21:19: fix(config): fallback to defaults when config key is missing
+- 2025-12-22 21:49: chore: update dependency versions in package lock
