@@ -316,3 +316,6 @@ Install required runtime packages and configure environment.
 
 ### Setup & Prerequisites
 Install required runtime packages and configure environment.
+
+### System Architecture
+Modular event-driven architecture designed for high throughput.

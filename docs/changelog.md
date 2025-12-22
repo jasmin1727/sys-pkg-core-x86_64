@@ -342,3 +342,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-22 10:17: feat(auth): add bearer token header validation helper
 - 2025-12-22 11:48: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2025-12-22 13:12: test(storage): verify concurrency safety with thread pool
+- 2025-12-22 16:49: docs: add architecture overview and system flow diagram
