@@ -348,3 +348,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-23 10:14: refactor(core): streamline worker initialization sequence
 - 2025-12-24 10:01: fix(logger): prevent sensitive token leakage in debug logs
 - 2025-12-24 15:01: fix(parser): resolve unexpected EOF when reading stream
+- 2025-12-24 18:08: refactor: optimize module imports and remove unused dependencies
