@@ -353,3 +353,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-24 19:39: fix(queue): acknowledge message after successful processing
 - 2025-12-24 20:23: test(core): add coverage for worker crash recovery
 - 2025-12-24 20:27: refactor: optimize module imports and remove unused dependencies
+- 2025-12-26 14:42: refactor(storage): separate in-memory cache from persistence layer
