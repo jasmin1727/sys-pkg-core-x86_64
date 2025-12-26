@@ -232,3 +232,7 @@ def get_config_value(config: dict, key: str, default=None):
 # Cleaned up module imports
 
 # Cleaned up module imports
+
+def get_config_value(config: dict, key: str, default=None):
+    '''Safe dictionary access with default fallback.'''
+    return config.get(key, default)

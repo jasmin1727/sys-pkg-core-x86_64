@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-26 14:43: docs: update API endpoints reference and sample requests
 - 2025-12-26 18:53: feat(validator): add schema validation for incoming events
 - 2025-12-26 20:51: fix(core): handle race condition during worker shutdown
+- 2025-12-26 21:24: fix(config): fallback to defaults when config key is missing
