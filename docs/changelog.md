@@ -362,3 +362,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-27 11:11: feat(stream): add chunked data stream reader
 - 2025-12-27 12:15: docs: update setup instructions and prerequisites
 - 2025-12-27 13:22: refactor(core): streamline worker initialization sequence
+- 2025-12-27 18:10: docs: document configuration parameters and overrides
