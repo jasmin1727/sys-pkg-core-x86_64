@@ -304,3 +304,7 @@ def read_stream_chunks(stream, chunk_size: int = 8192):
 # Decoupled in-memory and disk adapters
 
 # Decoupled in-memory and disk adapters
+
+def read_stream_chunks(stream, chunk_size: int = 8192):
+    '''Yield chunked data from readable stream.'''
+    pass
