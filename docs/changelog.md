@@ -360,3 +360,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-26 21:24: fix(config): fallback to defaults when config key is missing
 - 2025-12-26 22:56: fix(parser): resolve unexpected EOF when reading stream
 - 2025-12-27 11:11: feat(stream): add chunked data stream reader
+- 2025-12-27 12:15: docs: update setup instructions and prerequisites
