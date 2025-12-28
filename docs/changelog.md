@@ -364,3 +364,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-27 13:22: refactor(core): streamline worker initialization sequence
 - 2025-12-27 18:10: docs: document configuration parameters and overrides
 - 2025-12-27 19:15: fix(core): handle race condition during worker shutdown
+- 2025-12-28 10:53: test(core): add coverage for worker crash recovery
