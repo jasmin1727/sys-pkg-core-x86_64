@@ -368,3 +368,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-28 12:56: feat(api): add retry policy with exponential backoff
 - 2025-12-28 16:35: feat(events): implement publish-subscribe message bus
 - 2025-12-28 17:57: test(core): add coverage for worker crash recovery
+- 2025-12-28 18:24: feat(metrics): track request latency and error counters
