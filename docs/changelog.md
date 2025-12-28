@@ -369,3 +369,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-28 16:35: feat(events): implement publish-subscribe message bus
 - 2025-12-28 17:57: test(core): add coverage for worker crash recovery
 - 2025-12-28 18:24: feat(metrics): track request latency and error counters
+- 2025-12-28 20:17: fix(queue): acknowledge message after successful processing
