@@ -371,3 +371,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-28 18:24: feat(metrics): track request latency and error counters
 - 2025-12-28 20:17: fix(queue): acknowledge message after successful processing
 - 2025-12-28 22:34: fix(core): handle race condition during worker shutdown
+- 2025-12-29 10:17: feat(auth): add bearer token header validation helper
