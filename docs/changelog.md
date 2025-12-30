@@ -374,3 +374,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-29 10:17: feat(auth): add bearer token header validation helper
 - 2025-12-29 20:30: refactor(cache): unify cache interface across backends
 - 2025-12-29 22:22: feat(logger): introduce structured json formatting
+- 2025-12-30 15:38: feat(stream): add chunked data stream reader
