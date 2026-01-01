@@ -376,3 +376,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-29 22:22: feat(logger): introduce structured json formatting
 - 2025-12-30 15:38: feat(stream): add chunked data stream reader
 - 2025-12-30 19:15: test(cache): assert eviction behavior under memory pressure
+- 2026-01-01 19:03: feat(metrics): track request latency and error counters
