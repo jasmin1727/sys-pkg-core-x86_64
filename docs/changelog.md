@@ -378,3 +378,4 @@ All notable changes and milestones are documented in this file.
 - 2025-12-30 19:15: test(cache): assert eviction behavior under memory pressure
 - 2026-01-01 19:03: feat(metrics): track request latency and error counters
 - 2026-01-01 21:07: fix(cache): resolve cache key collision for compound queries
+- 2026-01-02 13:07: feat(metrics): track request latency and error counters
