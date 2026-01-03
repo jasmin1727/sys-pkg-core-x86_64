@@ -387,3 +387,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-03 18:14: feat(metrics): track request latency and error counters
 - 2026-01-03 19:53: refactor(storage): separate in-memory cache from persistence layer
 - 2026-01-03 20:01: fix(cache): resolve cache key collision for compound queries
+- 2026-01-03 22:48: feat(metrics): track request latency and error counters
