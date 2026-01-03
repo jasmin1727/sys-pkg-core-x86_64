@@ -385,3 +385,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-03 13:54: feat(logger): introduce structured json formatting
 - 2026-01-03 14:51: fix(logger): prevent sensitive token leakage in debug logs
 - 2026-01-03 18:14: feat(metrics): track request latency and error counters
+- 2026-01-03 19:53: refactor(storage): separate in-memory cache from persistence layer
