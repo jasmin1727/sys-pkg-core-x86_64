@@ -382,3 +382,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-02 13:33: feat(api): add retry policy with exponential backoff
 - 2026-01-02 23:28: feat(metrics): track request latency and error counters
 - 2026-01-03 13:21: refactor(utils): decompose monolithic string processing utility
+- 2026-01-03 13:54: feat(logger): introduce structured json formatting
