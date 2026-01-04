@@ -389,3 +389,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-03 20:01: fix(cache): resolve cache key collision for compound queries
 - 2026-01-03 22:48: feat(metrics): track request latency and error counters
 - 2026-01-04 10:01: feat(scheduler): support cron-like job scheduling intervals
+- 2026-01-04 14:29: refactor(cache): unify cache interface across backends
