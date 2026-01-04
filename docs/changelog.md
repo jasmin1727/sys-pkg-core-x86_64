@@ -391,3 +391,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-04 10:01: feat(scheduler): support cron-like job scheduling intervals
 - 2026-01-04 14:29: refactor(cache): unify cache interface across backends
 - 2026-01-04 15:41: test(core): add coverage for worker crash recovery
+- 2026-01-04 20:11: refactor(storage): separate in-memory cache from persistence layer
