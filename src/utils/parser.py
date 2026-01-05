@@ -292,3 +292,7 @@ def validate_bearer_token(header: str) -> bool:
     return header.startswith('Bearer ')
 
 # Decomposed string processing helpers
+
+def parse_nested_payload(raw: str) -> dict:
+    '''Safely decode nested JSON structures.'''
+    return json.loads(raw)
