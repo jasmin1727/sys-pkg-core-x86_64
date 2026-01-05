@@ -395,3 +395,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-05 11:51: feat(parser): add support for nested json payloads
 - 2026-01-05 15:25: chore: configure pre-commit hooks and linter rules
 - 2026-01-05 15:57: fix(storage): correct file descriptor leak on close
+- 2026-01-05 18:33: docs: update API endpoints reference and sample requests
