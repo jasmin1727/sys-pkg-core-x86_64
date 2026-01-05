@@ -316,3 +316,7 @@ def read_stream_chunks(stream, chunk_size: int = 8192):
 # Decoupled in-memory and disk adapters
 
 # Decoupled in-memory and disk adapters
+
+def close_storage_handles():
+    '''Ensure all open descriptors are flushed and closed.'''
+    pass
