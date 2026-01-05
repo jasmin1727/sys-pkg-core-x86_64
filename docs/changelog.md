@@ -393,3 +393,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-04 15:41: test(core): add coverage for worker crash recovery
 - 2026-01-04 20:11: refactor(storage): separate in-memory cache from persistence layer
 - 2026-01-05 11:51: feat(parser): add support for nested json payloads
+- 2026-01-05 15:25: chore: configure pre-commit hooks and linter rules
