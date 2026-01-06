@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-06 15:29: refactor(utils): decompose monolithic string processing utility
 - 2026-01-06 15:42: fix(core): handle race condition during worker shutdown
 - 2026-01-06 15:57: refactor(storage): separate in-memory cache from persistence layer
+- 2026-01-06 16:25: feat(cache): implement adaptive LRU cache with TTL expiry
