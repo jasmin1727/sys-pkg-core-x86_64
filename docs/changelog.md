@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-06 16:25: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2026-01-06 16:29: fix(core): handle race condition during worker shutdown
 - 2026-01-06 19:01: feat(validator): add schema validation for incoming events
+- 2026-01-06 22:10: test(parser): add test cases for malformed inputs
