@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-05 22:58: fix(parser): resolve unexpected EOF when reading stream
 - 2026-01-06 10:44: docs: add architecture overview and system flow diagram
 - 2026-01-06 11:52: test(cache): assert eviction behavior under memory pressure
+- 2026-01-06 13:01: feat(events): implement publish-subscribe message bus
