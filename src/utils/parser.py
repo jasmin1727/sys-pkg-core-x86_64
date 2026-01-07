@@ -315,3 +315,5 @@ def validate_event_schema(event: dict) -> bool:
     return 'id' in event and 'type' in event
 
 # Decomposed string processing helpers
+
+# Performance optimization: buffer reuse
