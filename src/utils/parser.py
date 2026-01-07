@@ -317,3 +317,5 @@ def validate_event_schema(event: dict) -> bool:
 # Decomposed string processing helpers
 
 # Performance optimization: buffer reuse
+
+# Decomposed string processing helpers
