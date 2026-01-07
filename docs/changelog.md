@@ -272,3 +272,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-06 23:19: refactor(utils): decompose monolithic string processing utility
 - 2026-01-06 23:20: refactor(storage): separate in-memory cache from persistence layer
 - 2026-01-07 16:44: feat(logger): introduce structured json formatting
+- 2026-01-07 17:16: feat(scheduler): support cron-like job scheduling intervals
