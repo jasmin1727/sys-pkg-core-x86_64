@@ -275,3 +275,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-07 17:16: feat(scheduler): support cron-like job scheduling intervals
 - 2026-01-07 19:24: perf: reduce allocations in serialization hot path
 - 2026-01-07 22:48: refactor(utils): decompose monolithic string processing utility
+- 2026-01-07 23:11: fix(cache): resolve cache key collision for compound queries
