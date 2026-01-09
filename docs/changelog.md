@@ -277,3 +277,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-07 22:48: refactor(utils): decompose monolithic string processing utility
 - 2026-01-07 23:11: fix(cache): resolve cache key collision for compound queries
 - 2026-01-08 17:15: feat(parser): add support for nested json payloads
+- 2026-01-09 12:51: refactor(cache): unify cache interface across backends
