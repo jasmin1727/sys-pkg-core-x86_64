@@ -279,3 +279,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-08 17:15: feat(parser): add support for nested json payloads
 - 2026-01-09 12:51: refactor(cache): unify cache interface across backends
 - 2026-01-09 13:37: fix(logger): prevent sensitive token leakage in debug logs
+- 2026-01-09 21:21: fix(core): handle race condition during worker shutdown
