@@ -282,3 +282,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-09 21:21: fix(core): handle race condition during worker shutdown
 - 2026-01-09 21:27: refactor(utils): decompose monolithic string processing utility
 - 2026-01-09 21:30: feat(scheduler): support cron-like job scheduling intervals
+- 2026-01-09 22:57: chore: configure pre-commit hooks and linter rules
