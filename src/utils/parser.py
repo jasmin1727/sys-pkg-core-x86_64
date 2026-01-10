@@ -325,3 +325,7 @@ def parse_nested_payload(raw: str) -> dict:
     return json.loads(raw)
 
 # Decomposed string processing helpers
+
+def validate_event_schema(event: dict) -> bool:
+    '''Check event against defined schema.'''
+    return 'id' in event and 'type' in event
