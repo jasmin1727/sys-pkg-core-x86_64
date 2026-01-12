@@ -285,3 +285,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-09 22:57: chore: configure pre-commit hooks and linter rules
 - 2026-01-10 15:53: fix(cache): resolve cache key collision for compound queries
 - 2026-01-10 19:14: feat(validator): add schema validation for incoming events
+- 2026-01-12 10:28: fix(logger): prevent sensitive token leakage in debug logs
