@@ -286,3 +286,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-10 15:53: fix(cache): resolve cache key collision for compound queries
 - 2026-01-10 19:14: feat(validator): add schema validation for incoming events
 - 2026-01-12 10:28: fix(logger): prevent sensitive token leakage in debug logs
+- 2026-01-12 11:59: feat(storage): implement disk-backed key-value cache
