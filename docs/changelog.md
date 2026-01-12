@@ -289,3 +289,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-12 11:59: feat(storage): implement disk-backed key-value cache
 - 2026-01-12 18:52: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2026-01-12 22:38: refactor(storage): separate in-memory cache from persistence layer
+- 2026-01-12 23:21: refactor(utils): decompose monolithic string processing utility
