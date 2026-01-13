@@ -292,3 +292,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-12 23:21: refactor(utils): decompose monolithic string processing utility
 - 2026-01-13 10:45: refactor(cache): unify cache interface across backends
 - 2026-01-13 16:48: docs: update setup instructions and prerequisites
+- 2026-01-13 17:44: feat(config): add dynamic environment variable resolver
