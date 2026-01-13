@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-12 18:52: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2026-01-12 22:38: refactor(storage): separate in-memory cache from persistence layer
 - 2026-01-12 23:21: refactor(utils): decompose monolithic string processing utility
+- 2026-01-13 10:45: refactor(cache): unify cache interface across backends
