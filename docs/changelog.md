@@ -296,3 +296,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-13 18:10: fix(storage): correct file descriptor leak on close
 - 2026-01-13 21:33: fix(cache): resolve cache key collision for compound queries
 - 2026-01-13 21:38: fix(parser): resolve unexpected EOF when reading stream
+- 2026-01-14 17:07: docs: update API endpoints reference and sample requests
