@@ -290,3 +290,5 @@ def safe_shutdown(pool):
 class EventBus:
     '''In-memory publish-subscribe bus.'''
     pass
+
+# Formatted with strict styling
