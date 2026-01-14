@@ -286,3 +286,7 @@ def safe_shutdown(pool):
 def safe_shutdown(pool):
     '''Safely terminate workers without deadlocks.'''
     pool['status'] = 'stopped'
+
+class EventBus:
+    '''In-memory publish-subscribe bus.'''
+    pass
