@@ -301,3 +301,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-14 19:59: docs: document configuration parameters and overrides
 - 2026-01-14 20:09: style: enforce consistent docstring and code formatting
 - 2026-01-14 23:29: feat(api): add retry policy with exponential backoff
+- 2026-01-16 14:11: fix(queue): acknowledge message after successful processing
