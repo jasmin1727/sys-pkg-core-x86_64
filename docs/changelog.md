@@ -303,3 +303,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-14 23:29: feat(api): add retry policy with exponential backoff
 - 2026-01-16 14:11: fix(queue): acknowledge message after successful processing
 - 2026-01-17 12:13: fix(cache): resolve cache key collision for compound queries
+- 2026-01-17 12:26: fix(core): handle race condition during worker shutdown
