@@ -315,3 +315,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-19 18:48: test(cache): assert eviction behavior under memory pressure
 - 2026-01-19 19:22: refactor(utils): decompose monolithic string processing utility
 - 2026-01-19 20:12: docs: update setup instructions and prerequisites
+- 2026-01-19 21:39: feat(api): add retry policy with exponential backoff
