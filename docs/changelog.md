@@ -312,3 +312,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-19 15:03: feat(events): implement publish-subscribe message bus
 - 2026-01-19 15:34: docs: update setup instructions and prerequisites
 - 2026-01-19 16:00: fix(storage): correct file descriptor leak on close
+- 2026-01-19 18:48: test(cache): assert eviction behavior under memory pressure
