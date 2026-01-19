@@ -307,3 +307,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-17 15:47: feat(storage): implement disk-backed key-value cache
 - 2026-01-17 20:35: docs: document configuration parameters and overrides
 - 2026-01-19 11:07: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2026-01-19 13:03: fix(logger): prevent sensitive token leakage in debug logs
