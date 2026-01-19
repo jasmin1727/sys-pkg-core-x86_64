@@ -309,3 +309,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-19 11:07: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2026-01-19 13:03: fix(logger): prevent sensitive token leakage in debug logs
 - 2026-01-19 13:50: fix(parser): resolve unexpected EOF when reading stream
+- 2026-01-19 15:03: feat(events): implement publish-subscribe message bus
