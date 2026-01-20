@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-20 11:54: test(core): add coverage for worker crash recovery
 - 2026-01-20 12:41: fix(queue): acknowledge message after successful processing
 - 2026-01-20 16:23: feat(stream): add chunked data stream reader
+- 2026-01-20 18:08: feat(parser): add support for nested json payloads
