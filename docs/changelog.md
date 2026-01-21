@@ -322,3 +322,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-20 12:41: fix(queue): acknowledge message after successful processing
 - 2026-01-20 16:23: feat(stream): add chunked data stream reader
 - 2026-01-20 18:08: feat(parser): add support for nested json payloads
+- 2026-01-21 19:24: fix(core): handle race condition during worker shutdown
