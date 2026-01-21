@@ -324,3 +324,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-20 18:08: feat(parser): add support for nested json payloads
 - 2026-01-21 19:24: fix(core): handle race condition during worker shutdown
 - 2026-01-21 19:59: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2026-01-21 20:22: feat(core): implement async task worker pool
