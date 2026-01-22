@@ -326,3 +326,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-21 19:59: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2026-01-21 20:22: feat(core): implement async task worker pool
 - 2026-01-22 13:22: fix(storage): correct file descriptor leak on close
+- 2026-01-22 13:52: fix(schema): resolve null value parsing in payload
