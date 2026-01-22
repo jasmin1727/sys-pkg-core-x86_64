@@ -330,3 +330,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-22 14:21: chore: update dependency versions in package lock
 - 2026-01-22 15:46: test(cache): assert eviction behavior under memory pressure
 - 2026-01-22 17:02: refactor(utils): decompose monolithic string processing utility
+- 2026-01-22 21:47: docs: update setup instructions and prerequisites
