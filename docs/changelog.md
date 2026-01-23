@@ -334,3 +334,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-22 21:52: docs: update API endpoints reference and sample requests
 - 2026-01-23 10:51: feat(logger): introduce structured json formatting
 - 2026-01-23 13:31: test(parser): add test cases for malformed inputs
+- 2026-01-23 13:31: fix(cache): resolve cache key collision for compound queries
