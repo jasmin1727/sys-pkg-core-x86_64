@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-22 17:02: refactor(utils): decompose monolithic string processing utility
 - 2026-01-22 21:47: docs: update setup instructions and prerequisites
 - 2026-01-22 21:52: docs: update API endpoints reference and sample requests
+- 2026-01-23 10:51: feat(logger): introduce structured json formatting
