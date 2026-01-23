@@ -335,3 +335,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-23 10:51: feat(logger): introduce structured json formatting
 - 2026-01-23 13:31: test(parser): add test cases for malformed inputs
 - 2026-01-23 13:31: fix(cache): resolve cache key collision for compound queries
+- 2026-01-23 17:14: fix(config): fallback to defaults when config key is missing
