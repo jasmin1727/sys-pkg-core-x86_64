@@ -339,3 +339,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-24 10:10: refactor(utils): decompose monolithic string processing utility
 - 2026-01-24 12:53: feat(storage): implement disk-backed key-value cache
 - 2026-01-24 13:41: docs: document configuration parameters and overrides
+- 2026-01-24 13:50: feat(context): propagate request trace id across coroutines
