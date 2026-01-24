@@ -182,3 +182,7 @@ def read_stream_chunks(stream, chunk_size: int = 8192):
 def close_storage_handles():
     '''Ensure all open descriptors are flushed and closed.'''
     pass
+
+def persist_kv(key: str, value: any, store_path: str):
+    '''Store key-value pair to disk.'''
+    pass
