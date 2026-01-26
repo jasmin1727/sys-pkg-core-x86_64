@@ -342,3 +342,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-24 13:50: feat(context): propagate request trace id across coroutines
 - 2026-01-24 14:04: test(cache): assert eviction behavior under memory pressure
 - 2026-01-24 22:15: refactor: optimize module imports and remove unused dependencies
+- 2026-01-26 20:57: test(cache): assert eviction behavior under memory pressure
