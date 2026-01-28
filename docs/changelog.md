@@ -345,3 +345,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-26 20:57: test(cache): assert eviction behavior under memory pressure
 - 2026-01-27 13:26: refactor(cache): unify cache interface across backends
 - 2026-01-28 12:52: refactor: optimize module imports and remove unused dependencies
+- 2026-01-28 22:31: feat(validator): add schema validation for incoming events
