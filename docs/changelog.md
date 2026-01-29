@@ -348,3 +348,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-28 22:31: feat(validator): add schema validation for incoming events
 - 2026-01-29 19:11: test(core): add coverage for worker crash recovery
 - 2026-01-29 19:34: fix(schema): resolve null value parsing in payload
+- 2026-01-29 21:04: feat(auth): add bearer token header validation helper
