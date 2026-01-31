@@ -356,3 +356,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-31 14:53: style: enforce consistent docstring and code formatting
 - 2026-01-31 17:19: test(storage): verify concurrency safety with thread pool
 - 2026-01-31 18:01: test(cache): assert eviction behavior under memory pressure
+- 2026-01-31 18:07: feat(metrics): track request latency and error counters
