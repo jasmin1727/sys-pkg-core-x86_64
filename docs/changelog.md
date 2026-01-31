@@ -354,3 +354,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-31 12:47: feat(storage): implement disk-backed key-value cache
 - 2026-01-31 13:09: feat(stream): add chunked data stream reader
 - 2026-01-31 14:53: style: enforce consistent docstring and code formatting
+- 2026-01-31 17:19: test(storage): verify concurrency safety with thread pool
