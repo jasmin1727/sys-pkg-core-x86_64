@@ -360,3 +360,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-31 19:04: feat(stream): add chunked data stream reader
 - 2026-01-31 20:37: fix(queue): acknowledge message after successful processing
 - 2026-01-31 22:11: test(cache): assert eviction behavior under memory pressure
+- 2026-01-31 23:24: refactor(storage): separate in-memory cache from persistence layer
