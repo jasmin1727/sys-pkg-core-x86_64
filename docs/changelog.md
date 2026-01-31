@@ -352,3 +352,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-31 10:40: feat(context): propagate request trace id across coroutines
 - 2026-01-31 12:12: feat(storage): implement disk-backed key-value cache
 - 2026-01-31 12:47: feat(storage): implement disk-backed key-value cache
+- 2026-01-31 13:09: feat(stream): add chunked data stream reader
