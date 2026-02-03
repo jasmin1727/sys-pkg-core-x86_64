@@ -363,3 +363,4 @@ All notable changes and milestones are documented in this file.
 - 2026-01-31 23:24: refactor(storage): separate in-memory cache from persistence layer
 - 2026-02-02 12:15: docs: update API endpoints reference and sample requests
 - 2026-02-03 14:36: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2026-02-03 22:28: fix(cache): resolve cache key collision for compound queries
