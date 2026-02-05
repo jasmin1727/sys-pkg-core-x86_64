@@ -365,3 +365,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-03 14:36: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2026-02-03 22:28: fix(cache): resolve cache key collision for compound queries
 - 2026-02-05 12:38: feat(scheduler): support cron-like job scheduling intervals
+- 2026-02-05 13:24: test(core): add coverage for worker crash recovery
