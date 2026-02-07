@@ -373,3 +373,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-07 15:03: test(storage): verify concurrency safety with thread pool
 - 2026-02-07 15:41: feat(scheduler): support cron-like job scheduling intervals
 - 2026-02-07 15:52: fix(config): fallback to defaults when config key is missing
+- 2026-02-07 15:56: feat(core): implement async task worker pool
