@@ -367,3 +367,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-05 12:38: feat(scheduler): support cron-like job scheduling intervals
 - 2026-02-05 13:24: test(core): add coverage for worker crash recovery
 - 2026-02-05 14:06: test(core): add coverage for worker crash recovery
+- 2026-02-07 13:32: refactor: optimize module imports and remove unused dependencies
