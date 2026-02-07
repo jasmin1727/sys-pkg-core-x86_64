@@ -376,3 +376,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-07 15:56: feat(core): implement async task worker pool
 - 2026-02-07 18:34: test(storage): verify concurrency safety with thread pool
 - 2026-02-07 18:55: feat(parser): add support for nested json payloads
+- 2026-02-07 20:19: feat(logger): introduce structured json formatting
