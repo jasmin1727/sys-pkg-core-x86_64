@@ -377,3 +377,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-07 18:34: test(storage): verify concurrency safety with thread pool
 - 2026-02-07 18:55: feat(parser): add support for nested json payloads
 - 2026-02-07 20:19: feat(logger): introduce structured json formatting
+- 2026-02-07 21:21: test(cache): assert eviction behavior under memory pressure
