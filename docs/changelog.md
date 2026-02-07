@@ -371,3 +371,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-07 13:43: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2026-02-07 14:11: fix(core): handle race condition during worker shutdown
 - 2026-02-07 15:03: test(storage): verify concurrency safety with thread pool
+- 2026-02-07 15:41: feat(scheduler): support cron-like job scheduling intervals

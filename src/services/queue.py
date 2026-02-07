@@ -209,3 +209,7 @@ def process_and_ack(msg, handler):
 class JobScheduler:
     '''Periodic job scheduler.'''
     pass
+
+class JobScheduler:
+    '''Periodic job scheduler.'''
+    pass
