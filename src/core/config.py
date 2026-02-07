@@ -258,3 +258,7 @@ def get_current_trace_id() -> str:
     return os.environ.get('TRACE_ID', 'trace-default')
 
 # Cleaned up module imports
+
+def get_config_value(config: dict, key: str, default=None):
+    '''Safe dictionary access with default fallback.'''
+    return config.get(key, default)
