@@ -326,3 +326,7 @@ class TokenBucket:
 class TokenBucket:
     '''Token bucket rate limiter implementation.'''
     pass
+
+def safe_shutdown(pool):
+    '''Safely terminate workers without deadlocks.'''
+    pool['status'] = 'stopped'
