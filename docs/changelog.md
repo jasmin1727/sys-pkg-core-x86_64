@@ -379,3 +379,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-07 20:19: feat(logger): introduce structured json formatting
 - 2026-02-07 21:21: test(cache): assert eviction behavior under memory pressure
 - 2026-02-08 10:33: refactor(storage): separate in-memory cache from persistence layer
+- 2026-02-08 11:07: feat(parser): add support for nested json payloads
