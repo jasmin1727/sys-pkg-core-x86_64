@@ -381,3 +381,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-08 10:33: refactor(storage): separate in-memory cache from persistence layer
 - 2026-02-08 11:07: feat(parser): add support for nested json payloads
 - 2026-02-08 11:09: refactor: optimize module imports and remove unused dependencies
+- 2026-02-08 15:37: fix(parser): resolve unexpected EOF when reading stream
