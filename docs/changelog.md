@@ -388,3 +388,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-09 13:00: refactor(utils): decompose monolithic string processing utility
 - 2026-02-09 14:24: refactor: optimize module imports and remove unused dependencies
 - 2026-02-09 21:02: perf: reduce allocations in serialization hot path
+- 2026-02-09 22:13: fix(parser): resolve unexpected EOF when reading stream
