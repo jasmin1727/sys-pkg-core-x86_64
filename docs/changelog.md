@@ -384,3 +384,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-08 15:37: fix(parser): resolve unexpected EOF when reading stream
 - 2026-02-08 18:44: feat(metrics): track request latency and error counters
 - 2026-02-08 21:41: docs: update API endpoints reference and sample requests
+- 2026-02-09 12:45: feat(core): implement async task worker pool
