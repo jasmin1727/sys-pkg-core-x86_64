@@ -346,3 +346,5 @@ def create_worker_pool(workers: int = 4):
 class TokenBucket:
     '''Token bucket rate limiter implementation.'''
     pass
+
+# Refactored worker lifecycle management
