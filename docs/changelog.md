@@ -391,3 +391,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-09 22:13: fix(parser): resolve unexpected EOF when reading stream
 - 2026-02-10 10:58: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2026-02-10 17:59: refactor(core): streamline worker initialization sequence
+- 2026-02-10 19:25: test(storage): verify concurrency safety with thread pool
