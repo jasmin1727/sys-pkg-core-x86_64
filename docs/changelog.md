@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-11 20:28: feat(storage): implement disk-backed key-value cache
 - 2026-02-11 20:39: fix(queue): acknowledge message after successful processing
 - 2026-02-11 22:18: feat(metrics): track request latency and error counters
+- 2026-02-11 22:49: feat(metrics): track request latency and error counters
