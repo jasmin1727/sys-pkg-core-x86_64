@@ -258,3 +258,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-11 22:18: feat(metrics): track request latency and error counters
 - 2026-02-11 22:49: feat(metrics): track request latency and error counters
 - 2026-02-12 13:58: style: enforce consistent docstring and code formatting
+- 2026-02-12 14:31: feat(storage): implement disk-backed key-value cache
