@@ -184,3 +184,5 @@ class MetricsCollector:
     pass
 
 # Formatted with strict styling
+
+# Formatted with strict styling
