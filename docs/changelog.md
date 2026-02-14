@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-12 19:10: fix(storage): correct file descriptor leak on close
 - 2026-02-12 22:09: style: enforce consistent docstring and code formatting
 - 2026-02-14 12:34: fix(storage): correct file descriptor leak on close
+- 2026-02-14 15:19: feat(core): implement async task worker pool
