@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-14 15:19: feat(core): implement async task worker pool
 - 2026-02-14 17:00: test(cache): assert eviction behavior under memory pressure
 - 2026-02-14 17:52: refactor(cache): unify cache interface across backends
+- 2026-02-14 18:12: fix(storage): correct file descriptor leak on close
