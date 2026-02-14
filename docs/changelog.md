@@ -265,3 +265,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-12 22:09: style: enforce consistent docstring and code formatting
 - 2026-02-14 12:34: fix(storage): correct file descriptor leak on close
 - 2026-02-14 15:19: feat(core): implement async task worker pool
+- 2026-02-14 17:00: test(cache): assert eviction behavior under memory pressure
