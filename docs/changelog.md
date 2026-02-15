@@ -274,3 +274,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-15 14:44: feat(auth): add bearer token header validation helper
 - 2026-02-15 15:34: test(cache): assert eviction behavior under memory pressure
 - 2026-02-15 20:50: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2026-02-15 21:41: feat(context): propagate request trace id across coroutines
