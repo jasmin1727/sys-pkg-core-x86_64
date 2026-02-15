@@ -271,3 +271,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-14 19:28: feat(context): propagate request trace id across coroutines
 - 2026-02-15 10:44: test(core): add coverage for worker crash recovery
 - 2026-02-15 13:17: fix(config): fallback to defaults when config key is missing
+- 2026-02-15 14:44: feat(auth): add bearer token header validation helper
