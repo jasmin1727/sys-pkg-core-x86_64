@@ -276,3 +276,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-15 20:50: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2026-02-15 21:41: feat(context): propagate request trace id across coroutines
 - 2026-02-16 11:43: fix(cache): resolve cache key collision for compound queries
+- 2026-02-16 11:50: refactor(core): streamline worker initialization sequence
