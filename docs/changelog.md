@@ -279,3 +279,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-16 11:50: refactor(core): streamline worker initialization sequence
 - 2026-02-16 16:32: feat(events): implement publish-subscribe message bus
 - 2026-02-17 12:28: fix(core): handle race condition during worker shutdown
+- 2026-02-17 13:31: chore: configure pre-commit hooks and linter rules
