@@ -283,3 +283,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-17 13:44: refactor(cache): unify cache interface across backends
 - 2026-02-17 16:14: refactor(cache): unify cache interface across backends
 - 2026-02-17 16:27: fix(schema): resolve null value parsing in payload
+- 2026-02-17 17:48: test(core): add coverage for worker crash recovery
