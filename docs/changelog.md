@@ -282,3 +282,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-17 13:31: chore: configure pre-commit hooks and linter rules
 - 2026-02-17 13:44: refactor(cache): unify cache interface across backends
 - 2026-02-17 16:14: refactor(cache): unify cache interface across backends
+- 2026-02-17 16:27: fix(schema): resolve null value parsing in payload
