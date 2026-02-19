@@ -286,3 +286,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-17 17:48: test(core): add coverage for worker crash recovery
 - 2026-02-17 19:37: feat(validator): add schema validation for incoming events
 - 2026-02-17 20:18: feat(logger): introduce structured json formatting
+- 2026-02-19 21:59: fix(parser): resolve unexpected EOF when reading stream
