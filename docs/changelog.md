@@ -297,3 +297,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-21 14:38: fix(storage): correct file descriptor leak on close
 - 2026-02-21 15:13: fix(parser): resolve unexpected EOF when reading stream
 - 2026-02-21 15:24: feat(parser): add support for nested json payloads
+- 2026-02-21 16:18: refactor(cache): unify cache interface across backends
