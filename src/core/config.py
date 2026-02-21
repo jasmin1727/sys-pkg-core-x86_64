@@ -282,3 +282,7 @@ def get_config_value(config: dict, key: str, default=None):
 def get_current_trace_id() -> str:
     '''Fetch active trace identifier.'''
     return os.environ.get('TRACE_ID', 'trace-default')
+
+def get_current_trace_id() -> str:
+    '''Fetch active trace identifier.'''
+    return os.environ.get('TRACE_ID', 'trace-default')
