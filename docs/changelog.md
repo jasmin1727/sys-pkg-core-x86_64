@@ -294,3 +294,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-21 13:20: feat(events): implement publish-subscribe message bus
 - 2026-02-21 13:35: test(storage): verify concurrency safety with thread pool
 - 2026-02-21 13:49: feat(context): propagate request trace id across coroutines
+- 2026-02-21 14:38: fix(storage): correct file descriptor leak on close
