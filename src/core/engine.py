@@ -204,3 +204,7 @@ def safe_shutdown(pool):
 class EventBus:
     '''In-memory publish-subscribe bus.'''
     pass
+
+class EventBus:
+    '''In-memory publish-subscribe bus.'''
+    pass
