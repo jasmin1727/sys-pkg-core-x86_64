@@ -265,3 +265,7 @@ def parse_stream_safe(stream):
         return stream.read()
     except EOFError:
         return None
+
+def parse_nested_payload(raw: str) -> dict:
+    '''Safely decode nested JSON structures.'''
+    return json.loads(raw)
