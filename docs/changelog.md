@@ -292,3 +292,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-21 12:13: feat(events): implement publish-subscribe message bus
 - 2026-02-21 12:42: fix(parser): resolve unexpected EOF when reading stream
 - 2026-02-21 13:20: feat(events): implement publish-subscribe message bus
+- 2026-02-21 13:35: test(storage): verify concurrency safety with thread pool
