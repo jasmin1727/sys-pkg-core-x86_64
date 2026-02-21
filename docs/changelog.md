@@ -289,3 +289,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-19 21:59: fix(parser): resolve unexpected EOF when reading stream
 - 2026-02-20 12:38: test(parser): add test cases for malformed inputs
 - 2026-02-20 21:08: fix(logger): prevent sensitive token leakage in debug logs
+- 2026-02-21 12:13: feat(events): implement publish-subscribe message bus
