@@ -304,3 +304,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-22 14:33: feat(storage): implement disk-backed key-value cache
 - 2026-02-22 14:48: fix(parser): resolve unexpected EOF when reading stream
 - 2026-02-22 15:14: docs: update API endpoints reference and sample requests
+- 2026-02-22 15:55: refactor(utils): decompose monolithic string processing utility
