@@ -303,3 +303,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-22 14:05: refactor(cache): unify cache interface across backends
 - 2026-02-22 14:33: feat(storage): implement disk-backed key-value cache
 - 2026-02-22 14:48: fix(parser): resolve unexpected EOF when reading stream
+- 2026-02-22 15:14: docs: update API endpoints reference and sample requests
