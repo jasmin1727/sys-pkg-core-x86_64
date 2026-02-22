@@ -299,3 +299,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-21 15:24: feat(parser): add support for nested json payloads
 - 2026-02-21 16:18: refactor(cache): unify cache interface across backends
 - 2026-02-22 10:56: fix(storage): correct file descriptor leak on close
+- 2026-02-22 13:29: fix(schema): resolve null value parsing in payload
