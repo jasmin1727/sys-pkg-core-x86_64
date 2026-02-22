@@ -308,3 +308,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-22 17:30: docs: add architecture overview and system flow diagram
 - 2026-02-22 20:16: docs: update API endpoints reference and sample requests
 - 2026-02-22 20:38: feat(context): propagate request trace id across coroutines
+- 2026-02-22 21:22: docs: update API endpoints reference and sample requests
