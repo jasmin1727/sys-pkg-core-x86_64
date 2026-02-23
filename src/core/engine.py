@@ -208,3 +208,7 @@ class EventBus:
 class EventBus:
     '''In-memory publish-subscribe bus.'''
     pass
+
+class EventBus:
+    '''In-memory publish-subscribe bus.'''
+    pass
