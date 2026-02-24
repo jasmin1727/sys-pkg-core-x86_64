@@ -323,3 +323,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-24 19:01: fix(queue): acknowledge message after successful processing
 - 2026-02-24 21:36: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2026-02-24 22:07: test(cache): assert eviction behavior under memory pressure
+- 2026-02-24 22:15: feat(parser): add support for nested json payloads
