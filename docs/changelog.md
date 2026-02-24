@@ -317,3 +317,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-23 18:11: refactor: optimize module imports and remove unused dependencies
 - 2026-02-23 18:18: feat(auth): add bearer token header validation helper
 - 2026-02-24 10:01: feat(validator): add schema validation for incoming events
+- 2026-02-24 11:35: docs: update API endpoints reference and sample requests
