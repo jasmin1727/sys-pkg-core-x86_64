@@ -320,3 +320,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-24 11:35: docs: update API endpoints reference and sample requests
 - 2026-02-24 13:30: feat(parser): add support for nested json payloads
 - 2026-02-24 14:33: refactor(core): streamline worker initialization sequence
+- 2026-02-24 19:01: fix(queue): acknowledge message after successful processing
