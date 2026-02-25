@@ -329,3 +329,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-25 10:30: test(storage): verify concurrency safety with thread pool
 - 2026-02-25 16:45: docs: update setup instructions and prerequisites
 - 2026-02-25 17:15: feat(metrics): track request latency and error counters
+- 2026-02-25 17:51: docs: update API endpoints reference and sample requests
