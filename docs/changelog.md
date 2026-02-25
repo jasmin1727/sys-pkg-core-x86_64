@@ -333,3 +333,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-25 18:05: test(parser): add test cases for malformed inputs
 - 2026-02-25 18:29: refactor(core): streamline worker initialization sequence
 - 2026-02-25 19:35: perf: reduce allocations in serialization hot path
+- 2026-02-25 20:31: test(core): add coverage for worker crash recovery
