@@ -326,3 +326,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-24 22:15: feat(parser): add support for nested json payloads
 - 2026-02-24 22:59: test(storage): verify concurrency safety with thread pool
 - 2026-02-24 23:18: style: enforce consistent docstring and code formatting
+- 2026-02-25 10:30: test(storage): verify concurrency safety with thread pool
