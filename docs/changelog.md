@@ -336,3 +336,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-25 20:31: test(core): add coverage for worker crash recovery
 - 2026-02-25 20:38: feat(config): add dynamic environment variable resolver
 - 2026-02-25 21:29: style: enforce consistent docstring and code formatting
+- 2026-02-25 22:37: chore: configure pre-commit hooks and linter rules
