@@ -331,3 +331,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-25 17:15: feat(metrics): track request latency and error counters
 - 2026-02-25 17:51: docs: update API endpoints reference and sample requests
 - 2026-02-25 18:05: test(parser): add test cases for malformed inputs
+- 2026-02-25 18:29: refactor(core): streamline worker initialization sequence
