@@ -338,3 +338,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-25 21:29: style: enforce consistent docstring and code formatting
 - 2026-02-25 22:37: chore: configure pre-commit hooks and linter rules
 - 2026-02-26 11:55: docs: update API endpoints reference and sample requests
+- 2026-02-26 19:18: refactor(core): streamline worker initialization sequence
