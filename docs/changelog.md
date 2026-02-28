@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-27 12:30: fix(schema): resolve null value parsing in payload
 - 2026-02-27 22:55: refactor(utils): decompose monolithic string processing utility
 - 2026-02-28 13:19: docs: update setup instructions and prerequisites
+- 2026-02-28 23:28: feat(stream): add chunked data stream reader
