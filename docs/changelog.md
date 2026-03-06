@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2026-02-28 13:19: docs: update setup instructions and prerequisites
 - 2026-02-28 23:28: feat(stream): add chunked data stream reader
 - 2026-03-06 10:41: feat(validator): add schema validation for incoming events
+- 2026-03-06 13:17: feat(auth): add bearer token header validation helper
