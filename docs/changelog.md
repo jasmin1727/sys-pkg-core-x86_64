@@ -349,3 +349,4 @@ All notable changes and milestones are documented in this file.
 - 2026-03-06 13:17: feat(auth): add bearer token header validation helper
 - 2026-03-06 15:13: feat(auth): add bearer token header validation helper
 - 2026-03-08 22:40: docs: update API endpoints reference and sample requests
+- 2026-03-09 10:19: fix(core): handle race condition during worker shutdown
