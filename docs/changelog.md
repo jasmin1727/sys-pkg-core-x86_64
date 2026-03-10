@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2026-03-10 11:14: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2026-03-10 12:00: feat(parser): add support for nested json payloads
 - 2026-03-10 14:26: fix(queue): acknowledge message after successful processing
+- 2026-03-10 15:11: fix(config): fallback to defaults when config key is missing
