@@ -358,3 +358,4 @@ All notable changes and milestones are documented in this file.
 - 2026-03-10 12:00: feat(parser): add support for nested json payloads
 - 2026-03-10 14:26: fix(queue): acknowledge message after successful processing
 - 2026-03-10 15:11: fix(config): fallback to defaults when config key is missing
+- 2026-03-10 17:21: docs: document configuration parameters and overrides
