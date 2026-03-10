@@ -360,3 +360,4 @@ All notable changes and milestones are documented in this file.
 - 2026-03-10 15:11: fix(config): fallback to defaults when config key is missing
 - 2026-03-10 17:21: docs: document configuration parameters and overrides
 - 2026-03-10 17:40: feat(parser): add support for nested json payloads
+- 2026-03-10 20:26: test(core): add coverage for worker crash recovery
