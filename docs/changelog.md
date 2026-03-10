@@ -354,3 +354,4 @@ All notable changes and milestones are documented in this file.
 - 2026-03-09 18:38: feat(storage): implement disk-backed key-value cache
 - 2026-03-10 10:43: fix(queue): acknowledge message after successful processing
 - 2026-03-10 10:51: docs: add architecture overview and system flow diagram
+- 2026-03-10 11:14: feat(cache): implement adaptive LRU cache with TTL expiry
