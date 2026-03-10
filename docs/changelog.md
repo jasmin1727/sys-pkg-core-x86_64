@@ -362,3 +362,4 @@ All notable changes and milestones are documented in this file.
 - 2026-03-10 17:40: feat(parser): add support for nested json payloads
 - 2026-03-10 20:26: test(core): add coverage for worker crash recovery
 - 2026-03-10 22:12: feat(parser): add support for nested json payloads
+- 2026-03-10 23:01: feat(rate-limit): implement token bucket rate limiting algorithm
