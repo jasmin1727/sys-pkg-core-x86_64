@@ -364,3 +364,4 @@ All notable changes and milestones are documented in this file.
 - 2026-03-10 22:12: feat(parser): add support for nested json payloads
 - 2026-03-10 23:01: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2026-03-13 12:23: feat(scheduler): support cron-like job scheduling intervals
+- 2026-03-13 17:01: feat(core): implement async task worker pool
