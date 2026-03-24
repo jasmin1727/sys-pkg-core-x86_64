@@ -370,3 +370,4 @@ All notable changes and milestones are documented in this file.
 - 2026-03-24 14:50: test(storage): verify concurrency safety with thread pool
 - 2026-03-24 16:16: refactor: optimize module imports and remove unused dependencies
 - 2026-03-24 17:10: feat(scheduler): support cron-like job scheduling intervals
+- 2026-03-24 17:34: feat(core): implement async task worker pool
