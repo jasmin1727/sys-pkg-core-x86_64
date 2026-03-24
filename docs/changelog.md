@@ -366,3 +366,4 @@ All notable changes and milestones are documented in this file.
 - 2026-03-13 12:23: feat(scheduler): support cron-like job scheduling intervals
 - 2026-03-13 17:01: feat(core): implement async task worker pool
 - 2026-03-23 20:03: perf: reduce allocations in serialization hot path
+- 2026-03-24 11:57: test(cache): assert eviction behavior under memory pressure
