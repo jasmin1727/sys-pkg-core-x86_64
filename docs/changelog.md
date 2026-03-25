@@ -373,3 +373,4 @@ All notable changes and milestones are documented in this file.
 - 2026-03-24 17:34: feat(core): implement async task worker pool
 - 2026-03-25 10:34: docs: document configuration parameters and overrides
 - 2026-03-25 12:27: chore: configure pre-commit hooks and linter rules
+- 2026-03-25 12:52: fix(core): handle race condition during worker shutdown
