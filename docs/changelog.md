@@ -381,3 +381,4 @@ All notable changes and milestones are documented in this file.
 - 2026-03-27 19:09: feat(config): add dynamic environment variable resolver
 - 2026-03-27 19:47: style: enforce consistent docstring and code formatting
 - 2026-03-27 20:26: feat(storage): implement disk-backed key-value cache
+- 2026-03-27 20:33: feat(scheduler): support cron-like job scheduling intervals
