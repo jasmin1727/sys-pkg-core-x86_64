@@ -380,3 +380,4 @@ All notable changes and milestones are documented in this file.
 - 2026-03-27 16:52: fix(core): handle race condition during worker shutdown
 - 2026-03-27 19:09: feat(config): add dynamic environment variable resolver
 - 2026-03-27 19:47: style: enforce consistent docstring and code formatting
+- 2026-03-27 20:26: feat(storage): implement disk-backed key-value cache
