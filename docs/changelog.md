@@ -376,3 +376,4 @@ All notable changes and milestones are documented in this file.
 - 2026-03-25 12:52: fix(core): handle race condition during worker shutdown
 - 2026-03-25 16:58: feat(parser): add support for nested json payloads
 - 2026-03-25 21:30: feat(config): add dynamic environment variable resolver
+- 2026-03-27 13:28: refactor(storage): separate in-memory cache from persistence layer
