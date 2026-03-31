@@ -384,3 +384,4 @@ All notable changes and milestones are documented in this file.
 - 2026-03-27 20:33: feat(scheduler): support cron-like job scheduling intervals
 - 2026-03-30 15:21: refactor(utils): decompose monolithic string processing utility
 - 2026-03-31 11:29: refactor(cache): unify cache interface across backends
+- 2026-03-31 11:45: feat(events): implement publish-subscribe message bus
