@@ -387,3 +387,4 @@ All notable changes and milestones are documented in this file.
 - 2026-03-31 11:45: feat(events): implement publish-subscribe message bus
 - 2026-03-31 13:17: test(storage): verify concurrency safety with thread pool
 - 2026-03-31 13:32: test(cache): assert eviction behavior under memory pressure
+- 2026-03-31 20:21: feat(stream): add chunked data stream reader
