@@ -394,3 +394,4 @@ All notable changes and milestones are documented in this file.
 - 2026-04-01 12:30: test(cache): assert eviction behavior under memory pressure
 - 2026-04-01 13:33: feat(metrics): track request latency and error counters
 - 2026-04-01 14:58: feat(events): implement publish-subscribe message bus
+- 2026-04-01 18:33: docs: update setup instructions and prerequisites
