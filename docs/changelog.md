@@ -392,3 +392,4 @@ All notable changes and milestones are documented in this file.
 - 2026-04-01 11:16: refactor(core): streamline worker initialization sequence
 - 2026-04-01 11:30: feat(metrics): track request latency and error counters
 - 2026-04-01 12:30: test(cache): assert eviction behavior under memory pressure
+- 2026-04-01 13:33: feat(metrics): track request latency and error counters
