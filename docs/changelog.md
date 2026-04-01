@@ -389,3 +389,4 @@ All notable changes and milestones are documented in this file.
 - 2026-03-31 13:32: test(cache): assert eviction behavior under memory pressure
 - 2026-03-31 20:21: feat(stream): add chunked data stream reader
 - 2026-04-01 11:06: refactor(storage): separate in-memory cache from persistence layer
+- 2026-04-01 11:16: refactor(core): streamline worker initialization sequence
