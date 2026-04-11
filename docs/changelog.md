@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2026-04-01 18:33: docs: update setup instructions and prerequisites
 - 2026-04-04 14:13: fix(core): handle race condition during worker shutdown
 - 2026-04-11 11:09: feat(validator): add schema validation for incoming events
+- 2026-04-11 13:23: feat(core): implement async task worker pool
