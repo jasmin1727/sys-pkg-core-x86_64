@@ -260,3 +260,4 @@ All notable changes and milestones are documented in this file.
 - 2026-04-11 13:36: refactor(core): streamline worker initialization sequence
 - 2026-04-11 18:32: fix(schema): resolve null value parsing in payload
 - 2026-04-11 20:25: test(storage): verify concurrency safety with thread pool
+- 2026-04-11 22:19: test(parser): add test cases for malformed inputs
