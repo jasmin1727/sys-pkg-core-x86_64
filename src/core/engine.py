@@ -288,3 +288,7 @@ def create_worker_pool(workers: int = 4):
     return {'workers': workers, 'status': 'ready'}
 
 # Refactored worker lifecycle management
+
+def safe_shutdown(pool):
+    '''Safely terminate workers without deadlocks.'''
+    pool['status'] = 'stopped'
