@@ -263,3 +263,4 @@ All notable changes and milestones are documented in this file.
 - 2026-04-11 22:19: test(parser): add test cases for malformed inputs
 - 2026-04-13 11:11: fix(core): handle race condition during worker shutdown
 - 2026-04-13 17:51: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2026-04-13 18:13: fix(parser): resolve unexpected EOF when reading stream
