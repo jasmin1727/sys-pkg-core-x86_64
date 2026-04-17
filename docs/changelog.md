@@ -276,3 +276,4 @@ All notable changes and milestones are documented in this file.
 - 2026-04-17 17:11: feat(validator): add schema validation for incoming events
 - 2026-04-17 17:57: fix(core): handle race condition during worker shutdown
 - 2026-04-17 18:26: refactor(core): streamline worker initialization sequence
+- 2026-04-17 20:57: test(cache): assert eviction behavior under memory pressure
