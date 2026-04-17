@@ -274,3 +274,4 @@ All notable changes and milestones are documented in this file.
 - 2026-04-17 15:30: feat(auth): add bearer token header validation helper
 - 2026-04-17 16:00: fix(core): handle race condition during worker shutdown
 - 2026-04-17 17:11: feat(validator): add schema validation for incoming events
+- 2026-04-17 17:57: fix(core): handle race condition during worker shutdown
