@@ -268,3 +268,4 @@ All notable changes and milestones are documented in this file.
 - 2026-04-13 22:19: fix(queue): acknowledge message after successful processing
 - 2026-04-13 22:28: docs: update setup instructions and prerequisites
 - 2026-04-13 23:28: test(parser): add test cases for malformed inputs
+- 2026-04-17 12:45: test(parser): add test cases for malformed inputs
