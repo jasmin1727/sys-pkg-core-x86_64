@@ -272,3 +272,4 @@ All notable changes and milestones are documented in this file.
 - 2026-04-17 13:21: docs: update setup instructions and prerequisites
 - 2026-04-17 13:50: test(cache): assert eviction behavior under memory pressure
 - 2026-04-17 15:30: feat(auth): add bearer token header validation helper
+- 2026-04-17 16:00: fix(core): handle race condition during worker shutdown
