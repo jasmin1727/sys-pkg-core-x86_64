@@ -279,3 +279,4 @@ All notable changes and milestones are documented in this file.
 - 2026-04-17 20:57: test(cache): assert eviction behavior under memory pressure
 - 2026-04-17 22:35: refactor(core): streamline worker initialization sequence
 - 2026-04-18 12:27: chore: configure pre-commit hooks and linter rules
+- 2026-04-18 15:47: test(parser): add test cases for malformed inputs
