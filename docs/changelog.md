@@ -282,3 +282,4 @@ All notable changes and milestones are documented in this file.
 - 2026-04-18 15:47: test(parser): add test cases for malformed inputs
 - 2026-04-18 18:54: feat(events): implement publish-subscribe message bus
 - 2026-04-25 10:51: refactor(utils): decompose monolithic string processing utility
+- 2026-04-25 11:03: fix(logger): prevent sensitive token leakage in debug logs
