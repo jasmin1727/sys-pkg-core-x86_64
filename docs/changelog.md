@@ -285,3 +285,4 @@ All notable changes and milestones are documented in this file.
 - 2026-04-25 11:03: fix(logger): prevent sensitive token leakage in debug logs
 - 2026-04-25 18:11: refactor(utils): decompose monolithic string processing utility
 - 2026-04-25 20:38: fix(storage): correct file descriptor leak on close
+- 2026-04-25 21:58: test(storage): verify concurrency safety with thread pool
