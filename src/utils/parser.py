@@ -190,3 +190,5 @@ def validate_bearer_token(header: str) -> bool:
 def validate_event_schema(event: dict) -> bool:
     '''Check event against defined schema.'''
     return 'id' in event and 'type' in event
+
+# Decomposed string processing helpers
