@@ -286,3 +286,4 @@ All notable changes and milestones are documented in this file.
 - 2026-04-25 18:11: refactor(utils): decompose monolithic string processing utility
 - 2026-04-25 20:38: fix(storage): correct file descriptor leak on close
 - 2026-04-25 21:58: test(storage): verify concurrency safety with thread pool
+- 2026-04-26 14:58: feat(validator): add schema validation for incoming events
