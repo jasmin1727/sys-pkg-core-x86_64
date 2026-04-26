@@ -289,3 +289,4 @@ All notable changes and milestones are documented in this file.
 - 2026-04-26 14:58: feat(validator): add schema validation for incoming events
 - 2026-04-26 15:30: chore: configure pre-commit hooks and linter rules
 - 2026-04-26 18:10: fix(config): fallback to defaults when config key is missing
+- 2026-04-26 18:57: feat(metrics): track request latency and error counters
