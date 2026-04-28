@@ -292,3 +292,4 @@ All notable changes and milestones are documented in this file.
 - 2026-04-26 18:57: feat(metrics): track request latency and error counters
 - 2026-04-26 19:21: feat(events): implement publish-subscribe message bus
 - 2026-04-28 10:32: refactor(utils): decompose monolithic string processing utility
+- 2026-04-28 16:01: fix(cache): resolve cache key collision for compound queries
