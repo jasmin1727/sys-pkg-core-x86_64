@@ -291,3 +291,4 @@ All notable changes and milestones are documented in this file.
 - 2026-04-26 18:10: fix(config): fallback to defaults when config key is missing
 - 2026-04-26 18:57: feat(metrics): track request latency and error counters
 - 2026-04-26 19:21: feat(events): implement publish-subscribe message bus
+- 2026-04-28 10:32: refactor(utils): decompose monolithic string processing utility
