@@ -300,3 +300,4 @@ All notable changes and milestones are documented in this file.
 - 2026-04-30 13:03: docs: update API endpoints reference and sample requests
 - 2026-04-30 13:38: refactor(utils): decompose monolithic string processing utility
 - 2026-04-30 14:19: refactor(cache): unify cache interface across backends
+- 2026-04-30 17:43: fix(config): fallback to defaults when config key is missing
