@@ -297,3 +297,4 @@ All notable changes and milestones are documented in this file.
 - 2026-04-30 10:28: refactor(core): streamline worker initialization sequence
 - 2026-04-30 10:38: refactor(storage): separate in-memory cache from persistence layer
 - 2026-04-30 11:52: docs: update setup instructions and prerequisites
+- 2026-04-30 13:03: docs: update API endpoints reference and sample requests
