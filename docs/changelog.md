@@ -295,3 +295,4 @@ All notable changes and milestones are documented in this file.
 - 2026-04-28 16:01: fix(cache): resolve cache key collision for compound queries
 - 2026-04-28 20:13: fix(logger): prevent sensitive token leakage in debug logs
 - 2026-04-30 10:28: refactor(core): streamline worker initialization sequence
+- 2026-04-30 10:38: refactor(storage): separate in-memory cache from persistence layer
