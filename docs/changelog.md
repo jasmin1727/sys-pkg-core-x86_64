@@ -316,3 +316,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-01 18:55: docs: document configuration parameters and overrides
 - 2026-05-01 20:59: feat(events): implement publish-subscribe message bus
 - 2026-05-01 22:03: fix(parser): resolve unexpected EOF when reading stream
+- 2026-05-01 22:50: docs: update API endpoints reference and sample requests
