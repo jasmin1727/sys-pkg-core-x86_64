@@ -310,3 +310,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-01 13:34: chore: update dependency versions in package lock
 - 2026-05-01 15:36: chore: configure pre-commit hooks and linter rules
 - 2026-05-01 15:59: fix(core): handle race condition during worker shutdown
+- 2026-05-01 16:27: chore: configure pre-commit hooks and linter rules
