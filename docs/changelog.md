@@ -317,3 +317,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-01 20:59: feat(events): implement publish-subscribe message bus
 - 2026-05-01 22:03: fix(parser): resolve unexpected EOF when reading stream
 - 2026-05-01 22:50: docs: update API endpoints reference and sample requests
+- 2026-05-01 23:04: fix(logger): prevent sensitive token leakage in debug logs
