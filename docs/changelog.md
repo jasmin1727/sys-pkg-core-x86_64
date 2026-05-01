@@ -304,3 +304,4 @@ All notable changes and milestones are documented in this file.
 - 2026-04-30 19:03: feat(storage): implement disk-backed key-value cache
 - 2026-04-30 19:19: feat(context): propagate request trace id across coroutines
 - 2026-04-30 20:49: docs: update API endpoints reference and sample requests
+- 2026-05-01 10:38: test(storage): verify concurrency safety with thread pool
