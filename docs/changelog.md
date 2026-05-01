@@ -307,3 +307,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-01 10:38: test(storage): verify concurrency safety with thread pool
 - 2026-05-01 11:47: refactor(core): streamline worker initialization sequence
 - 2026-05-01 12:01: feat(parser): add support for nested json payloads
+- 2026-05-01 13:34: chore: update dependency versions in package lock
