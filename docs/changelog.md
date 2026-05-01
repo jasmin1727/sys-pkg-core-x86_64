@@ -314,3 +314,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-01 18:33: test(core): add coverage for worker crash recovery
 - 2026-05-01 18:44: fix(config): fallback to defaults when config key is missing
 - 2026-05-01 18:55: docs: document configuration parameters and overrides
+- 2026-05-01 20:59: feat(events): implement publish-subscribe message bus
