@@ -313,3 +313,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-01 16:27: chore: configure pre-commit hooks and linter rules
 - 2026-05-01 18:33: test(core): add coverage for worker crash recovery
 - 2026-05-01 18:44: fix(config): fallback to defaults when config key is missing
+- 2026-05-01 18:55: docs: document configuration parameters and overrides
