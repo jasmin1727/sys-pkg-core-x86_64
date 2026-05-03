@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-03 10:38: feat(context): propagate request trace id across coroutines
 - 2026-05-03 10:50: refactor(cache): unify cache interface across backends
 - 2026-05-03 12:37: fix(storage): correct file descriptor leak on close
+- 2026-05-03 13:30: feat(events): implement publish-subscribe message bus
