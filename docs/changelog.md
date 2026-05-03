@@ -327,3 +327,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-03 17:07: fix(core): handle race condition during worker shutdown
 - 2026-05-03 17:08: refactor(storage): separate in-memory cache from persistence layer
 - 2026-05-03 18:33: fix(schema): resolve null value parsing in payload
+- 2026-05-03 21:00: test(parser): add test cases for malformed inputs
