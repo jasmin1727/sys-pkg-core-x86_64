@@ -331,3 +331,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-03 21:20: refactor(core): streamline worker initialization sequence
 - 2026-05-03 21:42: feat(stream): add chunked data stream reader
 - 2026-05-04 10:43: test(storage): verify concurrency safety with thread pool
+- 2026-05-04 11:49: fix(queue): acknowledge message after successful processing
