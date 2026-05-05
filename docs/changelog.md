@@ -334,3 +334,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-04 11:49: fix(queue): acknowledge message after successful processing
 - 2026-05-04 17:26: refactor(cache): unify cache interface across backends
 - 2026-05-05 11:07: fix(parser): resolve unexpected EOF when reading stream
+- 2026-05-05 19:48: feat(parser): add support for nested json payloads
