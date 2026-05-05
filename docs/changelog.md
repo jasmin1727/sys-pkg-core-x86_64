@@ -336,3 +336,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-05 11:07: fix(parser): resolve unexpected EOF when reading stream
 - 2026-05-05 19:48: feat(parser): add support for nested json payloads
 - 2026-05-05 21:04: feat(stream): add chunked data stream reader
+- 2026-05-05 22:37: fix(storage): correct file descriptor leak on close
