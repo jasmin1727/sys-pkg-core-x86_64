@@ -340,3 +340,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-05 22:58: perf: reduce allocations in serialization hot path
 - 2026-05-06 11:36: feat(core): implement async task worker pool
 - 2026-05-06 11:49: test(core): add coverage for worker crash recovery
+- 2026-05-06 14:49: feat(validator): add schema validation for incoming events
