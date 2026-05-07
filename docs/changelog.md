@@ -344,3 +344,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-06 17:01: perf: reduce allocations in serialization hot path
 - 2026-05-06 21:35: test(core): add coverage for worker crash recovery
 - 2026-05-07 14:11: feat(scheduler): support cron-like job scheduling intervals
+- 2026-05-07 14:28: feat(config): add dynamic environment variable resolver
