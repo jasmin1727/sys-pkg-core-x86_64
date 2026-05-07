@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-07 14:11: feat(scheduler): support cron-like job scheduling intervals
 - 2026-05-07 14:28: feat(config): add dynamic environment variable resolver
 - 2026-05-07 20:41: test(cache): assert eviction behavior under memory pressure
+- 2026-05-07 21:21: feat(events): implement publish-subscribe message bus
