@@ -348,3 +348,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-07 20:41: test(cache): assert eviction behavior under memory pressure
 - 2026-05-07 21:21: feat(events): implement publish-subscribe message bus
 - 2026-05-07 22:23: feat(logger): introduce structured json formatting
+- 2026-05-08 22:57: fix(schema): resolve null value parsing in payload
