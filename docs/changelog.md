@@ -350,3 +350,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-07 22:23: feat(logger): introduce structured json formatting
 - 2026-05-08 22:57: fix(schema): resolve null value parsing in payload
 - 2026-05-09 10:07: feat(metrics): track request latency and error counters
+- 2026-05-09 11:19: feat(events): implement publish-subscribe message bus
