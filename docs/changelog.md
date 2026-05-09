@@ -353,3 +353,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-09 11:19: feat(events): implement publish-subscribe message bus
 - 2026-05-09 12:53: fix(storage): correct file descriptor leak on close
 - 2026-05-09 15:40: test(core): add coverage for worker crash recovery
+- 2026-05-09 16:39: feat(logger): introduce structured json formatting
