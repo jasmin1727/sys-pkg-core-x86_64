@@ -351,3 +351,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-08 22:57: fix(schema): resolve null value parsing in payload
 - 2026-05-09 10:07: feat(metrics): track request latency and error counters
 - 2026-05-09 11:19: feat(events): implement publish-subscribe message bus
+- 2026-05-09 12:53: fix(storage): correct file descriptor leak on close
