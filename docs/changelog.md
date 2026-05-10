@@ -365,3 +365,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-10 14:37: fix(schema): resolve null value parsing in payload
 - 2026-05-10 17:33: fix(core): handle race condition during worker shutdown
 - 2026-05-10 17:49: docs: update setup instructions and prerequisites
+- 2026-05-10 19:30: fix(schema): resolve null value parsing in payload
