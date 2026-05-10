@@ -368,3 +368,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-10 19:30: fix(schema): resolve null value parsing in payload
 - 2026-05-10 20:05: feat(parser): add support for nested json payloads
 - 2026-05-10 20:53: refactor: optimize module imports and remove unused dependencies
+- 2026-05-10 21:50: test(parser): add test cases for malformed inputs
