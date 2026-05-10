@@ -362,3 +362,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-09 22:27: feat(storage): implement disk-backed key-value cache
 - 2026-05-10 10:22: fix(schema): resolve null value parsing in payload
 - 2026-05-10 10:51: fix(config): fallback to defaults when config key is missing
+- 2026-05-10 14:37: fix(schema): resolve null value parsing in payload
