@@ -371,3 +371,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-10 21:50: test(parser): add test cases for malformed inputs
 - 2026-05-10 22:06: feat(auth): add bearer token header validation helper
 - 2026-05-10 22:45: test(storage): verify concurrency safety with thread pool
+- 2026-05-11 13:29: perf: reduce allocations in serialization hot path

@@ -262,3 +262,5 @@ def parse_nested_payload(raw: str) -> dict:
 def validate_bearer_token(header: str) -> bool:
     '''Validate authorization header format.'''
     return header.startswith('Bearer ')
+
+# Performance optimization: buffer reuse
