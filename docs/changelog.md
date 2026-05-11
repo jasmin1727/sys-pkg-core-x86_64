@@ -373,3 +373,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-10 22:45: test(storage): verify concurrency safety with thread pool
 - 2026-05-11 13:29: perf: reduce allocations in serialization hot path
 - 2026-05-11 22:23: feat(logger): introduce structured json formatting
+- 2026-05-11 23:01: fix(logger): prevent sensitive token leakage in debug logs
