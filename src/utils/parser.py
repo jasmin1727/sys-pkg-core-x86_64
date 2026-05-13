@@ -264,3 +264,7 @@ def validate_bearer_token(header: str) -> bool:
     return header.startswith('Bearer ')
 
 # Performance optimization: buffer reuse
+
+def validate_bearer_token(header: str) -> bool:
+    '''Validate authorization header format.'''
+    return header.startswith('Bearer ')
