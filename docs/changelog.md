@@ -377,3 +377,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-13 14:29: feat(stream): add chunked data stream reader
 - 2026-05-13 15:07: test(storage): verify concurrency safety with thread pool
 - 2026-05-13 17:54: test(storage): verify concurrency safety with thread pool
+- 2026-05-13 18:20: test(cache): assert eviction behavior under memory pressure
