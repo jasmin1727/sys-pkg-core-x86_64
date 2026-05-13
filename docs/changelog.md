@@ -375,3 +375,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-11 22:23: feat(logger): introduce structured json formatting
 - 2026-05-11 23:01: fix(logger): prevent sensitive token leakage in debug logs
 - 2026-05-13 14:29: feat(stream): add chunked data stream reader
+- 2026-05-13 15:07: test(storage): verify concurrency safety with thread pool
