@@ -379,3 +379,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-13 17:54: test(storage): verify concurrency safety with thread pool
 - 2026-05-13 18:20: test(cache): assert eviction behavior under memory pressure
 - 2026-05-13 19:28: feat(auth): add bearer token header validation helper
+- 2026-05-14 18:35: fix(core): handle race condition during worker shutdown
