@@ -382,3 +382,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-14 18:35: fix(core): handle race condition during worker shutdown
 - 2026-05-14 20:22: feat(api): add retry policy with exponential backoff
 - 2026-05-15 15:40: docs: update API endpoints reference and sample requests
+- 2026-05-15 17:28: fix(schema): resolve null value parsing in payload
