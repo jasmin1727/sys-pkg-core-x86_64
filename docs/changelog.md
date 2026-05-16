@@ -390,3 +390,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-16 12:16: refactor(cache): unify cache interface across backends
 - 2026-05-16 12:31: feat(events): implement publish-subscribe message bus
 - 2026-05-16 12:56: fix(core): handle race condition during worker shutdown
+- 2026-05-16 16:35: feat(context): propagate request trace id across coroutines
