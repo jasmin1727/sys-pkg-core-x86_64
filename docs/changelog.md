@@ -384,3 +384,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-15 15:40: docs: update API endpoints reference and sample requests
 - 2026-05-15 17:28: fix(schema): resolve null value parsing in payload
 - 2026-05-15 17:52: feat(config): add dynamic environment variable resolver
+- 2026-05-16 10:06: feat(validator): add schema validation for incoming events
