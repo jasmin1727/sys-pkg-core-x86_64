@@ -387,3 +387,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-16 10:06: feat(validator): add schema validation for incoming events
 - 2026-05-16 10:19: feat(parser): add support for nested json payloads
 - 2026-05-16 11:37: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2026-05-16 12:16: refactor(cache): unify cache interface across backends
