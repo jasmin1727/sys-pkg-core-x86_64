@@ -392,3 +392,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-16 12:56: fix(core): handle race condition during worker shutdown
 - 2026-05-16 16:35: feat(context): propagate request trace id across coroutines
 - 2026-05-16 16:57: feat(parser): add support for nested json payloads
+- 2026-05-16 17:50: feat(context): propagate request trace id across coroutines
