@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-16 19:05: feat(stream): add chunked data stream reader
 - 2026-05-16 20:29: refactor(utils): decompose monolithic string processing utility
 - 2026-05-16 20:34: fix(core): handle race condition during worker shutdown
+- 2026-05-16 21:34: feat(metrics): track request latency and error counters
