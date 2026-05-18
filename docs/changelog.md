@@ -258,3 +258,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-16 20:34: fix(core): handle race condition during worker shutdown
 - 2026-05-16 21:34: feat(metrics): track request latency and error counters
 - 2026-05-17 13:27: fix(queue): acknowledge message after successful processing
+- 2026-05-18 10:14: refactor(cache): unify cache interface across backends
