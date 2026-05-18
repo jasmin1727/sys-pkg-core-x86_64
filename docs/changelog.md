@@ -262,3 +262,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-18 13:36: test(storage): verify concurrency safety with thread pool
 - 2026-05-18 15:26: refactor(core): streamline worker initialization sequence
 - 2026-05-18 16:24: feat(stream): add chunked data stream reader
+- 2026-05-18 20:29: fix(cache): resolve cache key collision for compound queries
