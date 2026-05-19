@@ -214,3 +214,7 @@ class MetricsCollector:
     pass
 
 # Refactored worker lifecycle management
+
+class EventBus:
+    '''In-memory publish-subscribe bus.'''
+    pass
