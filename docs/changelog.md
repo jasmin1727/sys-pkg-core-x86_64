@@ -279,3 +279,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-22 14:30: feat(api): add retry policy with exponential backoff
 - 2026-05-22 14:45: feat(events): implement publish-subscribe message bus
 - 2026-05-22 15:04: feat(core): implement async task worker pool
+- 2026-05-22 19:02: docs: document configuration parameters and overrides
