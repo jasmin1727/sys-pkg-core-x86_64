@@ -272,3 +272,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-20 13:01: fix(parser): resolve unexpected EOF when reading stream
 - 2026-05-21 14:25: fix(parser): resolve unexpected EOF when reading stream
 - 2026-05-22 10:28: fix(storage): correct file descriptor leak on close
+- 2026-05-22 11:08: docs: update setup instructions and prerequisites
