@@ -275,3 +275,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-22 11:08: docs: update setup instructions and prerequisites
 - 2026-05-22 12:49: test(core): add coverage for worker crash recovery
 - 2026-05-22 13:00: fix(core): handle race condition during worker shutdown
+- 2026-05-22 14:21: test(core): add coverage for worker crash recovery
