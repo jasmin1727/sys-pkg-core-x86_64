@@ -282,3 +282,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-22 19:02: docs: document configuration parameters and overrides
 - 2026-05-22 21:34: feat(storage): implement disk-backed key-value cache
 - 2026-05-22 23:11: docs: add architecture overview and system flow diagram
+- 2026-05-23 11:03: feat(parser): add support for nested json payloads
