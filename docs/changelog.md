@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-24 17:37: feat(api): add retry policy with exponential backoff
 - 2026-05-24 20:07: refactor(storage): separate in-memory cache from persistence layer
 - 2026-05-24 21:51: fix(queue): acknowledge message after successful processing
+- 2026-05-24 21:52: docs: update API endpoints reference and sample requests
