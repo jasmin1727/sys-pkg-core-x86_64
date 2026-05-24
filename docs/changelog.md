@@ -286,3 +286,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-23 13:01: test(cache): assert eviction behavior under memory pressure
 - 2026-05-23 13:07: feat(validator): add schema validation for incoming events
 - 2026-05-23 19:04: fix(cache): resolve cache key collision for compound queries
+- 2026-05-24 13:41: fix(schema): resolve null value parsing in payload
