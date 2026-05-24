@@ -291,3 +291,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-24 20:07: refactor(storage): separate in-memory cache from persistence layer
 - 2026-05-24 21:51: fix(queue): acknowledge message after successful processing
 - 2026-05-24 21:52: docs: update API endpoints reference and sample requests
+- 2026-05-24 23:15: fix(config): fallback to defaults when config key is missing
