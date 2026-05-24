@@ -289,3 +289,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-24 13:41: fix(schema): resolve null value parsing in payload
 - 2026-05-24 17:37: feat(api): add retry policy with exponential backoff
 - 2026-05-24 20:07: refactor(storage): separate in-memory cache from persistence layer
+- 2026-05-24 21:51: fix(queue): acknowledge message after successful processing
