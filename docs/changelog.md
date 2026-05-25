@@ -292,3 +292,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-24 21:51: fix(queue): acknowledge message after successful processing
 - 2026-05-24 21:52: docs: update API endpoints reference and sample requests
 - 2026-05-24 23:15: fix(config): fallback to defaults when config key is missing
+- 2026-05-25 12:46: test(core): add coverage for worker crash recovery
