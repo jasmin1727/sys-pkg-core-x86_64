@@ -295,3 +295,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-25 12:46: test(core): add coverage for worker crash recovery
 - 2026-05-25 16:37: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2026-05-25 22:54: feat(metrics): track request latency and error counters
+- 2026-05-27 10:33: feat(api): add retry policy with exponential backoff
