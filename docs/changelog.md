@@ -304,3 +304,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-27 14:09: test(cache): assert eviction behavior under memory pressure
 - 2026-05-27 14:20: feat(logger): introduce structured json formatting
 - 2026-05-27 14:35: test(parser): add test cases for malformed inputs
+- 2026-05-27 14:51: chore: configure pre-commit hooks and linter rules
