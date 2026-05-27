@@ -306,3 +306,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-27 14:35: test(parser): add test cases for malformed inputs
 - 2026-05-27 14:51: chore: configure pre-commit hooks and linter rules
 - 2026-05-27 16:54: docs: document configuration parameters and overrides
+- 2026-05-27 19:54: fix(parser): resolve unexpected EOF when reading stream
