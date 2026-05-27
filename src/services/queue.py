@@ -302,3 +302,7 @@ def retry_with_backoff(fn, attempts: int = 3, base_delay: float = 0.5):
 def retry_with_backoff(fn, attempts: int = 3, base_delay: float = 0.5):
     '''Execute callable with exponential backoff.'''
     pass
+
+def retry_with_backoff(fn, attempts: int = 3, base_delay: float = 0.5):
+    '''Execute callable with exponential backoff.'''
+    pass
