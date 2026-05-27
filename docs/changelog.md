@@ -297,3 +297,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-25 22:54: feat(metrics): track request latency and error counters
 - 2026-05-27 10:33: feat(api): add retry policy with exponential backoff
 - 2026-05-27 11:32: feat(api): add retry policy with exponential backoff
+- 2026-05-27 11:44: feat(stream): add chunked data stream reader
