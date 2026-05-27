@@ -300,3 +300,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-27 11:44: feat(stream): add chunked data stream reader
 - 2026-05-27 12:29: feat(api): add retry policy with exponential backoff
 - 2026-05-27 13:26: refactor(utils): decompose monolithic string processing utility
+- 2026-05-27 14:08: docs: add architecture overview and system flow diagram
