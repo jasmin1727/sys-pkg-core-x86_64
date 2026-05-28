@@ -308,3 +308,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-27 16:54: docs: document configuration parameters and overrides
 - 2026-05-27 19:54: fix(parser): resolve unexpected EOF when reading stream
 - 2026-05-27 20:27: chore: update dependency versions in package lock
+- 2026-05-28 14:07: fix(core): handle race condition during worker shutdown
