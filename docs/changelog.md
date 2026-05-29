@@ -310,3 +310,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-27 20:27: chore: update dependency versions in package lock
 - 2026-05-28 14:07: fix(core): handle race condition during worker shutdown
 - 2026-05-28 15:20: feat(logger): introduce structured json formatting
+- 2026-05-29 17:41: feat(context): propagate request trace id across coroutines
