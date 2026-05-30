@@ -313,3 +313,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-29 17:41: feat(context): propagate request trace id across coroutines
 - 2026-05-30 15:57: docs: update setup instructions and prerequisites
 - 2026-05-30 16:00: chore: update dependency versions in package lock
+- 2026-05-30 19:04: test(storage): verify concurrency safety with thread pool
