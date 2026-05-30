@@ -314,3 +314,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-30 15:57: docs: update setup instructions and prerequisites
 - 2026-05-30 16:00: chore: update dependency versions in package lock
 - 2026-05-30 19:04: test(storage): verify concurrency safety with thread pool
+- 2026-05-30 19:33: fix(cache): resolve cache key collision for compound queries
