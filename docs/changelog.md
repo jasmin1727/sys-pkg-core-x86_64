@@ -320,3 +320,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-30 21:15: feat(config): add dynamic environment variable resolver
 - 2026-05-31 10:56: docs: document configuration parameters and overrides
 - 2026-05-31 12:55: test(storage): verify concurrency safety with thread pool
+- 2026-05-31 17:21: feat(context): propagate request trace id across coroutines
