@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-31 10:56: docs: document configuration parameters and overrides
 - 2026-05-31 12:55: test(storage): verify concurrency safety with thread pool
 - 2026-05-31 17:21: feat(context): propagate request trace id across coroutines
+- 2026-05-31 20:46: fix(schema): resolve null value parsing in payload
