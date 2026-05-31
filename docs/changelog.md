@@ -318,3 +318,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-30 19:56: fix(schema): resolve null value parsing in payload
 - 2026-05-30 20:24: refactor(cache): unify cache interface across backends
 - 2026-05-30 21:15: feat(config): add dynamic environment variable resolver
+- 2026-05-31 10:56: docs: document configuration parameters and overrides
