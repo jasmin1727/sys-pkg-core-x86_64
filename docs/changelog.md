@@ -327,3 +327,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-01 11:36: feat(core): implement async task worker pool
 - 2026-06-01 13:33: refactor(core): streamline worker initialization sequence
 - 2026-06-01 13:43: fix(queue): acknowledge message after successful processing
+- 2026-06-01 19:06: feat(context): propagate request trace id across coroutines
