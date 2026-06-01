@@ -325,3 +325,4 @@ All notable changes and milestones are documented in this file.
 - 2026-05-31 22:55: feat(parser): add support for nested json payloads
 - 2026-05-31 23:24: refactor(cache): unify cache interface across backends
 - 2026-06-01 11:36: feat(core): implement async task worker pool
+- 2026-06-01 13:33: refactor(core): streamline worker initialization sequence
