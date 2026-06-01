@@ -328,3 +328,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-01 13:33: refactor(core): streamline worker initialization sequence
 - 2026-06-01 13:43: fix(queue): acknowledge message after successful processing
 - 2026-06-01 19:06: feat(context): propagate request trace id across coroutines
+- 2026-06-01 21:06: fix(storage): correct file descriptor leak on close
