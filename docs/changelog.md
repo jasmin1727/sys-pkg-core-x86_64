@@ -330,3 +330,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-01 19:06: feat(context): propagate request trace id across coroutines
 - 2026-06-01 21:06: fix(storage): correct file descriptor leak on close
 - 2026-06-02 15:45: feat(events): implement publish-subscribe message bus
+- 2026-06-02 17:40: feat(context): propagate request trace id across coroutines
