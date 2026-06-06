@@ -333,3 +333,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-02 17:40: feat(context): propagate request trace id across coroutines
 - 2026-06-03 10:47: refactor(storage): separate in-memory cache from persistence layer
 - 2026-06-03 20:01: feat(context): propagate request trace id across coroutines
+- 2026-06-06 15:08: test(storage): verify concurrency safety with thread pool
