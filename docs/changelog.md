@@ -335,3 +335,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-03 20:01: feat(context): propagate request trace id across coroutines
 - 2026-06-06 15:08: test(storage): verify concurrency safety with thread pool
 - 2026-06-06 20:06: fix(schema): resolve null value parsing in payload
+- 2026-06-07 21:53: fix(config): fallback to defaults when config key is missing
