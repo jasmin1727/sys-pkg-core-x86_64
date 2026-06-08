@@ -337,3 +337,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-06 20:06: fix(schema): resolve null value parsing in payload
 - 2026-06-07 21:53: fix(config): fallback to defaults when config key is missing
 - 2026-06-08 12:55: fix(config): fallback to defaults when config key is missing
+- 2026-06-08 18:49: feat(auth): add bearer token header validation helper
