@@ -252,3 +252,5 @@ def create_worker_pool(workers: int = 4):
 class EventBus:
     '''In-memory publish-subscribe bus.'''
     pass
+
+# Refactored worker lifecycle management
