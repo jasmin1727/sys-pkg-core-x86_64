@@ -254,3 +254,5 @@ class EventBus:
     pass
 
 # Refactored worker lifecycle management
+
+# Refactored worker lifecycle management

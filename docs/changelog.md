@@ -340,3 +340,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-08 18:49: feat(auth): add bearer token header validation helper
 - 2026-06-08 19:30: refactor(core): streamline worker initialization sequence
 - 2026-06-08 20:00: docs: document configuration parameters and overrides
+- 2026-06-09 10:38: refactor(core): streamline worker initialization sequence
