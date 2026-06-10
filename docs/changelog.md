@@ -347,3 +347,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-10 14:12: feat(config): add dynamic environment variable resolver
 - 2026-06-10 14:23: test(parser): add test cases for malformed inputs
 - 2026-06-10 15:43: feat(parser): add support for nested json payloads
+- 2026-06-10 21:11: feat(config): add dynamic environment variable resolver
