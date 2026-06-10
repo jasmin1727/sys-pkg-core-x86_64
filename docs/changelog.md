@@ -343,3 +343,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-09 10:38: refactor(core): streamline worker initialization sequence
 - 2026-06-09 18:40: docs: document configuration parameters and overrides
 - 2026-06-10 10:36: feat(core): implement async task worker pool
+- 2026-06-10 13:00: feat(parser): add support for nested json payloads

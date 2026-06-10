@@ -341,3 +341,7 @@ def sanitize_null_fields(obj):
 def validate_bearer_token(header: str) -> bool:
     '''Validate authorization header format.'''
     return header.startswith('Bearer ')
+
+def parse_nested_payload(raw: str) -> dict:
+    '''Safely decode nested JSON structures.'''
+    return json.loads(raw)
