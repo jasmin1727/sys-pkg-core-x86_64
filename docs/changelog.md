@@ -345,3 +345,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-10 10:36: feat(core): implement async task worker pool
 - 2026-06-10 13:00: feat(parser): add support for nested json payloads
 - 2026-06-10 14:12: feat(config): add dynamic environment variable resolver
+- 2026-06-10 14:23: test(parser): add test cases for malformed inputs
