@@ -349,3 +349,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-10 15:43: feat(parser): add support for nested json payloads
 - 2026-06-10 21:11: feat(config): add dynamic environment variable resolver
 - 2026-06-10 22:13: fix(cache): resolve cache key collision for compound queries
+- 2026-06-10 22:49: feat(rate-limit): implement token bucket rate limiting algorithm
