@@ -342,3 +342,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-08 20:00: docs: document configuration parameters and overrides
 - 2026-06-09 10:38: refactor(core): streamline worker initialization sequence
 - 2026-06-09 18:40: docs: document configuration parameters and overrides
+- 2026-06-10 10:36: feat(core): implement async task worker pool
