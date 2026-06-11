@@ -354,3 +354,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-11 11:36: refactor(utils): decompose monolithic string processing utility
 - 2026-06-11 13:34: fix(core): handle race condition during worker shutdown
 - 2026-06-11 13:43: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2026-06-11 20:02: feat(events): implement publish-subscribe message bus
