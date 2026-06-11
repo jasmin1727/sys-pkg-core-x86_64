@@ -351,3 +351,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-10 22:13: fix(cache): resolve cache key collision for compound queries
 - 2026-06-10 22:49: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2026-06-10 23:11: feat(auth): add bearer token header validation helper
+- 2026-06-11 11:36: refactor(utils): decompose monolithic string processing utility
