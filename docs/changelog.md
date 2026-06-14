@@ -356,3 +356,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-11 13:43: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2026-06-11 20:02: feat(events): implement publish-subscribe message bus
 - 2026-06-12 21:40: feat(api): add retry policy with exponential backoff
+- 2026-06-14 11:07: perf: reduce allocations in serialization hot path
