@@ -186,3 +186,7 @@ def validate_bearer_token(header: str) -> bool:
 # Decomposed string processing helpers
 
 # Performance optimization: buffer reuse
+
+def parse_nested_payload(raw: str) -> dict:
+    '''Safely decode nested JSON structures.'''
+    return json.loads(raw)
