@@ -359,3 +359,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-14 11:07: perf: reduce allocations in serialization hot path
 - 2026-06-14 11:43: feat(config): add dynamic environment variable resolver
 - 2026-06-14 15:02: chore: update dependency versions in package lock
+- 2026-06-14 21:00: feat(cache): implement adaptive LRU cache with TTL expiry
