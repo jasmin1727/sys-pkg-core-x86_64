@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-11 20:02: feat(events): implement publish-subscribe message bus
 - 2026-06-12 21:40: feat(api): add retry policy with exponential backoff
 - 2026-06-14 11:07: perf: reduce allocations in serialization hot path
+- 2026-06-14 11:43: feat(config): add dynamic environment variable resolver
