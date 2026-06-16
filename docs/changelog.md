@@ -363,3 +363,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-14 21:31: feat(parser): add support for nested json payloads
 - 2026-06-14 22:20: feat(api): add retry policy with exponential backoff
 - 2026-06-16 14:08: fix(queue): acknowledge message after successful processing
+- 2026-06-16 16:50: feat(rate-limit): implement token bucket rate limiting algorithm
