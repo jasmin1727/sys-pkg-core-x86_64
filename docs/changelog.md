@@ -362,3 +362,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-14 21:00: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2026-06-14 21:31: feat(parser): add support for nested json payloads
 - 2026-06-14 22:20: feat(api): add retry policy with exponential backoff
+- 2026-06-16 14:08: fix(queue): acknowledge message after successful processing
