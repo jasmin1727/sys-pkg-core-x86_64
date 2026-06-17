@@ -370,3 +370,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-17 13:20: fix(schema): resolve null value parsing in payload
 - 2026-06-17 13:32: feat(scheduler): support cron-like job scheduling intervals
 - 2026-06-17 17:59: refactor(storage): separate in-memory cache from persistence layer
+- 2026-06-17 19:28: test(core): add coverage for worker crash recovery
