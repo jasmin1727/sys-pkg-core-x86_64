@@ -369,3 +369,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-17 12:07: refactor(utils): decompose monolithic string processing utility
 - 2026-06-17 13:20: fix(schema): resolve null value parsing in payload
 - 2026-06-17 13:32: feat(scheduler): support cron-like job scheduling intervals
+- 2026-06-17 17:59: refactor(storage): separate in-memory cache from persistence layer
