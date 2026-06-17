@@ -367,3 +367,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-16 21:35: test(storage): verify concurrency safety with thread pool
 - 2026-06-17 11:47: feat(api): add retry policy with exponential backoff
 - 2026-06-17 12:07: refactor(utils): decompose monolithic string processing utility
+- 2026-06-17 13:20: fix(schema): resolve null value parsing in payload
