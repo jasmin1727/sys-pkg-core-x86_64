@@ -375,3 +375,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-18 12:46: test(parser): add test cases for malformed inputs
 - 2026-06-18 14:31: feat(stream): add chunked data stream reader
 - 2026-06-18 15:50: test(parser): add test cases for malformed inputs
+- 2026-06-18 16:56: feat(core): implement async task worker pool
