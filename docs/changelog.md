@@ -373,3 +373,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-17 19:28: test(core): add coverage for worker crash recovery
 - 2026-06-17 23:11: test(core): add coverage for worker crash recovery
 - 2026-06-18 12:46: test(parser): add test cases for malformed inputs
+- 2026-06-18 14:31: feat(stream): add chunked data stream reader
