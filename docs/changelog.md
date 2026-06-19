@@ -379,3 +379,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-18 17:10: feat(stream): add chunked data stream reader
 - 2026-06-18 17:43: fix(queue): acknowledge message after successful processing
 - 2026-06-19 13:27: refactor(cache): unify cache interface across backends
+- 2026-06-19 15:13: feat(storage): implement disk-backed key-value cache
