@@ -384,3 +384,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-19 21:32: feat(storage): implement disk-backed key-value cache
 - 2026-06-20 11:52: refactor(core): streamline worker initialization sequence
 - 2026-06-20 14:52: fix(parser): resolve unexpected EOF when reading stream
+- 2026-06-20 18:33: feat(config): add dynamic environment variable resolver
