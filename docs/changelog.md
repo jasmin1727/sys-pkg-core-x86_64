@@ -382,3 +382,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-19 15:13: feat(storage): implement disk-backed key-value cache
 - 2026-06-19 19:57: test(cache): assert eviction behavior under memory pressure
 - 2026-06-19 21:32: feat(storage): implement disk-backed key-value cache
+- 2026-06-20 11:52: refactor(core): streamline worker initialization sequence
