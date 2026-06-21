@@ -390,3 +390,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-21 17:16: feat(auth): add bearer token header validation helper
 - 2026-06-21 17:18: feat(stream): add chunked data stream reader
 - 2026-06-21 18:21: feat(validator): add schema validation for incoming events
+- 2026-06-21 20:01: refactor(utils): decompose monolithic string processing utility
