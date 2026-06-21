@@ -387,3 +387,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-20 18:33: feat(config): add dynamic environment variable resolver
 - 2026-06-21 12:56: refactor(utils): decompose monolithic string processing utility
 - 2026-06-21 13:40: feat(metrics): track request latency and error counters
+- 2026-06-21 17:16: feat(auth): add bearer token header validation helper
