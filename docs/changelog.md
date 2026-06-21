@@ -386,3 +386,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-20 14:52: fix(parser): resolve unexpected EOF when reading stream
 - 2026-06-20 18:33: feat(config): add dynamic environment variable resolver
 - 2026-06-21 12:56: refactor(utils): decompose monolithic string processing utility
+- 2026-06-21 13:40: feat(metrics): track request latency and error counters
