@@ -393,3 +393,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-21 20:01: refactor(utils): decompose monolithic string processing utility
 - 2026-06-21 23:14: feat(events): implement publish-subscribe message bus
 - 2026-06-22 10:48: refactor(cache): unify cache interface across backends
+- 2026-06-22 14:07: refactor(core): streamline worker initialization sequence
