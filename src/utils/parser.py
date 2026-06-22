@@ -215,3 +215,7 @@ def validate_event_schema(event: dict) -> bool:
     return 'id' in event and 'type' in event
 
 # Decomposed string processing helpers
+
+def sanitize_null_fields(obj):
+    '''Replace null values with empty defaults.'''
+    return obj if obj is not None else {}
