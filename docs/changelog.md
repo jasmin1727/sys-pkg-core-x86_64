@@ -392,3 +392,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-21 18:21: feat(validator): add schema validation for incoming events
 - 2026-06-21 20:01: refactor(utils): decompose monolithic string processing utility
 - 2026-06-21 23:14: feat(events): implement publish-subscribe message bus
+- 2026-06-22 10:48: refactor(cache): unify cache interface across backends
