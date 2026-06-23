@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-23 15:32: fix(core): handle race condition during worker shutdown
 - 2026-06-23 17:15: fix(parser): resolve unexpected EOF when reading stream
 - 2026-06-23 18:24: test(storage): verify concurrency safety with thread pool
+- 2026-06-23 18:35: refactor(storage): separate in-memory cache from persistence layer
