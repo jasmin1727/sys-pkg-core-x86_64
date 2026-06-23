@@ -258,3 +258,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-23 11:59: feat(stream): add chunked data stream reader
 - 2026-06-23 13:07: fix(config): fallback to defaults when config key is missing
 - 2026-06-23 14:14: feat(scheduler): support cron-like job scheduling intervals
+- 2026-06-23 15:32: fix(core): handle race condition during worker shutdown
