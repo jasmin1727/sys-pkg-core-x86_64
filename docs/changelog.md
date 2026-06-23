@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-22 23:18: fix(schema): resolve null value parsing in payload
 - 2026-06-23 10:54: docs: document configuration parameters and overrides
 - 2026-06-23 11:59: feat(stream): add chunked data stream reader
+- 2026-06-23 13:07: fix(config): fallback to defaults when config key is missing
