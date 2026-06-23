@@ -263,3 +263,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-23 18:24: test(storage): verify concurrency safety with thread pool
 - 2026-06-23 18:35: refactor(storage): separate in-memory cache from persistence layer
 - 2026-06-23 19:01: feat(parser): add support for nested json payloads
+- 2026-06-23 21:56: docs: update API endpoints reference and sample requests
