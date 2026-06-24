@@ -269,3 +269,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-24 13:01: fix(config): fallback to defaults when config key is missing
 - 2026-06-24 14:05: docs: document configuration parameters and overrides
 - 2026-06-24 14:32: feat(config): add dynamic environment variable resolver
+- 2026-06-24 15:13: feat(rate-limit): implement token bucket rate limiting algorithm
