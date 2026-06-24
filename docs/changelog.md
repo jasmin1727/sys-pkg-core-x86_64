@@ -265,3 +265,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-23 19:01: feat(parser): add support for nested json payloads
 - 2026-06-23 21:56: docs: update API endpoints reference and sample requests
 - 2026-06-24 10:43: chore: configure pre-commit hooks and linter rules
+- 2026-06-24 12:28: feat(context): propagate request trace id across coroutines
