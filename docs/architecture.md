@@ -310,3 +310,6 @@ Comprehensive reference for internal services and message formats.
 
 ### Configuration
 All parameters can be overridden via system environment variables.
+
+### API Reference
+Comprehensive reference for internal services and message formats.
