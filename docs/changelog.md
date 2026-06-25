@@ -278,3 +278,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-25 15:57: feat(stream): add chunked data stream reader
 - 2026-06-25 16:22: feat(logger): introduce structured json formatting
 - 2026-06-25 16:53: feat(logger): introduce structured json formatting
+- 2026-06-25 18:19: refactor(core): streamline worker initialization sequence
