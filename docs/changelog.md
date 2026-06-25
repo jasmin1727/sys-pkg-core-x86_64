@@ -274,3 +274,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-24 22:57: docs: update API endpoints reference and sample requests
 - 2026-06-25 10:00: docs: update API endpoints reference and sample requests
 - 2026-06-25 13:16: fix(core): handle race condition during worker shutdown
+- 2026-06-25 13:31: fix(config): fallback to defaults when config key is missing
