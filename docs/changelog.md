@@ -281,3 +281,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-25 18:19: refactor(core): streamline worker initialization sequence
 - 2026-06-25 20:53: refactor(cache): unify cache interface across backends
 - 2026-06-25 22:27: fix(cache): resolve cache key collision for compound queries
+- 2026-06-26 15:43: perf: reduce allocations in serialization hot path
