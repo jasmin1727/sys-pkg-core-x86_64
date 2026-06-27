@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-27 12:29: test(cache): assert eviction behavior under memory pressure
 - 2026-06-27 14:27: fix(queue): acknowledge message after successful processing
 - 2026-06-27 18:48: refactor(cache): unify cache interface across backends
+- 2026-06-27 19:51: docs: add architecture overview and system flow diagram
