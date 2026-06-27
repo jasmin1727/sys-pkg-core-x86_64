@@ -287,3 +287,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-26 21:28: test(parser): add test cases for malformed inputs
 - 2026-06-27 10:19: docs: add architecture overview and system flow diagram
 - 2026-06-27 11:05: chore: configure pre-commit hooks and linter rules
+- 2026-06-27 12:29: test(cache): assert eviction behavior under memory pressure
