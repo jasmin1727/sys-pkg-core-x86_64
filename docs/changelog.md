@@ -293,3 +293,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-27 19:51: docs: add architecture overview and system flow diagram
 - 2026-06-27 21:46: refactor(cache): unify cache interface across backends
 - 2026-06-27 22:21: fix(storage): correct file descriptor leak on close
+- 2026-06-29 10:14: feat(validator): add schema validation for incoming events
