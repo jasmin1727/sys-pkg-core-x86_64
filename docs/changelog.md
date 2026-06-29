@@ -296,3 +296,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-29 10:14: feat(validator): add schema validation for incoming events
 - 2026-06-29 13:20: fix(storage): correct file descriptor leak on close
 - 2026-06-29 13:27: feat(config): add dynamic environment variable resolver
+- 2026-06-29 15:44: fix(logger): prevent sensitive token leakage in debug logs
