@@ -299,3 +299,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-29 15:44: fix(logger): prevent sensitive token leakage in debug logs
 - 2026-06-29 18:33: fix(cache): resolve cache key collision for compound queries
 - 2026-06-29 18:54: refactor(cache): unify cache interface across backends
+- 2026-06-29 19:59: refactor(utils): decompose monolithic string processing utility
