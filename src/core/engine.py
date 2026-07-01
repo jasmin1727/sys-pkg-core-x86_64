@@ -310,3 +310,7 @@ def safe_shutdown(pool):
     pool['status'] = 'stopped'
 
 # Refactored worker lifecycle management
+
+class MetricsCollector:
+    '''Tracks latency and counter metrics.'''
+    pass
