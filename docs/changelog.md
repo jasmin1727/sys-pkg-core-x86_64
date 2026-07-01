@@ -304,3 +304,4 @@ All notable changes and milestones are documented in this file.
 - 2026-06-30 13:53: feat(config): add dynamic environment variable resolver
 - 2026-06-30 17:25: refactor(utils): decompose monolithic string processing utility
 - 2026-07-01 10:49: feat(metrics): track request latency and error counters
+- 2026-07-01 22:14: docs: add architecture overview and system flow diagram
