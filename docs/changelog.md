@@ -314,3 +314,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-02 17:19: fix(cache): resolve cache key collision for compound queries
 - 2026-07-02 18:37: fix(cache): resolve cache key collision for compound queries
 - 2026-07-02 21:37: docs: add architecture overview and system flow diagram
+- 2026-07-02 22:17: feat(logger): introduce structured json formatting
