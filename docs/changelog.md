@@ -308,3 +308,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-02 12:20: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2026-07-02 12:24: test(storage): verify concurrency safety with thread pool
 - 2026-07-02 14:57: refactor(storage): separate in-memory cache from persistence layer
+- 2026-07-02 15:29: test(parser): add test cases for malformed inputs
