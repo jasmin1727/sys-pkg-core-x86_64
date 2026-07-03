@@ -323,3 +323,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-03 14:16: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2026-07-03 15:42: feat(logger): introduce structured json formatting
 - 2026-07-03 18:21: feat(parser): add support for nested json payloads
+- 2026-07-03 18:27: fix(parser): resolve unexpected EOF when reading stream
