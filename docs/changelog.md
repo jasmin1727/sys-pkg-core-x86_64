@@ -318,3 +318,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-02 22:26: test(cache): assert eviction behavior under memory pressure
 - 2026-07-03 10:24: fix(config): fallback to defaults when config key is missing
 - 2026-07-03 11:18: refactor(utils): decompose monolithic string processing utility
+- 2026-07-03 11:53: fix(config): fallback to defaults when config key is missing
