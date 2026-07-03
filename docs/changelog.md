@@ -326,3 +326,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-03 18:27: fix(parser): resolve unexpected EOF when reading stream
 - 2026-07-03 19:05: feat(api): add retry policy with exponential backoff
 - 2026-07-03 21:00: feat(logger): introduce structured json formatting
+- 2026-07-03 22:58: test(cache): assert eviction behavior under memory pressure
