@@ -328,3 +328,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-03 21:00: feat(logger): introduce structured json formatting
 - 2026-07-03 22:58: test(cache): assert eviction behavior under memory pressure
 - 2026-07-04 14:43: refactor(core): streamline worker initialization sequence
+- 2026-07-04 15:34: test(core): add coverage for worker crash recovery
