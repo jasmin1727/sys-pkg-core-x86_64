@@ -330,3 +330,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-04 14:43: refactor(core): streamline worker initialization sequence
 - 2026-07-04 15:34: test(core): add coverage for worker crash recovery
 - 2026-07-04 16:13: fix(queue): acknowledge message after successful processing
+- 2026-07-04 19:35: feat(scheduler): support cron-like job scheduling intervals
