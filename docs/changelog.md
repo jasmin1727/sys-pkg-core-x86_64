@@ -337,3 +337,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-06 13:19: docs: document configuration parameters and overrides
 - 2026-07-06 13:21: feat(parser): add support for nested json payloads
 - 2026-07-06 14:02: feat(config): add dynamic environment variable resolver
+- 2026-07-06 19:59: fix(storage): correct file descriptor leak on close
