@@ -336,3 +336,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-05 20:15: fix(cache): resolve cache key collision for compound queries
 - 2026-07-06 13:19: docs: document configuration parameters and overrides
 - 2026-07-06 13:21: feat(parser): add support for nested json payloads
+- 2026-07-06 14:02: feat(config): add dynamic environment variable resolver
