@@ -328,3 +328,6 @@ Modular event-driven architecture designed for high throughput.
 
 ### System Architecture
 Modular event-driven architecture designed for high throughput.
+
+### Configuration
+All parameters can be overridden via system environment variables.

@@ -334,3 +334,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-04 21:37: fix(cache): resolve cache key collision for compound queries
 - 2026-07-05 18:54: feat(validator): add schema validation for incoming events
 - 2026-07-05 20:15: fix(cache): resolve cache key collision for compound queries
+- 2026-07-06 13:19: docs: document configuration parameters and overrides
