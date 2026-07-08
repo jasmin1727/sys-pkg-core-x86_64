@@ -342,3 +342,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-06 22:00: fix(core): handle race condition during worker shutdown
 - 2026-07-08 10:58: fix(logger): prevent sensitive token leakage in debug logs
 - 2026-07-08 12:07: test(parser): add test cases for malformed inputs
+- 2026-07-08 13:56: docs: update API endpoints reference and sample requests
