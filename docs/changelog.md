@@ -340,3 +340,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-06 19:59: fix(storage): correct file descriptor leak on close
 - 2026-07-06 21:12: test(cache): assert eviction behavior under memory pressure
 - 2026-07-06 22:00: fix(core): handle race condition during worker shutdown
+- 2026-07-08 10:58: fix(logger): prevent sensitive token leakage in debug logs
