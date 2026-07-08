@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-08 14:55: test(cache): assert eviction behavior under memory pressure
 - 2026-07-08 16:04: feat(context): propagate request trace id across coroutines
 - 2026-07-08 19:05: refactor(cache): unify cache interface across backends
+- 2026-07-08 21:20: feat(logger): introduce structured json formatting
