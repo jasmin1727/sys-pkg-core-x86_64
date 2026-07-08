@@ -348,3 +348,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-08 19:05: refactor(cache): unify cache interface across backends
 - 2026-07-08 21:20: feat(logger): introduce structured json formatting
 - 2026-07-08 21:31: feat(events): implement publish-subscribe message bus
+- 2026-07-08 23:18: docs: update setup instructions and prerequisites
