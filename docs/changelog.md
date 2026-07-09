@@ -352,3 +352,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-09 12:10: fix(config): fallback to defaults when config key is missing
 - 2026-07-09 12:19: test(storage): verify concurrency safety with thread pool
 - 2026-07-09 13:55: refactor(utils): decompose monolithic string processing utility
+- 2026-07-09 15:49: perf: reduce allocations in serialization hot path
