@@ -358,3 +358,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-09 20:31: test(parser): add test cases for malformed inputs
 - 2026-07-09 21:25: fix(storage): correct file descriptor leak on close
 - 2026-07-09 22:46: refactor(storage): separate in-memory cache from persistence layer
+- 2026-07-09 23:12: test(storage): verify concurrency safety with thread pool
