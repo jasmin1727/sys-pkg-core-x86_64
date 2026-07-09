@@ -354,3 +354,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-09 13:55: refactor(utils): decompose monolithic string processing utility
 - 2026-07-09 15:49: perf: reduce allocations in serialization hot path
 - 2026-07-09 16:39: fix(cache): resolve cache key collision for compound queries
+- 2026-07-09 17:20: fix(schema): resolve null value parsing in payload
