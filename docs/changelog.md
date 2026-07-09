@@ -356,3 +356,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-09 16:39: fix(cache): resolve cache key collision for compound queries
 - 2026-07-09 17:20: fix(schema): resolve null value parsing in payload
 - 2026-07-09 20:31: test(parser): add test cases for malformed inputs
+- 2026-07-09 21:25: fix(storage): correct file descriptor leak on close
