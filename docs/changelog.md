@@ -361,3 +361,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-09 23:12: test(storage): verify concurrency safety with thread pool
 - 2026-07-10 11:00: fix(parser): resolve unexpected EOF when reading stream
 - 2026-07-10 11:51: feat(metrics): track request latency and error counters
+- 2026-07-10 13:23: feat(api): add retry policy with exponential backoff
