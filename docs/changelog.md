@@ -364,3 +364,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-10 13:23: feat(api): add retry policy with exponential backoff
 - 2026-07-10 15:06: feat(events): implement publish-subscribe message bus
 - 2026-07-10 19:27: test(storage): verify concurrency safety with thread pool
+- 2026-07-10 21:24: refactor(core): streamline worker initialization sequence
