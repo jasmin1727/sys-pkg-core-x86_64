@@ -359,3 +359,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-09 21:25: fix(storage): correct file descriptor leak on close
 - 2026-07-09 22:46: refactor(storage): separate in-memory cache from persistence layer
 - 2026-07-09 23:12: test(storage): verify concurrency safety with thread pool
+- 2026-07-10 11:00: fix(parser): resolve unexpected EOF when reading stream
