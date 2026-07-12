@@ -373,3 +373,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-12 11:08: feat(scheduler): support cron-like job scheduling intervals
 - 2026-07-12 11:56: feat(core): implement async task worker pool
 - 2026-07-12 14:26: refactor(cache): unify cache interface across backends
+- 2026-07-12 14:46: docs: add architecture overview and system flow diagram
