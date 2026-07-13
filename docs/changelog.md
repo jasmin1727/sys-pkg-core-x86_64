@@ -384,3 +384,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-12 23:03: feat(api): add retry policy with exponential backoff
 - 2026-07-13 11:52: refactor(storage): separate in-memory cache from persistence layer
 - 2026-07-13 12:54: fix(core): handle race condition during worker shutdown
+- 2026-07-13 13:18: feat(core): implement async task worker pool
