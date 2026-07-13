@@ -387,3 +387,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-13 13:18: feat(core): implement async task worker pool
 - 2026-07-13 13:46: chore: update dependency versions in package lock
 - 2026-07-13 14:42: feat(api): add retry policy with exponential backoff
+- 2026-07-13 14:47: feat(validator): add schema validation for incoming events
