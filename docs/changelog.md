@@ -382,3 +382,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-12 20:32: fix(schema): resolve null value parsing in payload
 - 2026-07-12 20:42: feat(config): add dynamic environment variable resolver
 - 2026-07-12 23:03: feat(api): add retry policy with exponential backoff
+- 2026-07-13 11:52: refactor(storage): separate in-memory cache from persistence layer
