@@ -392,3 +392,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-13 17:26: feat(storage): implement disk-backed key-value cache
 - 2026-07-13 19:37: feat(api): add retry policy with exponential backoff
 - 2026-07-13 20:03: fix(storage): correct file descriptor leak on close
+- 2026-07-13 22:16: fix(cache): resolve cache key collision for compound queries
