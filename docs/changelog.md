@@ -390,3 +390,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-13 14:47: feat(validator): add schema validation for incoming events
 - 2026-07-13 16:14: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2026-07-13 17:26: feat(storage): implement disk-backed key-value cache
+- 2026-07-13 19:37: feat(api): add retry policy with exponential backoff
