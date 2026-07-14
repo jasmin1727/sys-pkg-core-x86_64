@@ -395,3 +395,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-13 22:16: fix(cache): resolve cache key collision for compound queries
 - 2026-07-13 22:33: feat(metrics): track request latency and error counters
 - 2026-07-13 22:35: docs: document configuration parameters and overrides
+- 2026-07-14 13:00: feat(metrics): track request latency and error counters
