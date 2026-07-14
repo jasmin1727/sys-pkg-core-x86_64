@@ -258,3 +258,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-14 13:07: fix(parser): resolve unexpected EOF when reading stream
 - 2026-07-14 14:40: docs: add architecture overview and system flow diagram
 - 2026-07-14 17:00: test(storage): verify concurrency safety with thread pool
+- 2026-07-14 17:32: fix(schema): resolve null value parsing in payload
