@@ -268,3 +268,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-16 14:11: chore: configure pre-commit hooks and linter rules
 - 2026-07-16 14:48: refactor(core): streamline worker initialization sequence
 - 2026-07-16 20:20: docs: update setup instructions and prerequisites
+- 2026-07-16 22:21: docs: add architecture overview and system flow diagram
