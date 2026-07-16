@@ -262,3 +262,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-15 14:23: feat(parser): add support for nested json payloads
 - 2026-07-15 16:40: docs: add architecture overview and system flow diagram
 - 2026-07-16 11:38: feat(metrics): track request latency and error counters
+- 2026-07-16 12:05: feat(auth): add bearer token header validation helper
