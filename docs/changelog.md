@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-14 17:32: fix(schema): resolve null value parsing in payload
 - 2026-07-15 14:23: feat(parser): add support for nested json payloads
 - 2026-07-15 16:40: docs: add architecture overview and system flow diagram
+- 2026-07-16 11:38: feat(metrics): track request latency and error counters
