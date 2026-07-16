@@ -265,3 +265,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-16 12:05: feat(auth): add bearer token header validation helper
 - 2026-07-16 12:54: feat(logger): introduce structured json formatting
 - 2026-07-16 12:57: feat(events): implement publish-subscribe message bus
+- 2026-07-16 14:11: chore: configure pre-commit hooks and linter rules
