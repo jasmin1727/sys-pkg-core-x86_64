@@ -273,3 +273,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-17 13:46: chore: update dependency versions in package lock
 - 2026-07-17 15:43: docs: document configuration parameters and overrides
 - 2026-07-17 16:57: feat(config): add dynamic environment variable resolver
+- 2026-07-17 19:27: fix(logger): prevent sensitive token leakage in debug logs
