@@ -274,3 +274,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-17 15:43: docs: document configuration parameters and overrides
 - 2026-07-17 16:57: feat(config): add dynamic environment variable resolver
 - 2026-07-17 19:27: fix(logger): prevent sensitive token leakage in debug logs
+- 2026-07-17 20:40: fix(config): fallback to defaults when config key is missing
