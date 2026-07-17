@@ -271,3 +271,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-16 22:21: docs: add architecture overview and system flow diagram
 - 2026-07-17 10:10: fix(schema): resolve null value parsing in payload
 - 2026-07-17 13:46: chore: update dependency versions in package lock
+- 2026-07-17 15:43: docs: document configuration parameters and overrides

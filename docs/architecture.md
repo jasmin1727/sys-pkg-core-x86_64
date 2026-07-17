@@ -187,3 +187,6 @@ Install required runtime packages and configure environment.
 
 ### System Architecture
 Modular event-driven architecture designed for high throughput.
+
+### Configuration
+All parameters can be overridden via system environment variables.
