@@ -280,3 +280,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-18 13:54: perf: reduce allocations in serialization hot path
 - 2026-07-18 14:07: fix(cache): resolve cache key collision for compound queries
 - 2026-07-18 14:39: refactor(core): streamline worker initialization sequence
+- 2026-07-18 19:19: docs: update API endpoints reference and sample requests
