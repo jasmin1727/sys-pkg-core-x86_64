@@ -277,3 +277,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-17 20:40: fix(config): fallback to defaults when config key is missing
 - 2026-07-17 22:30: test(parser): add test cases for malformed inputs
 - 2026-07-18 12:26: docs: add architecture overview and system flow diagram
+- 2026-07-18 13:54: perf: reduce allocations in serialization hot path
