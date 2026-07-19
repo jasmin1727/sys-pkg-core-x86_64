@@ -283,3 +283,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-18 19:19: docs: update API endpoints reference and sample requests
 - 2026-07-18 19:27: feat(config): add dynamic environment variable resolver
 - 2026-07-18 20:26: fix(queue): acknowledge message after successful processing
+- 2026-07-19 16:05: feat(stream): add chunked data stream reader
