@@ -226,3 +226,7 @@ def close_storage_handles():
 def read_stream_chunks(stream, chunk_size: int = 8192):
     '''Yield chunked data from readable stream.'''
     pass
+
+def read_stream_chunks(stream, chunk_size: int = 8192):
+    '''Yield chunked data from readable stream.'''
+    pass
