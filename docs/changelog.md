@@ -294,3 +294,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-22 13:17: fix(config): fallback to defaults when config key is missing
 - 2026-07-22 15:52: feat(config): add dynamic environment variable resolver
 - 2026-07-22 16:01: feat(api): add retry policy with exponential backoff
+- 2026-07-22 16:20: fix(cache): resolve cache key collision for compound queries
