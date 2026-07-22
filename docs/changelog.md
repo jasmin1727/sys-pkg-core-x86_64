@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-22 10:43: docs: document configuration parameters and overrides
 - 2026-07-22 11:07: feat(storage): implement disk-backed key-value cache
 - 2026-07-22 11:14: test(parser): add test cases for malformed inputs
+- 2026-07-22 13:10: refactor(core): streamline worker initialization sequence
