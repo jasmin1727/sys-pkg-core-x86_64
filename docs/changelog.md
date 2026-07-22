@@ -297,3 +297,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-22 16:20: fix(cache): resolve cache key collision for compound queries
 - 2026-07-22 16:32: fix(cache): resolve cache key collision for compound queries
 - 2026-07-22 18:49: feat(stream): add chunked data stream reader
+- 2026-07-22 22:48: fix(queue): acknowledge message after successful processing
