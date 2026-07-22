@@ -292,3 +292,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-22 11:14: test(parser): add test cases for malformed inputs
 - 2026-07-22 13:10: refactor(core): streamline worker initialization sequence
 - 2026-07-22 13:17: fix(config): fallback to defaults when config key is missing
+- 2026-07-22 15:52: feat(config): add dynamic environment variable resolver
