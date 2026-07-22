@@ -288,3 +288,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-20 22:17: feat(stream): add chunked data stream reader
 - 2026-07-20 23:09: feat(validator): add schema validation for incoming events
 - 2026-07-22 10:43: docs: document configuration parameters and overrides
+- 2026-07-22 11:07: feat(storage): implement disk-backed key-value cache
