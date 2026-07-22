@@ -291,3 +291,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-22 11:07: feat(storage): implement disk-backed key-value cache
 - 2026-07-22 11:14: test(parser): add test cases for malformed inputs
 - 2026-07-22 13:10: refactor(core): streamline worker initialization sequence
+- 2026-07-22 13:17: fix(config): fallback to defaults when config key is missing
