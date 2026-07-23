@@ -304,3 +304,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-23 15:41: fix(core): handle race condition during worker shutdown
 - 2026-07-23 16:55: test(cache): assert eviction behavior under memory pressure
 - 2026-07-23 17:16: test(parser): add test cases for malformed inputs
+- 2026-07-23 17:56: fix(config): fallback to defaults when config key is missing
