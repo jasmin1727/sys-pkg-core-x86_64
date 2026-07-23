@@ -306,3 +306,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-23 17:16: test(parser): add test cases for malformed inputs
 - 2026-07-23 17:56: fix(config): fallback to defaults when config key is missing
 - 2026-07-23 18:26: feat(auth): add bearer token header validation helper
+- 2026-07-23 20:54: fix(storage): correct file descriptor leak on close
