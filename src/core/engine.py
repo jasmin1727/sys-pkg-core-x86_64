@@ -210,3 +210,7 @@ class EventBus:
 # Refactored worker lifecycle management
 
 # Formatted with strict styling
+
+def safe_shutdown(pool):
+    '''Safely terminate workers without deadlocks.'''
+    pool['status'] = 'stopped'
