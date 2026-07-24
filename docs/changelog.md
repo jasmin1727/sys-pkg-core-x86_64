@@ -308,3 +308,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-23 18:26: feat(auth): add bearer token header validation helper
 - 2026-07-23 20:54: fix(storage): correct file descriptor leak on close
 - 2026-07-24 11:23: perf: reduce allocations in serialization hot path
+- 2026-07-24 17:30: feat(logger): introduce structured json formatting
