@@ -310,3 +310,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-24 11:23: perf: reduce allocations in serialization hot path
 - 2026-07-24 17:30: feat(logger): introduce structured json formatting
 - 2026-07-24 18:50: feat(events): implement publish-subscribe message bus
+- 2026-07-24 19:11: refactor(cache): unify cache interface across backends
