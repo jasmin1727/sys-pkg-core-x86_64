@@ -318,3 +318,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-26 10:52: docs: update API endpoints reference and sample requests
 - 2026-07-26 12:58: refactor: optimize module imports and remove unused dependencies
 - 2026-07-26 13:56: feat(metrics): track request latency and error counters
+- 2026-07-26 15:46: feat(config): add dynamic environment variable resolver
