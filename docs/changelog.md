@@ -315,3 +315,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-25 12:51: feat(config): add dynamic environment variable resolver
 - 2026-07-25 15:17: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2026-07-26 10:42: feat(scheduler): support cron-like job scheduling intervals
+- 2026-07-26 10:52: docs: update API endpoints reference and sample requests
