@@ -326,3 +326,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-27 11:58: docs: update setup instructions and prerequisites
 - 2026-07-27 12:35: feat(stream): add chunked data stream reader
 - 2026-07-27 16:28: test(storage): verify concurrency safety with thread pool
+- 2026-07-27 16:55: fix(core): handle race condition during worker shutdown
