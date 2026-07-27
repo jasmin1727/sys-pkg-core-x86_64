@@ -321,3 +321,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-26 15:46: feat(config): add dynamic environment variable resolver
 - 2026-07-26 16:46: fix(parser): resolve unexpected EOF when reading stream
 - 2026-07-26 18:14: refactor: optimize module imports and remove unused dependencies
+- 2026-07-27 11:01: fix(config): fallback to defaults when config key is missing
