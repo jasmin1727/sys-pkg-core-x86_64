@@ -328,3 +328,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-27 16:28: test(storage): verify concurrency safety with thread pool
 - 2026-07-27 16:55: fix(core): handle race condition during worker shutdown
 - 2026-07-27 19:58: refactor(core): streamline worker initialization sequence
+- 2026-07-27 21:30: fix(storage): correct file descriptor leak on close
