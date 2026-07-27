@@ -325,3 +325,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-27 11:45: fix(parser): resolve unexpected EOF when reading stream
 - 2026-07-27 11:58: docs: update setup instructions and prerequisites
 - 2026-07-27 12:35: feat(stream): add chunked data stream reader
+- 2026-07-27 16:28: test(storage): verify concurrency safety with thread pool
