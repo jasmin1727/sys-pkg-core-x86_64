@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-28 10:56: fix(cache): resolve cache key collision for compound queries
 - 2026-07-28 13:30: fix(logger): prevent sensitive token leakage in debug logs
 - 2026-07-28 15:43: feat(api): add retry policy with exponential backoff
+- 2026-07-28 16:25: feat(config): add dynamic environment variable resolver
