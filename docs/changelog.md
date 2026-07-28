@@ -330,3 +330,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-27 19:58: refactor(core): streamline worker initialization sequence
 - 2026-07-27 21:30: fix(storage): correct file descriptor leak on close
 - 2026-07-28 10:56: fix(cache): resolve cache key collision for compound queries
+- 2026-07-28 13:30: fix(logger): prevent sensitive token leakage in debug logs
