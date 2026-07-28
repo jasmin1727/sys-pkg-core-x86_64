@@ -334,3 +334,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-28 15:43: feat(api): add retry policy with exponential backoff
 - 2026-07-28 16:25: feat(config): add dynamic environment variable resolver
 - 2026-07-28 19:45: fix(schema): resolve null value parsing in payload
+- 2026-07-28 20:12: feat(rate-limit): implement token bucket rate limiting algorithm
