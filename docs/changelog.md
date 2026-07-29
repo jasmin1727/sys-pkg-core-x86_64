@@ -336,3 +336,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-28 19:45: fix(schema): resolve null value parsing in payload
 - 2026-07-28 20:12: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2026-07-28 21:12: feat(parser): add support for nested json payloads
+- 2026-07-29 17:04: refactor(cache): unify cache interface across backends
