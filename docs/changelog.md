@@ -338,3 +338,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-28 21:12: feat(parser): add support for nested json payloads
 - 2026-07-29 17:04: refactor(cache): unify cache interface across backends
 - 2026-07-29 22:05: fix(core): handle race condition during worker shutdown
+- 2026-07-30 13:36: feat(scheduler): support cron-like job scheduling intervals
