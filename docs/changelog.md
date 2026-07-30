@@ -340,3 +340,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-29 22:05: fix(core): handle race condition during worker shutdown
 - 2026-07-30 13:36: feat(scheduler): support cron-like job scheduling intervals
 - 2026-07-30 19:57: fix(storage): correct file descriptor leak on close
+- 2026-07-30 20:25: chore: update dependency versions in package lock
