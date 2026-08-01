@@ -342,3 +342,4 @@ All notable changes and milestones are documented in this file.
 - 2026-07-30 19:57: fix(storage): correct file descriptor leak on close
 - 2026-07-30 20:25: chore: update dependency versions in package lock
 - 2026-07-30 20:46: docs: add architecture overview and system flow diagram
+- 2026-08-01 17:22: feat(storage): implement disk-backed key-value cache
