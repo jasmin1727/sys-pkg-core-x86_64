@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-01 18:53: feat(events): implement publish-subscribe message bus
 - 2026-08-01 21:42: feat(storage): implement disk-backed key-value cache
 - 2026-08-02 13:34: feat(context): propagate request trace id across coroutines
+- 2026-08-02 20:22: feat(parser): add support for nested json payloads
