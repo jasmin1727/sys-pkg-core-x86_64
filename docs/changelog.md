@@ -348,3 +348,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-02 13:34: feat(context): propagate request trace id across coroutines
 - 2026-08-02 20:22: feat(parser): add support for nested json payloads
 - 2026-08-03 12:36: fix(storage): correct file descriptor leak on close
+- 2026-08-03 22:47: feat(config): add dynamic environment variable resolver
