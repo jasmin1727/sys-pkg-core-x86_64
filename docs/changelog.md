@@ -349,3 +349,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-02 20:22: feat(parser): add support for nested json payloads
 - 2026-08-03 12:36: fix(storage): correct file descriptor leak on close
 - 2026-08-03 22:47: feat(config): add dynamic environment variable resolver
+- 2026-08-04 12:40: feat(events): implement publish-subscribe message bus
