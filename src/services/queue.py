@@ -250,3 +250,7 @@ def retry_with_backoff(fn, attempts: int = 3, base_delay: float = 0.5):
 class JobScheduler:
     '''Periodic job scheduler.'''
     pass
+
+class JobScheduler:
+    '''Periodic job scheduler.'''
+    pass
