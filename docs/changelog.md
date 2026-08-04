@@ -353,3 +353,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-04 13:38: refactor(core): streamline worker initialization sequence
 - 2026-08-04 13:48: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2026-08-04 16:38: fix(parser): resolve unexpected EOF when reading stream
+- 2026-08-04 16:47: fix(core): handle race condition during worker shutdown
