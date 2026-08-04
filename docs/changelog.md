@@ -351,3 +351,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-03 22:47: feat(config): add dynamic environment variable resolver
 - 2026-08-04 12:40: feat(events): implement publish-subscribe message bus
 - 2026-08-04 13:38: refactor(core): streamline worker initialization sequence
+- 2026-08-04 13:48: feat(rate-limit): implement token bucket rate limiting algorithm
