@@ -357,3 +357,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-04 17:03: feat(scheduler): support cron-like job scheduling intervals
 - 2026-08-04 17:53: fix(config): fallback to defaults when config key is missing
 - 2026-08-04 23:05: test(parser): add test cases for malformed inputs
+- 2026-08-05 13:59: refactor(storage): separate in-memory cache from persistence layer
