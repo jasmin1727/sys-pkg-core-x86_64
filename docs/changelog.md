@@ -361,3 +361,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-05 14:23: fix(config): fallback to defaults when config key is missing
 - 2026-08-05 14:42: docs: add architecture overview and system flow diagram
 - 2026-08-05 19:24: fix(config): fallback to defaults when config key is missing
+- 2026-08-07 17:47: test(core): add coverage for worker crash recovery
