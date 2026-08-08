@@ -364,3 +364,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-07 17:47: test(core): add coverage for worker crash recovery
 - 2026-08-08 11:24: feat(parser): add support for nested json payloads
 - 2026-08-08 13:50: feat(stream): add chunked data stream reader
+- 2026-08-08 21:20: chore: configure pre-commit hooks and linter rules
