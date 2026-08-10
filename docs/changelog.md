@@ -366,3 +366,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-08 13:50: feat(stream): add chunked data stream reader
 - 2026-08-08 21:20: chore: configure pre-commit hooks and linter rules
 - 2026-08-10 13:13: test(parser): add test cases for malformed inputs
+- 2026-08-10 13:42: refactor(cache): unify cache interface across backends
