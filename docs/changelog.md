@@ -371,3 +371,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-10 21:59: feat(logger): introduce structured json formatting
 - 2026-08-11 14:21: test(core): add coverage for worker crash recovery
 - 2026-08-11 15:17: fix(storage): correct file descriptor leak on close
+- 2026-08-11 17:13: fix(storage): correct file descriptor leak on close
