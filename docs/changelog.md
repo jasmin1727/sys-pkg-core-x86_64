@@ -380,3 +380,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-12 19:05: docs: add architecture overview and system flow diagram
 - 2026-08-12 19:56: docs: update API endpoints reference and sample requests
 - 2026-08-12 20:32: feat(parser): add support for nested json payloads
+- 2026-08-12 20:36: docs: update API endpoints reference and sample requests
