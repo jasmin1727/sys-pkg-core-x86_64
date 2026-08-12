@@ -377,3 +377,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-12 11:44: test(storage): verify concurrency safety with thread pool
 - 2026-08-12 11:45: refactor(utils): decompose monolithic string processing utility
 - 2026-08-12 17:16: test(storage): verify concurrency safety with thread pool
+- 2026-08-12 19:05: docs: add architecture overview and system flow diagram
