@@ -383,3 +383,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-12 20:36: docs: update API endpoints reference and sample requests
 - 2026-08-12 21:59: docs: update API endpoints reference and sample requests
 - 2026-08-13 15:50: fix(config): fallback to defaults when config key is missing
+- 2026-08-14 16:56: feat(scheduler): support cron-like job scheduling intervals
