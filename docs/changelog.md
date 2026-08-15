@@ -393,3 +393,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-15 20:46: fix(config): fallback to defaults when config key is missing
 - 2026-08-15 21:13: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2026-08-15 21:18: chore: configure pre-commit hooks and linter rules
+- 2026-08-15 22:35: refactor(utils): decompose monolithic string processing utility
