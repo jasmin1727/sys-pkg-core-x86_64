@@ -385,3 +385,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-13 15:50: fix(config): fallback to defaults when config key is missing
 - 2026-08-14 16:56: feat(scheduler): support cron-like job scheduling intervals
 - 2026-08-15 10:46: feat(api): add retry policy with exponential backoff
+- 2026-08-15 15:28: feat(parser): add support for nested json payloads
