@@ -388,3 +388,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-15 15:28: feat(parser): add support for nested json payloads
 - 2026-08-15 15:47: refactor(core): streamline worker initialization sequence
 - 2026-08-15 18:00: fix(logger): prevent sensitive token leakage in debug logs
+- 2026-08-15 19:33: refactor(core): streamline worker initialization sequence
