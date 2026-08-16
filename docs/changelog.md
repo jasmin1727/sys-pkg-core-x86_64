@@ -395,3 +395,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-15 21:18: chore: configure pre-commit hooks and linter rules
 - 2026-08-15 22:35: refactor(utils): decompose monolithic string processing utility
 - 2026-08-15 23:03: feat(parser): add support for nested json payloads
+- 2026-08-16 10:41: fix(storage): correct file descriptor leak on close
