@@ -397,3 +397,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-15 23:03: feat(parser): add support for nested json payloads
 - 2026-08-16 10:41: fix(storage): correct file descriptor leak on close
 - 2026-08-16 19:06: test(parser): add test cases for malformed inputs
+- 2026-08-16 23:16: fix(cache): resolve cache key collision for compound queries
