@@ -261,3 +261,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-17 16:51: refactor(utils): decompose monolithic string processing utility
 - 2026-08-17 18:34: feat(metrics): track request latency and error counters
 - 2026-08-17 20:24: docs: update setup instructions and prerequisites
+- 2026-08-17 20:56: feat(logger): introduce structured json formatting
