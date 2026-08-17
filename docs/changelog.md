@@ -259,3 +259,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-16 23:16: fix(cache): resolve cache key collision for compound queries
 - 2026-08-17 14:14: fix(queue): acknowledge message after successful processing
 - 2026-08-17 16:51: refactor(utils): decompose monolithic string processing utility
+- 2026-08-17 18:34: feat(metrics): track request latency and error counters
