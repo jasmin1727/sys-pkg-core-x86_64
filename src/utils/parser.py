@@ -211,3 +211,7 @@ def parse_nested_payload(raw: str) -> dict:
     return json.loads(raw)
 
 # Decomposed string processing helpers
+
+def validate_bearer_token(header: str) -> bool:
+    '''Validate authorization header format.'''
+    return header.startswith('Bearer ')
