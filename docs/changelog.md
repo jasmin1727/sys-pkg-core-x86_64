@@ -266,3 +266,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-18 11:30: test(cache): assert eviction behavior under memory pressure
 - 2026-08-18 14:31: feat(metrics): track request latency and error counters
 - 2026-08-18 17:57: test(parser): add test cases for malformed inputs
+- 2026-08-18 18:06: test(cache): assert eviction behavior under memory pressure
