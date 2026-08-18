@@ -269,3 +269,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-18 18:06: test(cache): assert eviction behavior under memory pressure
 - 2026-08-18 19:59: feat(auth): add bearer token header validation helper
 - 2026-08-18 20:03: feat(storage): implement disk-backed key-value cache
+- 2026-08-18 21:44: refactor(utils): decompose monolithic string processing utility
