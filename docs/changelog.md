@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-17 20:56: feat(logger): introduce structured json formatting
 - 2026-08-17 20:58: fix(cache): resolve cache key collision for compound queries
 - 2026-08-18 11:30: test(cache): assert eviction behavior under memory pressure
+- 2026-08-18 14:31: feat(metrics): track request latency and error counters
