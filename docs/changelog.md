@@ -270,3 +270,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-18 19:59: feat(auth): add bearer token header validation helper
 - 2026-08-18 20:03: feat(storage): implement disk-backed key-value cache
 - 2026-08-18 21:44: refactor(utils): decompose monolithic string processing utility
+- 2026-08-19 11:15: feat(scheduler): support cron-like job scheduling intervals
