@@ -272,3 +272,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-18 21:44: refactor(utils): decompose monolithic string processing utility
 - 2026-08-19 11:15: feat(scheduler): support cron-like job scheduling intervals
 - 2026-08-19 16:41: chore: update dependency versions in package lock
+- 2026-08-19 19:38: refactor(cache): unify cache interface across backends
