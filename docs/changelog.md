@@ -275,3 +275,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-19 19:38: refactor(cache): unify cache interface across backends
 - 2026-08-20 11:05: feat(rate-limit): implement token bucket rate limiting algorithm
 - 2026-08-21 13:02: docs: update API endpoints reference and sample requests
+- 2026-08-21 18:30: feat(scheduler): support cron-like job scheduling intervals
