@@ -279,3 +279,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-21 21:13: feat(storage): implement disk-backed key-value cache
 - 2026-08-22 17:55: fix(schema): resolve null value parsing in payload
 - 2026-08-23 13:57: feat(config): add dynamic environment variable resolver
+- 2026-08-23 18:31: fix(queue): acknowledge message after successful processing
