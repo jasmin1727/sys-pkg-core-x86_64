@@ -281,3 +281,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-23 13:57: feat(config): add dynamic environment variable resolver
 - 2026-08-23 18:31: fix(queue): acknowledge message after successful processing
 - 2026-08-23 21:57: fix(parser): resolve unexpected EOF when reading stream
+- 2026-08-24 22:26: feat(events): implement publish-subscribe message bus
