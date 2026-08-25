@@ -283,3 +283,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-23 21:57: fix(parser): resolve unexpected EOF when reading stream
 - 2026-08-24 22:26: feat(events): implement publish-subscribe message bus
 - 2026-08-25 13:06: feat(core): implement async task worker pool
+- 2026-08-25 13:36: feat(scheduler): support cron-like job scheduling intervals
