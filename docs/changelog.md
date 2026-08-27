@@ -286,3 +286,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-25 13:36: feat(scheduler): support cron-like job scheduling intervals
 - 2026-08-25 19:19: test(core): add coverage for worker crash recovery
 - 2026-08-27 11:46: feat(config): add dynamic environment variable resolver
+- 2026-08-27 15:06: feat(auth): add bearer token header validation helper
