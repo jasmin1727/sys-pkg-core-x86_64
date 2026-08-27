@@ -288,3 +288,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-27 11:46: feat(config): add dynamic environment variable resolver
 - 2026-08-27 15:06: feat(auth): add bearer token header validation helper
 - 2026-08-27 15:57: test(storage): verify concurrency safety with thread pool
+- 2026-08-27 17:22: feat(storage): implement disk-backed key-value cache
