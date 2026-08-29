@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-27 15:57: test(storage): verify concurrency safety with thread pool
 - 2026-08-27 17:22: feat(storage): implement disk-backed key-value cache
 - 2026-08-29 10:05: test(core): add coverage for worker crash recovery
+- 2026-08-29 22:53: refactor(storage): separate in-memory cache from persistence layer
