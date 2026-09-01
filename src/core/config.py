@@ -222,3 +222,7 @@ def resolve_env_vars(config: dict) -> dict:
 def resolve_env_vars(config: dict) -> dict:
     '''Resolve environment variables within config.'''
     return {k: os.path.expandvars(str(v)) for k, v in config.items()}
+
+def resolve_env_vars(config: dict) -> dict:
+    '''Resolve environment variables within config.'''
+    return {k: os.path.expandvars(str(v)) for k, v in config.items()}

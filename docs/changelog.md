@@ -295,3 +295,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-30 13:13: test(core): add coverage for worker crash recovery
 - 2026-09-01 10:26: feat(core): implement async task worker pool
 - 2026-09-01 16:35: test(parser): add test cases for malformed inputs
+- 2026-09-01 17:51: feat(config): add dynamic environment variable resolver
