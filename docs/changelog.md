@@ -300,3 +300,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-01 19:52: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2026-09-01 20:51: docs: update setup instructions and prerequisites
 - 2026-09-01 21:07: fix(storage): correct file descriptor leak on close
+- 2026-09-01 23:20: fix(schema): resolve null value parsing in payload
