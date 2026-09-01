@@ -293,3 +293,4 @@ All notable changes and milestones are documented in this file.
 - 2026-08-29 22:53: refactor(storage): separate in-memory cache from persistence layer
 - 2026-08-30 12:13: test(core): add coverage for worker crash recovery
 - 2026-08-30 13:13: test(core): add coverage for worker crash recovery
+- 2026-09-01 10:26: feat(core): implement async task worker pool
