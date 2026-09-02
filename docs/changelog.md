@@ -303,3 +303,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-01 23:20: fix(schema): resolve null value parsing in payload
 - 2026-09-02 10:51: fix(queue): acknowledge message after successful processing
 - 2026-09-02 12:45: test(cache): assert eviction behavior under memory pressure
+- 2026-09-02 13:00: fix(cache): resolve cache key collision for compound queries
