@@ -302,3 +302,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-01 21:07: fix(storage): correct file descriptor leak on close
 - 2026-09-01 23:20: fix(schema): resolve null value parsing in payload
 - 2026-09-02 10:51: fix(queue): acknowledge message after successful processing
+- 2026-09-02 12:45: test(cache): assert eviction behavior under memory pressure
