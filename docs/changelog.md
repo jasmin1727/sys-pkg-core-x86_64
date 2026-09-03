@@ -307,3 +307,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-02 16:26: fix(schema): resolve null value parsing in payload
 - 2026-09-02 20:41: test(parser): add test cases for malformed inputs
 - 2026-09-03 10:06: fix(queue): acknowledge message after successful processing
+- 2026-09-03 11:16: fix(logger): prevent sensitive token leakage in debug logs
