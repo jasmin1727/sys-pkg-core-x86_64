@@ -312,3 +312,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-04 12:40: fix(schema): resolve null value parsing in payload
 - 2026-09-04 13:51: feat(logger): introduce structured json formatting
 - 2026-09-04 14:42: fix(cache): resolve cache key collision for compound queries
+- 2026-09-04 15:08: refactor(storage): separate in-memory cache from persistence layer
