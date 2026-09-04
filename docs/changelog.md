@@ -309,3 +309,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-03 10:06: fix(queue): acknowledge message after successful processing
 - 2026-09-03 11:16: fix(logger): prevent sensitive token leakage in debug logs
 - 2026-09-03 17:07: fix(logger): prevent sensitive token leakage in debug logs
+- 2026-09-04 12:40: fix(schema): resolve null value parsing in payload
