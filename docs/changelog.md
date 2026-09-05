@@ -313,3 +313,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-04 13:51: feat(logger): introduce structured json formatting
 - 2026-09-04 14:42: fix(cache): resolve cache key collision for compound queries
 - 2026-09-04 15:08: refactor(storage): separate in-memory cache from persistence layer
+- 2026-09-05 16:09: feat(logger): introduce structured json formatting
