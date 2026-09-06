@@ -316,3 +316,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-05 16:09: feat(logger): introduce structured json formatting
 - 2026-09-05 20:25: feat(scheduler): support cron-like job scheduling intervals
 - 2026-09-06 12:36: refactor(cache): unify cache interface across backends
+- 2026-09-06 14:15: feat(logger): introduce structured json formatting
