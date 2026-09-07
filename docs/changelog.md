@@ -323,3 +323,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-06 20:51: refactor(utils): decompose monolithic string processing utility
 - 2026-09-06 23:28: fix(logger): prevent sensitive token leakage in debug logs
 - 2026-09-07 15:07: fix(schema): resolve null value parsing in payload
+- 2026-09-07 17:42: docs: add architecture overview and system flow diagram
