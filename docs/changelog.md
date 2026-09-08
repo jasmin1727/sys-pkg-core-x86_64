@@ -327,3 +327,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-07 23:03: feat(scheduler): support cron-like job scheduling intervals
 - 2026-09-07 23:15: test(core): add coverage for worker crash recovery
 - 2026-09-08 11:34: fix(core): handle race condition during worker shutdown
+- 2026-09-08 13:39: refactor(cache): unify cache interface across backends
