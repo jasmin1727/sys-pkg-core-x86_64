@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-08 16:40: test(cache): assert eviction behavior under memory pressure
 - 2026-09-08 18:28: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2026-09-08 20:48: fix(schema): resolve null value parsing in payload
+- 2026-09-08 21:12: fix(core): handle race condition during worker shutdown
