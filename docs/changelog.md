@@ -330,3 +330,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-08 13:39: refactor(cache): unify cache interface across backends
 - 2026-09-08 16:29: feat(validator): add schema validation for incoming events
 - 2026-09-08 16:40: test(cache): assert eviction behavior under memory pressure
+- 2026-09-08 18:28: feat(cache): implement adaptive LRU cache with TTL expiry
