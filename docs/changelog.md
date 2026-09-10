@@ -334,3 +334,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-08 20:48: fix(schema): resolve null value parsing in payload
 - 2026-09-08 21:12: fix(core): handle race condition during worker shutdown
 - 2026-09-08 23:20: test(storage): verify concurrency safety with thread pool
+- 2026-09-10 14:52: fix(parser): resolve unexpected EOF when reading stream
