@@ -337,3 +337,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-10 14:52: fix(parser): resolve unexpected EOF when reading stream
 - 2026-09-10 15:53: feat(events): implement publish-subscribe message bus
 - 2026-09-10 19:12: docs: add architecture overview and system flow diagram
+- 2026-09-10 19:47: feat(stream): add chunked data stream reader
