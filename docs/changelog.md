@@ -341,3 +341,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-10 20:39: fix(logger): prevent sensitive token leakage in debug logs
 - 2026-09-10 21:22: docs: add architecture overview and system flow diagram
 - 2026-09-10 22:16: feat(metrics): track request latency and error counters
+- 2026-09-10 22:54: refactor(core): streamline worker initialization sequence
