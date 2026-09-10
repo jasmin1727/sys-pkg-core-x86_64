@@ -338,3 +338,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-10 15:53: feat(events): implement publish-subscribe message bus
 - 2026-09-10 19:12: docs: add architecture overview and system flow diagram
 - 2026-09-10 19:47: feat(stream): add chunked data stream reader
+- 2026-09-10 20:39: fix(logger): prevent sensitive token leakage in debug logs
