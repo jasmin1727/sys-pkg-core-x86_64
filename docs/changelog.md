@@ -346,3 +346,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-11 14:59: refactor(storage): separate in-memory cache from persistence layer
 - 2026-09-11 18:25: test(parser): add test cases for malformed inputs
 - 2026-09-11 21:13: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2026-09-11 22:15: feat(metrics): track request latency and error counters
