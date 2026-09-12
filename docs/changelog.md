@@ -349,3 +349,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-11 22:15: feat(metrics): track request latency and error counters
 - 2026-09-12 10:37: feat(metrics): track request latency and error counters
 - 2026-09-12 11:23: docs: document configuration parameters and overrides
+- 2026-09-12 17:59: chore: update dependency versions in package lock
