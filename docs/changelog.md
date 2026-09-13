@@ -354,3 +354,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-13 12:03: feat(context): propagate request trace id across coroutines
 - 2026-09-13 12:55: docs: update API endpoints reference and sample requests
 - 2026-09-13 13:54: feat(metrics): track request latency and error counters
+- 2026-09-13 21:15: refactor(storage): separate in-memory cache from persistence layer
