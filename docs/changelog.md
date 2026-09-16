@@ -361,3 +361,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-14 19:58: test(storage): verify concurrency safety with thread pool
 - 2026-09-14 22:18: feat(config): add dynamic environment variable resolver
 - 2026-09-15 22:21: docs: update setup instructions and prerequisites
+- 2026-09-16 10:12: feat(auth): add bearer token header validation helper

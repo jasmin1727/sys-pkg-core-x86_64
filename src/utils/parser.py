@@ -269,3 +269,7 @@ def parse_stream_safe(stream):
 def sanitize_null_fields(obj):
     '''Replace null values with empty defaults.'''
     return obj if obj is not None else {}
+
+def validate_bearer_token(header: str) -> bool:
+    '''Validate authorization header format.'''
+    return header.startswith('Bearer ')
