@@ -366,3 +366,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-16 12:03: fix(queue): acknowledge message after successful processing
 - 2026-09-16 12:42: refactor(core): streamline worker initialization sequence
 - 2026-09-16 16:14: refactor(utils): decompose monolithic string processing utility
+- 2026-09-16 16:16: docs: document configuration parameters and overrides
