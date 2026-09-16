@@ -363,3 +363,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-15 22:21: docs: update setup instructions and prerequisites
 - 2026-09-16 10:12: feat(auth): add bearer token header validation helper
 - 2026-09-16 10:58: fix(core): handle race condition during worker shutdown
+- 2026-09-16 12:03: fix(queue): acknowledge message after successful processing
