@@ -368,3 +368,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-16 16:14: refactor(utils): decompose monolithic string processing utility
 - 2026-09-16 16:16: docs: document configuration parameters and overrides
 - 2026-09-16 16:46: refactor: optimize module imports and remove unused dependencies
+- 2026-09-16 18:50: test(parser): add test cases for malformed inputs
