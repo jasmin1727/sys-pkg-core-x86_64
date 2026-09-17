@@ -372,3 +372,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-16 20:57: fix(storage): correct file descriptor leak on close
 - 2026-09-17 15:21: test(core): add coverage for worker crash recovery
 - 2026-09-17 19:56: feat(storage): implement disk-backed key-value cache
+- 2026-09-17 20:20: docs: add architecture overview and system flow diagram
