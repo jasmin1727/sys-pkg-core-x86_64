@@ -382,3 +382,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-18 14:47: fix(core): handle race condition during worker shutdown
 - 2026-09-18 16:43: fix(cache): resolve cache key collision for compound queries
 - 2026-09-18 18:14: feat(logger): introduce structured json formatting
+- 2026-09-18 18:56: fix(parser): resolve unexpected EOF when reading stream
