@@ -384,3 +384,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-18 18:14: feat(logger): introduce structured json formatting
 - 2026-09-18 18:56: fix(parser): resolve unexpected EOF when reading stream
 - 2026-09-18 19:00: docs: update API endpoints reference and sample requests
+- 2026-09-18 20:44: test(cache): assert eviction behavior under memory pressure
