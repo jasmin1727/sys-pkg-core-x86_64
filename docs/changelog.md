@@ -380,3 +380,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-18 13:15: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2026-09-18 14:03: fix(schema): resolve null value parsing in payload
 - 2026-09-18 14:47: fix(core): handle race condition during worker shutdown
+- 2026-09-18 16:43: fix(cache): resolve cache key collision for compound queries
