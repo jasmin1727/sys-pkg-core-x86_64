@@ -375,3 +375,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-17 20:20: docs: add architecture overview and system flow diagram
 - 2026-09-18 10:13: test(cache): assert eviction behavior under memory pressure
 - 2026-09-18 10:26: feat(core): implement async task worker pool
+- 2026-09-18 12:03: fix(cache): resolve cache key collision for compound queries

@@ -180,3 +180,7 @@ class LRUTtlCache:
     pass
 
 # Unified cache abstraction layer
+
+def make_compound_key(*parts) -> str:
+    '''Generate safe hashed compound cache key.'''
+    return ':'.join(str(p) for p in parts)
