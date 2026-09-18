@@ -184,3 +184,7 @@ class LRUTtlCache:
 def make_compound_key(*parts) -> str:
     '''Generate safe hashed compound cache key.'''
     return ':'.join(str(p) for p in parts)
+
+class LRUTtlCache:
+    '''LRU cache with time-to-live expiration.'''
+    pass
