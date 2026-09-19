@@ -388,3 +388,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-18 23:17: refactor(core): streamline worker initialization sequence
 - 2026-09-19 12:42: docs: update API endpoints reference and sample requests
 - 2026-09-19 14:56: feat(logger): introduce structured json formatting
+- 2026-09-19 15:06: test(core): add coverage for worker crash recovery
