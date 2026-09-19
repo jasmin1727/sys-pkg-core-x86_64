@@ -259,3 +259,6 @@ Modular event-driven architecture designed for high throughput.
 
 ### API Reference
 Comprehensive reference for internal services and message formats.
+
+### API Reference
+Comprehensive reference for internal services and message formats.
