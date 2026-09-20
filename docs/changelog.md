@@ -392,3 +392,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-19 17:01: refactor: optimize module imports and remove unused dependencies
 - 2026-09-19 19:23: feat(scheduler): support cron-like job scheduling intervals
 - 2026-09-19 22:32: feat(storage): implement disk-backed key-value cache
+- 2026-09-20 12:41: fix(cache): resolve cache key collision for compound queries
