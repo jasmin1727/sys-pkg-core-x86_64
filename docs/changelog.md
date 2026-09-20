@@ -396,3 +396,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-20 13:27: docs: update API endpoints reference and sample requests
 - 2026-09-20 15:38: refactor: optimize module imports and remove unused dependencies
 - 2026-09-20 20:13: test(storage): verify concurrency safety with thread pool
+- 2026-09-20 21:48: test(cache): assert eviction behavior under memory pressure
