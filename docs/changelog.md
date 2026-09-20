@@ -395,3 +395,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-20 12:41: fix(cache): resolve cache key collision for compound queries
 - 2026-09-20 13:27: docs: update API endpoints reference and sample requests
 - 2026-09-20 15:38: refactor: optimize module imports and remove unused dependencies
+- 2026-09-20 20:13: test(storage): verify concurrency safety with thread pool
