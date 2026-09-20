@@ -393,3 +393,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-19 19:23: feat(scheduler): support cron-like job scheduling intervals
 - 2026-09-19 22:32: feat(storage): implement disk-backed key-value cache
 - 2026-09-20 12:41: fix(cache): resolve cache key collision for compound queries
+- 2026-09-20 13:27: docs: update API endpoints reference and sample requests
