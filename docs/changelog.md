@@ -260,3 +260,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-21 15:41: fix(config): fallback to defaults when config key is missing
 - 2026-09-22 15:51: fix(config): fallback to defaults when config key is missing
 - 2026-09-22 18:53: fix(logger): prevent sensitive token leakage in debug logs
+- 2026-09-22 20:45: feat(context): propagate request trace id across coroutines
