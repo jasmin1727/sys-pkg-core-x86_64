@@ -264,3 +264,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-22 22:02: refactor(storage): separate in-memory cache from persistence layer
 - 2026-09-23 10:04: feat(api): add retry policy with exponential backoff
 - 2026-09-23 13:45: perf: reduce allocations in serialization hot path
+- 2026-09-23 14:53: fix(logger): prevent sensitive token leakage in debug logs
