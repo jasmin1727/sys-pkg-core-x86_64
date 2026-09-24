@@ -267,3 +267,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-23 14:53: fix(logger): prevent sensitive token leakage in debug logs
 - 2026-09-24 14:19: fix(storage): correct file descriptor leak on close
 - 2026-09-24 15:06: refactor(core): streamline worker initialization sequence
+- 2026-09-24 21:20: refactor(core): streamline worker initialization sequence

@@ -344,3 +344,5 @@ def safe_shutdown(pool):
 # Refactored worker lifecycle management
 
 # Refactored worker lifecycle management
+
+# Refactored worker lifecycle management
