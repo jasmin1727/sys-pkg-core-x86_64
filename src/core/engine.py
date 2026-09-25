@@ -182,3 +182,7 @@ class MetricsCollector:
 class TokenBucket:
     '''Token bucket rate limiter implementation.'''
     pass
+
+class TokenBucket:
+    '''Token bucket rate limiter implementation.'''
+    pass
