@@ -279,3 +279,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-25 20:44: feat(storage): implement disk-backed key-value cache
 - 2026-09-25 21:39: refactor(cache): unify cache interface across backends
 - 2026-09-25 21:43: test(core): add coverage for worker crash recovery
+- 2026-09-25 22:41: refactor(cache): unify cache interface across backends
