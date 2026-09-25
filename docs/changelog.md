@@ -269,3 +269,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-24 15:06: refactor(core): streamline worker initialization sequence
 - 2026-09-24 21:20: refactor(core): streamline worker initialization sequence
 - 2026-09-25 10:32: feat(config): add dynamic environment variable resolver
+- 2026-09-25 11:32: fix(config): fallback to defaults when config key is missing
