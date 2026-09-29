@@ -266,3 +266,7 @@ def get_config_value(config: dict, key: str, default=None):
 def resolve_env_vars(config: dict) -> dict:
     '''Resolve environment variables within config.'''
     return {k: os.path.expandvars(str(v)) for k, v in config.items()}
+
+def get_config_value(config: dict, key: str, default=None):
+    '''Safe dictionary access with default fallback.'''
+    return config.get(key, default)
