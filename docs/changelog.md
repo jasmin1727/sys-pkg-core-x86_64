@@ -283,3 +283,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-25 23:19: feat(core): implement async task worker pool
 - 2026-09-28 22:28: fix(storage): correct file descriptor leak on close
 - 2026-09-29 10:33: fix(parser): resolve unexpected EOF when reading stream
+- 2026-09-29 10:42: feat(storage): implement disk-backed key-value cache
