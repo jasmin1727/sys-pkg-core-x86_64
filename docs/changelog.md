@@ -287,3 +287,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-29 11:19: style: enforce consistent docstring and code formatting
 - 2026-09-29 16:18: fix(cache): resolve cache key collision for compound queries
 - 2026-09-29 16:55: fix(logger): prevent sensitive token leakage in debug logs
+- 2026-09-29 17:01: fix(queue): acknowledge message after successful processing
