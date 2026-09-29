@@ -285,3 +285,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-29 10:33: fix(parser): resolve unexpected EOF when reading stream
 - 2026-09-29 10:42: feat(storage): implement disk-backed key-value cache
 - 2026-09-29 11:19: style: enforce consistent docstring and code formatting
+- 2026-09-29 16:18: fix(cache): resolve cache key collision for compound queries
