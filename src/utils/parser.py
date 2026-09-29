@@ -299,3 +299,10 @@ def parse_stream_safe(stream):
         return stream.read()
     except EOFError:
         return None
+
+def parse_stream_safe(stream):
+    '''Parse stream with graceful EOF handling.'''
+    try:
+        return stream.read()
+    except EOFError:
+        return None

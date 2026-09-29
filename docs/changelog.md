@@ -290,3 +290,4 @@ All notable changes and milestones are documented in this file.
 - 2026-09-29 17:01: fix(queue): acknowledge message after successful processing
 - 2026-09-29 18:16: fix(config): fallback to defaults when config key is missing
 - 2026-09-29 19:06: test(storage): verify concurrency safety with thread pool
+- 2026-09-29 21:48: fix(parser): resolve unexpected EOF when reading stream
