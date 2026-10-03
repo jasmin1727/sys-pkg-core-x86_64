@@ -295,3 +295,4 @@ All notable changes and milestones are documented in this file.
 - 2026-10-02 11:33: feat(metrics): track request latency and error counters
 - 2026-10-03 10:10: feat(stream): add chunked data stream reader
 - 2026-10-03 10:27: feat(logger): introduce structured json formatting
+- 2026-10-03 12:21: docs: document configuration parameters and overrides
