@@ -298,3 +298,4 @@ All notable changes and milestones are documented in this file.
 - 2026-10-03 12:21: docs: document configuration parameters and overrides
 - 2026-10-03 13:56: feat(auth): add bearer token header validation helper
 - 2026-10-03 14:15: feat(api): add retry policy with exponential backoff
+- 2026-10-03 15:41: fix(parser): resolve unexpected EOF when reading stream
