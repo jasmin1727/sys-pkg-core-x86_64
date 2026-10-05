@@ -301,3 +301,4 @@ All notable changes and milestones are documented in this file.
 - 2026-10-03 15:41: fix(parser): resolve unexpected EOF when reading stream
 - 2026-10-03 18:23: feat(parser): add support for nested json payloads
 - 2026-10-03 19:51: refactor(utils): decompose monolithic string processing utility
+- 2026-10-05 12:07: feat(logger): introduce structured json formatting
