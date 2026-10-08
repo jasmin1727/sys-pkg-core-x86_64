@@ -313,3 +313,4 @@ All notable changes and milestones are documented in this file.
 - 2026-10-08 12:32: feat(stream): add chunked data stream reader
 - 2026-10-08 12:42: docs: update setup instructions and prerequisites
 - 2026-10-08 16:21: feat(stream): add chunked data stream reader
+- 2026-10-08 19:28: docs: update setup instructions and prerequisites
