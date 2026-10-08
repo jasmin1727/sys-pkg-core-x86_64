@@ -311,3 +311,4 @@ All notable changes and milestones are documented in this file.
 - 2026-10-07 17:40: refactor(storage): separate in-memory cache from persistence layer
 - 2026-10-08 11:15: fix(queue): acknowledge message after successful processing
 - 2026-10-08 12:32: feat(stream): add chunked data stream reader
+- 2026-10-08 12:42: docs: update setup instructions and prerequisites
