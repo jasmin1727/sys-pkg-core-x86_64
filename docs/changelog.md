@@ -310,3 +310,4 @@ All notable changes and milestones are documented in this file.
 - 2026-10-06 19:15: feat(scheduler): support cron-like job scheduling intervals
 - 2026-10-07 17:40: refactor(storage): separate in-memory cache from persistence layer
 - 2026-10-08 11:15: fix(queue): acknowledge message after successful processing
+- 2026-10-08 12:32: feat(stream): add chunked data stream reader
