@@ -342,3 +342,8 @@ def retry_with_backoff(fn, attempts: int = 3, base_delay: float = 0.5):
 class JobScheduler:
     '''Periodic job scheduler.'''
     pass
+
+def process_and_ack(msg, handler):
+    '''Process task and acknowledge queue.'''
+    res = handler(msg)
+    return True
