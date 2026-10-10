@@ -318,3 +318,4 @@ All notable changes and milestones are documented in this file.
 - 2026-10-10 11:19: docs: add architecture overview and system flow diagram
 - 2026-10-10 12:40: fix(queue): acknowledge message after successful processing
 - 2026-10-10 14:19: feat(cache): implement adaptive LRU cache with TTL expiry
+- 2026-10-10 20:40: refactor(core): streamline worker initialization sequence
