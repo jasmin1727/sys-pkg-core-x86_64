@@ -315,3 +315,4 @@ All notable changes and milestones are documented in this file.
 - 2026-10-08 16:21: feat(stream): add chunked data stream reader
 - 2026-10-08 19:28: docs: update setup instructions and prerequisites
 - 2026-10-08 21:43: feat(rate-limit): implement token bucket rate limiting algorithm
+- 2026-10-10 11:19: docs: add architecture overview and system flow diagram
