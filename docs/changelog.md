@@ -320,3 +320,4 @@ All notable changes and milestones are documented in this file.
 - 2026-10-10 14:19: feat(cache): implement adaptive LRU cache with TTL expiry
 - 2026-10-10 20:40: refactor(core): streamline worker initialization sequence
 - 2026-10-10 23:11: refactor(utils): decompose monolithic string processing utility
+- 2026-10-15 11:07: test(cache): assert eviction behavior under memory pressure
