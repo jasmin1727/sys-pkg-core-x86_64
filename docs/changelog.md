@@ -323,3 +323,4 @@ All notable changes and milestones are documented in this file.
 - 2026-10-15 11:07: test(cache): assert eviction behavior under memory pressure
 - 2026-10-15 14:41: test(cache): assert eviction behavior under memory pressure
 - 2026-10-15 16:01: perf: reduce allocations in serialization hot path
+- 2026-10-15 16:33: feat(events): implement publish-subscribe message bus
