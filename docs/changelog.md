@@ -325,3 +325,4 @@ All notable changes and milestones are documented in this file.
 - 2026-10-15 16:01: perf: reduce allocations in serialization hot path
 - 2026-10-15 16:33: feat(events): implement publish-subscribe message bus
 - 2026-10-15 17:24: docs: add architecture overview and system flow diagram
+- 2026-10-15 18:43: fix(schema): resolve null value parsing in payload
