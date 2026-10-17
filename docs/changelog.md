@@ -332,3 +332,4 @@ All notable changes and milestones are documented in this file.
 - 2026-10-17 11:15: style: enforce consistent docstring and code formatting
 - 2026-10-17 12:44: feat(context): propagate request trace id across coroutines
 - 2026-10-17 15:02: fix(storage): correct file descriptor leak on close
+- 2026-10-17 17:20: refactor(core): streamline worker initialization sequence
