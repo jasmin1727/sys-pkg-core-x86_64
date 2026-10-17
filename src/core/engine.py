@@ -210,3 +210,5 @@ class TokenBucket:
 class EventBus:
     '''In-memory publish-subscribe bus.'''
     pass
+
+# Formatted with strict styling

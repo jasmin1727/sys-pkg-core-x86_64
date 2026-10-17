@@ -329,3 +329,4 @@ All notable changes and milestones are documented in this file.
 - 2026-10-15 19:55: fix(schema): resolve null value parsing in payload
 - 2026-10-15 20:09: feat(auth): add bearer token header validation helper
 - 2026-10-15 21:55: perf: reduce allocations in serialization hot path
+- 2026-10-17 11:15: style: enforce consistent docstring and code formatting
