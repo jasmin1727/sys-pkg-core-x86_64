@@ -337,3 +337,4 @@ All notable changes and milestones are documented in this file.
 - 2026-10-17 17:54: feat(validator): add schema validation for incoming events
 - 2026-10-17 18:58: feat(auth): add bearer token header validation helper
 - 2026-10-17 19:25: refactor(utils): decompose monolithic string processing utility
+- 2026-10-17 21:59: refactor(storage): separate in-memory cache from persistence layer
