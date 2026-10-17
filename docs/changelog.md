@@ -334,3 +334,4 @@ All notable changes and milestones are documented in this file.
 - 2026-10-17 15:02: fix(storage): correct file descriptor leak on close
 - 2026-10-17 17:20: refactor(core): streamline worker initialization sequence
 - 2026-10-17 17:52: feat(events): implement publish-subscribe message bus
+- 2026-10-17 17:54: feat(validator): add schema validation for incoming events
