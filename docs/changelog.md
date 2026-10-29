@@ -343,3 +343,4 @@ All notable changes and milestones are documented in this file.
 - 2026-10-29 11:12: feat(api): add retry policy with exponential backoff
 - 2026-10-29 12:22: feat(validator): add schema validation for incoming events
 - 2026-10-29 15:19: feat(auth): add bearer token header validation helper
+- 2026-10-29 20:05: feat(auth): add bearer token header validation helper
