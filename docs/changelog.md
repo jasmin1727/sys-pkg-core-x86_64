@@ -340,3 +340,4 @@ All notable changes and milestones are documented in this file.
 - 2026-10-17 21:59: refactor(storage): separate in-memory cache from persistence layer
 - 2026-10-17 22:03: refactor(core): streamline worker initialization sequence
 - 2026-10-17 23:29: docs: add architecture overview and system flow diagram
+- 2026-10-29 11:12: feat(api): add retry policy with exponential backoff
