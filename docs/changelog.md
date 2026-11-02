@@ -350,3 +350,4 @@ All notable changes and milestones are documented in this file.
 - 2026-11-02 13:16: fix(queue): acknowledge message after successful processing
 - 2026-11-02 19:45: feat(scheduler): support cron-like job scheduling intervals
 - 2026-11-02 20:35: feat(api): add retry policy with exponential backoff
+- 2026-11-02 22:32: test(storage): verify concurrency safety with thread pool
