@@ -353,3 +353,4 @@ All notable changes and milestones are documented in this file.
 - 2026-11-02 22:32: test(storage): verify concurrency safety with thread pool
 - 2026-11-03 10:27: feat(validator): add schema validation for incoming events
 - 2026-11-03 14:56: feat(config): add dynamic environment variable resolver
+- 2026-11-03 21:06: docs: document configuration parameters and overrides
