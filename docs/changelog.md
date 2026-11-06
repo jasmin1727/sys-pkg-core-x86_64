@@ -355,3 +355,4 @@ All notable changes and milestones are documented in this file.
 - 2026-11-03 14:56: feat(config): add dynamic environment variable resolver
 - 2026-11-03 21:06: docs: document configuration parameters and overrides
 - 2026-11-03 22:53: feat(context): propagate request trace id across coroutines
+- 2026-11-06 12:03: fix(queue): acknowledge message after successful processing
