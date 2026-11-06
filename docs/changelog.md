@@ -360,3 +360,4 @@ All notable changes and milestones are documented in this file.
 - 2026-11-06 20:01: feat(stream): add chunked data stream reader
 - 2026-11-06 20:28: refactor(cache): unify cache interface across backends
 - 2026-11-06 20:36: feat(events): implement publish-subscribe message bus
+- 2026-11-06 23:12: fix(cache): resolve cache key collision for compound queries
